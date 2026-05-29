@@ -1,36 +1,55 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Regylz — копия портала АРРФР (gov.kz/ardfm)
 
-## Getting Started
+Локальная копия сайта [Агентства по регулированию и развитию финансового рынка](https://www.gov.kz/memleket/entities/ardfm) на платформе ЕПИР ГО.
 
-First, run the development server:
+## Возможности
+
+- Главная страница с блоками: пресс-центр, документы, календарь, контакты, проекты
+- Разделы: Об Агентстве, Деятельность, Документы, Пресс-центр, Контакты
+- Синхронизация контента с официального API и GraphQL gov.kz
+- Стили на основе оригинального CSS gov.kz
+
+## Запуск
 
 ```bash
+# Загрузить актуальный контент с gov.kz (рекомендуется перед первым запуском)
+npm run sync
+
+# Режим разработки
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+
+# Production
+npm run build
+npm start
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Откройте [http://localhost:3000](http://localhost:3000).
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Синхронизация
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Скрипт `scripts/sync.mjs` загружает:
 
-## Learn More
+- страницы и меню
+- новости (до ~3000 записей)
+- документы
+- события и проекты
+- пресс-релизы и статьи
 
-To learn more about Next.js, take a look at the following resources:
+Данные сохраняются в `data/content.json`, изображения — в `public/uploads/`.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Структура URL
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Повторяет внутренние пути gov.kz:
 
-## Deploy on Vercel
+| Путь | Раздел |
+|------|--------|
+| `/` | Главная |
+| `/about` | Об Агентстве |
+| `/press/news` | Новости |
+| `/press/news/details/:id` | Новость |
+| `/documents/1` | Документы |
+| `/contacts` | Контакты |
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Примечание
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Это **независимая копия** для разработки/архива. Официальный источник — [gov.kz/memleket/entities/ardfm](https://www.gov.kz/memleket/entities/ardfm).

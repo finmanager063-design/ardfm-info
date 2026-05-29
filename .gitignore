@@ -20,6 +20,10 @@
 # production
 /build
 
+# synced gov.kz mirror (regenerate with npm run sync)
+/data/content.json
+/public/uploads/
+
 # misc
 .DS_Store
 *.pem

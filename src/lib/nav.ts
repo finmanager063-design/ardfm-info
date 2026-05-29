@@ -1,0 +1,28 @@
+export const MAIN_NAV = [
+  { href: "/about", label: "Об Агентстве" },
+  { href: "/activities/directions", label: "Деятельность" },
+  {
+    href: "#",
+    label: "Финансовые рынки",
+    children: [
+      { href: "/activities/banking", label: "Банковский сектор" },
+      { href: "/activities/insurance", label: "Страховой сектор" },
+      { href: "/activities/securities", label: "Рынок ценных бумаг" },
+      { href: "/activities/microfinance", label: "Микрофинансовый сектор" },
+    ],
+  },
+  { href: "/documents/1", label: "Документы" },
+  { href: "/press/news", label: "Пресс-центр" },
+  { href: "/contacts", label: "Контакты" },
+  { href: "https://eotinish.kz", label: "Онлайн-приемная", external: true },
+] as const;
+
+export const FOOTER_LINKS = [
+  { href: "https://www.akorda.kz/ru", label: "Сайт Президента РК" },
+  { href: "https://primeminister.kz/ru", label: "Сайт Премьер-Министра РК" },
+  { href: "https://www.gov.kz/article/41788?lang=ru", label: "Жизненные ситуации" },
+  {
+    href: "https://egov.kz/cms/ru/articles/Politika-konfidencialnosti",
+    label: "Политика конфиденциальности",
+  },
+] as const;
