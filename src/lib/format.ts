@@ -51,5 +51,9 @@ export function rewriteGovHtml(html: string): string {
   return html
     .replace(/src="\/uploads\//g, `src="${uploadPrefix}`)
     .replace(/href="\/uploads\//g, `href="${uploadPrefix}`)
-    .replace(/src="https:\/\/www\.gov\.kz\/uploads\//g, `src="${uploadPrefix}`);
+    .replace(/src="https:\/\/www\.gov\.kz\/uploads\//g, `src="${uploadPrefix}`)
+    .replace(
+      /<img(?![^>]*\bloading=)/gi,
+      '<img loading="lazy" decoding="async" ',
+    );
 }

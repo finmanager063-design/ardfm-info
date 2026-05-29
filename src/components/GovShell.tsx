@@ -46,14 +46,21 @@ export function GovShell({
             <span className="ardfm-logo-text">GOV.KZ</span>
           </Link>
           <div className="ardfm-header__actions">
-            <button type="button" className="ardfm-btn-icon" aria-label="Государственные органы">
-              ☰
-            </button>
             <div className="ardfm-lang">
               <button type="button" className="ardfm-btn-text">
                 ru ▾
               </button>
             </div>
+            <button
+              type="button"
+              className="ardfm-btn-icon ardfm-menu-toggle"
+              aria-expanded={menuOpen}
+              aria-controls="ardfm-main-nav"
+              aria-label={menuOpen ? "Закрыть меню" : "Открыть меню"}
+              onClick={() => setMenuOpen((v) => !v)}
+            >
+              ☰
+            </button>
           </div>
         </div>
 
@@ -61,17 +68,10 @@ export function GovShell({
           <Link href="/" className="ardfm-org-title">
             {meta.entityTitle}
           </Link>
-          <button
-            type="button"
-            className="ardfm-btn-icon ardfm-burger"
-            aria-expanded={menuOpen}
-            onClick={() => setMenuOpen((v) => !v)}
-          >
-            ☰
-          </button>
         </div>
 
         <nav
+          id="ardfm-main-nav"
           className={`ardfm-nav ardfm-nav--entity ${menuOpen ? "ardfm-nav--open" : ""}`}
           aria-label="Основное меню"
         >

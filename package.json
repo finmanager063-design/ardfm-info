@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "build:pages": "node scripts/build-search-index.mjs && GITHUB_PAGES=true NEXT_PUBLIC_BASE_PATH=/regylz next build && node scripts/postbuild-pages.mjs",
+    "build:pages": "node scripts/build-search-index.mjs && node scripts/download-home-images.mjs && GITHUB_PAGES=true NEXT_PUBLIC_BASE_PATH=/regylz next build && node scripts/postbuild-pages.mjs",
     "start": "next start",
     "lint": "eslint",
     "sync": "node scripts/sync.mjs",

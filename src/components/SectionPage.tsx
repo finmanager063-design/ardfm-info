@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { NewsCard } from "@/components/NewsCard";
+import { SectionHtml } from "@/components/SectionHtml";
 import { formatDate, rewriteGovHtml } from "@/lib/format";
 import { assetPath } from "@/lib/base-path";
 import { docTitle, type SectionConfig } from "@/lib/sections";
@@ -23,15 +24,13 @@ export function SectionPage({ config, news, articles, documents, children }: Pro
   return (
     <>
       <h1 className="page-title">{config.title}</h1>
-      <div className="gov-html section-intro">
-        <div dangerouslySetInnerHTML={{ __html: htmlWithBasePath(config.intro) }} />
-      </div>
+      <SectionHtml html={htmlWithBasePath(config.intro)} className="section-intro" />
 
       {children}
 
       {config.blocks?.map((html, i) => (
-        <section key={i} className="ardfm-section gov-html">
-          <div dangerouslySetInnerHTML={{ __html: htmlWithBasePath(html) }} />
+        <section key={i} className="ardfm-section">
+          <SectionHtml html={htmlWithBasePath(html)} />
         </section>
       ))}
 

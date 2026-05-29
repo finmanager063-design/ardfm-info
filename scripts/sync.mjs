@@ -21,7 +21,7 @@ const MAX_DOC_PAGES = Number(process.env.SYNC_MAX_DOC_PAGES || 10);
 const MAX_ARTICLE_PAGES = Number(process.env.SYNC_MAX_ARTICLE_PAGES || 80);
 const MAX_PRESS_PAGES = Number(process.env.SYNC_MAX_PRESS_PAGES || 30);
 const SKIP_IMAGES = process.env.SYNC_SKIP_IMAGES === "1";
-const MAX_HOME_IMAGES = Number(process.env.SYNC_MAX_IMAGES || 12);
+const MAX_HOME_IMAGES = Number(process.env.SYNC_MAX_IMAGES || 40);
 
 async function sleep(ms) {
   return new Promise((r) => setTimeout(r, ms));

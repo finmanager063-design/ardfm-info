@@ -4,7 +4,6 @@ import { MarketChartsStrip } from "@/components/MarketChartsStrip";
 import { VisualGallery } from "@/components/VisualGallery";
 import { GovImage } from "@/components/GovImage";
 import { getContent } from "@/lib/content";
-import { localMediaUrl } from "@/lib/format";
 import { mediaSrc, KZ_IMAGES } from "@/lib/site-media";
 
 export function HomePage() {
@@ -33,7 +32,7 @@ export function HomePage() {
                   className="home-projects__card"
                 >
                   {icon && (
-                    <GovImage src={localMediaUrl(icon)} alt="" className="home-projects__img" />
+                    <GovImage src={icon} alt="" className="home-projects__img" />
                   )}
                   <span>{p.title}</span>
                 </Link>
