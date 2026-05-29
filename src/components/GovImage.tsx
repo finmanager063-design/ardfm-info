@@ -43,7 +43,7 @@ export function GovImage({
     <img
       src={url}
       alt={alt}
-      className={className}
+      className={["gov-img", className].filter(Boolean).join(" ")}
       loading={loading}
       decoding="async"
       sizes={sizes}

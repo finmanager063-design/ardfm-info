@@ -8,6 +8,25 @@
   --gov-border: #e2e6ef;
   --gov-radius: 8px;
   --gov-shadow: 0 2px 12px rgba(26, 35, 126, 0.08);
+  /* Поля и кадр для фото: целиком, без обрезки */
+  --media-inset: 14px;
+  --media-frame-bg: #eef1f8;
+  --media-frame-border: #cfd6e4;
+  --media-max-h-hero: 460px;
+  --media-max-h-strip: 320px;
+  --media-max-h-gallery: 260px;
+  --media-max-h-thumb: 200px;
+}
+
+/* Базовые правила чёткости и кадра для всех фото компонентов */
+.gov-img {
+  object-fit: contain;
+  object-position: center center;
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin-inline: auto;
+  background: #fff;
 }
 
 .ardfm-root {
@@ -181,18 +200,22 @@
 .home-press__hero-card {
   position: relative;
   display: block;
-  border-radius: 4px;
+  border-radius: var(--gov-radius);
   overflow: hidden;
-  aspect-ratio: 16 / 10;
   text-decoration: none;
   margin-bottom: 0.75rem;
+  padding: var(--media-inset);
+  padding-bottom: 0;
+  background: var(--media-frame-bg);
+  border: 1px solid var(--media-frame-border);
 }
 
 .home-press__hero-img {
   width: 100%;
-  height: 100%;
-  object-fit: cover;
-  display: block;
+  max-height: var(--media-max-h-hero);
+  object-fit: contain;
+  border-radius: 6px 6px 0 0;
+  background: #fff;
 }
 
 .home-press__hero-placeholder {
@@ -234,16 +257,22 @@
 .home-press__thumb-card {
   position: relative;
   display: block;
-  border-radius: 4px;
+  border-radius: var(--gov-radius);
   overflow: hidden;
-  aspect-ratio: 4 / 3;
   text-decoration: none;
+  padding: var(--media-inset);
+  padding-bottom: 0;
+  min-height: 140px;
+  background: var(--media-frame-bg);
+  border: 1px solid var(--media-frame-border);
 }
 
 .home-press__thumb-img {
   width: 100%;
-  height: 100%;
-  object-fit: cover;
+  max-height: var(--media-max-h-thumb);
+  object-fit: contain;
+  background: #fff;
+  border-radius: 6px 6px 0 0;
 }
 
 .home-press__thumb-placeholder {
@@ -376,9 +405,12 @@
 
 .home-projects__img {
   width: 100%;
-  height: 100px;
-  object-fit: cover;
+  max-height: 100px;
+  object-fit: contain;
   display: block;
+  background: var(--media-frame-bg);
+  padding: 8px;
+  box-sizing: border-box;
 }
 
 .home-projects__card span {
@@ -669,11 +701,20 @@
 .news-card:last-child {
   border-bottom: none;
 }
-.news-card__img img {
-  width: 140px;
-  height: 90px;
-  object-fit: cover;
+.news-card__img {
+  padding: var(--media-inset);
+  background: var(--media-frame-bg);
+  border: 1px solid var(--media-frame-border);
   border-radius: var(--gov-radius);
+  box-sizing: border-box;
+}
+
+.news-card__img img {
+  width: 160px;
+  max-height: 110px;
+  object-fit: contain;
+  border-radius: 4px;
+  background: #fff;
 }
 .news-card time {
   font-size: 0.8rem;
@@ -739,8 +780,11 @@
 }
 .ardfm-banner img {
   width: 100%;
-  height: 140px;
-  object-fit: cover;
+  max-height: 140px;
+  object-fit: contain;
+  background: #fff;
+  padding: 8px;
+  box-sizing: border-box;
 }
 .ardfm-banner p {
   padding: 0.75rem;
@@ -1005,11 +1049,15 @@
 .kz-site-banner__img {
   width: 100%;
   height: auto;
-  max-height: 120px;
-  object-fit: cover;
+  max-height: 140px;
+  object-fit: contain;
   border-radius: 8px;
   display: block;
   box-shadow: var(--gov-shadow);
+  background: var(--media-frame-bg);
+  padding: var(--media-inset);
+  border: 1px solid var(--media-frame-border);
+  box-sizing: border-box;
 }
 
 .home-flag-ribbon {
@@ -1021,10 +1069,14 @@
 .home-flag-ribbon__img {
   width: 100%;
   height: auto;
-  max-height: 140px;
-  object-fit: cover;
-  border-radius: 6px;
+  max-height: 160px;
+  object-fit: contain;
+  border-radius: var(--gov-radius);
   display: block;
+  background: var(--media-frame-bg);
+  padding: var(--media-inset);
+  border: 1px solid var(--media-frame-border);
+  box-sizing: border-box;
 }
 
 .home-press__hero-card--featured {
@@ -1060,16 +1112,21 @@
   display: block;
   text-decoration: none;
   color: inherit;
+  padding: var(--media-inset);
+  background: var(--media-frame-bg);
+  border: 1px solid var(--media-frame-border);
+  border-radius: 12px;
+  box-sizing: border-box;
 }
 
 .charts-strip__chart {
   width: 100%;
-  height: auto;
-  aspect-ratio: 16 / 10;
-  object-fit: cover;
-  border-radius: 12px;
+  max-height: var(--media-max-h-strip);
+  object-fit: contain;
+  border-radius: 8px;
   box-shadow: var(--gov-shadow);
   border: 2px solid #00afc7;
+  background: #fff;
 }
 
 .charts-strip__caption {
@@ -1081,8 +1138,15 @@
 }
 
 .visual-gallery__link {
-  display: block;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 180px;
+  padding: var(--media-inset);
   text-decoration: none;
+  background: var(--media-frame-bg);
+  border-bottom: 1px solid var(--media-frame-border);
+  box-sizing: border-box;
 }
 
 .visual-gallery__item figcaption a {
@@ -1150,9 +1214,11 @@
 
 .visual-gallery__img {
   width: 100%;
-  aspect-ratio: 16 / 10;
-  object-fit: cover;
+  max-height: var(--media-max-h-gallery);
+  object-fit: contain;
   display: block;
+  background: #fff;
+  border-radius: 6px;
 }
 
 .visual-gallery__item figcaption {
@@ -1162,29 +1228,42 @@
   background: linear-gradient(90deg, #f0f9ff, #fff);
 }
 
-/* Статья Макаров */
+/* Статьи и материалы: фото целиком, с полями */
 .article-figure {
   margin: 1.5rem 0;
+  padding: var(--media-inset);
+  background: var(--media-frame-bg);
+  border: 1px solid var(--media-frame-border);
+  border-radius: 12px;
+  box-sizing: border-box;
 }
 
 .article-figure img {
   width: 100%;
   height: auto;
-  border-radius: 12px;
-  border: 3px solid #fec50c;
-  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12);
+  max-height: none;
+  object-fit: contain;
+  border-radius: 8px;
+  border: 2px solid #fec50c;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.08);
+  background: #fff;
+  box-sizing: border-box;
 }
 
 .article-figure--hero img {
-  border-width: 4px;
-  box-shadow: 0 12px 40px rgba(0, 175, 202, 0.35);
+  border-width: 3px;
+  box-shadow: 0 8px 28px rgba(0, 175, 202, 0.2);
+}
+
+.article-figure--award {
+  padding: calc(var(--media-inset) + 4px);
 }
 
 .article-figure--award img {
   border-color: #fec50c;
-  object-fit: cover;
-  max-height: min(72vh, 712px);
+  object-fit: contain;
   width: 100%;
+  height: auto;
 }
 
 .article-highlight--award {
@@ -1258,12 +1337,21 @@
   }
 }
 
-/* Адаптивные фото: мобильные экраны */
+/* Фото в HTML-телах новостей и статей */
 .gov-html img,
 .gov-html-img {
   max-width: 100%;
+  width: auto;
   height: auto;
+  object-fit: contain;
   display: block;
+  margin: 1rem auto;
+  padding: var(--media-inset);
+  background: #fff;
+  border: 1px solid var(--media-frame-border);
+  border-radius: var(--gov-radius);
+  box-sizing: border-box;
+  box-shadow: 0 2px 10px rgba(26, 35, 126, 0.06);
 }
 
 @media (max-width: 640px) {
@@ -1279,9 +1367,8 @@
 
   .news-card__img img {
     width: 100%;
-    height: auto;
-    aspect-ratio: 16 / 10;
-    object-fit: cover;
+    max-height: 200px;
+    object-fit: contain;
   }
 
   .home-press__thumb-row {
@@ -1306,11 +1393,16 @@
   }
 
   .visual-gallery__img {
-    aspect-ratio: 16 / 9;
+    max-height: 220px;
   }
 
-  .article-figure--hero img {
-    max-height: 55vh;
-    object-fit: cover;
+  .article-figure--hero img,
+  .article-figure--award img {
+    max-height: none;
+    object-fit: contain;
+  }
+
+  .home-press__hero-img {
+    max-height: 320px;
   }
 }
