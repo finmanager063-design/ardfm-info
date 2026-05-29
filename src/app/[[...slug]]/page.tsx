@@ -191,6 +191,21 @@ export default async function DynamicPage({ params }: Props) {
     );
   }
 
+  if (pathname === "/about") {
+    return (
+      <>
+        <nav className="breadcrumb">
+          <Link href="/">Главная</Link> / Об Агентстве
+        </nav>
+        <h1 className="page-title">Об Агентстве</h1>
+        <p style={{ color: "#5c6370", marginBottom: "1.5rem" }}>
+          Материалы и публикации ({articles.length})
+        </p>
+        <ArticlesList articles={articles} />
+      </>
+    );
+  }
+
   const articleMatch = pathname.match(/^\/article\/details\/([^/]+)$/);
   if (articleMatch) {
     const article = articles.find((a) => String(a.id) === articleMatch[1]);
@@ -255,7 +270,7 @@ export default async function DynamicPage({ params }: Props) {
     );
   }
 
-  // CMS-страница (в т.ч. без HTML — показываем заголовок)
+  // CMS-страница
   const page = findPageByPath(pathname);
   if (page) {
     return (
@@ -267,43 +282,8 @@ export default async function DynamicPage({ params }: Props) {
         {page.content ? (
           <HtmlContent html={page.content} />
         ) : (
-          <>
-            <p>Раздел: {page.title}</p>
-            <p>
-              <Link href="/articles" className="btn">
-                Все статьи и материалы
-              </Link>
-            </p>
-          </>
+          <p>Раздел: {page.title}</p>
         )}
-      </article>
-    );
-  }
-
-  // Fallback: about-like static for /about
-  if (pathname === "/about") {
-    return (
-      <article>
-        <h1 className="page-title">Об Агентстве</h1>
-        <section className="ardfm-section">
-          <h2>Общая информация</h2>
-          <p>
-            Указом Президента Республики Казахстан от 11 ноября 2019 года №203 с 1 января
-            2020 года функционирует Агентство Республики Казахстан по регулированию и
-            развитию финансового рынка.
-          </p>
-          <p>
-            Агентство является государственным органом, обеспечивающим надлежащий уровень
-            защиты прав и законных интересов потребителей финансовых услуг, содействующим
-            обеспечению стабильности финансовой системы Республики Казахстан.
-          </p>
-          <p>
-            <Link href="/about/structure">Структура</Link> ·{" "}
-            <a href="https://eotinish.kz" target="_blank" rel="noreferrer">
-              Написать обращение
-            </a>
-          </p>
-        </section>
       </article>
     );
   }
