@@ -5,9 +5,11 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
+    "build:pages": "node scripts/build-search-index.mjs && GITHUB_PAGES=true NEXT_PUBLIC_BASE_PATH=/regylz next build",
     "start": "next start",
     "lint": "eslint",
-    "sync": "node scripts/sync.mjs"
+    "sync": "node scripts/sync.mjs",
+    "prebuild": "node scripts/build-search-index.mjs"
   },
   "dependencies": {
     "next": "16.2.6",

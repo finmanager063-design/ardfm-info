@@ -16,6 +16,11 @@ const UA =
   "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36";
 const PROJECT = "ardfm";
 const LANG = "ru";
+const MAX_NEWS_PAGES = Number(process.env.SYNC_MAX_NEWS_PAGES || 80);
+const MAX_DOC_PAGES = Number(process.env.SYNC_MAX_DOC_PAGES || 10);
+const MAX_ARTICLE_PAGES = Number(process.env.SYNC_MAX_ARTICLE_PAGES || 80);
+const MAX_PRESS_PAGES = Number(process.env.SYNC_MAX_PRESS_PAGES || 30);
+const SKIP_IMAGES = process.env.SYNC_SKIP_IMAGES === "1";
 
 async function sleep(ms) {
   return new Promise((r) => setTimeout(r, ms));
@@ -133,13 +138,13 @@ async function main() {
   const news = await gqlPaginated(
     "news",
     "id title slug created_date short_description body heropic",
-    20,
-    150,
+    10,
+    MAX_NEWS_PAGES,
   );
 
   console.log("→ Документы (REST)…");
   const documents = [];
-  for (let page = 1; page <= 10; page++) {
+  for (let page = 1; page <= MAX_DOC_PAGES; page++) {
     const batch = await fetchJson(
       `https://www.gov.kz/api/v1/public/content-manager/documents?sort-by=created_date:DESC&projects=${PROJECT}&page=${page}&size=50`,
     );
@@ -161,7 +166,7 @@ async function main() {
     fetchJson(
       `https://www.gov.kz/api/v1/public/content-manager/ongoing_projects?projects=${PROJECT}&sort-by=order:ASC&page=1&size=50`,
     ).catch(() => []),
-    gqlPaginated("press_releases", "id title body created_date heropic", 20, 30).catch(() => []),
+    gqlPaginated("press_releases", "id title body created_date heropic", 20, MAX_PRESS_PAGES).catch(() => []),
   ]);
 
   console.log("→ Контакты…");
@@ -184,7 +189,7 @@ async function main() {
       "article",
       "id title alias content short_description heropic publication_date",
       15,
-      80,
+      MAX_ARTICLE_PAGES,
     );
   } catch (e) {
     console.warn("  articles:", e.message);
@@ -222,13 +227,15 @@ async function main() {
     JSON.stringify(payload, null, 0),
   );
 
-  console.log("→ Загрузка изображений из контента…");
-  const htmlBlob = [
-    ...pages.map((p) => p.content || ""),
-    ...news.map((n) => (n.body || "") + (n.short_description || "")),
-    ...articles.map((a) => a.content || ""),
-  ].join("");
-  await downloadUploadsFromHtml(htmlBlob);
+  if (!SKIP_IMAGES) {
+    console.log("→ Загрузка изображений из контента…");
+    const htmlBlob = [
+      ...pages.map((p) => p.content || ""),
+      ...news.map((n) => (n.body || "") + (n.short_description || "")),
+      ...articles.map((a) => a.content || ""),
+    ].join("");
+    await downloadUploadsFromHtml(htmlBlob);
+  }
 
   console.log("\n✓ Готово:");
   console.log(`  страниц: ${pages.length}`);

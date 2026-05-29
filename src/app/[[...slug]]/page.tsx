@@ -13,11 +13,9 @@ function pathFromSlug(slug?: string[]): string {
   return "/" + slug.join("/");
 }
 
-export const dynamicParams = true;
-
 export async function generateStaticParams() {
   const { pages, news } = getContent();
-  const params: { slug: string[] }[] = [];
+  const params: { slug: string[] }[] = [{ slug: [] }];
 
   for (const p of pages) {
     const link = p.internal_link?.replace(/^\//, "");

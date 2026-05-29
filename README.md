@@ -1,55 +1,36 @@
 # Regylz — копия портала АРРФР (gov.kz/ardfm)
 
-Локальная копия сайта [Агентства по регулированию и развитию финансового рынка](https://www.gov.kz/memleket/entities/ardfm) на платформе ЕПИР ГО.
+Локальная копия сайта [Агентства по регулированию и развитию финансового рынка](https://www.gov.kz/memleket/entities/ardfm).
 
-## Возможности
+## Сайт (GitHub Pages)
 
-- Главная страница с блоками: пресс-центр, документы, календарь, контакты, проекты
-- Разделы: Об Агентстве, Деятельность, Документы, Пресс-центр, Контакты
-- Синхронизация контента с официального API и GraphQL gov.kz
-- Стили на основе оригинального CSS gov.kz
+После push в `main` деплой идёт автоматически:
 
-## Запуск
+**https://finmanager063-design.github.io/regylz/**
+
+Включите Pages в репозитории, если ещё не включены: *Settings → Pages → Source: GitHub Actions*.
+
+## Локальная разработка
 
 ```bash
-# Загрузить актуальный контент с gov.kz (рекомендуется перед первым запуском)
-npm run sync
-
-# Режим разработки
-npm run dev
-
-# Production
-npm run build
-npm start
+npm run sync          # загрузить контент с gov.kz
+npm run dev           # http://localhost:3000
 ```
 
-Откройте [http://localhost:3000](http://localhost:3000).
+## Сборка как на GitHub Pages
+
+```bash
+npm run build:pages   # статический экспорт в out/
+npx serve out -p 3000 # проверка локально (корень — /regylz/)
+```
 
 ## Синхронизация
 
-Скрипт `scripts/sync.mjs` загружает:
-
-- страницы и меню
-- новости (до ~3000 записей)
-- документы
-- события и проекты
-- пресс-релизы и статьи
-
-Данные сохраняются в `data/content.json`, изображения — в `public/uploads/`.
-
-## Структура URL
-
-Повторяет внутренние пути gov.kz:
-
-| Путь | Раздел |
-|------|--------|
-| `/` | Главная |
-| `/about` | Об Агентстве |
-| `/press/news` | Новости |
-| `/press/news/details/:id` | Новость |
-| `/documents/1` | Документы |
-| `/contacts` | Контакты |
+`npm run sync` — полная загрузка в `data/content.json`.  
+В CI используется укороченный `scripts/sync-ci.mjs` (без скачивания картинок).
 
 ## Примечание
 
-Это **независимая копия** для разработки/архива. Официальный источник — [gov.kz/memleket/entities/ardfm](https://www.gov.kz/memleket/entities/ardfm).
+Независимая копия для архива/разработки. Официальный источник: [gov.kz/memleket/entities/ardfm](https://www.gov.kz/memleket/entities/ardfm).
+
+Деплой **только через GitHub** — без сторонних серверов.

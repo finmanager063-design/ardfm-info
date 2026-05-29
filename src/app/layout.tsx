@@ -6,6 +6,11 @@ import "./globals.css";
 
 const content = getContent();
 
+const siteUrl =
+  process.env.GITHUB_PAGES === "true"
+    ? "https://finmanager063-design.github.io/regylz"
+    : "http://localhost:3000";
+
 export const metadata: Metadata = {
   title: {
     default: content.meta.entityTitle,
@@ -13,7 +18,7 @@ export const metadata: Metadata = {
   },
   description:
     "Агентство Республики Казахстан по регулированию и развитию финансового рынка (АРРФР) — копия официального портала gov.kz",
-  metadataBase: new URL("https://www.gov.kz"),
+  metadataBase: new URL(siteUrl),
 };
 
 export default function RootLayout({
