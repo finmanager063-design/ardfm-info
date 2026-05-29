@@ -209,6 +209,17 @@ async function main() {
     },
   };
 
+  // Дедупликация статей (один id — несколько языковых копий в API)
+  const articleById = new Map();
+  for (const a of articles) {
+    const id = String(a.id);
+    const prev = articleById.get(id);
+    if (!prev || (a.content?.length ?? 0) > (prev.content?.length ?? 0)) {
+      articleById.set(id, a);
+    }
+  }
+  const uniqueArticles = [...articleById.values()];
+
   const payload = {
     meta,
     menuPages,
@@ -219,7 +230,7 @@ async function main() {
     projects,
     pressReleases,
     contacts,
-    articles,
+    articles: uniqueArticles,
   };
 
   await fs.writeFile(
@@ -241,7 +252,7 @@ async function main() {
   console.log(`  страниц: ${pages.length}`);
   console.log(`  новостей: ${news.length}`);
   console.log(`  документов: ${documents.length}`);
-  console.log(`  статей: ${articles.length}`);
+  console.log(`  статей: ${uniqueArticles.length} (из ${articles.length} в API)`);
   console.log(`  → data/content.json`);
 }
 

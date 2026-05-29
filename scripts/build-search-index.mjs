@@ -15,6 +15,21 @@ if (!fs.existsSync(contentPath)) {
 }
 
 const content = JSON.parse(fs.readFileSync(contentPath, "utf-8"));
+
+function dedupeArticles(articles) {
+  const byId = new Map();
+  for (const a of articles) {
+    const id = String(a.id);
+    const prev = byId.get(id);
+    if (!prev || (a.content?.length ?? 0) > (prev.content?.length ?? 0)) {
+      byId.set(id, a);
+    }
+  }
+  return [...byId.values()];
+}
+
+const uniqueArticles = dedupeArticles(content.articles || []);
+
 const index = {
   news: (content.news || []).map((n) => ({
     id: n.id,
@@ -31,7 +46,7 @@ const index = {
     title: p.title,
     href: p.internal_link || `/${p.slug}`,
   })),
-  articles: (content.articles || []).map((a) => ({
+  articles: uniqueArticles.map((a) => ({
     title: a.title,
     href: `/article/details/${a.id}`,
     short_description: a.short_description,
@@ -39,4 +54,12 @@ const index = {
 };
 
 fs.writeFileSync(outPath, JSON.stringify(index));
-console.log("search-index:", index.news.length, "news,", index.documents.length, "docs");
+console.log(
+  "search-index:",
+  index.news.length,
+  "news,",
+  index.documents.length,
+  "docs,",
+  index.articles.length,
+  "articles",
+);

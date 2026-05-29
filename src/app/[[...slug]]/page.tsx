@@ -4,7 +4,7 @@ import { HomePage } from "@/components/HomePage";
 import { HtmlContent } from "@/components/HtmlContent";
 import { NewsCard } from "@/components/NewsCard";
 import { ArticlesList } from "@/components/ArticlesList";
-import { findNewsById, findPageByPath, getContent } from "@/lib/content";
+import { findNewsById, findPageByPath, getArticles, getContent } from "@/lib/content";
 import { formatDate } from "@/lib/format";
 import { collectStaticSlugs } from "@/lib/static-paths";
 
@@ -174,6 +174,8 @@ export default async function DynamicPage({ params }: Props) {
   }
 
   // Все статьи
+  const articles = getArticles();
+
   if (pathname === "/articles") {
     return (
       <>
@@ -182,16 +184,16 @@ export default async function DynamicPage({ params }: Props) {
         </nav>
         <h1 className="page-title">Статьи и материалы</h1>
         <p style={{ color: "#5c6370", marginBottom: "1.5rem" }}>
-          Всего: {content.articles.length}
+          Всего: {articles.length}
         </p>
-        <ArticlesList articles={content.articles} />
+        <ArticlesList articles={articles} />
       </>
     );
   }
 
   const articleMatch = pathname.match(/^\/article\/details\/([^/]+)$/);
   if (articleMatch) {
-    const article = content.articles.find((a) => String(a.id) === articleMatch[1]);
+    const article = articles.find((a) => String(a.id) === articleMatch[1]);
     if (!article) notFound();
     return (
       <article>
@@ -321,7 +323,7 @@ export async function generateMetadata({ params }: Props) {
   if (page) return { title: page.seo_title || page.title };
   const articleMatch = pathname.match(/^\/article\/details\/([^/]+)$/);
   if (articleMatch) {
-    const article = getContent().articles.find((a) => String(a.id) === articleMatch[1]);
+    const article = getArticles().find((a) => String(a.id) === articleMatch[1]);
     if (article) return { title: article.title };
   }
   return {};

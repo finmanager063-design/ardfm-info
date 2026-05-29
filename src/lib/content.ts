@@ -1,7 +1,14 @@
 import "server-only";
 import fs from "fs";
 import path from "path";
+import { dedupeArticles } from "./dedupe";
 import type { GovNews, GovPage, SiteContent } from "./types";
+
+export { dedupeArticles };
+
+export function getArticles() {
+  return dedupeArticles(getContent().articles);
+}
 
 const DATA_PATH = path.join(process.cwd(), "data", "content.json");
 
@@ -36,7 +43,9 @@ export function getContent(): SiteContent {
   if (cache) return cache;
   try {
     const raw = fs.readFileSync(DATA_PATH, "utf-8");
-    cache = JSON.parse(raw) as SiteContent;
+    const data = JSON.parse(raw) as SiteContent;
+    data.articles = dedupeArticles(data.articles);
+    cache = data;
     return cache;
   } catch {
     return FALLBACK;

@@ -1,3 +1,4 @@
+import { dedupeArticles } from "./dedupe";
 import type { SiteContent } from "./types";
 
 function addSlug(set: Set<string>, parts: string[]) {
@@ -32,7 +33,7 @@ export function collectStaticSlugs(content: SiteContent): { slug: string[] }[] {
     addSlug(seen, ["documents", "item", String(d.id)]);
   }
 
-  for (const a of content.articles) {
+  for (const a of dedupeArticles(content.articles)) {
     if (a.id) addSlug(seen, ["article", "details", String(a.id)]);
   }
 
