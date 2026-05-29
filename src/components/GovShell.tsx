@@ -52,9 +52,6 @@ export function GovShell({
                 ru ▾
               </button>
             </div>
-            <button type="button" className="ardfm-btn-text">
-              Войти
-            </button>
           </div>
         </div>
 

@@ -31,12 +31,6 @@ const DIRECTIONS = [
     desc: "Официальные сведения о назначениях руководящих работников Агентства.",
     tags: ["Кадры", "Назначения"],
   },
-  {
-    href: "/activities/population",
-    title: "Онлайн-приемная",
-    desc: "Подать обращение через e-Otinish или позвонить на горячую линию 1459.",
-    tags: ["e-Otinish", "1459"],
-  },
 ];
 
 export function ActivitiesDirections() {

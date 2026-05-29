@@ -5,7 +5,6 @@ export const MAIN_NAV = [
   { href: "/documents/1", label: "Документы" },
   { href: "/press/news", label: "Пресс-центр" },
   { href: "/contacts", label: "Контакты" },
-  { href: "/activities/population", label: "Онлайн-приемная" },
 ] as const;
 
 export const FOOTER_LINKS = [

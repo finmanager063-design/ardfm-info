@@ -41,11 +41,6 @@ export function ContactsPage({ contacts }: { contacts: SiteContent["meta"]["cont
           <section className="ardfm-section gov-html">
             <div dangerouslySetInnerHTML={{ __html: CONTACTS_EXTRA }} />
           </section>
-          <p>
-            <a href="https://eotinish.kz" className="btn" target="_blank" rel="noreferrer">
-              Онлайн-приемная e-Otinish
-            </a>
-          </p>
         </div>
         <div>
           <div className="map-placeholder">
@@ -59,9 +54,6 @@ export function ContactsPage({ contacts }: { contacts: SiteContent["meta"]["cont
             <ul className="doc-list">
               <li>
                 <Link href="/about/faq">Часто задаваемые вопросы</Link>
-              </li>
-              <li>
-                <Link href="/activities/population">Порядок подачи обращения</Link>
               </li>
               <li>
                 <Link href="/documents/1">Документы Агентства</Link>

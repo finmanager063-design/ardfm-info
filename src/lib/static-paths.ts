@@ -20,7 +20,6 @@ export function collectStaticSlugs(content: SiteContent): { slug: string[] }[] {
     ["documents", "1"],
     ["about", "faq"],
     ["about", "structure"],
-    ["activities", "population"],
   ];
   for (const r of extraRoutes) addSlug(seen, r);
 

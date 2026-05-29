@@ -39,7 +39,6 @@ const DIRECTION_LINKS: SectionLink[] = [
   { href: "/activities/788", label: "Рынок ценных бумаг" },
   { href: "/activities/16487", label: "Иные финансовые организации" },
   { href: "/activities/80952", label: "Кадровые назначения" },
-  { href: "/activities/population", label: "Онлайн-приемная" },
 ];
 
 export const SECTION_BY_PATH: Record<string, SectionConfig> = {
@@ -50,7 +49,6 @@ export const SECTION_BY_PATH: Record<string, SectionConfig> = {
     links: [
       { href: "/about/structure", label: "Структура Агентства" },
       { href: "/about/faq", label: "Часто задаваемые вопросы" },
-      { href: "https://eotinish.kz", label: "Написать обращение", external: true },
       ...DIRECTION_LINKS,
     ],
     newsLimit: 6,
@@ -79,7 +77,6 @@ export const SECTION_BY_PATH: Record<string, SectionConfig> = {
       ...DIRECTION_LINKS,
       { href: "/about/faq", label: "Часто задаваемые вопросы" },
       { href: "/documents/1", label: "Нормативные документы" },
-      { href: "/activities/population", label: "Онлайн-приемная" },
     ],
     articleLimit: 15,
     articleKeywords: ["надзор", "регулирован", "финансов", "грамотност", "рынок", "банк", "страхов"],
@@ -146,19 +143,6 @@ export const SECTION_BY_PATH: Record<string, SectionConfig> = {
     documentKeywords: ["назначен", "кадр", "приказ"],
     newsLimit: 20,
     documentLimit: 10,
-  },
-  "/activities/population": {
-    title: "Онлайн-приемная",
-    intro: `
-<p>Обращения физических и юридических лиц принимаются через единую систему государственных услуг <strong>e-Otinish</strong>.</p>
-<p>Консультации по телефону горячей линии: <strong>1459</strong> (бесплатно с мобильных в РК).</p>
-<p>Письменные обращения: <strong>info@finreg.kz</strong>, пресс-служба: <strong>press@finreg.kz</strong>, сообщения о мошенничестве: <strong>antifraud@finreg.kz</strong>.</p>
-`,
-    links: [
-      { href: "https://eotinish.kz", label: "Перейти в e-Otinish", external: true },
-      { href: "/contacts", label: "Контакты и режим работы" },
-      { href: "/about/faq", label: "Часто задаваемые вопросы" },
-    ],
   },
 };
 

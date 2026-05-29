@@ -22,10 +22,7 @@ export function FaqPage() {
       <section className="ardfm-section">
         <h2>Не нашли ответ?</h2>
         <p>
-          <Link href="/activities/population" className="btn">
-            Онлайн-приемная
-          </Link>{" "}
-          <Link href="/contacts" className="btn btn--outline">
+          <Link href="/contacts" className="btn">
             Контакты
           </Link>
         </p>
