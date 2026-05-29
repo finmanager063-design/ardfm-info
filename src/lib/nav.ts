@@ -1,3 +1,4 @@
+/** Пути совпадают с gov.kz / content.json (pages.internal_link). */
 export const MAIN_NAV = [
   { href: "/about", label: "Об Агентстве" },
   { href: "/activities/directions", label: "Деятельность" },
@@ -5,10 +6,13 @@ export const MAIN_NAV = [
     href: "#",
     label: "Финансовые рынки",
     children: [
-      { href: "/activities/banking", label: "Банковский сектор" },
-      { href: "/activities/insurance", label: "Страховой сектор" },
-      { href: "/activities/securities", label: "Рынок ценных бумаг" },
-      { href: "/activities/microfinance", label: "Микрофинансовый сектор" },
+      { href: "/activities/789", label: "Банковский сектор" },
+      { href: "/activities/847", label: "Страховой сектор" },
+      {
+        href: "/activities/788",
+        label: "Рынок ценных бумаг и управление пенсионными активами",
+      },
+      { href: "/activities/16487", label: "Иные финансовые организации" },
     ],
   },
   { href: "/documents/1", label: "Документы" },

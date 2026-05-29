@@ -31,6 +31,11 @@ const index = {
     title: p.title,
     href: p.internal_link || `/${p.slug}`,
   })),
+  articles: (content.articles || []).map((a) => ({
+    title: a.title,
+    href: `/article/details/${a.id}`,
+    short_description: a.short_description,
+  })),
 };
 
 fs.writeFileSync(outPath, JSON.stringify(index));

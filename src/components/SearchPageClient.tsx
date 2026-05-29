@@ -8,6 +8,7 @@ type SearchIndex = {
   news: { id: string; title: string; short_description?: string; href: string }[];
   documents: { id: string | number; title: string; href: string }[];
   pages: { title: string; href: string }[];
+  articles?: { title: string; href: string; short_description?: string }[];
 };
 
 export function SearchPageClient() {
@@ -20,7 +21,7 @@ export function SearchPageClient() {
     fetch(`${process.env.NEXT_PUBLIC_BASE_PATH || ""}/search-index.json`)
       .then((r) => r.json())
       .then(setIndex)
-      .catch(() => setIndex({ news: [], documents: [], pages: [] }));
+      .catch(() => setIndex({ news: [], documents: [], pages: [], articles: [] }));
   }, []);
 
   const results =
@@ -39,6 +40,13 @@ export function SearchPageClient() {
           ...index.pages
             .filter((p) => p.title?.toLowerCase().includes(query))
             .map((p) => ({ href: p.href, title: p.title, type: "Страница" })),
+          ...(index.articles || [])
+            .filter(
+              (a) =>
+                a.title?.toLowerCase().includes(query) ||
+                a.short_description?.toLowerCase().includes(query),
+            )
+            .map((a) => ({ href: a.href, title: a.title, type: "Статья" })),
         ]
       : [];
 

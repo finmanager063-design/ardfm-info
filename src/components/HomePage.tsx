@@ -4,6 +4,7 @@ import { getContent } from "@/lib/content";
 import { formatDate } from "@/lib/format";
 
 const QUICK_LINKS = [
+  { href: "/articles", label: "Все статьи и материалы" },
   { href: "/about", label: "Часто задаваемые вопросы" },
   { href: "/activities/directions", label: "Повышение финансовой грамотности населения" },
   { href: "/activities/directions", label: "Риск-ориентированный надзор" },

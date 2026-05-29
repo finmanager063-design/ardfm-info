@@ -78,5 +78,7 @@ export interface SiteContent {
     alias?: string;
     content?: string;
     short_description?: string;
+    publication_date?: string;
+    heropic?: string;
   }[];
 }

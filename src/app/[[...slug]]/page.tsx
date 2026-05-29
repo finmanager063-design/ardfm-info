@@ -3,8 +3,10 @@ import { notFound } from "next/navigation";
 import { HomePage } from "@/components/HomePage";
 import { HtmlContent } from "@/components/HtmlContent";
 import { NewsCard } from "@/components/NewsCard";
+import { ArticlesList } from "@/components/ArticlesList";
 import { findNewsById, findPageByPath, getContent } from "@/lib/content";
 import { formatDate } from "@/lib/format";
+import { collectStaticSlugs } from "@/lib/static-paths";
 
 type Props = { params: Promise<{ slug?: string[] }> };
 
@@ -14,21 +16,7 @@ function pathFromSlug(slug?: string[]): string {
 }
 
 export async function generateStaticParams() {
-  const { pages, news } = getContent();
-  const params: { slug: string[] }[] = [{ slug: [] }];
-
-  for (const p of pages) {
-    const link = p.internal_link?.replace(/^\//, "");
-    if (link && link !== "/") {
-      params.push({ slug: link.split("/").filter(Boolean) });
-    }
-  }
-
-  for (const n of news.slice(0, 50)) {
-    params.push({ slug: ["press", "news", "details", String(n.id)] });
-  }
-
-  return params;
+  return collectStaticSlugs(getContent());
 }
 
 export default async function DynamicPage({ params }: Props) {
@@ -59,7 +47,7 @@ export default async function DynamicPage({ params }: Props) {
   }
 
   // Список новостей
-  if (pathname === "/press/news" || pathname === "/press") {
+  if (pathname === "/press/news" || pathname === "/press" || pathname === "/press/") {
     return (
       <>
         <nav className="breadcrumb">
@@ -185,29 +173,107 @@ export default async function DynamicPage({ params }: Props) {
     );
   }
 
-  // CMS-страница
+  // Все статьи
+  if (pathname === "/articles") {
+    return (
+      <>
+        <nav className="breadcrumb">
+          <Link href="/">Главная</Link> / Статьи и материалы
+        </nav>
+        <h1 className="page-title">Статьи и материалы</h1>
+        <p style={{ color: "#5c6370", marginBottom: "1.5rem" }}>
+          Всего: {content.articles.length}
+        </p>
+        <ArticlesList articles={content.articles} />
+      </>
+    );
+  }
+
+  const articleMatch = pathname.match(/^\/article\/details\/([^/]+)$/);
+  if (articleMatch) {
+    const article = content.articles.find((a) => String(a.id) === articleMatch[1]);
+    if (!article) notFound();
+    return (
+      <article>
+        <nav className="breadcrumb">
+          <Link href="/">Главная</Link> / <Link href="/articles">Статьи</Link> /{" "}
+          {article.title.slice(0, 50)}…
+        </nav>
+        <h1 className="page-title">{article.title}</h1>
+        {article.publication_date && (
+          <time dateTime={article.publication_date}>
+            {formatDate(article.publication_date)}
+          </time>
+        )}
+        {article.content ? (
+          <HtmlContent html={article.content} />
+        ) : (
+          <p>Текст материала недоступен.</p>
+        )}
+      </article>
+    );
+  }
+
+  const releaseMatch = pathname.match(/^\/press\/releases\/details\/(\d+)$/);
+  if (releaseMatch) {
+    const item = content.pressReleases.find((r) => String(r.id) === releaseMatch[1]);
+    if (!item) notFound();
+    return (
+      <article>
+        <h1 className="page-title">{item.title}</h1>
+        <time>{formatDate(item.created_date)}</time>
+        <HtmlContent html={(item as { body?: string }).body || ""} />
+      </article>
+    );
+  }
+
+  const eventMatch = pathname.match(/^\/press\/events\/details\/(\d+)$/);
+  if (eventMatch) {
+    const all = [...content.events.upcoming, ...content.events.past];
+    const ev = all.find((e) => String(e.id) === eventMatch[1]);
+    if (!ev) notFound();
+    return (
+      <article>
+        <h1 className="page-title">{ev.title}</h1>
+        <time>{formatDate(ev.event_date || ev.event_date_end)}</time>
+        {ev.short_description && <p>{ev.short_description}</p>}
+      </article>
+    );
+  }
+
+  const projectMatch = pathname.match(/^\/projects\/details\/(\d+)$/);
+  if (projectMatch) {
+    const pr = content.projects.find((p) => String(p.id) === projectMatch[1]);
+    if (!pr) notFound();
+    return (
+      <article>
+        <h1 className="page-title">{pr.title}</h1>
+        {pr.short_description && <p>{pr.short_description}</p>}
+      </article>
+    );
+  }
+
+  // CMS-страница (в т.ч. без HTML — показываем заголовок)
   const page = findPageByPath(pathname);
-  if (page?.content) {
+  if (page) {
     return (
       <article>
         <nav className="breadcrumb">
           <Link href="/">Главная</Link> / {page.title}
         </nav>
         <h1 className="page-title">{page.title}</h1>
-        <HtmlContent html={page.content} />
-      </article>
-    );
-  }
-
-  // Статьи по alias
-  const article = content.articles.find(
-    (a) => a.alias && pathname.endsWith(a.alias),
-  );
-  if (article?.content) {
-    return (
-      <article>
-        <h1 className="page-title">{article.title}</h1>
-        <HtmlContent html={article.content} />
+        {page.content ? (
+          <HtmlContent html={page.content} />
+        ) : (
+          <>
+            <p>Раздел: {page.title}</p>
+            <p>
+              <Link href="/articles" className="btn">
+                Все статьи и материалы
+              </Link>
+            </p>
+          </>
+        )}
       </article>
     );
   }
@@ -253,5 +319,10 @@ export async function generateMetadata({ params }: Props) {
   }
   const page = findPageByPath(pathname);
   if (page) return { title: page.seo_title || page.title };
+  const articleMatch = pathname.match(/^\/article\/details\/([^/]+)$/);
+  if (articleMatch) {
+    const article = getContent().articles.find((a) => String(a.id) === articleMatch[1]);
+    if (article) return { title: article.title };
+  }
   return {};
 }
