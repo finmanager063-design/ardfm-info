@@ -1056,12 +1056,43 @@
   gap: 1rem;
 }
 
+.charts-strip__link {
+  display: block;
+  text-decoration: none;
+  color: inherit;
+}
+
 .charts-strip__chart {
   width: 100%;
   height: auto;
+  aspect-ratio: 16 / 10;
+  object-fit: cover;
   border-radius: 12px;
   box-shadow: var(--gov-shadow);
   border: 2px solid #00afc7;
+}
+
+.charts-strip__caption {
+  display: block;
+  margin-top: 0.5rem;
+  font-size: 0.85rem;
+  color: var(--gov-blue-dark);
+  line-height: 1.35;
+}
+
+.visual-gallery__link {
+  display: block;
+  text-decoration: none;
+}
+
+.visual-gallery__item figcaption a {
+  color: var(--gov-text);
+  text-decoration: none;
+}
+
+.visual-gallery__item figcaption a:hover {
+  color: var(--gov-blue);
+  text-decoration: underline;
 }
 
 .visual-gallery {

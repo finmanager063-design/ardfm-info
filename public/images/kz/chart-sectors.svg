@@ -1,16 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-label="!B@C:BC@0 D8=0=A>2>3> @K=:0">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-label="Financial market sectors">
   <rect width="640" height="360" rx="16" fill="#0f1e4a"/>
-  <text x="32" y="44" fill="#FEC50C" font-family="system-ui" font-size="22" font-weight="700">!5:B>@K ?>4 =047>@><   $ </text>
+  <text x="32" y="44" fill="#FEC50C" font-family="system-ui" font-size="22" font-weight="700">Sectors under ARDFM supervision</text>
   <rect x="48" y="280" width="80" height="48" fill="#00AFCA" rx="4"/>
   <rect x="168" y="220" width="80" height="108" fill="#4F8EF7" rx="4"/>
   <rect x="288" y="190" width="80" height="138" fill="#FEC50C" rx="4"/>
   <rect x="408" y="240" width="80" height="88" fill="#7B68EE" rx="4"/>
   <rect x="528" y="260" width="64" height="68" fill="#2ECC71" rx="4"/>
-  <text x="88" y="300" fill="#fff" font-size="12" text-anchor="middle">0=:8</text>
-  <text x="208" y="300" fill="#fff" font-size="12" text-anchor="middle">!B@0E>20=85</text>
-  <text x="328" y="300" fill="#fff" font-size="12" text-anchor="middle">&5==K5 1C<038</text>
-  <text x="448" y="300" fill="#fff" font-size="12" text-anchor="middle">$</text>
-  <text x="560" y="300" fill="#fff" font-size="12" text-anchor="middle">@>G85</text>
+  <text x="88" y="300" fill="#fff" font-size="12" text-anchor="middle">Banks</text>
+  <text x="208" y="300" fill="#fff" font-size="12" text-anchor="middle">Insurance</text>
+  <text x="328" y="300" fill="#fff" font-size="12" text-anchor="middle">Securities</text>
+  <text x="448" y="300" fill="#fff" font-size="12" text-anchor="middle">MFO</text>
+  <text x="560" y="300" fill="#fff" font-size="12" text-anchor="middle">Other</text>
   <polyline points="48,120 200,90 320,70 440,100 560,85 592,75" fill="none" stroke="#FEC50C" stroke-width="3"/>
   <circle cx="320" cy="70" r="6" fill="#FEC50C"/>
 </svg>

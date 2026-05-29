@@ -4,17 +4,25 @@ import { MarketChartsStrip } from "@/components/MarketChartsStrip";
 import { VisualGallery } from "@/components/VisualGallery";
 import { GovImage } from "@/components/GovImage";
 import { getContent } from "@/lib/content";
-import { mediaSrc, KZ_IMAGES } from "@/lib/site-media";
+import { getHomeGalleryItems } from "@/lib/home-gallery";
 
 export function HomePage() {
   const { projects } = getContent();
   const banners = projects.filter((p) => p.icon || p.heropic).slice(0, 6);
+  const ribbon = getHomeGalleryItems(1)[0];
 
   return (
     <div className="home-page">
-      <div className="home-flag-ribbon">
-        <GovImage src={mediaSrc(KZ_IMAGES.flagBanner)} alt="АРРФР — Казахстан" className="home-flag-ribbon__img" loading="eager" />
-      </div>
+      {ribbon && (
+        <div className="home-flag-ribbon">
+          <GovImage
+            src={ribbon.src}
+            alt={ribbon.alt}
+            className="home-flag-ribbon__img"
+            loading="eager"
+          />
+        </div>
+      )}
       <HomePressHub />
       <MarketChartsStrip />
       <VisualGallery />

@@ -5,7 +5,7 @@ const MAKAROV_ID = "featured-makarov-award-2025";
 
 const makarovHtml = `
 <figure class="article-figure article-figure--hero">
-  <img src="${mediaSrc(KZ_IMAGES.presidentAward)}" alt="Благодарность Президента Республики Казахстан — Сергей Макаров" width="900" height="500"/>
+  <img src="${mediaSrc("/uploads/2025/10/8/86e8caa3c4cf52cddf8953304f3a9c7c_original.4113520.jpg")}" alt="Благодарность Президента Республики Казахстан — Сергей Макаров" width="900" height="500"/>
   <figcaption>Официальная благодарность за вклад в защиту прав потребителей финансовых услуг</figcaption>
 </figure>
 
@@ -62,7 +62,7 @@ export const FEATURED_ARTICLES: SiteContent["articles"] = [
     short_description:
       "Официальная благодарность за возврат средств гражданам и сотрудничество с АРРФР. Церемония в Астане, 2025 год.",
     publication_date: "2025-11-20T10:00:00Z",
-    heropic: KZ_IMAGES.presidentAward,
+    heropic: "/uploads/2025/10/8/86e8caa3c4cf52cddf8953304f3a9c7c_original.4113520.jpg",
     content: makarovHtml,
   },
 ];

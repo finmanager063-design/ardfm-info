@@ -13,12 +13,8 @@ const UA =
   "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36";
 const MAX = Number(process.env.SYNC_MAX_IMAGES || 80);
 
-/** Те же пути, что в src/lib/site-media.ts GALLERY_PHOTOS */
-const GALLERY_UPLOADS = [
-  "/uploads/2021/10/13/2b63dabccf4bafbe1b966396949da2ce_original.50693.jpg",
-  "/uploads/2021/10/13/7e73745d65aa7f88224ce3d918088a66_original.19003.jpg",
-  "/uploads/2021/4/6/50c82849ba801dd17fe5fe27ce7f48dc_original.111750.jpg",
-  "/uploads/2020/12/11/2e5403d397682e4c5711c65f9368282a_original.220048.jpg",
+const FEATURED_UPLOADS = [
+  "/uploads/2025/10/8/86e8caa3c4cf52cddf8953304f3a9c7c_original.4113520.jpg",
 ];
 
 function normalizeUpload(rel) {
@@ -64,7 +60,7 @@ try {
   process.exit(1);
 }
 
-const paths = new Set(GALLERY_UPLOADS);
+const paths = new Set(FEATURED_UPLOADS);
 
 for (const n of content.news || []) {
   if (n.heropic) paths.add(normalizeUpload(n.heropic));
@@ -78,11 +74,15 @@ for (const p of content.projects || []) {
   if (p.heropic) paths.add(normalizeUpload(p.heropic));
 }
 
-for (const pr of content.pressReleases || []) {
+const sortedPr = [...(content.pressReleases || [])].sort((a, b) =>
+  (b.created_date || "").localeCompare(a.created_date || ""),
+);
+for (const pr of sortedPr) {
   if (pr.heropic) paths.add(normalizeUpload(pr.heropic));
-  for (const m of (pr.body || "").matchAll(/src="(\/uploads\/[^"]+)"/g)) {
+  for (const m of (pr.body || "").matchAll(/src=["'](\/uploads\/[^"']+)["']/gi)) {
     paths.add(m[1]);
   }
+  if (paths.size >= MAX) break;
 }
 
 const list = [...paths].filter(Boolean).slice(0, MAX);

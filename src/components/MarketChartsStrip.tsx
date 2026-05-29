@@ -1,20 +1,25 @@
+import Link from "next/link";
 import { GovImage } from "@/components/GovImage";
-import { mediaSrc, KZ_IMAGES } from "@/lib/site-media";
+import { getChartsStripItems } from "@/lib/home-gallery";
 
 export function MarketChartsStrip() {
+  const items = getChartsStripItems();
+  if (!items.length) return null;
+
   return (
-    <section className="charts-strip" aria-label="Показатели финансового рынка">
+    <section className="charts-strip" aria-label="Актуальные материалы">
       <div className="charts-strip__inner">
-        <GovImage
-          src={mediaSrc(KZ_IMAGES.chartSectors)}
-          alt="Секторы под надзором АРРФР"
-          className="charts-strip__chart"
-        />
-        <GovImage
-          src={mediaSrc(KZ_IMAGES.chartGrowth)}
-          alt="Динамика защиты прав потребителей"
-          className="charts-strip__chart"
-        />
+        {items.map((item) => (
+          <Link key={item.href} href={item.href} className="charts-strip__link">
+            <GovImage
+              src={item.src}
+              alt={item.alt}
+              className="charts-strip__chart"
+              loading="eager"
+            />
+            <span className="charts-strip__caption">{item.caption}</span>
+          </Link>
+        ))}
       </div>
     </section>
   );
