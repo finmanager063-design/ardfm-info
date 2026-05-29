@@ -1,8 +1,11 @@
 import Link from "next/link";
 import { HomePressHub } from "@/components/HomePressHub";
+import { MarketChartsStrip } from "@/components/MarketChartsStrip";
+import { VisualGallery } from "@/components/VisualGallery";
 import { GovImage } from "@/components/GovImage";
 import { getContent } from "@/lib/content";
 import { localMediaUrl } from "@/lib/format";
+import { mediaSrc, KZ_IMAGES } from "@/lib/site-media";
 
 export function HomePage() {
   const { projects } = getContent();
@@ -10,7 +13,12 @@ export function HomePage() {
 
   return (
     <div className="home-page">
+      <div className="home-flag-ribbon">
+        <GovImage src={mediaSrc(KZ_IMAGES.flagBanner)} alt="АРРФР — Казахстан" className="home-flag-ribbon__img" loading="eager" />
+      </div>
       <HomePressHub />
+      <MarketChartsStrip />
+      <VisualGallery />
 
       {banners.length > 0 && (
         <section className="home-projects" aria-label="Реализуемые проекты">

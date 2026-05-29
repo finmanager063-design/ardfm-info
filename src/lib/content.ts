@@ -3,12 +3,17 @@ import fs from "fs";
 import path from "path";
 import { getSiteContacts } from "./contacts";
 import { dedupeArticles } from "./dedupe";
+import { FEATURED_ARTICLES } from "./featured-articles";
 import type { GovNews, GovPage, SiteContent } from "./types";
 
 export { dedupeArticles };
 
 export function getArticles() {
-  return dedupeArticles(getContent().articles);
+  return dedupeArticles([...FEATURED_ARTICLES, ...getContent().articles]);
+}
+
+export function findArticleById(id: string) {
+  return getArticles().find((a) => String(a.id) === id);
 }
 
 const DATA_PATH = path.join(process.cwd(), "data", "content.json");

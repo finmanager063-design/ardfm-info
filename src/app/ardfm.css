@@ -989,3 +989,217 @@
 .gov-html a {
   color: var(--gov-blue);
 }
+
+/* === Казахстан: баннеры, графики, галерея === */
+.kz-site-banner {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 0 1.25rem;
+}
+
+.kz-site-banner__img {
+  width: 100%;
+  height: auto;
+  max-height: 120px;
+  object-fit: cover;
+  border-radius: 8px;
+  display: block;
+  box-shadow: var(--gov-shadow);
+}
+
+.home-flag-ribbon {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 0 1.25rem;
+}
+
+.home-flag-ribbon__img {
+  width: 100%;
+  height: auto;
+  max-height: 140px;
+  object-fit: cover;
+  border-radius: 6px;
+  display: block;
+}
+
+.home-press__hero-card--featured {
+  box-shadow: 0 0 0 3px #fec50c, 0 8px 32px rgba(0, 175, 202, 0.45);
+}
+
+.home-press__badge {
+  display: inline-block;
+  background: #fec50c;
+  color: #1a1a2e;
+  font-size: 0.72rem;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  padding: 0.2rem 0.55rem;
+  border-radius: 4px;
+  margin-bottom: 0.35rem;
+}
+
+.charts-strip {
+  max-width: 1280px;
+  margin: 0 auto 2rem;
+  padding: 0 1.25rem;
+}
+
+.charts-strip__inner {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+}
+
+.charts-strip__chart {
+  width: 100%;
+  height: auto;
+  border-radius: 12px;
+  box-shadow: var(--gov-shadow);
+  border: 2px solid #00afc7;
+}
+
+.visual-gallery {
+  max-width: 1280px;
+  margin: 0 auto 2.5rem;
+  padding: 0 1.25rem 2rem;
+}
+
+.visual-gallery__head {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 1rem;
+  margin-bottom: 1.25rem;
+}
+
+.visual-gallery__head h2 {
+  margin: 0;
+  color: var(--gov-blue-dark);
+  font-size: 1.35rem;
+}
+
+.visual-gallery__featured-link {
+  color: #b8860b;
+  font-weight: 700;
+  text-decoration: none;
+  font-size: 0.95rem;
+}
+
+.visual-gallery__featured-link:hover {
+  text-decoration: underline;
+}
+
+.visual-gallery__grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 1rem;
+}
+
+.visual-gallery__item {
+  margin: 0;
+  border-radius: 10px;
+  overflow: hidden;
+  border: 2px solid var(--gov-border);
+  background: #fff;
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.visual-gallery__item:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 12px 28px rgba(0, 175, 202, 0.25);
+  border-color: #00afc7;
+}
+
+.visual-gallery__img {
+  width: 100%;
+  aspect-ratio: 16 / 10;
+  object-fit: cover;
+  display: block;
+}
+
+.visual-gallery__item figcaption {
+  padding: 0.5rem 0.75rem;
+  font-size: 0.8rem;
+  color: var(--gov-muted);
+  background: linear-gradient(90deg, #f0f9ff, #fff);
+}
+
+/* Статья Макаров */
+.article-figure {
+  margin: 1.5rem 0;
+}
+
+.article-figure img {
+  width: 100%;
+  height: auto;
+  border-radius: 12px;
+  border: 3px solid #fec50c;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12);
+}
+
+.article-figure--hero img {
+  border-width: 4px;
+  box-shadow: 0 12px 40px rgba(0, 175, 202, 0.35);
+}
+
+.article-figure figcaption {
+  font-size: 0.85rem;
+  color: var(--gov-muted);
+  margin-top: 0.5rem;
+  text-align: center;
+}
+
+.article-lead {
+  font-size: 1.15rem;
+  line-height: 1.6;
+  padding: 1rem 1.25rem;
+  background: linear-gradient(135deg, #e8f7fa 0%, #fff9e6 100%);
+  border-left: 4px solid #00afc7;
+  border-radius: 0 8px 8px 0;
+}
+
+.article-highlight {
+  background: linear-gradient(135deg, #003366 0%, #00afc7 100%);
+  color: #fff;
+  padding: 1.5rem 2rem;
+  border-radius: 12px;
+  margin: 2rem 0;
+  text-align: center;
+}
+
+.article-highlight h2 {
+  color: #fec50c;
+  margin-top: 0;
+}
+
+.article-charts-row {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+  margin: 2rem 0;
+}
+
+.gov-html blockquote {
+  border-left: 4px solid #fec50c;
+  margin: 1.5rem 0;
+  padding: 1rem 1.5rem;
+  background: #fafbfd;
+  font-style: italic;
+}
+
+.gov-html blockquote cite {
+  display: block;
+  margin-top: 0.75rem;
+  font-style: normal;
+  font-weight: 600;
+  color: var(--gov-blue);
+}
+
+@media (max-width: 768px) {
+  .charts-strip__inner,
+  .article-charts-row {
+    grid-template-columns: 1fr;
+  }
+}

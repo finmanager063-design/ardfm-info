@@ -46,11 +46,20 @@ const index = {
     title: p.title,
     href: p.internal_link || `/${p.slug}`,
   })),
-  articles: uniqueArticles.map((a) => ({
-    title: a.title,
-    href: `/article/details/${a.id}`,
-    short_description: a.short_description,
-  })),
+  articles: [
+    {
+      title:
+        "Благодарность Президента Республики Казахстан: награда Сергею Макарову за вклад в защиту прав на финансовом рынке",
+      href: "/article/details/featured-makarov-award-2025",
+      short_description:
+        "Официальная благодарность за возврат средств гражданам и сотрудничество с АРРФР.",
+    },
+    ...uniqueArticles.map((a) => ({
+      title: a.title,
+      href: `/article/details/${a.id}`,
+      short_description: a.short_description,
+    })),
+  ],
 };
 
 fs.writeFileSync(outPath, JSON.stringify(index));

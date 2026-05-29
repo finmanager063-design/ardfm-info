@@ -3,6 +3,7 @@
 import Link from "next/link";
 import { usePathname, useRouter } from "next/navigation";
 import { useState } from "react";
+import { KzSiteBanner } from "@/components/KzSiteBanner";
 import { TelegramBotCta } from "@/components/TelegramBotCta";
 import { FOOTER_LINKS, MAIN_NAV } from "@/lib/nav";
 import type { SiteContent } from "@/lib/types";
@@ -110,6 +111,8 @@ export function GovShell({
           </form>
         )}
       </header>
+
+      {pathname !== "/" && pathname !== "" && <KzSiteBanner />}
 
       <main
         id="main"

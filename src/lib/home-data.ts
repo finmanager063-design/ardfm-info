@@ -5,6 +5,10 @@ export const HOME_IMPORTANT_LINKS = [
     label: "Бот обращений @finance_regulator_bot",
     external: true,
   },
+  {
+    href: "/article/details/featured-makarov-award-2025",
+    label: "Благодарность Президента: награда Сергею Макарову",
+  },
   { href: "/about/faq", label: "Часто задаваемые вопросы" },
   { href: "/activities/directions", label: "Повышение финансовой грамотности населения" },
   { href: "/articles", label: "Риск-ориентированный надзор" },

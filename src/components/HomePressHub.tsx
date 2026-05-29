@@ -3,6 +3,8 @@ import { GovImage } from "@/components/GovImage";
 import { getContent } from "@/lib/content";
 import { formatDate } from "@/lib/format";
 import { HOME_IMPORTANT_LINKS, HOME_PRESS_TABS } from "@/lib/home-data";
+import { FEATURED_HOME_HERO } from "@/lib/featured-articles";
+import { mediaSrc } from "@/lib/site-media";
 import { extractNewsImage, newsWithImages, sortNewsByDate } from "@/lib/news-media";
 
 export function HomePressHub() {
@@ -10,11 +12,13 @@ export function HomePressHub() {
   const sorted = sortNewsByDate(news);
   const withImages = newsWithImages(news, 20);
 
-  const featured = withImages[0] ?? sorted[0];
-  const secondary = withImages.slice(1, 3);
-  const listItems = sorted.slice(0, 4);
+  const heroHref = `/article/details/${FEATURED_HOME_HERO.articleId}`;
+  const heroImg = mediaSrc(FEATURED_HOME_HERO.image);
+  const heroTitle = FEATURED_HOME_HERO.title;
+  const heroDate = FEATURED_HOME_HERO.date;
 
-  const featuredImg = featured ? extractNewsImage(featured) : "";
+  const secondary = withImages.slice(0, 2);
+  const listItems = sorted.slice(0, 4);
 
   return (
     <div className="home-press">
@@ -32,22 +36,14 @@ export function HomePressHub() {
 
       <div className="home-press__grid">
         <div className="home-press__visual">
-          {featured && (
-            <Link
-              href={`/press/news/details/${featured.id}`}
-              className="home-press__hero-card"
-            >
-              {featuredImg ? (
-                <GovImage src={featuredImg} alt="" className="home-press__hero-img" loading="eager" />
-              ) : (
-                <div className="home-press__hero-placeholder" />
-              )}
-              <div className="home-press__hero-overlay">
-                <time dateTime={featured.created_date}>{formatDate(featured.created_date)}</time>
-                <h2>{featured.title}</h2>
-              </div>
-            </Link>
-          )}
+          <Link href={heroHref} className="home-press__hero-card home-press__hero-card--featured">
+            <GovImage src={heroImg} alt="" className="home-press__hero-img" loading="eager" />
+            <div className="home-press__hero-overlay">
+              <span className="home-press__badge">Президент РК</span>
+              <time dateTime={heroDate}>{formatDate(heroDate)}</time>
+              <h2>{heroTitle}</h2>
+            </div>
+          </Link>
 
           {secondary.length > 0 && (
             <div className="home-press__thumb-row">

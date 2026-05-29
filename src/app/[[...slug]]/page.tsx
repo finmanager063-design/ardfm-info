@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { ActivitiesDirections } from "@/components/ActivitiesDirections";
+import { MarketChartsStrip } from "@/components/MarketChartsStrip";
 import { ContactsPage } from "@/components/ContactsPage";
 import { FaqPage } from "@/components/FaqPage";
 import { HomePage } from "@/components/HomePage";
@@ -10,7 +11,7 @@ import { ArticlesList } from "@/components/ArticlesList";
 import { DocumentsPage } from "@/components/DocumentsPage";
 import { PressCenterPage } from "@/components/PressCenterPage";
 import { SectionPage } from "@/components/SectionPage";
-import { findNewsById, findPageByPath, getArticles, getContent } from "@/lib/content";
+import { findArticleById, findNewsById, findPageByPath, getArticles, getContent } from "@/lib/content";
 import { formatDate } from "@/lib/format";
 import {
   filterSectionContent,
@@ -198,7 +199,7 @@ export default async function DynamicPage({ params }: Props) {
 
   const articleMatch = pathname.match(/^\/article\/details\/([^/]+)$/);
   if (articleMatch) {
-    const article = articles.find((a) => String(a.id) === articleMatch[1]);
+    const article = findArticleById(articleMatch[1]);
     if (!article) notFound();
     return (
       <article>
@@ -304,6 +305,7 @@ export default async function DynamicPage({ params }: Props) {
           articles={filtered.articles}
           documents={filtered.documents}
         >
+          <MarketChartsStrip />
           {isDirections && <ActivitiesDirections />}
         </SectionPage>
       </>
@@ -342,7 +344,7 @@ export async function generateMetadata({ params }: Props) {
   if (page) return { title: page.seo_title || page.title };
   const articleMatch = pathname.match(/^\/article\/details\/([^/]+)$/);
   if (articleMatch) {
-    const article = getArticles().find((a) => String(a.id) === articleMatch[1]);
+    const article = findArticleById(articleMatch[1]);
     if (article) return { title: article.title };
   }
   return {};
