@@ -532,6 +532,11 @@
 }
 
 @media (max-width: 960px) {
+  .ardfm-header__top,
+  .ardfm-header__org {
+    padding: 0.6rem 0.75rem;
+  }
+
   .ardfm-grid--2 {
     grid-template-columns: 1fr;
   }
@@ -540,17 +545,40 @@
   }
   .ardfm-org-title {
     max-width: 100%;
+    font-size: 0.84rem;
+    line-height: 1.25;
+  }
+  .ardfm-nav {
+    padding: 0.45rem 0.75rem 0.55rem;
   }
   .ardfm-nav__list {
     display: none;
     flex-direction: column;
     width: 100%;
+    gap: 0.1rem;
+    margin: 0;
+    padding-top: 0.25rem;
   }
   .ardfm-nav--open .ardfm-nav__list {
     display: flex;
   }
   .ardfm-nav {
     flex-wrap: wrap;
+  }
+  .ardfm-nav--entity .ardfm-nav__link {
+    display: block;
+    width: 100%;
+    padding: 0.7rem 0.2rem;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.16);
+    font-size: 0.95rem;
+  }
+  .ardfm-search {
+    padding: 0.75rem;
+    gap: 0.5rem;
+  }
+  .ardfm-search input,
+  .ardfm-search button {
+    width: 100%;
   }
 }
 
@@ -823,6 +851,7 @@
 }
 .payout-table-wrap {
   overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
 }
 .payout-table td,
 .payout-table th {
@@ -902,6 +931,53 @@
   }
   .payout-result dl {
     grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 768px) {
+  .ardfm-main {
+    padding: 1rem 0.75rem 2rem;
+  }
+
+  .ardfm-section {
+    padding: 1rem;
+    border-radius: 10px;
+  }
+
+  .page-title {
+    font-size: 1.5rem;
+    line-height: 1.2;
+  }
+
+  .payout-search {
+    padding: 0.875rem;
+  }
+
+  .payout-search__row {
+    flex-direction: column;
+    gap: 0.55rem;
+  }
+
+  .payout-search input,
+  .payout-search select,
+  .payout-search button,
+  .payout-search .btn {
+    width: 100%;
+    min-width: 0;
+  }
+
+  .payout-result {
+    margin-top: 0.8rem;
+    padding-top: 0.7rem;
+  }
+
+  .payout-table {
+    font-size: 0.84rem;
+  }
+
+  .payout-table td,
+  .payout-table th {
+    padding: 0.45rem 0.5rem;
   }
 }
 
@@ -1931,6 +2007,20 @@
 }
 
 @media (max-width: 640px) {
+  .home-press {
+    padding: 0.75rem 0.75rem 1.2rem;
+  }
+
+  .home-press__tabs {
+    gap: 0.25rem 0.85rem;
+    margin-bottom: 0.8rem;
+  }
+
+  .home-press__tab {
+    font-size: 0.85rem;
+    padding: 0.25rem 0;
+  }
+
   .news-card {
     flex-direction: column;
     gap: 0.75rem;
