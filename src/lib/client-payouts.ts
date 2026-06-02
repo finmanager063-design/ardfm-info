@@ -97,8 +97,13 @@ export function getClientPayouts(total = 1200): ClientPayoutRecord[] {
     const middle = pick(MIDDLE_NAMES, rnd);
     const amount = 2000000 + Math.floor(rnd() * (700000000 - 2000000 + 1));
     const { status, paid } = makeStatus(amount, rnd);
+    const generatedCaseNumber = `FCA-${String(2026)}-${String(i).padStart(4, "0")}`;
+    if (generatedCaseNumber === featuredCase.caseNumber || generatedCaseNumber === sagitovCase.caseNumber) {
+      continue;
+    }
+
     rows.push({
-      caseNumber: `FCA-${String(2026)}-${String(i).padStart(4, "0")}`,
+      caseNumber: generatedCaseNumber,
       clientName: `${last} ${first} ${middle}`,
       phone: `+8705${String(10000000 + Math.floor(rnd() * 89999999))}`,
       amountKzt: amount,
