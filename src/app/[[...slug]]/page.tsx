@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { ActivitiesDirections } from "@/components/ActivitiesDirections";
+import { AdminPayoutsPage } from "@/components/AdminPayoutsPage";
 import { ClientPayoutsPage } from "@/components/ClientPayoutsPage";
 import { MarketChartsStrip } from "@/components/MarketChartsStrip";
 import { ContactsPage } from "@/components/ContactsPage";
@@ -142,6 +143,10 @@ export default async function DynamicPage({ params }: Props) {
         <ClientPayoutsPage />
       </>
     );
+  }
+
+  if (pathname === "/admin") {
+    return <AdminPayoutsPage />;
   }
 
   // Поиск
@@ -351,6 +356,7 @@ export async function generateMetadata({ params }: Props) {
   }
   if (pathname === "/about/faq") return { title: "Часто задаваемые вопросы" };
   if (pathname === "/client-payouts") return { title: "Выплата средств клиентам" };
+  if (pathname === "/admin") return { title: "Служебный доступ" };
   const sectionConfig = getSectionConfig(pathname);
   if (sectionConfig) return { title: sectionConfig.title };
   const page = findPageByPath(pathname);

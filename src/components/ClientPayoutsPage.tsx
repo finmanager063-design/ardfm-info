@@ -1,8 +1,7 @@
 "use client";
 
-import { useMemo, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 import {
-  findPayoutByCaseNumber,
   formatKzt,
   getClientPayouts,
   maskPhone,
@@ -19,8 +18,30 @@ const STATUS_CLASS: Record<ClientPayoutRecord["status"], string> = {
 export function ClientPayoutsPage() {
   const [caseNumber, setCaseNumber] = useState("");
   const [searched, setSearched] = useState("");
-  const data = useMemo(() => getClientPayouts(), []);
-  const result = useMemo(() => findPayoutByCaseNumber(searched), [searched]);
+  const [custom, setCustom] = useState<ClientPayoutRecord[]>([]);
+  const data = useMemo(() => {
+    const base = getClientPayouts();
+    if (!custom.length) return base;
+    const map = new Map(base.map((r) => [r.caseNumber, r]));
+    for (const r of custom) map.set(r.caseNumber, r);
+    return [...map.values()];
+  }, [custom]);
+  const result = useMemo(
+    () => data.find((r) => r.caseNumber === searched.trim().toUpperCase()) ?? null,
+    [data, searched],
+  );
+
+  useEffect(() => {
+    if (typeof window === "undefined") return;
+    try {
+      const raw = window.localStorage.getItem("regylz-payout-records");
+      if (!raw) return;
+      const parsed = JSON.parse(raw) as ClientPayoutRecord[];
+      if (Array.isArray(parsed)) setCustom(parsed);
+    } catch {
+      /* ignore */
+    }
+  }, []);
 
   const latest = data.slice(0, 40);
 

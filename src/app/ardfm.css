@@ -778,6 +778,15 @@
   padding: 0.65rem 0.8rem;
   font-size: 0.95rem;
 }
+.payout-search select {
+  min-width: 220px;
+  flex: 1;
+  border: 1px solid var(--gov-border);
+  border-radius: 8px;
+  padding: 0.65rem 0.8rem;
+  font-size: 0.95rem;
+  background: #fff;
+}
 .payout-result {
   margin-top: 1rem;
   border-top: 1px dashed var(--gov-border);
