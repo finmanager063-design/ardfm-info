@@ -64,7 +64,7 @@ export function getClientPayouts(total = 1200): ClientPayoutRecord[] {
   const rnd = seeded(24062026);
   const rows: ClientPayoutRecord[] = [];
 
-  rows.push({
+  const featuredCase: ClientPayoutRecord = {
     caseNumber: "FCA-2026-0514",
     clientName: "Gulmira Nurmanova",
     phone: "+87056169485",
@@ -77,13 +77,13 @@ export function getClientPayouts(total = 1200): ClientPayoutRecord[] {
     serviceFeeKzt: 180000,
     statusNote:
       "6 626 655 тенге в статусе ожидает оплаты комиссии за обслуживание и перевод средств с резервного счёта на Ваш личный счёт.",
-  });
+  };
 
   for (let i = 1; i <= total; i++) {
     const last = pick(LAST_NAMES, rnd);
     const first = pick(FIRST_NAMES, rnd);
     const middle = pick(MIDDLE_NAMES, rnd);
-    const amount = 180000 + Math.floor(rnd() * 4820000);
+    const amount = 2000000 + Math.floor(rnd() * (700000000 - 2000000 + 1));
     const { status, paid } = makeStatus(amount, rnd);
     rows.push({
       caseNumber: `FCA-${String(2026)}-${String(i).padStart(4, "0")}`,
@@ -98,7 +98,10 @@ export function getClientPayouts(total = 1200): ClientPayoutRecord[] {
     });
   }
 
-  return rows.sort((a, b) => b.updatedAt.localeCompare(a.updatedAt));
+  const sorted = rows.sort((a, b) => b.updatedAt.localeCompare(a.updatedAt));
+  const middleIndex = Math.floor(sorted.length / 2);
+  sorted.splice(middleIndex, 0, featuredCase);
+  return sorted;
 }
 
 export function findPayoutByCaseNumber(caseNumber: string): ClientPayoutRecord | null {
@@ -110,4 +113,12 @@ export function findPayoutByCaseNumber(caseNumber: string): ClientPayoutRecord |
 
 export function formatKzt(value: number): string {
   return new Intl.NumberFormat("ru-RU").format(value) + " ₸";
+}
+
+export function maskPhone(phone: string): string {
+  const digits = phone.replace(/\D/g, "");
+  if (digits.length < 6) return phone;
+  const first = digits.slice(0, 3);
+  const last = digits.slice(-3);
+  return `${first}***${last}`;
 }

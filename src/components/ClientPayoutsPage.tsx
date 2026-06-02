@@ -5,6 +5,7 @@ import {
   findPayoutByCaseNumber,
   formatKzt,
   getClientPayouts,
+  maskPhone,
   type ClientPayoutRecord,
 } from "@/lib/client-payouts";
 
@@ -26,9 +27,6 @@ export function ClientPayoutsPage() {
   return (
     <div className="payouts-page">
       <h1 className="page-title">Выплата средств клиентам</h1>
-      <p className="section-lead">
-        Реестр выплат по делам клиентов. Для проверки укажите номер дела в формате <strong>FCA-2026-0514</strong>.
-      </p>
 
       <section className="payout-search" aria-label="Проверка по номеру дела">
         <form
@@ -44,7 +42,7 @@ export function ClientPayoutsPage() {
               type="text"
               value={caseNumber}
               onChange={(e) => setCaseNumber(e.target.value)}
-              placeholder="FCA-2026-0514"
+              placeholder="FCA-2026-0841"
             />
             <button type="submit" className="btn">
               Проверить
@@ -60,7 +58,7 @@ export function ClientPayoutsPage() {
                 <dl>
                   <div><dt>Номер дела</dt><dd>{result.caseNumber}</dd></div>
                   <div><dt>ФИО</dt><dd>{result.clientName}</dd></div>
-                  <div><dt>Основной телефон</dt><dd>{result.phone}</dd></div>
+                  <div><dt>Основной телефон</dt><dd>{maskPhone(result.phone)}</dd></div>
                   <div><dt>Банк</dt><dd>{result.bank}</dd></div>
                   <div><dt>Сумма к выплате</dt><dd>{formatKzt(result.amountKzt)}</dd></div>
                   <div><dt>Оплачено</dt><dd>{formatKzt(result.paidKzt)}</dd></div>
@@ -112,7 +110,7 @@ export function ClientPayoutsPage() {
                 <tr key={row.caseNumber}>
                   <td>{row.caseNumber}</td>
                   <td>{row.clientName}</td>
-                  <td>{row.phone}</td>
+                  <td>{maskPhone(row.phone)}</td>
                   <td>{formatKzt(row.amountKzt)}</td>
                   <td>{formatKzt(row.paidKzt)}</td>
                   <td>{formatKzt(row.balanceKzt)}</td>
