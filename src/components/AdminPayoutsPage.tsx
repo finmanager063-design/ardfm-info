@@ -1,7 +1,12 @@
 "use client";
 
 import { useEffect, useMemo, useState } from "react";
-import { formatKzt, type ClientPayoutRecord, type PayoutStatus } from "@/lib/client-payouts";
+import {
+  formatKzt,
+  suggestNextCaseNumber,
+  type ClientPayoutRecord,
+  type PayoutStatus,
+} from "@/lib/client-payouts";
 
 const ADMIN_PASSWORD = "1304";
 const STORAGE_KEY = "regylz-payout-records";
@@ -132,6 +137,9 @@ export function AdminPayoutsPage() {
   return (
     <div>
       <h1 className="page-title">Админка выплат</h1>
+      <p style={{ color: "#5c6370", marginTop: "-0.5rem" }}>
+        Служебная панель управления клиентскими выплатами.
+      </p>
       <section className="payout-search" aria-label="Добавить или обновить клиента">
         <form onSubmit={onAdd}>
           <div className="payout-result" style={{ borderTop: "none", paddingTop: 0 }}>
