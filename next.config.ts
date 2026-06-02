@@ -2,12 +2,14 @@ import type { NextConfig } from "next";
 import path from "path";
 
 const isGithubPages = process.env.GITHUB_PAGES === "true";
-const basePath = isGithubPages ? "/regylz" : "";
+const configuredBasePath = process.env.NEXT_PUBLIC_BASE_PATH;
+const basePath = isGithubPages ? (configuredBasePath ?? "/regylz") : "";
+const normalizedBasePath = basePath === "/" ? "" : basePath.replace(/\/$/, "");
 
 const nextConfig: NextConfig = {
   output: isGithubPages ? "export" : undefined,
-  basePath,
-  assetPrefix: isGithubPages ? "/regylz/" : undefined,
+  basePath: normalizedBasePath,
+  assetPrefix: isGithubPages && normalizedBasePath ? `${normalizedBasePath}/` : undefined,
   trailingSlash: isGithubPages,
   images: {
     unoptimized: true,

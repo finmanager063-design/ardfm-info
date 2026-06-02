@@ -8,10 +8,10 @@ import "./motion.css";
 
 const content = getContent();
 
-const siteUrl =
-  process.env.NEXT_PUBLIC_BASE_PATH === "/regylz"
+const siteUrl = process.env.NEXT_PUBLIC_SITE_URL
+  ?? (process.env.NEXT_PUBLIC_BASE_PATH === "/regylz"
     ? "https://finmanager063-design.github.io/regylz"
-    : "http://localhost:3000";
+    : "http://localhost:3000");
 
 export const metadata: Metadata = {
   title: {
