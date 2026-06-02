@@ -3,20 +3,20 @@ import { GovImage } from "@/components/GovImage";
 import { formatDate } from "@/lib/format";
 import { HOME_IMPORTANT_LINKS, HOME_PRESS_TABS } from "@/lib/home-data";
 import { isSrcUsedOnHome } from "@/lib/home-gallery";
-import { extractNewsImage } from "@/lib/news-media";
+import { resolveItemImage } from "@/lib/news-media";
 import { getPressHubFeed } from "@/lib/press-hub";
 
 export function HomePressHub() {
   const feed = getPressHubFeed(60).filter((item) => {
-    const src = extractNewsImage(item);
-    return src && !isSrcUsedOnHome(src);
+    const src = resolveItemImage(item, item.id);
+    return !isSrcUsedOnHome(src);
   });
 
   const featured = feed[0];
   const secondary = feed.slice(1, 3);
   const listItems = feed.slice(0, 4);
 
-  const featuredImg = featured ? extractNewsImage(featured) : "";
+  const featuredImg = featured ? resolveItemImage(featured, featured.id) : "";
 
   return (
     <div className="home-press">
@@ -36,11 +36,7 @@ export function HomePressHub() {
         <div className="home-press__visual">
           {featured && (
             <Link href={featured.detailHref} className="home-press__hero-card">
-              {featuredImg ? (
-                <GovImage src={featuredImg} alt="" className="home-press__hero-img" loading="eager" />
-              ) : (
-                <div className="home-press__hero-placeholder" />
-              )}
+              <GovImage src={featuredImg} alt="" className="home-press__hero-img" loading="eager" />
               <div className="home-press__hero-overlay">
                 <time dateTime={featured.created_date}>{formatDate(featured.created_date)}</time>
                 <h2>{featured.title}</h2>
@@ -51,14 +47,10 @@ export function HomePressHub() {
           {secondary.length > 0 && (
             <div className="home-press__thumb-row">
               {secondary.map((item) => {
-                const img = extractNewsImage(item);
+                const img = resolveItemImage(item, item.id);
                 return (
                   <Link key={item.id} href={item.detailHref} className="home-press__thumb-card">
-                    {img ? (
-                      <GovImage src={img} alt="" className="home-press__thumb-img" />
-                    ) : (
-                      <div className="home-press__thumb-placeholder" />
-                    )}
+                    <GovImage src={img} alt="" className="home-press__thumb-img" />
                     <div className="home-press__thumb-overlay">
                       <time dateTime={item.created_date}>{formatDate(item.created_date)}</time>
                       <span>{item.title}</span>

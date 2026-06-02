@@ -1,5 +1,7 @@
 import Link from "next/link";
+import { GovImage } from "@/components/GovImage";
 import { formatDate } from "@/lib/format";
+import { resolveItemImage } from "@/lib/news-media";
 import type { SiteContent } from "@/lib/types";
 
 export function ArticlesList({ articles }: { articles: SiteContent["articles"] }) {
@@ -12,14 +14,25 @@ export function ArticlesList({ articles }: { articles: SiteContent["articles"] }
   );
 
   return (
-    <ul className="doc-list">
-      {sorted.map((a) => (
-        <li key={`${a.id}-${a.alias}`}>
-          <Link href={`/article/details/${a.id}`}>{a.title}</Link>
-          {a.publication_date && <time>{formatDate(a.publication_date)}</time>}
-          {a.short_description && <p style={{ margin: "0.25rem 0 0" }}>{a.short_description}</p>}
-        </li>
-      ))}
+    <ul className="articles-list">
+      {sorted.map((a) => {
+        const img = resolveItemImage(
+          { body: a.content, heropic: a.heropic, title: a.title },
+          `article-list-${a.id}`,
+        );
+        return (
+          <li key={`${a.id}-${a.alias}`} className="articles-list__item">
+            <Link href={`/article/details/${a.id}`} className="articles-list__thumb">
+              <GovImage src={img} alt="" />
+            </Link>
+            <div className="articles-list__body">
+              <Link href={`/article/details/${a.id}`}>{a.title}</Link>
+              {a.publication_date && <time>{formatDate(a.publication_date)}</time>}
+              {a.short_description && <p>{a.short_description}</p>}
+            </div>
+          </li>
+        );
+      })}
     </ul>
   );
 }

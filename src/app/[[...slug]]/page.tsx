@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { ActivitiesDirections } from "@/components/ActivitiesDirections";
+import { ClientPayoutsPage } from "@/components/ClientPayoutsPage";
 import { MarketChartsStrip } from "@/components/MarketChartsStrip";
 import { ContactsPage } from "@/components/ContactsPage";
 import { FaqPage } from "@/components/FaqPage";
@@ -130,6 +131,17 @@ export default async function DynamicPage({ params }: Props) {
 
   if (pathname === "/contacts") {
     return <ContactsPage />;
+  }
+
+  if (pathname === "/client-payouts") {
+    return (
+      <>
+        <nav className="breadcrumb">
+          <Link href="/">Главная</Link> / Выплата средств клиентам
+        </nav>
+        <ClientPayoutsPage />
+      </>
+    );
   }
 
   // Поиск
@@ -338,6 +350,7 @@ export async function generateMetadata({ params }: Props) {
     if (item) return { title: item.title };
   }
   if (pathname === "/about/faq") return { title: "Часто задаваемые вопросы" };
+  if (pathname === "/client-payouts") return { title: "Выплата средств клиентам" };
   const sectionConfig = getSectionConfig(pathname);
   if (sectionConfig) return { title: sectionConfig.title };
   const page = findPageByPath(pathname);

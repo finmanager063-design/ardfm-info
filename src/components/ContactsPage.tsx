@@ -1,5 +1,7 @@
+import type { CSSProperties } from "react";
 import Link from "next/link";
 import { KzSiteBanner } from "@/components/KzSiteBanner";
+import { Reveal } from "@/components/motion/Reveal";
 import {
   AGENCY_ADDRESS,
   AGENCY_SCHEDULE,
@@ -23,7 +25,8 @@ export function ContactsPage() {
         <Link href="/">Главная</Link> / Контакты
       </nav>
 
-      <header className="contacts-hero">
+      <Reveal direction="up">
+      <header className="contacts-hero motion-gradient-bg">
         <div className="contacts-hero__text">
           <p className="contacts-hero__badge">Государственные услуги · АРРФР</p>
           <h1 className="contacts-hero__title">Контакты и обращения</h1>
@@ -55,12 +58,18 @@ export function ContactsPage() {
           />
         </div>
       </header>
+      </Reveal>
 
+      <Reveal direction="up" delay={80}>
       <section className="contacts-services" aria-label="Виды обращений">
         <h2 className="contacts-section-title">Электронные услуги и темы обращений</h2>
-        <div className="contacts-services__grid">
-          {CONTACT_SERVICES.map((s) => (
-            <article key={s.title} className="contacts-service-card">
+        <Reveal stagger className="contacts-services__grid" delay={100}>
+          {CONTACT_SERVICES.map((s, i) => (
+            <article
+              key={s.title}
+              className="contacts-service-card"
+              style={{ "--stagger-i": i } as CSSProperties}
+            >
               <span className="contacts-service-card__icon" aria-hidden="true">
                 {s.icon}
               </span>
@@ -82,9 +91,11 @@ export function ContactsPage() {
               )}
             </article>
           ))}
-        </div>
+        </Reveal>
       </section>
+      </Reveal>
 
+      <Reveal direction="up" delay={100}>
       <div className="contacts-main-grid">
         <section className="contacts-panel contacts-panel--primary">
           <h2 className="contacts-panel__title">Онлайн-приёмная</h2>
@@ -193,20 +204,28 @@ export function ContactsPage() {
           </section>
         </aside>
       </div>
+      </Reveal>
 
+      <Reveal direction="up" delay={120}>
       <section className="contacts-steps-section" aria-label="Как подать обращение">
         <h2 className="contacts-section-title">Как направить обращение через бот</h2>
-        <ol className="contacts-steps-cards">
-          {CONTACT_STEPS.map((step) => (
-            <li key={step.num} className="contacts-step-card">
+        <Reveal as="ol" stagger className="contacts-steps-cards" delay={140}>
+          {CONTACT_STEPS.map((step, i) => (
+            <li
+              key={step.num}
+              className="contacts-step-card"
+              style={{ "--stagger-i": i } as CSSProperties}
+            >
               <span className="contacts-step-card__num">{step.num}</span>
               <h3>{step.title}</h3>
               <p>{step.text}</p>
             </li>
           ))}
-        </ol>
+        </Reveal>
       </section>
+      </Reveal>
 
+      <Reveal direction="up">
       <section className="ardfm-section contacts-links-block">
         <h2>Полезные разделы</h2>
         <ul className="ardfm-quick-links">
@@ -232,6 +251,7 @@ export function ContactsPage() {
           </li>
         </ul>
       </section>
+      </Reveal>
     </div>
   );
 }

@@ -1,18 +1,16 @@
 import Link from "next/link";
 import { GovImage } from "@/components/GovImage";
 import { formatDate } from "@/lib/format";
-import { extractNewsImage } from "@/lib/news-media";
+import { resolveItemImage } from "@/lib/news-media";
 import type { GovNews } from "@/lib/types";
 
 export function NewsCard({ item }: { item: GovNews }) {
-  const img = extractNewsImage(item);
+  const img = resolveItemImage(item, item.id);
   return (
     <article className="news-card">
-      {img && (
-        <Link href={`/press/news/details/${item.id}`} className="news-card__img">
-          <GovImage src={img} alt="" />
-        </Link>
-      )}
+      <Link href={`/press/news/details/${item.id}`} className="news-card__img">
+        <GovImage src={img} alt="" />
+      </Link>
       <div className="news-card__body">
         <time dateTime={item.created_date}>{formatDate(item.created_date)}</time>
         <h3>

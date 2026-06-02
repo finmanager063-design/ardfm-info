@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { NewsCard } from "@/components/NewsCard";
+import { Reveal } from "@/components/motion/Reveal";
 import { SectionHtml } from "@/components/SectionHtml";
 import { formatDate, rewriteGovHtml } from "@/lib/format";
 import { assetPath } from "@/lib/base-path";
@@ -23,8 +24,10 @@ function htmlWithBasePath(html: string): string {
 export function SectionPage({ config, news, articles, documents, children }: Props) {
   return (
     <>
-      <h1 className="page-title">{config.title}</h1>
-      <SectionHtml html={htmlWithBasePath(config.intro)} className="section-intro" />
+      <Reveal direction="up">
+        <h1 className="page-title">{config.title}</h1>
+        <SectionHtml html={htmlWithBasePath(config.intro)} className="section-intro" />
+      </Reveal>
 
       {children}
 

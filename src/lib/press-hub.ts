@@ -1,5 +1,5 @@
 import { getContent } from "@/lib/content";
-import { extractNewsImage, sortNewsByDate } from "@/lib/news-media";
+import { resolveItemImage, sortNewsByDate } from "@/lib/news-media";
 import type { GovNews } from "@/lib/types";
 
 export type PressHubItem = GovNews & {
@@ -19,11 +19,5 @@ export function getPressHubFeed(limit = 50): PressHubItem[] {
       detailHref: `/press/news/details/${n.id}`,
     })),
   ];
-  const withImg: PressHubItem[] = [];
-  const rest: PressHubItem[] = [];
-  for (const item of items) {
-    if (extractNewsImage(item)) withImg.push(item);
-    else rest.push(item);
-  }
-  return [...withImg, ...rest].slice(0, limit);
+  return items.slice(0, limit);
 }

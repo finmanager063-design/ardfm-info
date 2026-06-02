@@ -2,7 +2,7 @@
 
 import Link from "next/link";
 import { usePathname, useRouter } from "next/navigation";
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import { KzSiteBanner } from "@/components/KzSiteBanner";
 import { TelegramBotCta } from "@/components/TelegramBotCta";
 import { FOOTER_LINKS, MAIN_NAV } from "@/lib/nav";
@@ -33,6 +33,24 @@ export function GovShell({
     if (href === "/") return pathname === "/";
     return pathname.startsWith(href);
   };
+
+  useEffect(() => {
+    const header = document.querySelector(".ardfm-header");
+    const onScroll = () => {
+      header?.classList.toggle("ardfm-header--scrolled", window.scrollY > 24);
+    };
+    onScroll();
+    window.addEventListener("scroll", onScroll, { passive: true });
+    return () => window.removeEventListener("scroll", onScroll);
+  }, []);
+
+  useEffect(() => {
+    const main = document.getElementById("main");
+    if (!main) return;
+    main.classList.add("page-enter");
+    const t = window.setTimeout(() => main.classList.remove("page-enter"), 500);
+    return () => clearTimeout(t);
+  }, [pathname]);
 
   return (
     <div className="ardfm-root">
@@ -152,12 +170,7 @@ export function GovShell({
             </div>
           </div>
         </div>
-        <p className="ardfm-footer__copy">
-          2026 © Все права защищены. Копия портала{" "}
-          <a href={meta.source} target="_blank" rel="noreferrer">
-            gov.kz/ardfm
-          </a>
-        </p>
+        <p className="ardfm-footer__copy">2026 © Все права защищены.</p>
       </footer>
     </div>
   );

@@ -5,12 +5,13 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "build:pages": "node scripts/build-search-index.mjs && SYNC_MAX_IMAGES=220 node scripts/download-home-images.mjs && GITHUB_PAGES=true NEXT_PUBLIC_BASE_PATH=/regylz next build && node scripts/postbuild-pages.mjs",
+    "build:pages": "node scripts/build-search-index.mjs && node scripts/generate-photo-pool.mjs && SYNC_MAX_IMAGES=220 node scripts/download-home-images.mjs && node scripts/setup-kz-real-photos.mjs && GITHUB_PAGES=true NEXT_PUBLIC_BASE_PATH=/regylz next build && node scripts/postbuild-pages.mjs",
     "download-images": "node scripts/download-home-images.mjs",
     "start": "next start",
     "lint": "eslint",
     "sync": "node scripts/sync.mjs",
     "sync:images": "node scripts/download-home-images.mjs",
+    "setup:kz-photos": "node scripts/setup-kz-real-photos.mjs",
     "prebuild": "node scripts/build-search-index.mjs",
     "postbuild": "node scripts/postbuild-pages.mjs"
   },

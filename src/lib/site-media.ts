@@ -1,12 +1,12 @@
 import { assetPath } from "./base-path";
 
-/** Локальные иллюстрации (SVG) + фото с gov.kz для галерей. */
+/** Локальные фото (реальные кадры, не SVG-заглушки). */
 export const KZ_IMAGES = {
-  flagBanner: "/images/kz/flag-banner.svg",
+  flagBanner: "/images/kz/flag-banner.jpg",
   astanaBanner: "/images/kz/astana-skyline.jpg",
-  chartSectors: "/images/kz/chart-sectors.svg",
-  chartGrowth: "/images/kz/chart-growth.svg",
-  presidentAward: "/images/kz/president-award.svg",
+  financeForum: "/images/kz/finance-forum.jpg",
+  regulatorsMeeting: "/images/kz/regulators-meeting.jpg",
+  pressConference: "/images/kz/press-conference.jpg",
 } as const;
 
 /** Верхняя лента на главной — панорама Астаны (не статья Макарова). */

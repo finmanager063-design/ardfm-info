@@ -4,6 +4,7 @@ import { basePath } from "@/lib/base-path";
 import { getContent } from "@/lib/content";
 import "./ardfm.css";
 import "./globals.css";
+import "./motion.css";
 
 const content = getContent();
 
@@ -18,7 +19,7 @@ export const metadata: Metadata = {
     template: `%s | ${content.meta.entityShort}`,
   },
   description:
-    "Агентство Республики Казахстан по регулированию и развитию финансового рынка (АРРФР) — копия официального портала gov.kz",
+    "Агентство Республики Казахстан по регулированию и развитию финансового рынка (АРРФР): новости, документы, сервисы и обращения",
   metadataBase: new URL(siteUrl),
 };
 

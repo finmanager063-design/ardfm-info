@@ -1,5 +1,6 @@
 import { assetPath } from "./base-path";
 import { govMediaUrl, localMediaUrl } from "./format";
+import { getDiversePhoto } from "./photo-pool";
 
 /** Лёгкая заглушка — только если gov.kz и локальная копия недоступны. */
 export const IMAGE_PLACEHOLDER =
@@ -35,17 +36,26 @@ export function extractMediaPath(src?: string | null): string | null {
 }
 
 /** Для /uploads/ сначала gov.kz (всегда актуально), затем локальная копия после CI. */
-export function resolveMediaUrl(src: string | null | undefined, stage: 0 | 1 | 2): string {
+export function resolveMediaUrl(src: string | null | undefined, stage: 0 | 1 | 2 | 3): string {
   const mediaPath = extractMediaPath(src);
   if (!mediaPath && !src) return IMAGE_PLACEHOLDER;
 
   if (mediaPath?.startsWith("/images/")) {
-    return stage === 2 ? IMAGE_PLACEHOLDER : assetPath(mediaPath);
+    if (stage === 0) return assetPath(mediaPath);
+    if (stage === 1) {
+      const alt = getDiversePhoto(mediaPath, [mediaPath]);
+      return alt.startsWith("/uploads/") ? localMediaUrl(alt) : assetPath(alt);
+    }
+    return IMAGE_PLACEHOLDER;
   }
 
   if (mediaPath?.startsWith("/uploads/")) {
     if (stage === 0) return govMediaUrl(mediaPath);
     if (stage === 1) return localMediaUrl(mediaPath);
+    if (stage === 2) {
+      const alt = getDiversePhoto(mediaPath, [mediaPath]);
+      return localMediaUrl(alt);
+    }
     return IMAGE_PLACEHOLDER;
   }
 
@@ -54,6 +64,11 @@ export function resolveMediaUrl(src: string | null | undefined, stage: 0 | 1 | 2
   }
   if (stage === 1 && mediaPath) {
     return govMediaUrl(mediaPath);
+  }
+  if (stage === 2) {
+    const alt = getDiversePhoto(mediaPath || src || "img", mediaPath ? [mediaPath] : undefined);
+    if (alt.startsWith("/uploads/")) return localMediaUrl(alt);
+    return assetPath(alt);
   }
   return IMAGE_PLACEHOLDER;
 }
@@ -69,6 +84,12 @@ export function attachImageFallbacks(root: HTMLElement): () => void {
 
     const onError = () => {
       if (mediaPath?.startsWith("/images/")) {
+        if (stage === 0) {
+          stage = 1;
+          const alt = getDiversePhoto(initial || "html-img", [initial]);
+          img.src = alt.startsWith("/uploads/") ? localMediaUrl(alt) : assetPath(alt);
+          return;
+        }
         stage = 2;
         img.src = IMAGE_PLACEHOLDER;
         return;
@@ -79,6 +100,12 @@ export function attachImageFallbacks(root: HTMLElement): () => void {
           img.src = localMediaUrl(mediaPath);
           return;
         }
+        if (stage === 1) {
+          stage = 2;
+          const alt = getDiversePhoto(mediaPath, [mediaPath]);
+          img.src = localMediaUrl(alt);
+          return;
+        }
         stage = 2;
         img.src = IMAGE_PLACEHOLDER;
         return;
@@ -86,6 +113,12 @@ export function attachImageFallbacks(root: HTMLElement): () => void {
       if (stage === 0 && mediaPath) {
         stage = 1;
         img.src = govMediaUrl(mediaPath);
+        return;
+      }
+      if (stage === 1) {
+        stage = 2;
+        const alt = getDiversePhoto(initial || "html-img");
+        img.src = alt.startsWith("/uploads/") ? localMediaUrl(alt) : assetPath(alt);
         return;
       }
       stage = 2;

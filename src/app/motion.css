@@ -1,0 +1,356 @@
+/* Анимации в духе metamask.io: плавное появление, градиенты, hover — с учётом prefers-reduced-motion */
+
+html {
+  scroll-behavior: smooth;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+
+  .motion-reveal,
+  .motion-reveal--visible,
+  .motion-stagger > *,
+  .motion-gradient-bg,
+  .motion-orb,
+  .ardfm-header--scrolled,
+  .page-enter,
+  .home-page::before {
+    animation: none !important;
+    transition: none !important;
+    opacity: 1 !important;
+    transform: none !important;
+  }
+}
+
+/* ——— Scroll reveal ——— */
+.motion-reveal {
+  opacity: 0;
+  transition:
+    opacity 0.85s cubic-bezier(0.22, 1, 0.36, 1),
+    transform 0.85s cubic-bezier(0.22, 1, 0.36, 1);
+  transition-delay: var(--motion-delay, 0ms);
+  will-change: opacity, transform;
+}
+
+.motion-reveal--up {
+  transform: translateY(36px);
+}
+
+.motion-reveal--down {
+  transform: translateY(-28px);
+}
+
+.motion-reveal--left {
+  transform: translateX(-40px);
+}
+
+.motion-reveal--right {
+  transform: translateX(40px);
+}
+
+.motion-reveal--scale {
+  transform: scale(0.94);
+}
+
+.motion-reveal--visible {
+  opacity: 1;
+  transform: none;
+}
+
+.motion-stagger.motion-reveal--visible > * {
+  animation: motion-fade-up 0.75s cubic-bezier(0.22, 1, 0.36, 1) backwards;
+  animation-delay: calc(var(--motion-delay, 0ms) + var(--stagger-i, 0) * 90ms);
+}
+
+@keyframes motion-fade-up {
+  from {
+    opacity: 0;
+    transform: translateY(28px);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+/* ——— Страница при переходе ——— */
+.ardfm-main {
+  animation: page-fade-in 0.55s cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+@keyframes page-fade-in {
+  from {
+    opacity: 0;
+    transform: translateY(12px);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+.page-enter {
+  animation: page-fade-in 0.45s cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+/* ——— Шапка при скролле ——— */
+.ardfm-header {
+  transition:
+    box-shadow 0.35s ease,
+    backdrop-filter 0.35s ease;
+}
+
+.ardfm-header--scrolled {
+  box-shadow: 0 8px 32px rgba(30, 45, 110, 0.12);
+  backdrop-filter: blur(10px);
+}
+
+.ardfm-header--scrolled .ardfm-header__top {
+  background: rgba(250, 251, 253, 0.92);
+}
+
+/* ——— Навигация: подчёркивание как на MetaMask ——— */
+.ardfm-nav__link {
+  position: relative;
+}
+
+.ardfm-nav__link::after {
+  content: "";
+  position: absolute;
+  left: 0.5rem;
+  right: 0.5rem;
+  bottom: 0.15rem;
+  height: 2px;
+  background: #fff;
+  transform: scaleX(0);
+  transform-origin: center;
+  transition: transform 0.35s cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+.ardfm-nav__link:hover::after,
+.ardfm-nav__link.active::after {
+  transform: scaleX(1);
+}
+
+/* ——— Кнопки: лёгкий блик ——— */
+.btn {
+  position: relative;
+  overflow: hidden;
+  transition:
+    transform 0.25s cubic-bezier(0.22, 1, 0.36, 1),
+    box-shadow 0.25s ease,
+    background 0.2s ease;
+}
+
+.btn:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 10px 24px rgba(64, 83, 212, 0.28);
+}
+
+.btn:active {
+  transform: translateY(0);
+}
+
+.btn::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(
+    105deg,
+    transparent 35%,
+    rgba(255, 255, 255, 0.35) 50%,
+    transparent 65%
+  );
+  transform: translateX(-120%);
+  transition: transform 0.55s ease;
+}
+
+.btn:hover::after {
+  transform: translateX(120%);
+}
+
+/* ——— Карточки: подъём при наведении ——— */
+.contacts-service-card,
+.visual-gallery__item,
+.home-projects__card,
+.contacts-step-card,
+.home-press__hero-card,
+.home-press__thumb-card,
+.charts-strip__link {
+  transition:
+    transform 0.4s cubic-bezier(0.22, 1, 0.36, 1),
+    box-shadow 0.4s ease,
+    border-color 0.3s ease;
+}
+
+.contacts-service-card:hover,
+.visual-gallery__item:hover,
+.home-projects__card:hover,
+.contacts-step-card:hover {
+  transform: translateY(-6px);
+}
+
+/* ——— Живой градиент (hero / contacts) ——— */
+.motion-gradient-bg {
+  background-size: 200% 200%;
+  animation: motion-gradient-shift 10s ease infinite;
+}
+
+@keyframes motion-gradient-shift {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+.contacts-hero.motion-gradient-bg {
+  background: linear-gradient(
+    135deg,
+    #1e2d6e 0%,
+    #4053d4 35%,
+    #00afc7 70%,
+    #2a3a8f 100%
+  );
+}
+
+/* ——— Декоративные «орбы» на главной ——— */
+.home-page {
+  position: relative;
+  overflow: hidden;
+}
+
+.home-page::before {
+  content: "";
+  pointer-events: none;
+  position: absolute;
+  top: -120px;
+  right: -80px;
+  width: 420px;
+  height: 420px;
+  border-radius: 50%;
+  background: radial-gradient(circle, rgba(0, 175, 202, 0.18) 0%, transparent 70%);
+  animation: motion-float 14s ease-in-out infinite;
+  z-index: 0;
+}
+
+.home-page::after {
+  content: "";
+  pointer-events: none;
+  position: absolute;
+  bottom: 20%;
+  left: -100px;
+  width: 360px;
+  height: 360px;
+  border-radius: 50%;
+  background: radial-gradient(circle, rgba(64, 83, 212, 0.12) 0%, transparent 70%);
+  animation: motion-float 18s ease-in-out infinite reverse;
+  z-index: 0;
+}
+
+.home-page > * {
+  position: relative;
+  z-index: 1;
+}
+
+@keyframes motion-float {
+  0%,
+  100% {
+    transform: translate(0, 0) scale(1);
+  }
+  50% {
+    transform: translate(-20px, 24px) scale(1.05);
+  }
+}
+
+/* ——— Лента фото: мягкий zoom при hover ——— */
+.home-flag-ribbon__link {
+  display: block;
+  overflow: hidden;
+  border-radius: 12px;
+}
+
+.home-flag-ribbon__img {
+  transition: transform 0.7s cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+.home-flag-ribbon__link:hover .home-flag-ribbon__img {
+  transform: scale(1.04);
+}
+
+.contacts-hero__img {
+  transition: transform 0.7s cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+.contacts-hero:hover .contacts-hero__img {
+  transform: scale(1.05);
+}
+
+/* ——— Пресс-центр: overlay плавнее ——— */
+.home-press__hero-overlay {
+  transition: background 0.4s ease;
+}
+
+.home-press__hero-card:hover .home-press__hero-overlay {
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.82) 0%, transparent 60%);
+}
+
+/* ——— Заголовки секций ——— */
+.home-projects__title,
+.contacts-section-title,
+.visual-gallery__head h2 {
+  background: linear-gradient(90deg, var(--gov-blue-dark), #00afc7);
+  background-size: 200% auto;
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: motion-title-shine 6s linear infinite;
+}
+
+@keyframes motion-title-shine {
+  to {
+    background-position: 200% center;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .home-projects__title,
+  .contacts-section-title,
+  .visual-gallery__head h2 {
+    -webkit-text-fill-color: var(--gov-blue-dark);
+    background: none;
+    animation: none;
+  }
+}
+
+/* ——— Telegram CTA pulse ——— */
+.contacts-bot-card__icon {
+  animation: motion-pulse-soft 3s ease-in-out infinite;
+}
+
+@keyframes motion-pulse-soft {
+  0%,
+  100% {
+    box-shadow: 0 8px 20px rgba(34, 158, 217, 0.35);
+  }
+  50% {
+    box-shadow: 0 12px 32px rgba(34, 158, 217, 0.55);
+  }
+}
+
+/* ——— Табы пресс-центра ——— */
+.home-press__tab {
+  transition:
+    color 0.25s ease,
+    border-color 0.25s ease;
+}
+
+.home-press__tab:hover {
+  color: var(--gov-blue);
+}

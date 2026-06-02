@@ -24,17 +24,13 @@ export function GovImage({
   sizes = "(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw",
 }: Props) {
   const mediaPath = useMemo(() => extractMediaPath(src), [src]);
-  const [stage, setStage] = useState<0 | 1 | 2>(0);
+  const [stage, setStage] = useState<0 | 1 | 2 | 3>(0);
 
   const url = useMemo(() => resolveMediaUrl(src, stage), [src, stage]);
 
   const onError = useCallback(() => {
-    if (mediaPath?.startsWith("/images/")) {
-      setStage(2);
-      return;
-    }
-    setStage((s) => (s < 2 ? ((s + 1) as 0 | 1 | 2) : 2));
-  }, [mediaPath]);
+    setStage((s) => (s < 3 ? ((s + 1) as 0 | 1 | 2 | 3) : 3));
+  }, []);
 
   if (!src && !mediaPath) return null;
 

@@ -1,3 +1,4 @@
+import { getDiversePhoto } from "./photo-pool";
 import type { GovNews } from "./types";
 
 const IMG_RE = /src=["'](\/uploads\/[^"']+)["']/i;
@@ -8,6 +9,14 @@ export function extractNewsImage(item: { body?: string; heropic?: string }): str
   const body = item.body || "";
   const m = body.match(IMG_RE);
   return m ? normalizeUploadPath(m[1]) : "";
+}
+
+/** Реальное фото из материала или уникальный кадр из пула gov.kz. */
+export function resolveItemImage(
+  item: { body?: string; heropic?: string; title?: string },
+  seed: string,
+): string {
+  return extractNewsImage(item) || getDiversePhoto(seed || item.title || "item");
 }
 
 function normalizeUploadPath(src: string): string {

@@ -5,7 +5,7 @@ import {
   MAKAROV_GOV_UPLOAD,
 } from "@/lib/makarov-media";
 import { HOME_RIBBON_IMAGE } from "@/lib/site-media";
-import { extractNewsImage, sortNewsByDate } from "@/lib/news-media";
+import { extractNewsImage, resolveItemImage, sortNewsByDate } from "@/lib/news-media";
 
 export type HomeGalleryItem = {
   src: string;
@@ -47,7 +47,7 @@ function collectPressAndNewsPool(limit: number): HomeGalleryItem[] {
   const seen = new Set<string>();
 
   for (const pr of sortNewsByDate(pressReleases)) {
-    const src = extractNewsImage(pr);
+    const src = resolveItemImage(pr, `pr-${pr.id}`);
     if (src) {
       addUnique(
         pool,
@@ -60,7 +60,7 @@ function collectPressAndNewsPool(limit: number): HomeGalleryItem[] {
 
   const sortedNews = sortNewsByDate(news);
   for (const n of sortedNews) {
-    const src = extractNewsImage(n);
+    const src = resolveItemImage(n, `news-${n.id}`);
     if (src) {
       addUnique(
         pool,
@@ -73,7 +73,10 @@ function collectPressAndNewsPool(limit: number): HomeGalleryItem[] {
 
   for (const a of articles) {
     if (a.id === MAKAROV_ARTICLE_ID) continue;
-    const src = extractNewsImage({ body: a.content, heropic: a.heropic });
+    const src = resolveItemImage(
+      { body: a.content, heropic: a.heropic, title: a.title },
+      `article-${a.id}`,
+    );
     if (src) {
       addUnique(
         pool,
