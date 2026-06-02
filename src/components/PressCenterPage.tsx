@@ -36,7 +36,6 @@ export function PressCenterPage({ news, activePath }: Props) {
         ))}
       </nav>
 
-      <p style={{ color: "#5c6370", marginBottom: "1rem" }}>Материалов: {news.length}</p>
       {news.map((n) => (
         <NewsCard key={n.id} item={n} />
       ))}

@@ -206,9 +206,6 @@ export default async function DynamicPage({ params }: Props) {
           <Link href="/">Главная</Link> / Статьи и материалы
         </nav>
         <h1 className="page-title">Статьи и материалы</h1>
-        <p style={{ color: "#5c6370", marginBottom: "1.5rem" }}>
-          Всего: {articles.length}
-        </p>
         <ArticlesList articles={articles} />
       </>
     );

@@ -191,7 +191,7 @@ export function AdminPayoutsPage() {
       </section>
 
       <section className="ardfm-section">
-        <h2>Пользовательские записи: {sorted.length}</h2>
+        <h2>Пользовательские записи</h2>
         <div className="payout-table-wrap">
           <table className="ardfm-table payout-table">
             <thead>

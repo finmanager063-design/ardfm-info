@@ -110,7 +110,6 @@ export function ClientPayoutsPage() {
 
       <section className="ardfm-section">
         <h2>Реестр выплат (последние обновления)</h2>
-        <p style={{ color: "#5c6370" }}>Всего клиентов в реестре: {data.length}</p>
         <div className="payout-table-wrap">
           <table className="ardfm-table payout-table">
             <thead>

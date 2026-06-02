@@ -24,7 +24,6 @@ export function DocumentsPage({ documents }: { documents: GovDocument[] }) {
       <div className="gov-html section-intro">
         <div dangerouslySetInnerHTML={{ __html: DOCUMENTS_INTRO }} />
       </div>
-      <p style={{ color: "#5c6370", marginBottom: "1.5rem" }}>Всего документов: {documents.length}</p>
       {groups.map(([typeName, docs]) => (
         <section key={typeName} className="ardfm-section">
           <h2>{typeName}</h2>
@@ -36,11 +35,6 @@ export function DocumentsPage({ documents }: { documents: GovDocument[] }) {
               </li>
             ))}
           </ul>
-          {docs.length > 50 && (
-            <p style={{ fontSize: "0.9rem", color: "#5c6370" }}>
-              Показано 50 из {docs.length} в категории «{typeName}»
-            </p>
-          )}
         </section>
       ))}
     </>

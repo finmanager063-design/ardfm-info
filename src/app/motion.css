@@ -354,3 +354,74 @@ html {
 .home-press__tab:hover {
   color: var(--gov-blue);
 }
+
+/* ——— Премиум-подача блоков платформы ——— */
+.ardfm-section,
+.payout-search,
+.payout-result,
+.news-card,
+.doc-list li,
+.event-list li,
+.articles-list__item {
+  position: relative;
+  transition:
+    transform 0.35s cubic-bezier(0.22, 1, 0.36, 1),
+    box-shadow 0.35s ease,
+    border-color 0.35s ease;
+}
+
+.ardfm-section:hover,
+.payout-search:hover,
+.payout-result:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 14px 34px rgba(30, 45, 110, 0.1);
+}
+
+.news-card:hover,
+.doc-list li:hover,
+.event-list li:hover,
+.articles-list__item:hover {
+  transform: translateY(-2px);
+}
+
+.page-title {
+  position: relative;
+  overflow: hidden;
+}
+
+.page-title::after {
+  content: "";
+  position: absolute;
+  left: -120%;
+  top: 0;
+  width: 90px;
+  height: 100%;
+  background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.45), transparent);
+  animation: title-scan 5.5s ease-in-out infinite;
+}
+
+@keyframes title-scan {
+  0%,
+  70%,
+  100% {
+    transform: translateX(0);
+  }
+  35% {
+    transform: translateX(340%);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .ardfm-section,
+  .payout-search,
+  .payout-result,
+  .news-card,
+  .doc-list li,
+  .event-list li,
+  .articles-list__item,
+  .page-title::after {
+    transition: none !important;
+    animation: none !important;
+    transform: none !important;
+  }
+}
