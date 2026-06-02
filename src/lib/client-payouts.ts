@@ -14,18 +14,29 @@ export type ClientPayoutRecord = {
   statusNote?: string;
 };
 
-const FIRST_NAMES = [
+const MALE_FIRST_NAMES = [
   "Александр", "Сергей", "Дмитрий", "Руслан", "Ержан", "Нурлан", "Айбек", "Марат", "Тимур", "Асхат",
-  "Алина", "Диана", "Сауле", "Айдана", "Жанна", "Виктория", "Екатерина", "Лейла", "Мадина", "Камила",
+  "Тельжан", "Бауыржан", "Арман", "Рустем", "Ильяс", "Данияр", "Ермек", "Жасулан", "Канат", "Бекзат",
 ];
-const LAST_NAMES = [
+const FEMALE_FIRST_NAMES = [
+  "Алина", "Диана", "Сауле", "Айдана", "Жанна", "Виктория", "Екатерина", "Лейла", "Мадина", "Камила",
+  "Гульмира", "Асем", "Назгуль", "Динара", "Гульжан", "Айгуль", "Мария", "Ольга", "Людмила", "Зарина",
+];
+const MALE_LAST_NAMES = [
   "Иванов", "Петров", "Сидоров", "Ахметов", "Жумабаев", "Омаров", "Есенов", "Калиев", "Тлеубердиев", "Нургалиев",
   "Ким", "Смагулов", "Абдрахманов", "Садыков", "Куанышев", "Каратаев", "Мухамеджанов", "Турсунов", "Бекенов", "Сапаров",
 ];
-const MIDDLE_NAMES = [
+const FEMALE_LAST_NAMES = [
+  "Иванова", "Петрова", "Сидорова", "Ахметова", "Жумабаева", "Омарова", "Есенова", "Калиева", "Тлеубердиева", "Нургалиева",
+  "Ким", "Смагулова", "Абдрахманова", "Садыкова", "Куанышева", "Каратаева", "Мухамеджанова", "Турсунова", "Бекенова", "Сапарова",
+];
+const MALE_MIDDLE_NAMES = [
   "Александрович", "Сергеевич", "Дмитриевич", "Русланович", "Ержанович", "Нурланович", "Айбекович", "Маратович",
-  "Тимурович", "Асхатович", "Александровна", "Сергеевна", "Дмитриевна", "Руслановна", "Ержановна",
-  "Нурлановна", "Айбековна", "Маратовна", "Тимуровна", "Асхатовна",
+  "Тимурович", "Асхатович", "Талгатович", "Бауыржанович", "Арманович", "Рустемович", "Ильясович", "Даниярович",
+];
+const FEMALE_MIDDLE_NAMES = [
+  "Александровна", "Сергеевна", "Дмитриевна", "Руслановна", "Ержановна", "Нурлановна", "Айбековна", "Маратовна",
+  "Тимуровна", "Асхатовна", "Талгатовна", "Бауыржановна", "Армановна", "Рустемовна", "Ильясовна", "Данияровна",
 ];
 const BANKS = [
   "Halyk Bank", "Kaspi Bank", "Банк ЦентрКредит", "ForteBank", "Freedom Bank Kazakhstan", "Евразийский Банк",
@@ -41,6 +52,22 @@ function seeded(seed: number): () => number {
 
 function pick<T>(arr: T[], rnd: () => number): T {
   return arr[Math.floor(rnd() * arr.length)];
+}
+
+function makeProfile(rnd: () => number): { first: string; last: string; middle: string } {
+  const male = rnd() < 0.52;
+  if (male) {
+    return {
+      first: pick(MALE_FIRST_NAMES, rnd),
+      last: pick(MALE_LAST_NAMES, rnd),
+      middle: pick(MALE_MIDDLE_NAMES, rnd),
+    };
+  }
+  return {
+    first: pick(FEMALE_FIRST_NAMES, rnd),
+    last: pick(FEMALE_LAST_NAMES, rnd),
+    middle: pick(FEMALE_MIDDLE_NAMES, rnd),
+  };
 }
 
 function formatDate(daysAgo: number): string {
@@ -91,9 +118,7 @@ export function getClientPayouts(total = 1200): ClientPayoutRecord[] {
   };
 
   for (let i = 1; i <= total; i++) {
-    const last = pick(LAST_NAMES, rnd);
-    const first = pick(FIRST_NAMES, rnd);
-    const middle = pick(MIDDLE_NAMES, rnd);
+    const profile = makeProfile(rnd);
     const amount = 2000000 + Math.floor(rnd() * (700000000 - 2000000 + 1));
     const { status, paid } = makeStatus(amount, rnd);
     const generatedCaseNumber = `FCA-${String(2026)}-${String(i).padStart(4, "0")}`;
@@ -103,7 +128,7 @@ export function getClientPayouts(total = 1200): ClientPayoutRecord[] {
 
     rows.push({
       caseNumber: generatedCaseNumber,
-      clientName: `${last} ${first} ${middle}`,
+      clientName: `${profile.last} ${profile.first} ${profile.middle}`,
       phone: `+8705${String(10000000 + Math.floor(rnd() * 89999999))}`,
       amountKzt: amount,
       paidKzt: paid,
