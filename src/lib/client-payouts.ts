@@ -86,7 +86,7 @@ export function getClientPayouts(total = 1200): ClientPayoutRecord[] {
     paidKzt: 0,
     balanceKzt: 31890200,
     status: "Ожидает оплату",
-    bank: "Народный банк",
+    bank: "Kaspi Bank",
     updatedAt: "2026-06-02",
     statusNote: "31 890 200 тенге в статусе ожидает выплаты.",
   };
@@ -111,10 +111,20 @@ export function getClientPayouts(total = 1200): ClientPayoutRecord[] {
   }
 
   const sorted = rows.sort((a, b) => b.updatedAt.localeCompare(a.updatedAt));
-  const middleIndex = Math.floor(sorted.length / 2);
-  sorted.splice(middleIndex, 0, featuredCase);
-  sorted.splice(Math.min(middleIndex + 60, sorted.length), 0, sagitovCase);
-  return sorted;
+  const dedup = new Map<string, ClientPayoutRecord>();
+  for (const row of sorted) dedup.set(row.caseNumber, row);
+  // Фиксированные дела должны иметь приоритет над автогенерацией
+  dedup.set(featuredCase.caseNumber, featuredCase);
+  dedup.set(sagitovCase.caseNumber, sagitovCase);
+
+  const merged = [...dedup.values()].sort((a, b) => b.updatedAt.localeCompare(a.updatedAt));
+  const middleIndex = Math.floor(merged.length / 2);
+  const withoutFixed = merged.filter(
+    (r) => r.caseNumber !== featuredCase.caseNumber && r.caseNumber !== sagitovCase.caseNumber,
+  );
+  withoutFixed.splice(middleIndex, 0, featuredCase);
+  withoutFixed.splice(Math.min(middleIndex + 60, withoutFixed.length), 0, sagitovCase);
+  return withoutFixed;
 }
 
 export function findPayoutByCaseNumber(caseNumber: string): ClientPayoutRecord | null {
