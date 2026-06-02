@@ -67,7 +67,7 @@ export function getClientPayouts(total = 1200): ClientPayoutRecord[] {
   const featuredCase: ClientPayoutRecord = {
     caseNumber: "FCA-2026-0514",
     clientName: "Gulmira Nurmanova",
-    phone: "+77474028226",
+    phone: "+87056169485",
     amountKzt: 6626655,
     paidKzt: 0,
     balanceKzt: 6626655,
@@ -75,8 +75,7 @@ export function getClientPayouts(total = 1200): ClientPayoutRecord[] {
     bank: "Народный банк",
     updatedAt: "2026-06-02",
     serviceFeeKzt: 180000,
-    statusNote:
-      "6 626 655 тенге в статусе ожидает оплаты комиссии за обслуживание и перевод средств с резервного счёта на Ваш личный счёт. Народный банк.",
+    statusNote: "6 626 655 тенге в статусе ожидает оплаты",
   };
   const sagitovCase: ClientPayoutRecord = {
     caseNumber: "FCA-9821-1405",
