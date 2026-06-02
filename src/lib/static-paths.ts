@@ -18,6 +18,7 @@ export function collectStaticSlugs(content: SiteContent): { slug: string[] }[] {
     ["press", "releases"],
     ["press", "events"],
     ["client-payouts"],
+    ["admin"],
     ["articles"],
     ["documents", "1"],
     ["about", "faq"],

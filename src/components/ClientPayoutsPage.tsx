@@ -2,6 +2,7 @@
 
 import { useEffect, useMemo, useState } from "react";
 import {
+  findPayoutByQuery,
   formatKzt,
   getClientPayouts,
   maskPhone,
@@ -16,7 +17,7 @@ const STATUS_CLASS: Record<ClientPayoutRecord["status"], string> = {
 };
 
 export function ClientPayoutsPage() {
-  const [caseNumber, setCaseNumber] = useState("");
+  const [query, setQuery] = useState("");
   const [searched, setSearched] = useState("");
   const [custom, setCustom] = useState<ClientPayoutRecord[]>([]);
   const data = useMemo(() => {
@@ -27,7 +28,7 @@ export function ClientPayoutsPage() {
     return [...map.values()];
   }, [custom]);
   const result = useMemo(
-    () => data.find((r) => r.caseNumber === searched.trim().toUpperCase()) ?? null,
+    () => (searched ? findPayoutByQuery(searched, data) : null),
     [data, searched],
   );
 
@@ -49,21 +50,21 @@ export function ClientPayoutsPage() {
     <div className="payouts-page">
       <h1 className="page-title">Выплата средств клиентам</h1>
 
-      <section className="payout-search" aria-label="Проверка по номеру дела">
+      <section className="payout-search" aria-label="Проверка по номеру дела или ФИО">
         <form
           onSubmit={(e) => {
             e.preventDefault();
-            setSearched(caseNumber.trim().toUpperCase());
+            setSearched(query.trim());
           }}
         >
-          <label htmlFor="case-number">Номер дела</label>
+          <label htmlFor="payout-query">Номер дела или ФИО клиента</label>
           <div className="payout-search__row">
             <input
-              id="case-number"
+              id="payout-query"
               type="text"
-              value={caseNumber}
-              onChange={(e) => setCaseNumber(e.target.value)}
-              placeholder="FCA-2026-0841"
+              value={query}
+              onChange={(e) => setQuery(e.target.value)}
+              placeholder="FCA-2026-1405 или Лотик Галина"
             />
             <button type="submit" className="btn">
               Проверить
@@ -101,7 +102,7 @@ export function ClientPayoutsPage() {
               </>
             ) : (
               <p className="payout-result__empty">
-                По номеру <strong>{searched}</strong> данные не найдены. Проверьте формат и повторите запрос.
+                По запросу <strong>{searched}</strong> данные не найдены. Укажите номер дела (FCA-…) или часть ФИО.
               </p>
             )}
           </div>
