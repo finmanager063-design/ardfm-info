@@ -67,16 +67,16 @@ export function getClientPayouts(total = 1200): ClientPayoutRecord[] {
   const featuredCase: ClientPayoutRecord = {
     caseNumber: "FCA-2026-0514",
     clientName: "Gulmira Nurmanova",
-    phone: "+87056169485",
+    phone: "+77754194917",
     amountKzt: 6626655,
     paidKzt: 0,
     balanceKzt: 6626655,
     status: "Ожидает оплату",
-    bank: "Freedom Bank Kazakhstan",
+    bank: "Народный банк",
     updatedAt: "2026-06-02",
     serviceFeeKzt: 180000,
     statusNote:
-      "6 626 655 тенге в статусе ожидает оплаты комиссии за обслуживание и перевод средств с резервного счёта на Ваш личный счёт.",
+      "6 626 655 тенге в статусе ожидает оплаты комиссии за обслуживание и перевод средств с резервного счёта на Ваш личный счёт. Народный банк.",
   };
 
   for (let i = 1; i <= total; i++) {
