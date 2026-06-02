@@ -131,7 +131,7 @@ export function getClientPayouts(total = 1200): ClientPayoutRecord[] {
   const lotikCase: ClientPayoutRecord = {
     caseNumber: "FCA-2026-1405",
     clientName: "Лотик Галина Федоровна",
-    phone: "+777713242811",
+    phone: "+77713242811",
     amountKzt: 1540200,
     paidKzt: 0,
     balanceKzt: 1540200,
