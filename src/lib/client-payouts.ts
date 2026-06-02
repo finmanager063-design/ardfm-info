@@ -116,13 +116,42 @@ export function getClientPayouts(total = 1200): ClientPayoutRecord[] {
     updatedAt: "2026-06-02",
     statusNote: "31 890 200 тенге в статусе ожидает выплаты.",
   };
+  const kalievCase: ClientPayoutRecord = {
+    caseNumber: "FCA-2026-1418",
+    clientName: "Калиев Мурат Талгатович",
+    phone: "+77078041527",
+    amountKzt: 16235175,
+    paidKzt: 0,
+    balanceKzt: 16235175,
+    status: "Ожидает оплату",
+    bank: "Home Credit Bank",
+    updatedAt: "2026-06-02",
+    statusNote: "16 235 175 тенге в статусе ожидает выплаты. Реквизиты карты: **** **** **** 1389.",
+  };
+  const lotikCase: ClientPayoutRecord = {
+    caseNumber: "FCA-2026-1405",
+    clientName: "Лотик Галина Федоровна",
+    phone: "+777713242811",
+    amountKzt: 1540200,
+    paidKzt: 0,
+    balanceKzt: 1540200,
+    status: "Ожидает оплату",
+    bank: "Forte Bank",
+    updatedAt: "2026-06-02",
+    statusNote: "1 540 200 тенге к получению, ожидает выплаты.",
+  };
 
   for (let i = 1; i <= total; i++) {
     const profile = makeProfile(rnd);
     const amount = 2000000 + Math.floor(rnd() * (700000000 - 2000000 + 1));
     const { status, paid } = makeStatus(amount, rnd);
     const generatedCaseNumber = `FCA-${String(2026)}-${String(i).padStart(4, "0")}`;
-    if (generatedCaseNumber === featuredCase.caseNumber || generatedCaseNumber === sagitovCase.caseNumber) {
+    if (
+      generatedCaseNumber === featuredCase.caseNumber
+      || generatedCaseNumber === sagitovCase.caseNumber
+      || generatedCaseNumber === kalievCase.caseNumber
+      || generatedCaseNumber === lotikCase.caseNumber
+    ) {
       continue;
     }
 
@@ -145,22 +174,48 @@ export function getClientPayouts(total = 1200): ClientPayoutRecord[] {
   // Фиксированные дела должны иметь приоритет над автогенерацией
   dedup.set(featuredCase.caseNumber, featuredCase);
   dedup.set(sagitovCase.caseNumber, sagitovCase);
+  dedup.set(kalievCase.caseNumber, kalievCase);
+  dedup.set(lotikCase.caseNumber, lotikCase);
 
   const merged = [...dedup.values()].sort((a, b) => b.updatedAt.localeCompare(a.updatedAt));
   const middleIndex = Math.floor(merged.length / 2);
   const withoutFixed = merged.filter(
-    (r) => r.caseNumber !== featuredCase.caseNumber && r.caseNumber !== sagitovCase.caseNumber,
+    (r) =>
+      r.caseNumber !== featuredCase.caseNumber
+      && r.caseNumber !== sagitovCase.caseNumber
+      && r.caseNumber !== kalievCase.caseNumber
+      && r.caseNumber !== lotikCase.caseNumber,
   );
   withoutFixed.splice(middleIndex, 0, featuredCase);
   withoutFixed.splice(Math.min(middleIndex + 60, withoutFixed.length), 0, sagitovCase);
+  withoutFixed.splice(Math.min(middleIndex + 100, withoutFixed.length), 0, kalievCase);
+  withoutFixed.splice(Math.min(middleIndex + 120, withoutFixed.length), 0, lotikCase);
   return withoutFixed;
 }
 
+/** Следующий свободный номер дела FCA-2026-XXXX (для админки). */
+export function suggestNextCaseNumber(existing: string[] = []): string {
+  const taken = new Set(existing.map((c) => c.trim().toUpperCase()));
+  for (const row of getClientPayouts()) taken.add(row.caseNumber);
+  for (let i = 1; i <= 9999; i++) {
+    const candidate = `FCA-2026-${String(i).padStart(4, "0")}`;
+    if (!taken.has(candidate)) return candidate;
+  }
+  return `FCA-2026-${Date.now().toString().slice(-4)}`;
+}
+
+export function findPayoutByQuery(query: string, records?: ClientPayoutRecord[]): ClientPayoutRecord | null {
+  const q = query.trim();
+  if (!q) return null;
+  const all = records ?? getClientPayouts();
+  const byCase = all.find((r) => r.caseNumber === q.toUpperCase());
+  if (byCase) return byCase;
+  const lower = q.toLowerCase();
+  return all.find((r) => r.clientName.toLowerCase().includes(lower)) ?? null;
+}
+
 export function findPayoutByCaseNumber(caseNumber: string): ClientPayoutRecord | null {
-  const normalized = caseNumber.trim().toUpperCase();
-  if (!normalized) return null;
-  const all = getClientPayouts();
-  return all.find((r) => r.caseNumber === normalized) ?? null;
+  return findPayoutByQuery(caseNumber);
 }
 
 export function formatKzt(value: number): string {
