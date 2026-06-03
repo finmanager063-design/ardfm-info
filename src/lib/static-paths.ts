@@ -58,7 +58,7 @@ export function collectStaticSlugs(content: SiteContent): { slug: string[] }[] {
   for (const p of content.pages) {
     if (p.slug === "finansovye-rynki" || p.title === "Финансовые рынки") continue;
     const link = p.internal_link?.replace(/^\//, "").replace(/\/$/, "");
-    if (!link || link === "") continue;
+    if (!link || link === "" || link === "activities/population") continue;
     addSlug(seen, link.split("/"));
   }
 
