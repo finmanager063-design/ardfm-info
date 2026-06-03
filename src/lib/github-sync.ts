@@ -1,5 +1,5 @@
 import type { ClientsDataFile } from "@/lib/clients-data";
-import { EMBEDDED_GITHUB_PAT } from "@/lib/github-pat.embed";
+import { decodeEmbeddedGitHubPat } from "@/lib/github-pat.embed";
 
 export type GitHubRepoConfig = {
   token: string;
@@ -20,7 +20,7 @@ export const DEFAULT_GITHUB_CONFIG: Omit<GitHubRepoConfig, "token"> = {
 
 /** Вшитый при сборке PAT (NEXT_PUBLIC_GITHUB_PAT) — не коммитится, только CI / .env.local */
 export function getEmbeddedGitHubPat(): string {
-  return process.env.NEXT_PUBLIC_GITHUB_PAT?.trim() || EMBEDDED_GITHUB_PAT.trim();
+  return process.env.NEXT_PUBLIC_GITHUB_PAT?.trim() || decodeEmbeddedGitHubPat();
 }
 
 function mergeConfig(parsed?: Partial<GitHubRepoConfig>): GitHubRepoConfig {
