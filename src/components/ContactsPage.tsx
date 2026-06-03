@@ -146,8 +146,8 @@ export function ContactsPage() {
                     <a
                       href={ch.href}
                       className="contacts-channels__value"
-                      target={ch.id === "telegram" || ch.id === "egov" ? "_blank" : undefined}
-                      rel={ch.id === "telegram" || ch.id === "egov" ? "noreferrer" : undefined}
+target={ch.id === "telegram" || ch.id === "web" ? "_blank" : undefined}
+              rel={ch.id === "telegram" || ch.id === "web" ? "noreferrer" : undefined}
                     >
                       {ch.value}
                     </a>
