@@ -31,6 +31,10 @@ export function collectStaticSlugs(content: SiteContent): { slug: string[] }[] {
     ["accessibility"],
     ["en"],
     ["kk"],
+    ["premium"],
+    ["premium", "a"],
+    ["premium", "b"],
+    ["premium", "c"],
   ];
   for (const r of extraRoutes) addSlug(seen, r);
 

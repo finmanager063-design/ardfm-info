@@ -1,9 +1,10 @@
 import type { Metadata } from "next";
-import { GovShell } from "@/components/GovShell";
+import { ShellWrapper } from "@/components/ShellWrapper";
 import { basePath } from "@/lib/base-path";
 import { getContent } from "@/lib/content";
 import "./globals.css";
 import "./regylz.css";
+import "./premium.css";
 
 const content = getContent();
 
@@ -98,7 +99,7 @@ export default function RootLayout({
         />
       </head>
       <body>
-        <GovShell meta={content.meta}>{children}</GovShell>
+        <ShellWrapper meta={content.meta}>{children}</ShellWrapper>
       </body>
     </html>
   );

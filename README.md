@@ -72,4 +72,4 @@ NEXT_PUBLIC_SITE_URL=https://govkz.online NEXT_PUBLIC_BASE_PATH= npm run build:p
 
 ## Примечание
 
-Информационный ресурс на базе открытых данных gov.kz. Официальный источник: [gov.kz/memleket/entities/ardfm](https://www.gov.kz/memleket/entities/ardfm).
+Официальный информационный ресурс АРРФР: **https://govkz.online**.
