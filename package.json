@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "build:pages": "node scripts/build-search-index.mjs && node scripts/generate-photo-pool.mjs && SYNC_MAX_IMAGES=220 node scripts/download-home-images.mjs && node scripts/setup-kz-real-photos.mjs && NEXT_PUBLIC_BASE_PATH=${NEXT_PUBLIC_BASE_PATH:-} NEXT_PUBLIC_SITE_URL=${NEXT_PUBLIC_SITE_URL:-https://govkz.online} GITHUB_PAGES=true next build && node scripts/postbuild-pages.mjs",
+    "build:pages": "node scripts/embed-github-pat.mjs && node scripts/build-search-index.mjs && node scripts/generate-photo-pool.mjs && SYNC_MAX_IMAGES=220 node scripts/download-home-images.mjs && node scripts/setup-kz-real-photos.mjs && NEXT_PUBLIC_BASE_PATH=${NEXT_PUBLIC_BASE_PATH:-} NEXT_PUBLIC_SITE_URL=${NEXT_PUBLIC_SITE_URL:-https://govkz.online} GITHUB_PAGES=true next build && node scripts/postbuild-pages.mjs",
     "download-images": "node scripts/download-home-images.mjs",
     "start": "next start",
     "lint": "eslint",
