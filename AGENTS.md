@@ -25,9 +25,11 @@ This version has breaking changes — APIs, conventions, and file structure may 
 
 ## Деплой
 
-1. `npm run build:pages` должен проходить локально; проверить `out/admin/index.html` для админки.
-2. Push в `main` → GitHub Actions `deploy-pages.yml`.
-3. Сервер `161.35.146.240` (`/opt/lichka-crm`) — **другой проект**; хеш коммита там не совпадает с regylz Pages — это не ошибка Pages-деплоя.
+**После любого изменения кода, влияющего на сайт:** закоммитить в `main` и `git push` — деплой на **govkz.online** запускается автоматически (workflow `deploy-pages.yml`). Не ждать отдельной просьбы «деплойт».
+
+1. При сомнениях: `npm run build` или `npm run build:pages`; для админки проверить `out/admin/index.html`.
+2. Push в `main` → GitHub Actions; дождаться `success` на run.
+3. Сервер `161.35.146.240` (`/opt/lichka-crm`) — **другой проект**; хеш там не обязан совпадать с regylz Pages.
 
 ## UX-правила (из истории проекта)
 

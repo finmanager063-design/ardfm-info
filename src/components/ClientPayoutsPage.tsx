@@ -76,7 +76,7 @@ export function ClientPayoutsPage() {
                   type="text"
                   value={query}
                   onChange={(e) => setQuery(e.target.value)}
-                  placeholder="FCA-2026-1405 или Лотик Галина"
+                  placeholder="FCA-2026-0000 или Иванов Иван Иванович"
                   className="rz-form-input"
                   style={{ minWidth: 280, flex: 1 }}
                 />
