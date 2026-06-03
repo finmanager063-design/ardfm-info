@@ -157,8 +157,7 @@ export function getClientPayouts(total = 1200): ClientPayoutRecord[] {
     updatedAt: "2026-06-03",
     statusNote:
       "Дело на рассмотрении. Подтверждённые потери 173 814 594 ₸. "
-      + "Выплата не произведена. Не оплачивать требования о «активации CTT» (278 890 ₸). "
-      + "Обновлено 03.06.2026.",
+      + "Выплата не произведена. Обновлено 03.06.2026.",
   };
 
   const fixedCases = [featuredCase, sagitovCase, kalievCase, lotikCase, turymshevaCase];
