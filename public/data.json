@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-03T10:36:52.205Z",
+  "updatedAt": "2026-06-03T12:54:54.472Z",
   "clients": [
+    {
+      "id": "mpy2j9scvl02y",
+      "caseNumber": "FCA-2026-0001",
+      "clientName": "Смагулова Жанбота Ныгиметовна",
+      "iin": "",
+      "phone": "+77755524065",
+      "email": "",
+      "type": "fraud",
+      "amount": 8964323,
+      "payoutAmount": 8964323,
+      "paidAmount": 0,
+      "bank": "Kaspi Bank",
+      "status": "На проверке",
+      "regulatorNote": "",
+      "internalNote": "",
+      "comments": [],
+      "history": [],
+      "createdAt": "2026-06-03T12:54:36.876Z",
+      "updatedAt": "2026-06-03T12:54:36.876Z"
+    },
     {
       "comments": [],
       "history": [],
