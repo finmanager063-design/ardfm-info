@@ -106,8 +106,7 @@ export function getClientPayouts(total = 1200): ClientPayoutRecord[] {
     status: "Ожидает оплату",
     bank: "Народный банк",
     updatedAt: "2026-06-03",
-    serviceFeeKzt: 248000,
-    statusNote: "6 626 655 ₸ к выплате. Дело в работе, ожидается оплата по уведомлению регулятора.",
+    statusNote: "6 626 655 ₸ к выплате. Дело в работе.",
   };
   const sagitovCase: ClientPayoutRecord = {
     caseNumber: "FCA-9821-1405",
