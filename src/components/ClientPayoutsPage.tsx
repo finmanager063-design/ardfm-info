@@ -15,6 +15,7 @@ const STATUS_CLASS: Record<ClientPayoutRecord["status"], string> = {
   "Ожидает оплату": "pending",
   "Частично оплачено": "partial",
   "На проверке": "review",
+  "На рассмотрении": "review",
 };
 
 export function ClientPayoutsPage() {

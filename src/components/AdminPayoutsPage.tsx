@@ -13,6 +13,7 @@ const STORAGE_KEY = "regylz-payout-records";
 
 const STATUS_OPTIONS: PayoutStatus[] = [
   "Ожидает оплату",
+  "На рассмотрении",
   "Оплачено",
   "Частично оплачено",
   "На проверке",

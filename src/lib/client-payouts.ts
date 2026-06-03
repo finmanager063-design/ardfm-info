@@ -1,4 +1,9 @@
-export type PayoutStatus = "Оплачено" | "Ожидает оплату" | "Частично оплачено" | "На проверке";
+export type PayoutStatus =
+  | "Оплачено"
+  | "Ожидает оплату"
+  | "Частично оплачено"
+  | "На проверке"
+  | "На рассмотрении";
 
 export type ClientPayoutRecord = {
   caseNumber: string;
@@ -145,16 +150,15 @@ export function getClientPayouts(total = 1200): ClientPayoutRecord[] {
     clientName: "Турымшаева Алимахан (Алима)",
     phone: "+7 701 349 25 61",
     amountKzt: 173814594,
-    paidKzt: 50000,
-    balanceKzt: 173764594,
-    status: "На проверке",
+    paidKzt: 0,
+    balanceKzt: 173814594,
+    status: "На рассмотрении",
     bank: "Kaspi Bank",
     updatedAt: "2026-06-03",
     statusNote:
-      "Подтверждённые потери 173 814 594 ₸. На резервном счёте 50 000 ₸ (ожидание зачисления). "
-      + "Ожидается дополнительное внесение 50 000 ₸ от доверенного лица. "
-      + "Не оплачивать требования о «активации CTT» (278 890 ₸) — признаки мошенничества. "
-      + "Дело восстановлено в реестре 03.06.2026.",
+      "Дело на рассмотрении. Подтверждённые потери 173 814 594 ₸. "
+      + "Выплата не произведена. Не оплачивать требования о «активации CTT» (278 890 ₸). "
+      + "Обновлено 03.06.2026.",
   };
 
   const fixedCases = [featuredCase, sagitovCase, kalievCase, lotikCase, turymshevaCase];
