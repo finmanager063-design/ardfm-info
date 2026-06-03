@@ -98,16 +98,16 @@ export function getClientPayouts(total = 1200): ClientPayoutRecord[] {
 
   const featuredCase: ClientPayoutRecord = {
     caseNumber: "FCA-2026-0514",
-    clientName: "Gulmira Nurmanova",
-    phone: "+7 705 616 94 85",
+    clientName: "Шакирбековна Гульмира",
+    phone: "+7 778 219 10 76",
     amountKzt: 6626655,
     paidKzt: 0,
     balanceKzt: 6626655,
     status: "Ожидает оплату",
     bank: "Народный банк",
-    updatedAt: "2026-06-02",
-    serviceFeeKzt: 180000,
-    statusNote: "6 626 655 тенге в статусе ожидает оплаты",
+    updatedAt: "2026-06-03",
+    serviceFeeKzt: 248000,
+    statusNote: "6 626 655 ₸ к выплате. Дело в работе, ожидается оплата по уведомлению регулятора.",
   };
   const sagitovCase: ClientPayoutRecord = {
     caseNumber: "FCA-9821-1405",
@@ -128,10 +128,10 @@ export function getClientPayouts(total = 1200): ClientPayoutRecord[] {
     amountKzt: 16235175,
     paidKzt: 0,
     balanceKzt: 16235175,
-    status: "Ожидает оплату",
+    status: "На рассмотрении",
     bank: "Home Credit Bank",
-    updatedAt: "2026-06-02",
-    statusNote: "16 235 175 тенге в статусе ожидает выплаты. Реквизиты карты: **** **** **** 1389.",
+    updatedAt: "2026-06-03",
+    statusNote: "Дело на рассмотрении. Ожидаются документы от клиента.",
   };
   const lotikCase: ClientPayoutRecord = {
     caseNumber: "FCA-2026-1405",
@@ -159,8 +159,93 @@ export function getClientPayouts(total = 1200): ClientPayoutRecord[] {
       "Дело на рассмотрении. Подтверждённые потери 173 814 594 ₸. "
       + "Выплата не произведена. Обновлено 03.06.2026.",
   };
+  const uteshevCase: ClientPayoutRecord = {
+    caseNumber: "FCA-2026-1967",
+    clientName: "Утешов Бауржан",
+    phone: "+7 701 760 60 71",
+    amountKzt: 5400000,
+    paidKzt: 0,
+    balanceKzt: 5400000,
+    status: "На рассмотрении",
+    bank: "Halyk Bank",
+    updatedAt: "2026-06-03",
+    statusNote: "Дело на рассмотрении. Разбор операций по счёту, связь в диалоге.",
+  };
+  const bayalinCase: ClientPayoutRecord = {
+    caseNumber: "FCA-2026-1142",
+    clientName: "Баялин Жанабай",
+    phone: "+7 775 114 29 87",
+    amountKzt: 1000000,
+    paidKzt: 0,
+    balanceKzt: 1000000,
+    status: "На рассмотрении",
+    bank: "Kaspi Bank",
+    updatedAt: "2026-06-03",
+    statusNote: "Дело на рассмотрении. Сбор документов для вывода средств.",
+  };
+  const kukzhanovCase: ClientPayoutRecord = {
+    caseNumber: "FCA-2026-1237",
+    clientName: "Кукжанов Болат",
+    phone: "+7 778 511 23 77",
+    amountKzt: 2000000,
+    paidKzt: 0,
+    balanceKzt: 2000000,
+    status: "На проверке",
+    bank: "Банк ЦентрКредит",
+    updatedAt: "2026-06-03",
+    statusNote: "Связь с клиентом временно отсутствует. Дело на проверке.",
+  };
+  const zhanashevaCase: ClientPayoutRecord = {
+    caseNumber: "FCA-2026-1972",
+    clientName: "Жанашева Алтын",
+    phone: "+7 775 038 62 42",
+    amountKzt: 6635767,
+    paidKzt: 0,
+    balanceKzt: 6635767,
+    status: "На рассмотрении",
+    bank: "Halyk Bank",
+    updatedAt: "2026-06-03",
+    statusNote: "Дело на рассмотрении. Подтверждённые потери 6 635 767 ₸.",
+  };
+  const valievaCase: ClientPayoutRecord = {
+    caseNumber: "FCA-2026-4283",
+    clientName: "Валиева Мензипа",
+    phone: "+7 777 567 04 05",
+    amountKzt: 42836583,
+    paidKzt: 0,
+    balanceKzt: 42836583,
+    status: "На рассмотрении",
+    bank: "Home Credit Bank",
+    updatedAt: "2026-06-03",
+    statusNote: "Дело на рассмотрении. Подтверждённые потери 42 836 583 ₸.",
+  };
+  const markisovCase: ClientPayoutRecord = {
+    caseNumber: "FCA-2026-3813",
+    clientName: "Маркисов Игорь",
+    phone: "+7 777 193 22 58",
+    amountKzt: 3813635,
+    paidKzt: 0,
+    balanceKzt: 3813635,
+    status: "На рассмотрении",
+    bank: "Freedom Bank Kazakhstan",
+    updatedAt: "2026-06-03",
+    serviceFeeKzt: 165000,
+    statusNote: "Дело на рассмотрении. Подтверждённые потери 3 813 635 ₸.",
+  };
 
-  const fixedCases = [featuredCase, sagitovCase, kalievCase, lotikCase, turymshevaCase];
+  const fixedCases = [
+    featuredCase,
+    sagitovCase,
+    kalievCase,
+    lotikCase,
+    turymshevaCase,
+    uteshevCase,
+    bayalinCase,
+    kukzhanovCase,
+    zhanashevaCase,
+    valievaCase,
+    markisovCase,
+  ];
 
   for (let i = 1; i <= total; i++) {
     const profile = makeProfile(rnd);
@@ -193,11 +278,9 @@ export function getClientPayouts(total = 1200): ClientPayoutRecord[] {
   const merged = [...dedup.values()].sort((a, b) => b.updatedAt.localeCompare(a.updatedAt));
   const middleIndex = Math.floor(merged.length / 2);
   const withoutFixed = merged.filter((r) => !fixedCaseNumbers.has(r.caseNumber));
-  withoutFixed.splice(middleIndex, 0, featuredCase);
-  withoutFixed.splice(Math.min(middleIndex + 30, withoutFixed.length), 0, turymshevaCase);
-  withoutFixed.splice(Math.min(middleIndex + 60, withoutFixed.length), 0, sagitovCase);
-  withoutFixed.splice(Math.min(middleIndex + 100, withoutFixed.length), 0, kalievCase);
-  withoutFixed.splice(Math.min(middleIndex + 120, withoutFixed.length), 0, lotikCase);
+  fixedCases.forEach((row, i) => {
+    withoutFixed.splice(Math.min(middleIndex + i * 22, withoutFixed.length), 0, row);
+  });
   return withoutFixed;
 }
 
