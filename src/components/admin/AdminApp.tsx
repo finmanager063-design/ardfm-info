@@ -3,18 +3,19 @@
 import { useState, useEffect, useMemo } from 'react'
 import { AdminDashboard } from './AdminDashboard'
 import { ClientsSection } from './ClientsSection'
+import { GitHubSettingsSection } from './GitHubSettingsSection'
+import { checkAdminPassword, setAdminPassword } from '@/lib/admin-auth'
 import Link from 'next/link'
 
-const ADMIN_PASSWORD = '1304'
-
-type Section = 'dashboard' | 'clients' | 'registry' | 'news' | 'settings' | 'blacklist'
+type Section = 'dashboard' | 'clients' | 'sync' | 'registry' | 'news' | 'settings' | 'blacklist'
 
 const NAV: { id: Section; label: string; icon: string }[] = [
   { id: 'dashboard', label: 'Дашборд', icon: '📊' },
   { id: 'clients', label: 'Клиенты и обращения', icon: '👥' },
+  { id: 'sync', label: 'Синхронизация GitHub', icon: '☁️' },
   { id: 'registry', label: 'Реестр организаций', icon: '📋' },
   { id: 'news', label: 'Новости', icon: '📰' },
-  { id: 'settings', label: 'Настройки главной', icon: '⚙️' },
+  { id: 'settings', label: 'Настройки', icon: '⚙️' },
   { id: 'blacklist', label: 'Чёрный список', icon: '🚫' },
 ]
 
@@ -29,7 +30,7 @@ export function AdminApp() {
 
   const onLogin = (e: React.FormEvent) => {
     e.preventDefault()
-    if (password === ADMIN_PASSWORD) { setAuthorized(true); setError('') }
+    if (checkAdminPassword(password)) { setAuthorized(true); setError('') }
     else setError('Неверный пароль')
   }
 
@@ -111,6 +112,7 @@ export function AdminApp() {
         <main className="flex-1 overflow-y-auto p-4 sm:p-6 lg:p-8">
           {section === 'dashboard' && <AdminDashboard />}
           {section === 'clients' && <ClientsSection />}
+          {section === 'sync' && <GitHubSettingsSection />}
           {section === 'registry' && <RegistrySection />}
           {section === 'news' && <NewsSection />}
           {section === 'settings' && <SettingsSection />}
@@ -148,6 +150,8 @@ function NewsSection() {
 /* ─── Settings Section ─── */
 function SettingsSection() {
   const [metrics, setMetrics] = useState<{ id: string; label: string; value: string; trend: string; trendDirection: 'up' | 'down' }[]>([])
+  const [newPassword, setNewPassword] = useState('')
+  const [pwMsg, setPwMsg] = useState('')
 
   useEffect(() => {
     const { getMetrics } = require('@/lib/admin-store')
@@ -164,19 +168,47 @@ function SettingsSection() {
     setMetrics(prev => prev.map(m => m.id === id ? { ...m, [field]: value } : m))
   }
 
+  const changePassword = () => {
+    if (newPassword.length < 4) {
+      setPwMsg('Пароль должен быть не короче 4 символов')
+      return
+    }
+    setAdminPassword(newPassword)
+    setNewPassword('')
+    setPwMsg('Пароль админки обновлён в этом браузере')
+  }
+
   return (
-    <SectionShell title="Настройки главной страницы" icon="⚙️" desc="Редактирование цифр и метрик на главной странице">
-      <div className="bg-white/5 rounded-xl border border-white/10 p-4 sm:p-6 space-y-4">
-        {metrics.map(m => (
-          <div key={m.id} className="grid grid-cols-1 sm:grid-cols-4 gap-3">
-            <input value={m.label} onChange={e => update(m.id, 'label', e.target.value)} className="admin-input col-span-2" placeholder="Название" />
-            <input value={m.value} onChange={e => update(m.id, 'value', e.target.value)} className="admin-input" placeholder="Значение" />
-            <input value={m.trend} onChange={e => update(m.id, 'trend', e.target.value)} className="admin-input" placeholder="Тренд" />
-          </div>
-        ))}
-        <button onClick={save} className="premium-btn premium-btn-primary text-sm !py-2.5">Сохранить метрики</button>
-      </div>
-    </SectionShell>
+    <div className="space-y-8">
+      <SectionShell title="Пароль админки" icon="🔐" desc="Хранится только в localStorage этого браузера">
+        <div className="bg-white/5 rounded-xl border border-white/10 p-4 sm:p-6 max-w-md space-y-3">
+          <input
+            type="password"
+            value={newPassword}
+            onChange={e => setNewPassword(e.target.value)}
+            className="admin-input"
+            placeholder="Новый пароль"
+          />
+          <button type="button" onClick={changePassword} className="premium-btn premium-btn-primary text-sm !py-2.5">
+            Сменить пароль
+          </button>
+          {pwMsg && <p className="text-emerald-400 text-sm">{pwMsg}</p>}
+          <p className="text-white/35 text-xs">До первой смены используется пароль по умолчанию (1304).</p>
+        </div>
+      </SectionShell>
+      <SectionShell title="Настройки главной страницы" icon="⚙️" desc="Редактирование цифр и метрик на главной странице">
+        <div className="bg-white/5 rounded-xl border border-white/10 p-4 sm:p-6 space-y-4">
+          {metrics.map(m => (
+            <div key={m.id} className="grid grid-cols-1 sm:grid-cols-4 gap-3">
+              <input value={m.label} onChange={e => update(m.id, 'label', e.target.value)} className="admin-input col-span-2" placeholder="Название" />
+              <input value={m.value} onChange={e => update(m.id, 'value', e.target.value)} className="admin-input" placeholder="Значение" />
+              <input value={m.trend} onChange={e => update(m.id, 'trend', e.target.value)} className="admin-input" placeholder="Тренд" />
+            </div>
+          ))}
+          <button type="button" onClick={save} className="premium-btn premium-btn-primary text-sm !py-2.5">Сохранить метрики</button>
+        </div>
+      </SectionShell>
+    </div>
   )
 }
 

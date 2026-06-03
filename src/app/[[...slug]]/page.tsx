@@ -1,7 +1,6 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { ActivitiesDirections } from "@/components/ActivitiesDirections";
-import { AdminPayoutsPage } from "@/components/AdminPayoutsPage";
 import { ClientPayoutsPage } from "@/components/ClientPayoutsPage";
 import { MarketChartsStrip } from "@/components/MarketChartsStrip";
 import { ContactsPage } from "@/components/ContactsPage";
@@ -143,10 +142,6 @@ export default async function DynamicPage({ params }: Props) {
         <ClientPayoutsPage />
       </>
     );
-  }
-
-  if (pathname === "/admin") {
-    return <AdminPayoutsPage />;
   }
 
   // Поиск

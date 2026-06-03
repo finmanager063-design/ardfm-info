@@ -1,12 +1,14 @@
 'use client'
 
 import { useState, useEffect, useMemo } from 'react'
-import { getClients, formatCurrency, formatDate, type AdminClientRecord } from '@/lib/admin-store'
+import { fetchClientsData, formatCurrency, formatDate, type ClientRecord } from '@/lib/clients-data'
 
 export function AdminDashboard() {
-  const [clients, setClients] = useState<AdminClientRecord[]>([])
+  const [clients, setClients] = useState<ClientRecord[]>([])
 
-  useEffect(() => { setClients(getClients()) }, [])
+  useEffect(() => {
+    fetchClientsData().then((d) => setClients(d.clients))
+  }, [])
 
   const stats = useMemo(() => {
     const total = clients.length

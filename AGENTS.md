@@ -19,7 +19,8 @@ This version has breaking changes — APIs, conventions, and file structure may 
 
 ## Выплаты клиентам
 
-- Данные: `src/lib/client-payouts.ts` — `getClientPayouts()`, фиксированные CRM-дела (Гульмира, Сагитов, Калиев, Лотик, Турымшаева, Утешов, Баялин, Кукжанов, Жанашева, Валиева, Маркисов), поиск `findPayoutByQuery`.
+- Данные клиентов: `public/data.json` (источник правды на GitHub Pages). Админка `/admin` коммитит через GitHub API (`src/lib/github-sync.ts`); PAT только в `localStorage` браузера.
+- Реестр выплат `/client-payouts`: загрузка `data.json` + поиск по ИИН/делу/ФИО (`src/lib/clients-data.ts`). Синтетический реестр — `src/lib/client-payouts.ts`.
 - UI: `ClientPayoutsPage.tsx` — поиск по FCA или ФИО; маскирование телефона `maskPhone`.
 - Админка: `/admin` → `AdminPayoutsPage.tsx`, пароль `1304`, `localStorage` ключ `regylz-payout-records` (перекрывает базовые записи по `caseNumber`).
 

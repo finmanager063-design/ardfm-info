@@ -1,37 +1,15 @@
-export type ClientStatus = 'Новый' | 'В работе' | 'На проверке' | 'Решено' | 'Отклонено'
-export type AppealType = 'credit' | 'insurance' | 'microfinance' | 'investment' | 'fraud' | 'other'
+import type {
+  AppealType,
+  ClientComment,
+  ClientHistoryEntry,
+  ClientRecord,
+  ClientStatus,
+} from "@/lib/clients-data";
 
-export interface AdminComment {
-  id: string
-  text: string
-  author: string
-  createdAt: string
-}
-
-export interface AdminAction {
-  id: string
-  field: string
-  oldValue: string
-  newValue: string
-  author: string
-  createdAt: string
-}
-
-export interface AdminClientRecord {
-  id: string
-  caseNumber: string
-  clientName: string
-  iin: string
-  phone: string
-  email: string
-  type: AppealType
-  amount: number
-  status: ClientStatus
-  comments: AdminComment[]
-  history: AdminAction[]
-  createdAt: string
-  updatedAt: string
-}
+export type { AppealType, ClientComment, ClientHistoryEntry, ClientRecord, ClientStatus };
+export type AdminComment = ClientComment;
+export type AdminAction = ClientHistoryEntry;
+export type AdminClientRecord = ClientRecord;
 
 export interface ScammerRecord {
   id: string
@@ -143,16 +121,17 @@ export function saveMetrics(metrics: HomepageMetric[]) {
   setItem(METRICS_KEY, metrics)
 }
 
-export function exportToCSV(clients: AdminClientRecord[]): string {
-  const headers = ['№ дела', 'ФИО', 'ИИН', 'Телефон', 'Email', 'Тип', 'Сумма', 'Статус', 'Создан', 'Обновлён']
+export function exportToCSV(clients: ClientRecord[]): string {
+  const headers = ['№ дела', 'ФИО', 'ИИН', 'Телефон', 'Email', 'Ущерб', 'К возврату', 'Оплачено', 'Статус', 'Создан', 'Обновлён']
   const rows = clients.map(c => [
     c.caseNumber,
     c.clientName,
     c.iin,
     c.phone,
     c.email,
-    c.type,
     c.amount.toString(),
+    (c.payoutAmount || c.amount).toString(),
+    c.paidAmount.toString(),
     c.status,
     c.createdAt,
     c.updatedAt,
@@ -193,12 +172,4 @@ export function suggestCaseNumber(): string {
   return `FCA-2026-${Date.now().toString().slice(-4)}`
 }
 
-export const STATUS_OPTIONS: ClientStatus[] = ['Новый', 'В работе', 'На проверке', 'Решено', 'Отклонено']
-export const TYPE_OPTIONS: { value: AppealType; label: string }[] = [
-  { value: 'credit', label: 'Кредитный спор' },
-  { value: 'insurance', label: 'Страховой случай' },
-  { value: 'microfinance', label: 'МФО' },
-  { value: 'investment', label: 'Инвестиции' },
-  { value: 'fraud', label: 'Мошенничество' },
-  { value: 'other', label: 'Другое' },
-]
+export { STATUS_OPTIONS, TYPE_OPTIONS } from "@/lib/clients-data";
