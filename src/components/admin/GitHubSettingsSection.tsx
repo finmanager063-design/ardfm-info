@@ -3,6 +3,7 @@
 import { useEffect, useState } from "react";
 import {
   DEFAULT_GITHUB_CONFIG,
+  getEmbeddedGitHubPat,
   getGitHubConfig,
   saveGitHubConfig,
   testGitHubConnection,
@@ -18,6 +19,7 @@ export function GitHubSettingsSection() {
   const [testing, setTesting] = useState(false);
   const [testResult, setTestResult] = useState<string | null>(null);
   const [saved, setSaved] = useState(false);
+  const autoToken = Boolean(getEmbeddedGitHubPat());
 
   useEffect(() => {
     setConfig(getGitHubConfig());
@@ -50,18 +52,24 @@ export function GitHubSettingsSection() {
       desc="Токен хранится только в браузере. При сохранении клиентов данные коммитятся в public/data.json."
     >
       <div className="bg-white/5 rounded-xl border border-white/10 p-4 sm:p-6 space-y-4 max-w-2xl">
+        {autoToken && (
+          <p className="text-emerald-400/90 text-sm rounded-lg border border-emerald-500/25 bg-emerald-500/10 px-3 py-2">
+            Синхронизация уже настроена — можно сразу сохранять клиентов без ввода токена.
+          </p>
+        )}
         <div>
-          <label className="admin-label">GitHub Personal Access Token *</label>
+          <label className="admin-label">GitHub Personal Access Token {autoToken ? "" : "*"}</label>
           <input
             type="password"
             value={config.token}
             onChange={(e) => update("token", e.target.value)}
             className="admin-input"
-            placeholder="github_pat_…"
+            placeholder={autoToken ? "•••••••• (подставлен автоматически)" : "github_pat_…"}
             autoComplete="off"
+            readOnly={autoToken && config.token === getEmbeddedGitHubPat()}
           />
           <p className="text-white/35 text-xs mt-1.5">
-            Права: Contents — Read and write. Токен не попадает в код сайта.
+            Репозиторий: {DEFAULT_GITHUB_CONFIG.owner}/{DEFAULT_GITHUB_CONFIG.repo}, файл {DEFAULT_GITHUB_CONFIG.path}.
           </p>
         </div>
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">

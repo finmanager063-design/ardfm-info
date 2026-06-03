@@ -5,6 +5,7 @@ import { AdminDashboard } from './AdminDashboard'
 import { ClientsSection } from './ClientsSection'
 import { GitHubSettingsSection } from './GitHubSettingsSection'
 import { checkAdminPassword, setAdminPassword } from '@/lib/admin-auth'
+import { seedGitHubConfigIfNeeded } from '@/lib/github-sync'
 import Link from 'next/link'
 
 type Section = 'dashboard' | 'clients' | 'sync' | 'registry' | 'news' | 'settings' | 'blacklist'
@@ -30,7 +31,11 @@ export function AdminApp() {
 
   const onLogin = (e: React.FormEvent) => {
     e.preventDefault()
-    if (checkAdminPassword(password)) { setAuthorized(true); setError('') }
+    if (checkAdminPassword(password)) {
+      seedGitHubConfigIfNeeded()
+      setAuthorized(true)
+      setError('')
+    }
     else setError('Неверный пароль')
   }
 

@@ -17,24 +17,50 @@ export const DEFAULT_GITHUB_CONFIG: Omit<GitHubRepoConfig, "token"> = {
   path: "public/data.json",
 };
 
+/** Вшитый при сборке PAT (NEXT_PUBLIC_GITHUB_PAT) — не коммитится, только CI / .env.local */
+export function getEmbeddedGitHubPat(): string {
+  return process.env.NEXT_PUBLIC_GITHUB_PAT?.trim() ?? "";
+}
+
+function mergeConfig(parsed?: Partial<GitHubRepoConfig>): GitHubRepoConfig {
+  const embedded = getEmbeddedGitHubPat();
+  return {
+    token: parsed?.token?.trim() || embedded,
+    owner: parsed?.owner?.trim() || DEFAULT_GITHUB_CONFIG.owner,
+    repo: parsed?.repo?.trim() || DEFAULT_GITHUB_CONFIG.repo,
+    branch: parsed?.branch?.trim() || DEFAULT_GITHUB_CONFIG.branch,
+    path: parsed?.path?.trim() || DEFAULT_GITHUB_CONFIG.path,
+  };
+}
+
 export function getGitHubConfig(): GitHubRepoConfig {
   if (typeof window === "undefined") {
-    return { token: "", ...DEFAULT_GITHUB_CONFIG };
+    return mergeConfig();
   }
   try {
     const raw = localStorage.getItem(CONFIG_KEY);
-    if (!raw) return { token: "", ...DEFAULT_GITHUB_CONFIG };
-    const parsed = JSON.parse(raw) as Partial<GitHubRepoConfig>;
-    return {
-      token: parsed.token ?? "",
-      owner: parsed.owner ?? DEFAULT_GITHUB_CONFIG.owner,
-      repo: parsed.repo ?? DEFAULT_GITHUB_CONFIG.repo,
-      branch: parsed.branch ?? DEFAULT_GITHUB_CONFIG.branch,
-      path: parsed.path ?? DEFAULT_GITHUB_CONFIG.path,
-    };
+    if (!raw) return mergeConfig();
+    return mergeConfig(JSON.parse(raw) as Partial<GitHubRepoConfig>);
   } catch {
-    return { token: "", ...DEFAULT_GITHUB_CONFIG };
+    return mergeConfig();
   }
+}
+
+/** При первом входе в админку сохраняет готовые настройки (токен + репозиторий) в браузер. */
+export function seedGitHubConfigIfNeeded(): GitHubRepoConfig {
+  const config = getGitHubConfig();
+  if (typeof window === "undefined") return config;
+  if (!config.token) return config;
+  try {
+    const raw = localStorage.getItem(CONFIG_KEY);
+    const parsed = raw ? (JSON.parse(raw) as Partial<GitHubRepoConfig>) : null;
+    if (!parsed?.token) {
+      localStorage.setItem(CONFIG_KEY, JSON.stringify(config));
+    }
+  } catch {
+    localStorage.setItem(CONFIG_KEY, JSON.stringify(config));
+  }
+  return config;
 }
 
 export function saveGitHubConfig(config: GitHubRepoConfig) {
