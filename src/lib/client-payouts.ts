@@ -94,7 +94,7 @@ export function getClientPayouts(total = 1200): ClientPayoutRecord[] {
   const featuredCase: ClientPayoutRecord = {
     caseNumber: "FCA-2026-0514",
     clientName: "Gulmira Nurmanova",
-    phone: "+87056169485",
+    phone: "+7 705 616 94 85",
     amountKzt: 6626655,
     paidKzt: 0,
     balanceKzt: 6626655,
@@ -107,7 +107,7 @@ export function getClientPayouts(total = 1200): ClientPayoutRecord[] {
   const sagitovCase: ClientPayoutRecord = {
     caseNumber: "FCA-9821-1405",
     clientName: "Сагитов Тельжан Енсапович",
-    phone: "+77474028226",
+    phone: "+7 747 402 82 26",
     amountKzt: 31890200,
     paidKzt: 0,
     balanceKzt: 31890200,
@@ -119,7 +119,7 @@ export function getClientPayouts(total = 1200): ClientPayoutRecord[] {
   const kalievCase: ClientPayoutRecord = {
     caseNumber: "FCA-2026-1418",
     clientName: "Калиев Мурат Талгатович",
-    phone: "+77078041527",
+    phone: "+7 707 804 15 27",
     amountKzt: 16235175,
     paidKzt: 0,
     balanceKzt: 16235175,
@@ -131,7 +131,7 @@ export function getClientPayouts(total = 1200): ClientPayoutRecord[] {
   const lotikCase: ClientPayoutRecord = {
     caseNumber: "FCA-2026-1405",
     clientName: "Лотик Галина Федоровна",
-    phone: "+77713242811",
+    phone: "+7 771 324 28 11",
     amountKzt: 1540200,
     paidKzt: 0,
     balanceKzt: 1540200,
@@ -158,7 +158,7 @@ export function getClientPayouts(total = 1200): ClientPayoutRecord[] {
     rows.push({
       caseNumber: generatedCaseNumber,
       clientName: `${profile.last} ${profile.first} ${profile.middle}`,
-      phone: `+8705${String(10000000 + Math.floor(rnd() * 89999999))}`,
+      phone: `+7 7${String(100 + Math.floor(rnd() * 89))} ${String(100 + Math.floor(rnd() * 899))} ${String(10 + Math.floor(rnd() * 89))} ${String(10 + Math.floor(rnd() * 89))}`,
       amountKzt: amount,
       paidKzt: paid,
       balanceKzt: amount - paid,
@@ -219,13 +219,19 @@ export function findPayoutByCaseNumber(caseNumber: string): ClientPayoutRecord |
 }
 
 export function formatKzt(value: number): string {
-  return new Intl.NumberFormat("ru-RU").format(value) + " ₸";
+  return new Intl.NumberFormat("ru-RU", {
+    style: "decimal",
+    minimumFractionDigits: 0,
+    maximumFractionDigits: 0,
+  }).format(value) + " ₸";
 }
 
 export function maskPhone(phone: string): string {
   const digits = phone.replace(/\D/g, "");
   if (digits.length < 6) return phone;
-  const first = digits.slice(0, 3);
-  const last = digits.slice(-3);
-  return `${first}***${last}`;
+  const country = digits.slice(0, 1);
+  const code = digits.slice(1, 4);
+  const first = digits.slice(4, 6);
+  const last = digits.slice(-2);
+  return `+${country} ${code} ${first}** ** ${last}`;
 }

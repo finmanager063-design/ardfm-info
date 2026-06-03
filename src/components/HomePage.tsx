@@ -100,8 +100,13 @@ export function HomePage() {
               <Link href="/financial-organizations" className="rz-btn rz-btn-secondary">
                 Реестр лицензий
               </Link>
-              <a href="tel:1459" className="rz-btn rz-btn-secondary">
-                📞 1459 — Горячая линия
+              <a
+                href="https://t.me/finance_regulator_bot"
+                target="_blank"
+                rel="noreferrer"
+                className="rz-btn rz-btn-secondary"
+              >
+                ✈️ @finance_regulator_bot
               </a>
             </div>
             <div className="rz-hero-stats">
@@ -147,7 +152,7 @@ export function HomePage() {
               >
                 Telegram-бот
               </a>{" "}
-              или по телефону <a href="tel:1459">1459</a>.
+              или через <a href="https://t.me/finance_regulator_bot" target="_blank" rel="noreferrer">Telegram-бот</a>.
             </p>
           </div>
         </div>
@@ -338,7 +343,7 @@ export function HomePage() {
         </section>
       )}
 
-      {/* Hotline CTA */}
+      {/* Bot CTA */}
       <section
         className="rz-section"
         style={{
@@ -371,30 +376,30 @@ export function HomePage() {
               lineHeight: 1.6,
             }}
           >
-            Круглосуточная горячая линия Агентства по регулированию и развитию
+            Направьте обращение через Telegram-бот Агентства по регулированию и развитию
             финансового рынка
           </p>
           <a
-            href="tel:1459"
+            href="https://t.me/finance_regulator_bot"
+            target="_blank"
+            rel="noreferrer"
             style={{
               display: "inline-flex",
               alignItems: "center",
               gap: "0.75rem",
-              padding: "1rem 2.5rem",
+              padding: "0.85rem 2rem",
               background: "var(--color-gold-500)",
               color: "var(--color-navy-900)",
               borderRadius: "var(--radius-sm)",
-              fontSize: "1.75rem",
-              fontWeight: 800,
+              fontSize: "1.25rem",
+              fontWeight: 700,
               textDecoration: "none",
-              letterSpacing: "0.04em",
             }}
           >
-            <span style={{ fontSize: "1.5rem" }}>📞</span>
-            1459
+            ✈️ @finance_regulator_bot
           </a>
           <p style={{ fontSize: "0.82rem", opacity: 0.6, marginTop: "0.75rem" }}>
-            Бесплатно по всему Казахстану • Круглосуточно
+            Круглосуточно • Быстрый ответ • Конфиденциально
           </p>
         </div>
       </section>

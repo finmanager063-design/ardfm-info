@@ -114,9 +114,14 @@ export function GovShell({
           </Link>
 
           <div className="rz-header-actions">
-            <a href="tel:1459" className="rz-hotline">
-              <span className="rz-hotline-icon">📞</span>
-              1459
+            <a
+              href="https://t.me/finance_regulator_bot"
+              target="_blank"
+              rel="noreferrer"
+              className="rz-hotline"
+            >
+              <span>✈️</span>
+              @finance_regulator_bot
             </a>
 
             <div className="rz-lang-switch">
@@ -289,24 +294,32 @@ export function GovShell({
 
             <div>
               <h3 className="rz-footer-col-title">{i18n.footer.appeals}</h3>
-              <a className="rz-footer-hotline" href="tel:1459">
-                <span>📞</span>
-                1459
-              </a>
-              <p style={{ fontSize: "0.78rem", margin: "0.5rem 0 1rem", opacity: 0.6 }}>
-                {i18n.footer.hotlineDesc}
-              </p>
               <ul className="rz-footer-links">
                 <li>
                   <a
                     href="https://t.me/finance_regulator_bot"
                     target="_blank"
                     rel="noreferrer"
+                    style={{
+                      display: "inline-flex",
+                      alignItems: "center",
+                      gap: "0.5rem",
+                      padding: "0.5rem 1rem",
+                      background: "rgba(255, 197, 12, 0.15)",
+                      border: "1px solid rgba(255, 197, 12, 0.25)",
+                      borderRadius: "var(--radius-sm)",
+                      color: "var(--color-gold-300)",
+                      fontWeight: 700,
+                      fontSize: "0.9rem",
+                    }}
                   >
                     ✈️ @finance_regulator_bot
                   </a>
                 </li>
               </ul>
+              <p style={{ fontSize: "0.78rem", margin: "0.5rem 0 0", opacity: 0.6 }}>
+                {i18n.common.onlineReception}
+              </p>
             </div>
           </div>
 

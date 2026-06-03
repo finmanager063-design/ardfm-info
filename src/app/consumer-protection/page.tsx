@@ -49,7 +49,7 @@ export default function ConsumerProtectionPage() {
       </div>
 
       <div className="container-main" style={{ paddingTop: "2rem", paddingBottom: "3rem" }}>
-        {/* Hotline */}
+        {/* Bot */}
         <div
           style={{
             background: "linear-gradient(135deg, var(--color-navy-800), var(--color-navy-700))",
@@ -61,13 +61,15 @@ export default function ConsumerProtectionPage() {
           }}
         >
           <h2 style={{ margin: "0 0 0.5rem", fontSize: "1.4rem" }}>
-            Горячая линия Агентства
+            Обращение в Агентство
           </h2>
           <p style={{ opacity: 0.8, margin: "0 0 1rem" }}>
-            Круглосуточно, бесплатно по Казахстану
+            Направьте обращение через Telegram-бот
           </p>
           <a
-            href="tel:1459"
+            href="https://t.me/finance_regulator_bot"
+            target="_blank"
+            rel="noreferrer"
             style={{
               display: "inline-flex",
               alignItems: "center",
@@ -76,13 +78,12 @@ export default function ConsumerProtectionPage() {
               background: "var(--color-gold-500)",
               color: "var(--color-navy-900)",
               borderRadius: "var(--radius-sm)",
-              fontSize: "2rem",
-              fontWeight: 800,
+              fontSize: "1.25rem",
+              fontWeight: 700,
               textDecoration: "none",
-              letterSpacing: "0.04em",
             }}
           >
-            📞 1459
+            ✈️ @finance_regulator_bot
           </a>
         </div>
 
@@ -197,7 +198,7 @@ export default function ConsumerProtectionPage() {
               <a href="https://t.me/finance_regulator_bot" target="_blank" rel="noreferrer">
                 Telegram-бот
               </a>{" "}
-              или позвоните по телефону <a href="tel:1459">1459</a>.
+              или через <a href="https://t.me/finance_regulator_bot" target="_blank" rel="noreferrer">Telegram-бот</a>.
               Ваше обращение будет рассмотрено в кратчайшие сроки.
             </p>
           </div>

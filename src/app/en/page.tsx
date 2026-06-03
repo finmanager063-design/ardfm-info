@@ -53,8 +53,8 @@ export default function EnglishHomePage() {
               </Link>
             </li>
             <li>
-              <a href="tel:1459" style={{ color: "var(--color-navy-600)", fontWeight: 700, textDecoration: "none" }}>
-                📞 Hotline: 1459
+              <a href="https://t.me/finance_regulator_bot" target="_blank" rel="noreferrer" style={{ color: "var(--color-navy-600)", fontWeight: 700, textDecoration: "none" }}>
+                ✈️ Telegram bot: @finance_regulator_bot
               </a>
             </li>
           </ul>

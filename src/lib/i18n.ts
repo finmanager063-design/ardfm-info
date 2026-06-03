@@ -55,8 +55,6 @@ export interface I18nDict {
   footer: {
     sections: string
     appeals: string
-    hotline: string
-    hotlineDesc: string
     disclaimer: string
     disclaimerShort: string
     privacy: string
@@ -125,8 +123,6 @@ const RU: I18nDict = {
   footer: {
     sections: 'Разделы сайта',
     appeals: 'Обращения',
-    hotline: 'Горячая линия',
-    hotlineDesc: 'Круглосуточно, бесплатно по РК',
     disclaimer: 'Информационный ресурс. Содержит информацию, полученную с официального сайта gov.kz и других открытых источников. Не является официальным сайтом государственного органа.',
     disclaimerShort: 'Информационный ресурс',
     privacy: 'Политика конфиденциальности',
@@ -195,8 +191,6 @@ const KK: I18nDict = {
   footer: {
     sections: 'Сайт бөлімдері',
     appeals: 'Өтініштер',
-    hotline: 'Байланыс орталығы',
-    hotlineDesc: 'Тәулік бойы, ҚР бойынша тегін',
     disclaimer: 'Ақпараттық ресурс. Құрамында gov.kz ресми сайтынан және басқа ашық дереккөздерден алынған ақпарат бар. Мемлекеттік органның ресми сайты емес.',
     disclaimerShort: 'Ақпараттық ресурс',
     privacy: 'Құпиялылық саясаты',
@@ -265,8 +259,6 @@ const EN: I18nDict = {
   footer: {
     sections: 'Sections',
     appeals: 'Appeals',
-    hotline: 'Hotline',
-    hotlineDesc: '24/7, toll-free in Kazakhstan',
     disclaimer: 'Information resource. Contains information obtained from the official website gov.kz and other open sources. Is not the official website of a state body.',
     disclaimerShort: 'Information Resource',
     privacy: 'Privacy Policy',
