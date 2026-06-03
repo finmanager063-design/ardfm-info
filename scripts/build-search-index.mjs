@@ -32,7 +32,7 @@ const uniqueArticles = dedupeArticles(content.articles || []);
 
 const ACTION_PAGES = [
   { title: "Проверить выплаты", href: "/client-payouts" },
-  { title: "Онлайн-обращение", href: "/activities/population" },
+  { title: "Защита прав", href: "/consumer-protection" },
   { title: "Защита прав потребителей", href: "/consumer-protection" },
   { title: "Финансовые организации", href: "/financial-organizations" },
   { title: "Контакты", href: "/contacts" },

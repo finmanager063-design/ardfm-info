@@ -47,7 +47,6 @@ export function collectStaticSlugs(content: SiteContent): { slug: string[] }[] {
     ["activities", "securities-market"],
     ["activities", "other-financial-organizations"],
     ["activities", "appointments"],
-    ["activities", "population"],
     ["activities", "788"],
     ["activities", "789"],
     ["activities", "847"],

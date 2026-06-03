@@ -21,7 +21,6 @@ export const MAIN_NAV = [
 
 export const FOOTER_LINKS = [
   { href: "/client-payouts", label: "Проверить выплаты" },
-  { href: "/activities/population", label: "Онлайн-обращение" },
   { href: "/consumer-protection", label: "Защита прав" },
   { href: "/financial-organizations", label: "Финансовые организации" },
   { href: "/media", label: "Медиацентр" },

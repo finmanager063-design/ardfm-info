@@ -6,7 +6,6 @@ export type NavGroup = { id: string; label: string; items: NavItem[] };
 /** Слой 1 — действия (верхнее меню, визуально выделено) */
 export const ACTION_NAV: NavItem[] = [
   { href: "/client-payouts", label: "Проверить выплаты", highlight: true },
-  { href: "/activities/population", label: "Онлайн-обращение", highlight: true },
   { href: "/consumer-protection", label: "Защита прав", highlight: true },
   { href: "/financial-organizations", label: "Финансовые организации", highlight: true },
   { href: "/contacts", label: "Контакты", highlight: true },
@@ -66,6 +65,7 @@ export const ROUTE_REDIRECTS: Record<string, string> = {
   "/articles": "/knowledge/articles",
   "/documents/1": "/documents",
   "/documents": "/documents",
+  "/activities/population": "/consumer-protection",
   ...ACTIVITY_LEGACY_TO_SLUG,
 };
 
@@ -90,7 +90,6 @@ export function sitemapPriority(pathname: string): number {
   const norm = pathname.replace(/\/$/, "") || "/";
   if (
     norm === "/client-payouts"
-    || norm === "/activities/population"
     || norm === "/consumer-protection"
     || norm === "/financial-organizations"
     || norm === "/contacts"
@@ -109,12 +108,11 @@ export type NextStepLink = { href: string; label: string; primary?: boolean };
 export const NEXT_STEPS_BY_PATH: Record<string, NextStepLink[]> = {
   "/client-payouts": [
     { href: "/client-payouts", label: "Проверить статус по делу", primary: true },
-    { href: "/activities/population", label: "Подать онлайн-обращение" },
     { href: "/consumer-protection", label: "Защита прав потребителей" },
     { href: "/contacts", label: "Контакты" },
   ],
   "/consumer-protection": [
-    { href: "/activities/population", label: "Оставить обращение", primary: true },
+    { href: "/consumer-protection", label: "Подать обращение", primary: true },
     { href: "/client-payouts", label: "Проверить выплаты" },
     { href: "/financial-organizations", label: "Найти организацию" },
     { href: "/contacts", label: "Связаться с Агентством" },

@@ -91,7 +91,6 @@ export function SearchPageClient() {
         .filter(
           (p) =>
             (ACTION_PATHS.has(p.href)
-              || p.href.includes("population")
               || p.href.includes("consumer")
               || p.href.includes("client-payouts")
               || p.href.includes("contacts"))

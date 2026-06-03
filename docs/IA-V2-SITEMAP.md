@@ -6,7 +6,7 @@
 
 | Слой | Пункты |
 |------|--------|
-| Действия (кнопки в шапке) | `/client-payouts`, `/activities/population`, `/consumer-protection`, `/financial-organizations`, `/contacts` |
+| Действия (кнопки в шапке) | `/client-payouts`, `/consumer-protection`, `/financial-organizations`, `/contacts` |
 | Понимание | `/knowledge/articles`, `/about/faq`, `/knowledge/guides` |
 | Медиа | `/media`, `/media/news`, `/media/press`, `/media/events` |
 | Организация | `/about`, `/about/history`, `/about/leadership`, `/about/structure`, `/documents`, `/activities/directions` |
@@ -45,7 +45,7 @@
 
 ## Sitemap priority
 
-1. **1.0** — action: payouts, population, consumer-protection, financial-organizations, contacts  
+1. **1.0** — action: payouts, consumer-protection, financial-organizations, contacts  
 2. **0.85** — knowledge + FAQ  
 3. **0.7** — `/media/*`  
 4. **0.6** — about, documents  
@@ -66,7 +66,7 @@
 ```json
 {
   "layers": {
-    "action": ["/", "/client-payouts", "/activities/population", "/consumer-protection", "/financial-organizations", "/contacts"],
+    "action": ["/", "/client-payouts", "/consumer-protection", "/financial-organizations", "/contacts"],
     "knowledge": ["/knowledge/articles", "/about/faq", "/knowledge/guides"],
     "media": ["/media", "/media/news", "/media/press", "/media/events"],
     "trust": ["/about", "/about/history", "/about/leadership", "/about/structure", "/documents"]

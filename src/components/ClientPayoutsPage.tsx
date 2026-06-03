@@ -113,13 +113,7 @@ export function ClientPayoutsPage() {
           </div>
           <h1 className="rz-page-title">Проверить статус обращения</h1>
           <p className="rz-page-desc">
-            Поиск по номеру дела, ИИН или ФИО в реестре Агентства.{" "}
-            {crmPayouts.length > 0 && (
-              <span>
-                Активных обращений: {crmPayouts.length}.{" "}
-              </span>
-            )}
-            Всего в реестре: {registry.length.toLocaleString("ru-RU")} дел.
+            Поиск по номеру дела, ИИН или ФИО в реестре Агентства.
           </p>
         </div>
       </div>
@@ -129,9 +123,7 @@ export function ClientPayoutsPage() {
           <span className="payout-registry-banner__pulse" aria-hidden="true" />
           <div>
             <strong>Государственный реестр выплат</strong>
-            <p>
-              {registry.length.toLocaleString("ru-RU")} дел в обработке · обновление в реальном времени
-            </p>
+            <p>Актуальные данные по обращениям и статусам выплат</p>
           </div>
         </div>
 
@@ -216,8 +208,7 @@ export function ClientPayoutsPage() {
               Реестр выплат
             </h2>
             <p style={{ margin: 0, fontSize: "0.85rem", color: "var(--color-text-secondary)" }}>
-              Строки {(page - 1) * PAGE_SIZE + 1}–{Math.min(page * PAGE_SIZE, registry.length)} из{" "}
-              {registry.length.toLocaleString("ru-RU")} · нажмите на дело, чтобы открыть карточку
+              Нажмите на строку, чтобы открыть карточку дела
             </p>
           </div>
 
