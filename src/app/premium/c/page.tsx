@@ -283,7 +283,7 @@ export default function VariantC() {
           <div className="max-w-2xl mx-auto">
             <div className="text-amber-400 text-sm font-medium tracking-[0.2em] uppercase mb-4">Обратная связь</div>
             <h2 className="text-4xl sm:text-5xl md:text-6xl font-bold mb-4 leading-tight">
-              Нужна консультация?
+              Нужна помощь?
             </h2>
             <p className="text-white/40 text-lg max-w-md mx-auto mb-10">
               Направьте обращение через Telegram-бот. Круглосуточно, быстро, конфиденциально

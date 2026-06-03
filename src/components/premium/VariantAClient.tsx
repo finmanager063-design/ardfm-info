@@ -302,7 +302,7 @@ export function VariantAClient({ news, meta }: { news: GovNews[]; meta: SiteCont
             whileInView={{ opacity: 1, y: 0 }}
             viewport={{ once: true }}
           >
-            <h2 className="text-3xl sm:text-4xl font-bold text-white mb-4">Нужна помощь или консультация?</h2>
+            <h2 className="text-3xl sm:text-4xl font-bold text-white mb-4">Нужна помощь?</h2>
             <p className="text-white/60 max-w-md mx-auto mb-8">
               Направьте обращение через Telegram-бот. Круглосуточно, быстро, конфиденциально
             </p>

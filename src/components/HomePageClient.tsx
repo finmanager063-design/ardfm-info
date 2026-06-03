@@ -287,7 +287,7 @@ export function HomePageClient({ allNews, projects, meta }: { allNews: GovNews[]
         <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_bottom_left,_rgba(212,175,55,0.06)_0%,_transparent_50%)]" />
         <div className="premium-container relative text-center">
           <motion.div initial={{ opacity: 0, y: 20 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true }}>
-            <h2 className="text-2xl sm:text-3xl font-bold text-white mb-3">Нужна помощь или консультация?</h2>
+            <h2 className="text-2xl sm:text-3xl font-bold text-white mb-3">Нужна помощь?</h2>
             <p className="text-white/60 text-sm sm:text-base max-w-md mx-auto mb-6">
               Направьте обращение через Telegram-бот. Круглосуточно, быстро, конфиденциально
             </p>

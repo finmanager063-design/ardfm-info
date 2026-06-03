@@ -328,9 +328,6 @@ export function GovShell({
                   </a>
                 </li>
               </ul>
-              <p style={{ fontSize: "0.78rem", margin: "0.5rem 0 0", opacity: 0.6 }}>
-                {i18n.common.onlineReception}
-              </p>
             </div>
           </div>
 

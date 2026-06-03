@@ -32,8 +32,7 @@ export function ContactsPage() {
           <h1 className="contacts-hero__title">Контакты и обращения</h1>
           <p className="contacts-hero__lead">
             Агентство Республики Казахстан по регулированию и развитию финансового рынка.
-            Приём обращений граждан и организаций — через официальный Telegram-бот в формате
-            электронной приёмной.
+            Приём обращений граждан и организаций — через официальный Telegram-бот.
           </p>
           <div className="contacts-hero__actions">
             <a
@@ -98,9 +97,9 @@ export function ContactsPage() {
       <Reveal direction="up" delay={100}>
       <div className="contacts-main-grid">
         <section className="contacts-panel contacts-panel--primary">
-          <h2 className="contacts-panel__title">Онлайн-приёмная</h2>
+          <h2 className="contacts-panel__title">Обращения через Telegram</h2>
           <p className="contacts-panel__subtitle">
-            Единый канал для обращений — государственный бот{" "}
+            Единый канал для жалоб и заявлений — бот{" "}
             <strong>{telegram.handle}</strong>
           </p>
           <div className="contacts-bot-card">
@@ -111,7 +110,7 @@ export function ContactsPage() {
               <li>Приём обращений 24/7</li>
               <li>Жалобы на банки, страховщиков, МФО</li>
               <li>Сообщения о мошенничестве</li>
-              <li>Запросы разъяснений и статуса рассмотрения</li>
+              <li>Проверка статуса рассмотрения обращения</li>
             </ul>
             <a
               href={telegram.url}
@@ -192,7 +191,7 @@ target={ch.id === "telegram" || ch.id === "web" ? "_blank" : undefined}
                   <td>{AGENCY_SCHEDULE.break}</td>
                 </tr>
                 <tr>
-                  <th scope="row">Онлайн-обращения</th>
+                  <th scope="row">Telegram-бот</th>
                   <td>
                     <a href={telegram.url} target="_blank" rel="noreferrer">
                       {AGENCY_SCHEDULE.online}

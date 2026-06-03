@@ -62,12 +62,6 @@ export const CONTACT_SERVICES = [
     href: TELEGRAM_BOT.url,
   },
   {
-    icon: "💬",
-    title: "Консультация",
-    text: "Разъяснения по нормам и порядку действий",
-    href: TELEGRAM_BOT.url,
-  },
-  {
     icon: "📄",
     title: "Лицензирование",
     text: "Вопросы по лицензиям и регулируемым видам деятельности",

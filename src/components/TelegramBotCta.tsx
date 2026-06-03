@@ -28,7 +28,7 @@ export function TelegramBotCta({ variant = "page" }: Props) {
 
   return (
     <section className="ardfm-section contacts-bot-hero">
-      <h2>Обращения и консультации</h2>
+      <h2>Обращения в Агентство</h2>
       <p className="contacts-bot-lead">
         По любым вопросам, жалобам, запросам и проблемам на финансовом рынке используйте
         единый государственный бот в Telegram.
@@ -38,7 +38,7 @@ export function TelegramBotCta({ variant = "page" }: Props) {
       </a>
       <p className="contacts-bot-hint">
         Бот принимает обращения граждан и организаций: банки, страхование, МФО, мошенничество,
-        лицензии, разъяснения по правам потребителей финансовых услуг.
+        лицензии, защита прав потребителей финансовых услуг.
       </p>
     </section>
   );
