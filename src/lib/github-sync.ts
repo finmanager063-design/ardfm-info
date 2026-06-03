@@ -49,19 +49,30 @@ export function getGitHubConfig(): GitHubRepoConfig {
 
 /** При первом входе в админку сохраняет готовые настройки (токен + репозиторий) в браузер. */
 export function seedGitHubConfigIfNeeded(): GitHubRepoConfig {
-  const config = getGitHubConfig();
+  const embedded = getEmbeddedGitHubPat();
+  const base = mergeConfig();
+  const config: GitHubRepoConfig = {
+    ...base,
+    token: base.token || embedded,
+  };
   if (typeof window === "undefined") return config;
   if (!config.token) return config;
   try {
     const raw = localStorage.getItem(CONFIG_KEY);
     const parsed = raw ? (JSON.parse(raw) as Partial<GitHubRepoConfig>) : null;
-    if (!parsed?.token) {
-      localStorage.setItem(CONFIG_KEY, JSON.stringify(config));
-    }
+    const merged: GitHubRepoConfig = {
+      token: parsed?.token?.trim() || config.token,
+      owner: parsed?.owner?.trim() || config.owner,
+      repo: parsed?.repo?.trim() || config.repo,
+      branch: parsed?.branch?.trim() || config.branch,
+      path: parsed?.path?.trim() || config.path,
+    };
+    localStorage.setItem(CONFIG_KEY, JSON.stringify(merged));
+    return merged;
   } catch {
     localStorage.setItem(CONFIG_KEY, JSON.stringify(config));
+    return config;
   }
-  return config;
 }
 
 export function saveGitHubConfig(config: GitHubRepoConfig) {

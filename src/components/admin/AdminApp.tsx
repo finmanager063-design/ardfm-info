@@ -27,12 +27,19 @@ export function AdminApp() {
   const [section, setSection] = useState<Section>('dashboard')
   const [sidebarOpen, setSidebarOpen] = useState(false)
   const [mounted, setMounted] = useState(false)
-  useEffect(() => setMounted(true), [])
+  useEffect(() => {
+    setMounted(true)
+    if (typeof window !== 'undefined' && sessionStorage.getItem('regylz-admin-auth') === '1') {
+      seedGitHubConfigIfNeeded()
+      setAuthorized(true)
+    }
+  }, [])
 
   const onLogin = (e: React.FormEvent) => {
     e.preventDefault()
     if (checkAdminPassword(password)) {
       seedGitHubConfigIfNeeded()
+      sessionStorage.setItem('regylz-admin-auth', '1')
       setAuthorized(true)
       setError('')
     }
@@ -87,7 +94,7 @@ export function AdminApp() {
         </div>
         <div className="flex items-center gap-3">
           <Link href="/" className="text-white/40 hover:text-white/70 text-xs transition-colors">На сайт</Link>
-          <button onClick={() => setAuthorized(false)} className="text-white/40 hover:text-red-400 text-xs transition-colors">Выйти</button>
+          <button onClick={() => { sessionStorage.removeItem('regylz-admin-auth'); setAuthorized(false) }} className="text-white/40 hover:text-red-400 text-xs transition-colors">Выйти</button>
         </div>
       </header>
 
