@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-03T12:00:00.000Z",
+  "updatedAt": "2026-06-03T10:36:52.205Z",
   "clients": [
     {
       "comments": [],
@@ -124,10 +124,19 @@
     },
     {
       "comments": [],
-      "history": [],
+      "history": [
+        {
+          "id": "mpxxlz9iyf5cf",
+          "field": "amount",
+          "oldValue": "1000000",
+          "newValue": "11658742",
+          "author": "Администратор",
+          "createdAt": "2026-06-03T10:36:45.126Z"
+        }
+      ],
       "type": "fraud",
       "createdAt": "2026-06-03T12:00:00.000Z",
-      "updatedAt": "2026-06-03T12:00:00.000Z",
+      "updatedAt": "2026-06-03T10:36:45.126Z",
       "iin": "",
       "internalNote": "",
       "id": "fca1142",
@@ -135,8 +144,8 @@
       "clientName": "Баялин Жанабай",
       "email": "bertai.merbek@gmail.com",
       "phone": "+7 775 114 29 87",
-      "amount": 1000000,
-      "payoutAmount": 1000000,
+      "amount": 11658742,
+      "payoutAmount": 11658742,
       "paidAmount": 0,
       "bank": "Kaspi Bank",
       "status": "В работе",
