@@ -11,6 +11,7 @@ import {
   STRUCTURE_BLOCK,
   SUPERVISION_2026,
 } from "./ardfm-content";
+import { ACTIVITY_SLUG_TO_LEGACY } from "./ia-v2";
 import type { GovDocument, GovNews, SiteContent } from "./types";
 
 export type SectionLink = { href: string; label: string; external?: boolean };
@@ -34,11 +35,11 @@ const ABOUT_INTRO = `
 `;
 
 const DIRECTION_LINKS: SectionLink[] = [
-  { href: "/activities/789", label: "Банковский сектор" },
-  { href: "/activities/847", label: "Страховой сектор" },
-  { href: "/activities/788", label: "Рынок ценных бумаг" },
-  { href: "/activities/16487", label: "Иные финансовые организации" },
-  { href: "/activities/80952", label: "Кадровые назначения" },
+  { href: "/activities/banking-sector", label: "Банковский сектор" },
+  { href: "/activities/insurance-sector", label: "Страховой сектор" },
+  { href: "/activities/securities-market", label: "Рынок ценных бумаг" },
+  { href: "/activities/other-financial-organizations", label: "Иные финансовые организации" },
+  { href: "/activities/appointments", label: "Кадровые назначения" },
 ];
 
 export const SECTION_BY_PATH: Record<string, SectionConfig> = {
@@ -164,8 +165,9 @@ function docTitle(d: GovDocument): string {
 
 export function getSectionConfig(pathname: string): SectionConfig | undefined {
   const norm = pathname.replace(/\/$/, "") || "/";
-  if (SECTION_BY_PATH[norm]) return SECTION_BY_PATH[norm];
-  const activity = norm.match(/^\/activities\/(\d+)$/);
+  const legacy = ACTIVITY_SLUG_TO_LEGACY[norm] ?? norm;
+  if (SECTION_BY_PATH[legacy]) return SECTION_BY_PATH[legacy];
+  const activity = legacy.match(/^\/activities\/(\d+)$/);
   if (activity) {
     return (
       SECTION_BY_PATH[`/activities/${activity[1]}`] ?? {

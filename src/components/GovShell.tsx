@@ -3,7 +3,7 @@
 import Link from "next/link";
 import { usePathname, useRouter } from "next/navigation";
 import { useEffect, useState, useCallback } from "react";
-import { MAIN_NAV, FOOTER_LINKS, FOOTER_OFFICIAL } from "@/lib/nav";
+import { ACTION_NAV, FOOTER_LINKS, FOOTER_OFFICIAL, NAV_GROUPS } from "@/lib/nav";
 import { getI18n, getLocaleFromPath, type Locale } from "@/lib/i18n";
 import type { SiteContent } from "@/lib/types";
 
@@ -151,40 +151,54 @@ export function GovShell({
             className={`rz-nav ${menuOpen ? "rz-nav-open" : ""}`}
             aria-label="Основное меню"
           >
-            {MAIN_NAV.map((item) => (
-              <div
-                key={item.href}
-                className={`rz-nav-item ${isActive(item.href) ? "active" : ""}`}
-                onMouseEnter={() => "sub" in item && setOpenSubmenu(item.href)}
-                onMouseLeave={() => setOpenSubmenu(null)}
-              >
+            <Link
+              href="/"
+              className={`rz-nav-link ${isActive("/") ? "active" : ""}`}
+              onClick={() => setMenuOpen(false)}
+            >
+              Главная
+            </Link>
+
+            <div className="rz-nav-actions" role="group" aria-label="Действия">
+              {ACTION_NAV.map((item) => (
                 <Link
+                  key={item.href}
                   href={item.href}
-                  className={`rz-nav-link ${isActive(item.href) ? "active" : ""}`}
+                  className={`rz-nav-action ${isActive(item.href) ? "active" : ""}`}
                   onClick={() => setMenuOpen(false)}
                 >
                   {item.label}
-                  {"sub" in item && <ChevronDown />}
                 </Link>
+              ))}
+            </div>
 
-                {"sub" in item && item.sub && (
-                  <div
-                    className={`rz-nav-mega ${
-                      openSubmenu === item.href ? "rz-nav-mega--open" : ""
-                    }`}
-                  >
-                    {item.sub.map((sub) => (
-                      <Link
-                        key={sub.href}
-                        href={sub.href}
-                        className="rz-nav-mega-link"
-                        onClick={() => setMenuOpen(false)}
-                      >
-                        {sub.label}
-                      </Link>
-                    ))}
-                  </div>
-                )}
+            {NAV_GROUPS.map((group) => (
+              <div
+                key={group.id}
+                className={`rz-nav-item ${group.items.some((i) => isActive(i.href)) ? "active" : ""}`}
+                onMouseEnter={() => setOpenSubmenu(group.id)}
+                onMouseLeave={() => setOpenSubmenu(null)}
+              >
+                <span className="rz-nav-link rz-nav-link--group">
+                  {group.label}
+                  <ChevronDown />
+                </span>
+                <div
+                  className={`rz-nav-mega ${
+                    openSubmenu === group.id ? "rz-nav-mega--open" : ""
+                  }`}
+                >
+                  {group.items.map((sub) => (
+                    <Link
+                      key={sub.href}
+                      href={sub.href}
+                      className="rz-nav-mega-link"
+                      onClick={() => setMenuOpen(false)}
+                    >
+                      {sub.label}
+                    </Link>
+                  ))}
+                </div>
               </div>
             ))}
 

@@ -2,6 +2,7 @@
 
 import { useState, useMemo } from "react";
 import Link from "next/link";
+import { NextStepsBlock } from "@/components/NextStepsBlock";
 
 const LICENSE_DATA = [
   { name: "АО «Народный Банк Казахстана»", type: "Банк", license: "№1.2.3/4", status: "Действует", issued: "12.03.1999" },
@@ -148,11 +149,7 @@ export default function FinancialOrganizationsPage() {
           </div>
         )}
 
-        <div style={{ marginTop: "2rem" }}>
-          <Link href="/consumer-protection" className="rz-btn rz-btn-outline">
-            Защита прав потребителей →
-          </Link>
-        </div>
+        <NextStepsBlock pathname="/financial-organizations" />
       </div>
     </div>
   );

@@ -4,7 +4,13 @@ import { formatDate } from "@/lib/format";
 import { resolveItemImage } from "@/lib/news-media";
 import type { SiteContent } from "@/lib/types";
 
-export function ArticlesList({ articles }: { articles: SiteContent["articles"] }) {
+export function ArticlesList({
+  articles,
+  articleHrefBase = "/article/details",
+}: {
+  articles: SiteContent["articles"];
+  articleHrefBase?: string;
+}) {
   if (!articles.length) {
     return <p>Статьи не загружены. Запустите <code>npm run sync</code>.</p>;
   }
@@ -22,11 +28,11 @@ export function ArticlesList({ articles }: { articles: SiteContent["articles"] }
         );
         return (
           <li key={`${a.id}-${a.alias}`} className="articles-list__item">
-            <Link href={`/article/details/${a.id}`} className="articles-list__thumb">
+            <Link href={`${articleHrefBase}/${a.id}`} className="articles-list__thumb">
               <GovImage src={img} alt="" />
             </Link>
             <div className="articles-list__body">
-              <Link href={`/article/details/${a.id}`}>{a.title}</Link>
+              <Link href={`${articleHrefBase}/${a.id}`}>{a.title}</Link>
               {a.publication_date && <time>{formatDate(a.publication_date)}</time>}
               {a.short_description && <p>{a.short_description}</p>}
             </div>

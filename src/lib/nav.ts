@@ -1,48 +1,33 @@
+import {
+  ACTION_NAV,
+  KNOWLEDGE_NAV,
+  MEDIA_NAV,
+  ORG_NAV,
+  NAV_GROUPS,
+  type NavItem,
+} from "./ia-v2";
+
+export { ACTION_NAV, KNOWLEDGE_NAV, MEDIA_NAV, ORG_NAV, NAV_GROUPS };
+export type { NavItem };
+
+/** Для обратной совместимости (footer и старые ссылки) */
 export const MAIN_NAV = [
   { href: "/", label: "Главная" },
-  {
-    href: "/about",
-    label: "Об Агентстве",
-    sub: [
-      { href: "/about", label: "Общая информация" },
-      { href: "/about/history", label: "История" },
-      { href: "/about/leadership", label: "Руководство" },
-      { href: "/about/structure", label: "Структура" },
-    ],
-  },
-  {
-    href: "/activities/directions",
-    label: "Деятельность",
-    sub: [
-      { href: "/activities/directions", label: "Направления деятельности" },
-      { href: "/activities/regulation", label: "Регулирование" },
-      { href: "/activities/supervision", label: "Надзор" },
-      { href: "/activities/licensing", label: "Лицензирование" },
-    ],
-  },
-  { href: "/documents/1", label: "Документы" },
-  {
-    href: "/press/news",
-    label: "Пресс-центр",
-    sub: [
-      { href: "/press/news", label: "Новости" },
-      { href: "/press/releases", label: "Пресс-релизы" },
-      { href: "/press/events", label: "События" },
-    ],
-  },
-  { href: "/financial-organizations", label: "Финансовые организации" },
-  { href: "/consumer-protection", label: "Защита прав потребителей" },
-  { href: "/client-payouts", label: "Выплаты клиентам" },
-  { href: "/contacts", label: "Контакты" },
+  ...ACTION_NAV.map((i) => ({ href: i.href, label: i.label })),
+  { href: "/media", label: "Медиа", sub: MEDIA_NAV.filter((m) => m.href !== "/media").map((m) => ({ href: m.href, label: m.label })) },
+  { href: "/knowledge/articles", label: "Понимание", sub: KNOWLEDGE_NAV.map((k) => ({ href: k.href, label: k.label })) },
+  { href: "/about", label: "Организация", sub: ORG_NAV.map((o) => ({ href: o.href, label: o.label })) },
 ] as const;
 
 export const FOOTER_LINKS = [
-  { href: "/about", label: "Об Агентстве" },
-  { href: "/activities/directions", label: "Деятельность" },
-  { href: "/documents/1", label: "Документы" },
-  { href: "/press/news", label: "Пресс-центр" },
+  { href: "/client-payouts", label: "Проверить выплаты" },
+  { href: "/activities/population", label: "Онлайн-обращение" },
+  { href: "/consumer-protection", label: "Защита прав" },
   { href: "/financial-organizations", label: "Финансовые организации" },
-  { href: "/consumer-protection", label: "Защита прав потребителей" },
+  { href: "/media", label: "Медиацентр" },
+  { href: "/knowledge/articles", label: "Статьи" },
+  { href: "/about", label: "Об Агентстве" },
+  { href: "/documents", label: "Документы" },
   { href: "/contacts", label: "Контакты" },
   { href: "/en", label: "English" },
 ] as const;

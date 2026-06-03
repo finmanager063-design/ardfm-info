@@ -79,7 +79,7 @@ export function HomePageClient({ allNews, projects, meta }: { allNews: GovNews[]
             <div>
               <motion.div variants={fadeUp} className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-premium-gold/10 border border-premium-gold/20 text-premium-gold text-sm mb-6">
                 <span className="w-2 h-2 rounded-full bg-premium-gold animate-pulse" />
-                Официальный информационный ресурс
+                Агентство финансового рынка
               </motion.div>
 
               <motion.h1 variants={fadeUp} className="text-[clamp(2rem,5vw,3.5rem)] font-bold text-white leading-[1.08] tracking-tight mb-4">
@@ -123,21 +123,6 @@ export function HomePageClient({ allNews, projects, meta }: { allNews: GovNews[]
           </motion.div>
         </div>
       </motion.section>
-
-      {/* Disclaimer — prominently visible */}
-      <div className="bg-premium-navy-950 border-b-2 border-premium-gold/30">
-        <div className="premium-container py-3">
-          <div className="flex items-start gap-2.5 text-xs sm:text-sm">
-            <span className="text-premium-gold text-base sm:text-lg shrink-0 mt-0.5">⚖️</span>
-            <div>
-              <strong className="text-premium-gold">Информационный зеркальный ресурс.</strong>{' '}
-              <span className="text-white/50">Данный сайт не является официальным сайтом Агентства РК по регулированию и развитию финансового рынка (АРРФР). Создан в информационных целях на основе открытых данных. Для получения официальных услуг обращайтесь на </span>
-              <a href="https://www.gov.kz" target="_blank" rel="noreferrer" className="text-premium-gold hover:underline font-medium">gov.kz</a>
-              <span className="text-white/50">.</span>
-            </div>
-          </div>
-        </div>
-      </div>
 
       {/* Fraud Alert */}
       <div className="bg-[#1a0a0a] border-y border-red-900/30">

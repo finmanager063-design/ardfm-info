@@ -8,7 +8,7 @@ export default function SearchPage() {
         <div className="rz-page-header-inner">
           <h1 className="rz-page-title">Поиск по сайту</h1>
           <p className="rz-page-desc">
-            Результаты поиска по новостям, документам и страницам
+            Поиск по намерению: действия, документы, организации, новости
           </p>
         </div>
       </div>

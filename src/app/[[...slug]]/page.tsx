@@ -2,6 +2,9 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { ActivitiesDirections } from "@/components/ActivitiesDirections";
 import { ClientPayoutsPage } from "@/components/ClientPayoutsPage";
+import { MediaHubPage } from "@/components/MediaHubPage";
+import { RouteRedirect } from "@/components/RouteRedirect";
+import { getRedirectTarget } from "@/lib/ia-v2";
 import { MarketChartsStrip } from "@/components/MarketChartsStrip";
 import { ContactsPage } from "@/components/ContactsPage";
 import { FaqPage } from "@/components/FaqPage";
@@ -37,19 +40,20 @@ export default async function DynamicPage({ params }: Props) {
   const pathname = pathFromSlug(slug);
   const content = getContent();
 
+  const redirectTo = getRedirectTarget(pathname);
+  if (redirectTo) return <RouteRedirect to={redirectTo} />;
+
   if (pathname === "/") {
     return <HomePage />;
   }
 
-  // Новость
-  const newsMatch = pathname.match(/^\/press\/news\/details\/(\d+)$/);
-  if (newsMatch) {
-    const item = findNewsById(newsMatch[1]);
+  const renderNewsDetail = (id: string, listHref: string, listLabel: string) => {
+    const item = findNewsById(id);
     if (!item) notFound();
     return (
       <article>
         <nav className="breadcrumb">
-          <Link href="/">Главная</Link> / <Link href="/press/news">Пресс-центр</Link> / Новость
+          <Link href="/">Главная</Link> / <Link href={listHref}>{listLabel}</Link> / Новость
         </nav>
         <h1 className="page-title">{item.title}</h1>
         <time dateTime={item.created_date}>{formatDate(item.created_date)}</time>
@@ -57,9 +61,63 @@ export default async function DynamicPage({ params }: Props) {
         <HtmlContent html={item.body || ""} />
       </article>
     );
+  };
+
+  // Новость (media + legacy press)
+  const mediaNewsMatch = pathname.match(/^\/media\/news\/details\/(\d+)$/);
+  if (mediaNewsMatch) return renderNewsDetail(mediaNewsMatch[1], "/media/news", "Новости");
+
+  const newsMatch = pathname.match(/^\/press\/news\/details\/(\d+)$/);
+  if (newsMatch) return renderNewsDetail(newsMatch[1], "/media/news", "Новости");
+
+  if (pathname === "/media" || pathname === "/media/") {
+    return <MediaHubPage content={content} news={sortNewsByDate(content.news)} activeTab="all" />;
+  }
+  if (pathname === "/media/news") {
+    return <MediaHubPage content={content} news={sortNewsByDate(content.news)} activeTab="news" />;
+  }
+  if (pathname === "/media/press") {
+    return <MediaHubPage content={content} news={sortNewsByDate(content.news)} activeTab="press" />;
+  }
+  if (pathname === "/media/events") {
+    return <MediaHubPage content={content} news={sortNewsByDate(content.news)} activeTab="events" />;
   }
 
-  // Список новостей
+  const mediaPressMatch = pathname.match(/^\/media\/press\/details\/(\d+)$/);
+  if (mediaPressMatch) {
+    const r = content.pressReleases.find((x) => String(x.id) === mediaPressMatch[1]);
+    if (!r) notFound();
+    return (
+      <article>
+        <nav className="breadcrumb">
+          <Link href="/">Главная</Link> / <Link href="/media/press">Пресс-релизы</Link>
+        </nav>
+        <h1 className="page-title">{r.title}</h1>
+        <time>{formatDate(r.created_date)}</time>
+        {r.short_description && <p>{r.short_description}</p>}
+        <HtmlContent html={(r as { body?: string }).body || ""} />
+      </article>
+    );
+  }
+
+  const mediaEventMatch = pathname.match(/^\/media\/events\/details\/(\d+)$/);
+  if (mediaEventMatch) {
+    const all = [...content.events.upcoming, ...content.events.past];
+    const ev = all.find((e) => String(e.id) === mediaEventMatch[1]);
+    if (!ev) notFound();
+    return (
+      <article>
+        <nav className="breadcrumb">
+          <Link href="/">Главная</Link> / <Link href="/media/events">События</Link>
+        </nav>
+        <h1 className="page-title">{ev.title}</h1>
+        <time>{formatDate(ev.event_date || ev.event_date_end)}</time>
+        {ev.short_description && <p>{ev.short_description}</p>}
+      </article>
+    );
+  }
+
+  // Список новостей (legacy → redirect)
   if (pathname === "/press/news" || pathname === "/press" || pathname === "/press/") {
     return <PressCenterPage news={sortNewsByDate(content.news)} activePath="/press/news" />;
   }
@@ -92,6 +150,38 @@ export default async function DynamicPage({ params }: Props) {
               <time>{formatDate(r.created_date)}</time>
             </li>
           ))}
+        </ul>
+      </>
+    );
+  }
+
+  if (pathname === "/knowledge/articles" || pathname === "/articles") {
+    const articles = getArticles();
+    return (
+      <>
+        <nav className="breadcrumb">
+          <Link href="/">Главная</Link> / Статьи
+        </nav>
+        <h1 className="page-title">Статьи и материалы</h1>
+        <p className="section-lead">Объяснения, разборы и образовательные публикации Агентства.</p>
+        <ArticlesList articles={articles} articleHrefBase="/article/details" />
+      </>
+    );
+  }
+
+  if (pathname === "/knowledge/guides") {
+    return (
+      <>
+        <nav className="breadcrumb">
+          <Link href="/">Главная</Link> / Гайды и разборы
+        </nav>
+        <h1 className="page-title">Гайды и разборы</h1>
+        <p className="section-lead">Пошаговые материалы по защите прав и финансовой грамотности.</p>
+        <ul className="doc-list">
+          <li><Link href="/knowledge/articles">Все статьи Агентства</Link></li>
+          <li><Link href="/about/faq">Часто задаваемые вопросы</Link></li>
+          <li><Link href="/consumer-protection">Защита прав потребителей</Link></li>
+          <li><Link href="/activities/directions">Направления деятельности</Link></li>
         </ul>
       </>
     );
@@ -193,18 +283,6 @@ export default async function DynamicPage({ params }: Props) {
 
   // Все статьи
   const articles = getArticles();
-
-  if (pathname === "/articles") {
-    return (
-      <>
-        <nav className="breadcrumb">
-          <Link href="/">Главная</Link> / Статьи и материалы
-        </nav>
-        <h1 className="page-title">Статьи и материалы</h1>
-        <ArticlesList articles={articles} />
-      </>
-    );
-  }
 
   const articleMatch = pathname.match(/^\/article\/details\/([^/]+)$/);
   if (articleMatch) {

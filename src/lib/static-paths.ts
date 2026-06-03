@@ -17,9 +17,16 @@ export function collectStaticSlugs(content: SiteContent): { slug: string[] }[] {
     ["press", "news"],
     ["press", "releases"],
     ["press", "events"],
+    ["media"],
+    ["media", "news"],
+    ["media", "press"],
+    ["media", "events"],
+    ["knowledge", "articles"],
+    ["knowledge", "guides"],
     ["client-payouts"],
     ["admin"],
     ["articles"],
+    ["documents"],
     ["documents", "1"],
     ["about", "faq"],
     ["about", "structure"],
@@ -35,6 +42,17 @@ export function collectStaticSlugs(content: SiteContent): { slug: string[] }[] {
     ["premium", "a"],
     ["premium", "b"],
     ["premium", "c"],
+    ["activities", "banking-sector"],
+    ["activities", "insurance-sector"],
+    ["activities", "securities-market"],
+    ["activities", "other-financial-organizations"],
+    ["activities", "appointments"],
+    ["activities", "population"],
+    ["activities", "788"],
+    ["activities", "789"],
+    ["activities", "847"],
+    ["activities", "16487"],
+    ["activities", "80952"],
   ];
   for (const r of extraRoutes) addSlug(seen, r);
 
@@ -47,6 +65,7 @@ export function collectStaticSlugs(content: SiteContent): { slug: string[] }[] {
 
   for (const n of content.news) {
     addSlug(seen, ["press", "news", "details", String(n.id)]);
+    addSlug(seen, ["media", "news", "details", String(n.id)]);
   }
 
   for (const d of content.documents) {
@@ -59,11 +78,15 @@ export function collectStaticSlugs(content: SiteContent): { slug: string[] }[] {
 
   for (const e of [...content.events.upcoming, ...content.events.past]) {
     addSlug(seen, ["press", "events", "details", String(e.id)]);
+    addSlug(seen, ["media", "events", "details", String(e.id)]);
   }
 
   for (const pr of content.pressReleases || []) {
   const id = (pr as { id?: string | number }).id;
-    if (id) addSlug(seen, ["press", "releases", "details", String(id)]);
+    if (id) {
+      addSlug(seen, ["press", "releases", "details", String(id)]);
+      addSlug(seen, ["media", "press", "details", String(id)]);
+    }
   }
 
   for (const p of content.projects || []) {

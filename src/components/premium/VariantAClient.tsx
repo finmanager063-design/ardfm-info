@@ -99,7 +99,7 @@ export function VariantAClient({ news, meta }: { news: GovNews[]; meta: SiteCont
         <div className="premium-container flex items-center justify-between h-16">
           <Link href="/" className="flex items-center gap-3">
             <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ccircle cx='50' cy='50' r='48' fill='%23D4AF37'/%3E%3Ccircle cx='50' cy='50' r='44' fill='%23001F4D'/%3E%3Ccircle cx='50' cy='50' r='38' fill='%23D4AF37'/%3E%3Cpath d='M50 20 L58 38 L78 38 L62 50 L68 70 L50 58 L32 70 L38 50 L22 38 L42 38 Z' fill='%23001F4D'/%3E%3C/svg%3E" alt="" className="w-8 h-8" />
-            <span className="text-white/50 text-xs font-medium uppercase tracking-widest hidden sm:block">Информационный ресурс</span>
+            <span className="text-white/50 text-xs font-medium uppercase tracking-widest hidden sm:block">АРРФР</span>
           </Link>
           <nav className="hidden md:flex items-center gap-1">
             {['Об Агентстве', 'Деятельность', 'Документы', 'Пресс-центр', 'Контакты'].map((item) => (
@@ -352,7 +352,7 @@ export function VariantAClient({ news, meta }: { news: GovNews[]; meta: SiteCont
             </div>
           </div>
           <div className="pt-6 border-t border-white/10 flex flex-col sm:flex-row justify-between gap-4 text-xs">
-            <p>© {new Date().getFullYear()} Информационный ресурс. Не является официальным сайтом госоргана.</p>
+            <p>© {new Date().getFullYear()} Агентство Республики Казахстан по регулированию и развитию финансового рынка</p>
             <p>Обновлено: {new Date(meta.syncedAt || Date.now()).toLocaleDateString('ru-RU')}</p>
           </div>
         </div>

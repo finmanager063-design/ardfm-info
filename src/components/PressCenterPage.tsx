@@ -26,7 +26,9 @@ export function PressCenterPage({ news, activePath }: Props) {
             key={tab.href}
             href={tab.href}
             className={`home-press__tab ${
-              activePath === tab.href || (tab.href === "/press/news" && activePath.startsWith("/press/news"))
+              ("exact" in tab && tab.exact ? activePath === tab.href : false)
+                || activePath === tab.href
+                || (!("exact" in tab && tab.exact) && activePath.startsWith(`${tab.href}/`))
                 ? "home-press__tab--active"
                 : ""
             }`}

@@ -8,6 +8,7 @@ import {
   findClientByQuery,
   type ClientRecord,
 } from "@/lib/clients-data";
+import { NextStepsBlock } from "@/components/NextStepsBlock";
 import {
   findPayoutByQuery,
   formatKzt,
@@ -183,6 +184,8 @@ export function ClientPayoutsPage() {
             </table>
           </div>
         </section>
+
+        <NextStepsBlock pathname="/client-payouts" />
       </div>
     </div>
   );

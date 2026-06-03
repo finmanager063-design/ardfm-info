@@ -121,7 +121,7 @@ export default function VariantC() {
             <motion.div initial="hidden" animate={heroInView ? "visible" : "hidden"} variants={stagger}>
               <motion.div variants={fadeUp} className="inline-flex items-center gap-3 px-5 py-2 rounded-full bg-amber-500/10 border border-amber-500/20 text-amber-300 text-sm mb-6">
                 <span className="w-1.5 h-1.5 rounded-full bg-amber-400 shadow-lg shadow-amber-400/50" />
-                Официальный информационный ресурс
+                Агентство финансового рынка
               </motion.div>
 
               <motion.h1 variants={fadeUp} className="text-5xl sm:text-6xl lg:text-7xl font-bold leading-[1.05] tracking-tight mb-6">
@@ -356,7 +356,7 @@ export default function VariantC() {
             </div>
           </div>
           <div className="pt-6 border-t border-amber-500/10 flex flex-col sm:flex-row justify-between gap-4 text-xs text-white/30">
-            <p>© {new Date().getFullYear()} Информационный ресурс. Не является официальным сайтом госоргана.</p>
+            <p>© {new Date().getFullYear()} Агентство Республики Казахстан по регулированию и развитию финансового рынка</p>
           </div>
         </div>
       </footer>

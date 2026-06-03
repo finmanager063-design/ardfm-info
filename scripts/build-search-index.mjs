@@ -30,12 +30,21 @@ function dedupeArticles(articles) {
 
 const uniqueArticles = dedupeArticles(content.articles || []);
 
+const ACTION_PAGES = [
+  { title: "Проверить выплаты", href: "/client-payouts" },
+  { title: "Онлайн-обращение", href: "/activities/population" },
+  { title: "Защита прав потребителей", href: "/consumer-protection" },
+  { title: "Финансовые организации", href: "/financial-organizations" },
+  { title: "Контакты", href: "/contacts" },
+];
+
 const index = {
+  actions: ACTION_PAGES,
   news: (content.news || []).map((n) => ({
     id: n.id,
     title: n.title,
     short_description: n.short_description,
-    href: `/press/news/details/${n.id}`,
+    href: `/media/news/details/${n.id}`,
   })),
   documents: (content.documents || []).map((d) => ({
     id: d.id,

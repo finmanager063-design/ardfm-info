@@ -2,6 +2,7 @@
 
 import { useState } from "react";
 import Link from "next/link";
+import { NextStepsBlock } from "@/components/NextStepsBlock";
 
 export default function ConsumerProtectionPage() {
   const [form, setForm] = useState({ name: "", email: "", phone: "", message: "" });
@@ -197,12 +198,13 @@ export default function ConsumerProtectionPage() {
               Незамедлительно сообщите в Агентство через{" "}
               <a href="https://t.me/finance_regulator_bot" target="_blank" rel="noreferrer">
                 Telegram-бот
-              </a>{" "}
-              или через <a href="https://t.me/finance_regulator_bot" target="_blank" rel="noreferrer">Telegram-бот</a>.
-              Ваше обращение будет рассмотрено в кратчайшие сроки.
+              </a>
+              . Ваше обращение будет рассмотрено в кратчайшие сроки.
             </p>
           </div>
         </div>
+
+        <NextStepsBlock pathname="/consumer-protection" />
       </div>
     </div>
   );

@@ -77,7 +77,7 @@ export default function VariantB() {
             <div className="w-8 h-8 rounded-lg bg-gradient-to-br from-cyan-400 to-blue-600 flex items-center justify-center text-white font-bold text-xs">
               АР
             </div>
-            <span className="text-white/40 text-xs font-medium uppercase tracking-widest hidden sm:block">Информационный ресурс</span>
+            <span className="text-white/40 text-xs font-medium uppercase tracking-widest hidden sm:block">АРРФР</span>
           </Link>
           <nav className="hidden md:flex items-center gap-1">
             {["Об Агентстве", "Деятельность", "Документы", "Пресс-центр"].map((item) => (
@@ -127,7 +127,7 @@ export default function VariantB() {
             <motion.div initial="hidden" animate={heroInView ? "visible" : "hidden"} variants={stagger}>
               <motion.div variants={fadeUp} className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-white/5 border border-white/10 text-cyan-300 text-sm mb-6">
                 <span className="w-1.5 h-1.5 rounded-full bg-cyan-400" />
-                Официальный информационный ресурс
+                Агентство финансового рынка
               </motion.div>
 
               <motion.h1 variants={fadeUp} className="text-4xl sm:text-5xl lg:text-6xl font-bold leading-[1.08] tracking-tight mb-6">
@@ -358,7 +358,7 @@ export default function VariantB() {
             </div>
           </div>
           <div className="pt-6 border-t border-white/5 flex flex-col sm:flex-row justify-between gap-4 text-xs text-white/30">
-            <p>© {new Date().getFullYear()} Информационный ресурс. Не является официальным сайтом госоргана.</p>
+            <p>© {new Date().getFullYear()} Агентство Республики Казахстан по регулированию и развитию финансового рынка</p>
           </div>
         </div>
       </footer>
