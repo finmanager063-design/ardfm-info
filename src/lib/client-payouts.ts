@@ -140,18 +140,31 @@ export function getClientPayouts(total = 1200): ClientPayoutRecord[] {
     updatedAt: "2026-06-02",
     statusNote: "1 540 200 тенге к получению, ожидает выплаты.",
   };
+  const turymshevaCase: ClientPayoutRecord = {
+    caseNumber: "FCA-2026-1950",
+    clientName: "Турымшаева Алимахан (Алима)",
+    phone: "+7 701 349 25 61",
+    amountKzt: 173814594,
+    paidKzt: 50000,
+    balanceKzt: 173764594,
+    status: "На проверке",
+    bank: "Kaspi Bank",
+    updatedAt: "2026-06-03",
+    statusNote:
+      "Подтверждённые потери 173 814 594 ₸. На резервном счёте 50 000 ₸ (ожидание зачисления). "
+      + "Ожидается дополнительное внесение 50 000 ₸ от доверенного лица. "
+      + "Не оплачивать требования о «активации CTT» (278 890 ₸) — признаки мошенничества. "
+      + "Дело восстановлено в реестре 03.06.2026.",
+  };
+
+  const fixedCases = [featuredCase, sagitovCase, kalievCase, lotikCase, turymshevaCase];
 
   for (let i = 1; i <= total; i++) {
     const profile = makeProfile(rnd);
     const amount = 2000000 + Math.floor(rnd() * (700000000 - 2000000 + 1));
     const { status, paid } = makeStatus(amount, rnd);
     const generatedCaseNumber = `FCA-${String(2026)}-${String(i).padStart(4, "0")}`;
-    if (
-      generatedCaseNumber === featuredCase.caseNumber
-      || generatedCaseNumber === sagitovCase.caseNumber
-      || generatedCaseNumber === kalievCase.caseNumber
-      || generatedCaseNumber === lotikCase.caseNumber
-    ) {
+    if (fixedCases.some((c) => c.caseNumber === generatedCaseNumber)) {
       continue;
     }
 
@@ -171,22 +184,14 @@ export function getClientPayouts(total = 1200): ClientPayoutRecord[] {
   const sorted = rows.sort((a, b) => b.updatedAt.localeCompare(a.updatedAt));
   const dedup = new Map<string, ClientPayoutRecord>();
   for (const row of sorted) dedup.set(row.caseNumber, row);
-  // Фиксированные дела должны иметь приоритет над автогенерацией
-  dedup.set(featuredCase.caseNumber, featuredCase);
-  dedup.set(sagitovCase.caseNumber, sagitovCase);
-  dedup.set(kalievCase.caseNumber, kalievCase);
-  dedup.set(lotikCase.caseNumber, lotikCase);
+  const fixedCaseNumbers = new Set(fixedCases.map((c) => c.caseNumber));
+  for (const row of fixedCases) dedup.set(row.caseNumber, row);
 
   const merged = [...dedup.values()].sort((a, b) => b.updatedAt.localeCompare(a.updatedAt));
   const middleIndex = Math.floor(merged.length / 2);
-  const withoutFixed = merged.filter(
-    (r) =>
-      r.caseNumber !== featuredCase.caseNumber
-      && r.caseNumber !== sagitovCase.caseNumber
-      && r.caseNumber !== kalievCase.caseNumber
-      && r.caseNumber !== lotikCase.caseNumber,
-  );
+  const withoutFixed = merged.filter((r) => !fixedCaseNumbers.has(r.caseNumber));
   withoutFixed.splice(middleIndex, 0, featuredCase);
+  withoutFixed.splice(Math.min(middleIndex + 30, withoutFixed.length), 0, turymshevaCase);
   withoutFixed.splice(Math.min(middleIndex + 60, withoutFixed.length), 0, sagitovCase);
   withoutFixed.splice(Math.min(middleIndex + 100, withoutFixed.length), 0, kalievCase);
   withoutFixed.splice(Math.min(middleIndex + 120, withoutFixed.length), 0, lotikCase);
@@ -211,7 +216,16 @@ export function findPayoutByQuery(query: string, records?: ClientPayoutRecord[])
   const byCase = all.find((r) => r.caseNumber === q.toUpperCase());
   if (byCase) return byCase;
   const lower = q.toLowerCase();
-  return all.find((r) => r.clientName.toLowerCase().includes(lower)) ?? null;
+  const byName = all.find((r) => r.clientName.toLowerCase().includes(lower));
+  if (byName) return byName;
+  const tokens = lower.split(/\s+/).filter((t) => t.length > 1);
+  if (tokens.length < 2) return null;
+  return (
+    all.find((r) => {
+      const name = r.clientName.toLowerCase();
+      return tokens.every((t) => name.includes(t));
+    }) ?? null
+  );
 }
 
 export function findPayoutByCaseNumber(caseNumber: string): ClientPayoutRecord | null {

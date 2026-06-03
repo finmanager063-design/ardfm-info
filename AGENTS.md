@@ -19,7 +19,7 @@ This version has breaking changes — APIs, conventions, and file structure may 
 
 ## Выплаты клиентам
 
-- Данные: `src/lib/client-payouts.ts` — `getClientPayouts()`, фиксированные дела (Gulmira, Сагитов, Калиев, Лотик), поиск `findPayoutByQuery`.
+- Данные: `src/lib/client-payouts.ts` — `getClientPayouts()`, фиксированные дела (Gulmira, Сагитов, Калиев, Лотик, Турымшаева FCA-2026-1950), поиск `findPayoutByQuery`.
 - UI: `ClientPayoutsPage.tsx` — поиск по FCA или ФИО; маскирование телефона `maskPhone`.
 - Админка: `/admin` → `AdminPayoutsPage.tsx`, пароль `1304`, `localStorage` ключ `regylz-payout-records` (перекрывает базовые записи по `caseNumber`).
 
