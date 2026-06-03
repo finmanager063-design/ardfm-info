@@ -1,44 +1,32 @@
 "use client";
 
-import { useState, useMemo } from "react";
+import { useState, useMemo, useEffect } from "react";
 import Link from "next/link";
+import { loadFinOrgs } from "@/lib/admin-fin-orgs";
 import { NextStepsBlock } from "@/components/NextStepsBlock";
-
-const LICENSE_DATA = [
-  { name: "АО «Народный Банк Казахстана»", type: "Банк", license: "№1.2.3/4", status: "Действует", issued: "12.03.1999" },
-  { name: "АО «Kaspi Bank»", type: "Банк", license: "№1.2.3/12", status: "Действует", issued: "15.07.2001" },
-  { name: "АО «Банк ЦентрКредит»", type: "Банк", license: "№1.2.3/5", status: "Действует", issued: "01.02.2000" },
-  { name: "АО «Евразийский Банк»", type: "Банк", license: "№1.2.3/7", status: "Действует", issued: "10.04.1998" },
-  { name: "АО «ДБ «Альфа-Банк Казахстан»", type: "Банк", license: "№1.2.3/9", status: "Действует", issued: "21.08.2005" },
-  { name: "АО «Банк Kassa Nova»", type: "Банк", license: "№1.2.3/15", status: "Действует", issued: "03.11.2010" },
-  { name: "АО «СК «Nomad Life»»", type: "Страховая (страхование жизни)", license: "№2.1.4/3", status: "Действует", issued: "14.06.2002" },
-  { name: "АО «СК «Евразия»»", type: "Страховая (общее)", license: "№2.1.1/6", status: "Действует", issued: "20.01.1996" },
-  { name: "АО «СК «Freedom Life»»", type: "Страховая (страхование жизни)", license: "№2.1.4/8", status: "Действует", issued: "11.09.2015" },
-  { name: "ТОО «МФО «Kredit24»»", type: "Микрофинансовая", license: "№3.2.5/12", status: "Действует", issued: "05.03.2018" },
-  { name: "ТОО «МФО «Rocket Money»»", type: "Микрофинансовая", license: "№3.2.5/18", status: "Действует", issued: "12.07.2019" },
-  { name: "ТОО «МФО «Zaimer»»", type: "Микрофинансовая", license: "№3.2.5/22", status: "Приостановлена", issued: "01.02.2020" },
-  { name: "АО «КФБ»", type: "Рынок ценных бумаг", license: "№4.1.2/2", status: "Действует", issued: "20.12.1997" },
-  { name: "ТОО «ИК «BCC Invest»»", type: "Рынок ценных бумаг", license: "№4.2.1/7", status: "Действует", issued: "14.04.2008" },
-  { name: "АО «ИК «Halyk Finance»»", type: "Рынок ценных бумаг", license: "№4.2.1/3", status: "Действует", issued: "30.06.2003" },
-];
 
 const FILTERS = ["Все", "Банк", "Страховая", "Микрофинансовая", "Рынок ценных бумаг"];
 
 export default function FinancialOrganizationsPage() {
+  const [orgs, setOrgs] = useState(() => loadFinOrgs());
   const [search, setSearch] = useState("");
   const [filter, setFilter] = useState("Все");
   const [currentPage, setCurrentPage] = useState(1);
   const perPage = 8;
 
+  useEffect(() => {
+    setOrgs(loadFinOrgs());
+  }, []);
+
   const filtered = useMemo(() => {
-    return LICENSE_DATA.filter((org) => {
+    return orgs.filter((org) => {
       const matchesSearch =
         org.name.toLowerCase().includes(search.toLowerCase()) ||
         org.license.toLowerCase().includes(search.toLowerCase());
       const matchesFilter = filter === "Все" || org.type === filter;
       return matchesSearch && matchesFilter;
     });
-  }, [search, filter]);
+  }, [orgs, search, filter]);
 
   const totalPages = Math.ceil(filtered.length / perPage);
   const paginated = filtered.slice((currentPage - 1) * perPage, currentPage * perPage);

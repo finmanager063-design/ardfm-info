@@ -2,22 +2,25 @@
 
 import { useState, useEffect, useMemo } from 'react'
 import { AdminDashboard } from './AdminDashboard'
+import { AnnouncementsSection } from './AnnouncementsSection'
 import { ClientsSection } from './ClientsSection'
 import { GitHubSettingsSection } from './GitHubSettingsSection'
+import { RegistrySection } from './RegistrySection'
+import { SectionShell } from './SectionShell'
 import { checkAdminPassword, setAdminPassword } from '@/lib/admin-auth'
 import { seedGitHubConfigIfNeeded } from '@/lib/github-sync'
 import Link from 'next/link'
 
 type Section = 'dashboard' | 'clients' | 'sync' | 'registry' | 'news' | 'settings' | 'blacklist'
 
-const NAV: { id: Section; label: string; icon: string }[] = [
+const NAV: { id: Section; label: string; icon: string; hint?: string }[] = [
   { id: 'dashboard', label: 'Дашборд', icon: '📊' },
   { id: 'clients', label: 'Клиенты и обращения', icon: '👥' },
   { id: 'sync', label: 'Синхронизация GitHub', icon: '☁️' },
   { id: 'registry', label: 'Реестр организаций', icon: '📋' },
-  { id: 'news', label: 'Новости', icon: '📰' },
-  { id: 'settings', label: 'Настройки', icon: '⚙️' },
-  { id: 'blacklist', label: 'Чёрный список', icon: '🚫' },
+  { id: 'news', label: 'Объявления', icon: '📰' },
+  { id: 'settings', label: 'Настройки сайта', icon: '⚙️' },
+  { id: 'blacklist', label: 'Чёрный список', icon: '🚫', hint: 'локально' },
 ]
 
 export function AdminApp() {
@@ -111,7 +114,8 @@ export function AdminApp() {
                 }`}
               >
                 <span className="text-base">{n.icon}</span>
-                {n.label}
+                <span className="flex-1">{n.label}</span>
+                {n.hint && <span className="text-[10px] text-white/30 uppercase">{n.hint}</span>}
               </button>
             ))}
           </nav>
@@ -126,36 +130,12 @@ export function AdminApp() {
           {section === 'clients' && <ClientsSection />}
           {section === 'sync' && <GitHubSettingsSection />}
           {section === 'registry' && <RegistrySection />}
-          {section === 'news' && <NewsSection />}
+          {section === 'news' && <AnnouncementsSection />}
           {section === 'settings' && <SettingsSection />}
           {section === 'blacklist' && <BlacklistSection />}
         </main>
       </div>
     </div>
-  )
-}
-
-/* ─── Registry Section ─── */
-function RegistrySection() {
-  return (
-    <SectionShell title="Реестр финансовых организаций" icon="📋" desc="Управление списком поднадзорных организаций">
-      <div className="bg-white/5 rounded-xl border border-white/10 p-8 text-center">
-        <div className="text-4xl mb-3 opacity-40">🏦</div>
-        <p className="text-white/50 text-sm">Раздел в разработке. Здесь можно будет добавлять и редактировать организации в реестре.</p>
-      </div>
-    </SectionShell>
-  )
-}
-
-/* ─── News Section ─── */
-function NewsSection() {
-  return (
-    <SectionShell title="Управление новостями" icon="📰" desc="Публикация и редактирование новостей и пресс-релизов">
-      <div className="bg-white/5 rounded-xl border border-white/10 p-8 text-center">
-        <div className="text-4xl mb-3 opacity-40">📰</div>
-        <p className="text-white/50 text-sm">Раздел в разработке. Здесь можно будет создавать и редактировать новости.</p>
-      </div>
-    </SectionShell>
   )
 }
 
@@ -253,7 +233,7 @@ function BlacklistSection() {
   }
 
   return (
-    <SectionShell title="Чёрный список мошенников" icon="🚫" desc="База известных мошенников и недобросовестных участников рынка">
+    <SectionShell title="Чёрный список мошенников" icon="🚫" desc="База мошенников. Сохраняется только в этом браузере (localStorage).">
       <div className="bg-white/5 rounded-xl border border-white/10 p-4 sm:p-6 space-y-5">
         <div className="grid grid-cols-1 sm:grid-cols-4 gap-3">
           <input value={name} onChange={e => setName(e.target.value)} className="admin-input" placeholder="ФИО мошенника" />
@@ -292,21 +272,3 @@ function BlacklistSection() {
     </SectionShell>
   )
 }
-
-/* ─── Section Shell ─── */
-function SectionShell({ title, icon, desc, children }: { title: string; icon: string; desc: string; children: React.ReactNode }) {
-  return (
-    <div>
-      <div className="mb-6">
-        <div className="flex items-center gap-2.5 mb-1">
-          <span className="text-xl">{icon}</span>
-          <h1 className="text-xl sm:text-2xl font-bold text-white">{title}</h1>
-        </div>
-        <p className="text-white/40 text-sm">{desc}</p>
-      </div>
-      {children}
-    </div>
-  )
-}
-
-export { SectionShell }

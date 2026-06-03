@@ -2,7 +2,6 @@
 
 import { useState, useEffect, useMemo, useCallback } from 'react'
 import {
-  fetchClientsData,
   suggestNextCaseNumber,
   generateId,
   formatCurrency,
@@ -16,7 +15,11 @@ import {
   type AppealType,
   type ClientsDataFile,
 } from '@/lib/clients-data'
-import { commitClientsFile, getGitHubConfig } from '@/lib/github-sync'
+import {
+  getLastLocalSaveLabel,
+  loadClientsMerged,
+  saveClientsMerged,
+} from '@/lib/clients-persistence'
 import { exportToCSV, downloadCSV } from '@/lib/admin-store'
 
 const emptyForm = () => ({
@@ -45,6 +48,7 @@ export function ClientsSection() {
   const [commentText, setCommentText] = useState('')
   const [selectedIds, setSelectedIds] = useState<Set<string>>(new Set())
   const [expandedId, setExpandedId] = useState<string | null>(null)
+  const [syncHint, setSyncHint] = useState<string | null>(null)
 
   const showToast = (type: 'ok' | 'err', text: string) => {
     setToast({ type, text })
@@ -53,8 +57,9 @@ export function ClientsSection() {
 
   const reload = useCallback(async () => {
     setLoading(true)
-    const data = await fetchClientsData()
+    const data = await loadClientsMerged()
     setClients(data.clients)
+    setSyncHint(getLastLocalSaveLabel())
     setLoading(false)
   }, [])
 
@@ -63,15 +68,16 @@ export function ClientsSection() {
   const persist = async (next: ClientRecord[], message: string) => {
     setSaving(true)
     const payload: ClientsDataFile = { version: 1, updatedAt: new Date().toISOString(), clients: next }
-    const config = getGitHubConfig()
-    const res = await commitClientsFile(config, payload, message)
+    const res = await saveClientsMerged(payload, message)
     setSaving(false)
-    if (!res.ok) {
-      showToast('err', res.error)
-      return false
-    }
     setClients(next)
-    showToast('ok', 'Данные успешно обновлены на сервере GitHub. Изменения вступят в силу в течение 1–2 минут.')
+    setSyncHint(getLastLocalSaveLabel())
+
+    if (res.github.ok) {
+      showToast('ok', 'Сохранено локально и отправлено в GitHub. На сайте обновится через 1–2 минуты после деплоя.')
+      return true
+    }
+    showToast('err', `${res.github.error} Запись уже в списке ниже — поиск на сайте работает в этом браузере.`)
     return true
   }
 
@@ -113,7 +119,10 @@ export function ClientsSection() {
   }
 
   const saveForm = async () => {
-    if (!form.clientName.trim() || !form.phone.trim()) return
+    if (!form.clientName.trim() || !form.phone.trim()) {
+      showToast('err', 'Укажите ФИО и телефон — без них клиент не сохранится.')
+      return
+    }
     const now = new Date().toISOString()
     let next: ClientRecord[]
 
@@ -237,7 +246,9 @@ export function ClientsSection() {
         <div>
           <h1 className="text-xl sm:text-2xl font-bold text-white">Клиенты и обращения</h1>
           <p className="text-white/40 text-sm">
-            {loading ? 'Загрузка…' : `Всего: ${clients.length} · источник: data.json`}
+            {loading
+              ? 'Загрузка…'
+              : `Всего: ${clients.length} · локально + data.json${syncHint ? ` · сохранено ${syncHint}` : ''}`}
           </p>
         </div>
         <div className="flex gap-2">
@@ -460,7 +471,7 @@ export function ClientsSection() {
             <div className="flex justify-end gap-3 mt-5">
               <button type="button" onClick={() => setShowForm(false)} className="premium-btn premium-btn-outline text-sm !py-2 !px-4">Отмена</button>
               <button type="button" onClick={saveForm} disabled={saving} className="premium-btn premium-btn-primary text-sm !py-2 !px-4">
-                {saving ? 'Сохранение…' : editId ? 'Сохранить в GitHub' : 'Создать в GitHub'}
+                {saving ? 'Сохранение…' : editId ? 'Сохранить' : 'Создать клиента'}
               </button>
             </div>
           </div>

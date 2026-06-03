@@ -1,13 +1,18 @@
 'use client'
 
 import { useState, useEffect, useMemo } from 'react'
-import { fetchClientsData, formatCurrency, formatDate, type ClientRecord } from '@/lib/clients-data'
+import { formatCurrency, formatDate, type ClientRecord } from '@/lib/clients-data'
+import { getLastLocalSaveLabel, loadClientsMerged } from '@/lib/clients-persistence'
 
 export function AdminDashboard() {
   const [clients, setClients] = useState<ClientRecord[]>([])
+  const [lastSave, setLastSave] = useState<string | null>(null)
 
   useEffect(() => {
-    fetchClientsData().then((d) => setClients(d.clients))
+    loadClientsMerged().then((d) => {
+      setClients(d.clients)
+      setLastSave(getLastLocalSaveLabel())
+    })
   }, [])
 
   const stats = useMemo(() => {
@@ -37,7 +42,10 @@ export function AdminDashboard() {
     <div>
       <div className="mb-6">
         <h1 className="text-xl sm:text-2xl font-bold text-white">Дашборд</h1>
-        <p className="text-white/40 text-sm">Общая статистика по обращениям и клиентам</p>
+        <p className="text-white/40 text-sm">
+          Общая статистика по обращениям и клиентам
+          {lastSave && <span className="block mt-1 text-white/30">Последнее сохранение в браузере: {lastSave}</span>}
+        </p>
       </div>
 
       {/* Stat cards */}

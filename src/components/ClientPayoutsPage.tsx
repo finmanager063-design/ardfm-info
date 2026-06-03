@@ -1,7 +1,9 @@
 "use client";
 
-import { useCallback, useMemo, useState } from "react";
+import { useCallback, useEffect, useMemo, useState } from "react";
 import Link from "next/link";
+import { clientToPayoutRecord } from "@/lib/clients-data";
+import { loadClientsMerged } from "@/lib/clients-persistence";
 import { NextStepsBlock } from "@/components/NextStepsBlock";
 import { PayoutCaseCard } from "@/components/PayoutCaseCard";
 import {
@@ -35,7 +37,20 @@ function delay(ms: number) {
 }
 
 export function ClientPayoutsPage() {
-  const registry = useMemo(() => getClientPayouts(REGISTRY_STUB_COUNT), []);
+  const stubs = useMemo(() => getClientPayouts(REGISTRY_STUB_COUNT), []);
+  const [crmPayouts, setCrmPayouts] = useState<ClientPayoutRecord[]>([]);
+
+  useEffect(() => {
+    loadClientsMerged().then((data) => {
+      setCrmPayouts(data.clients.map(clientToPayoutRecord));
+    });
+  }, []);
+
+  const registry = useMemo(() => {
+    const crmCases = new Set(crmPayouts.map((r) => r.caseNumber));
+    const filler = stubs.filter((r) => !crmCases.has(r.caseNumber));
+    return [...crmPayouts, ...filler];
+  }, [stubs, crmPayouts]);
 
   const [query, setQuery] = useState("");
   const [searched, setSearched] = useState("");
@@ -98,8 +113,13 @@ export function ClientPayoutsPage() {
           </div>
           <h1 className="rz-page-title">Проверить статус обращения</h1>
           <p className="rz-page-desc">
-            Поиск по номеру дела, ИИН или ФИО в реестре Агентства. В системе{" "}
-            {registry.length.toLocaleString("ru-RU")} дел.
+            Поиск по номеру дела, ИИН или ФИО в реестре Агентства.{" "}
+            {crmPayouts.length > 0 && (
+              <span>
+                Активных обращений: {crmPayouts.length}.{" "}
+              </span>
+            )}
+            Всего в реестре: {registry.length.toLocaleString("ru-RU")} дел.
           </p>
         </div>
       </div>

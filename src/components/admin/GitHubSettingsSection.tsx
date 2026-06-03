@@ -9,7 +9,7 @@ import {
   testGitHubConnection,
   type GitHubRepoConfig,
 } from "@/lib/github-sync";
-import { SectionShell } from "./AdminApp";
+import { SectionShell } from "./SectionShell";
 
 export function GitHubSettingsSection() {
   const [config, setConfig] = useState<GitHubRepoConfig>({
