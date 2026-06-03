@@ -2,11 +2,46 @@
 
 import Link from "next/link";
 import { usePathname, useRouter } from "next/navigation";
-import { useEffect, useState } from "react";
-import { KzSiteBanner } from "@/components/KzSiteBanner";
-import { TelegramBotCta } from "@/components/TelegramBotCta";
-import { FOOTER_LINKS, MAIN_NAV } from "@/lib/nav";
+import { useEffect, useState, useCallback } from "react";
+import { MAIN_NAV, FOOTER_LINKS, FOOTER_OFFICIAL } from "@/lib/nav";
+import { getI18n, getLocaleFromPath, type Locale } from "@/lib/i18n";
 import type { SiteContent } from "@/lib/types";
+
+function ChevronDown() {
+  return (
+    <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round">
+      <path d="M6 9l6 6 6-6" />
+    </svg>
+  );
+}
+
+function SearchIcon() {
+  return (
+    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+      <circle cx="11" cy="11" r="8" />
+      <path d="M21 21l-4.35-4.35" />
+    </svg>
+  );
+}
+
+function MenuIcon() {
+  return (
+    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+      <line x1="3" y1="6" x2="21" y2="6" />
+      <line x1="3" y1="12" x2="21" y2="12" />
+      <line x1="3" y1="18" x2="21" y2="18" />
+    </svg>
+  );
+}
+
+function CloseIcon() {
+  return (
+    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+      <line x1="18" y1="6" x2="6" y2="18" />
+      <line x1="6" y1="6" x2="18" y2="18" />
+    </svg>
+  );
+}
 
 export function GovShell({
   children,
@@ -17,160 +52,285 @@ export function GovShell({
 }) {
   const pathname = usePathname();
   const router = useRouter();
+  const locale = getLocaleFromPath(pathname);
+  const i18n = getI18n(locale);
+
   const [menuOpen, setMenuOpen] = useState(false);
   const [searchOpen, setSearchOpen] = useState(false);
   const [query, setQuery] = useState("");
-
-  const onSearch = (e: React.FormEvent) => {
-    e.preventDefault();
-    if (query.trim()) {
-      router.push(`/search?q=${encodeURIComponent(query.trim())}`);
-      setSearchOpen(false);
-    }
-  };
+  const [openSubmenu, setOpenSubmenu] = useState<string | null>(null);
+  const [scrolled, setScrolled] = useState(false);
 
   const isActive = (href: string) => {
-    if (href === "/") return pathname === "/";
+    if (href === "/") return pathname === "/" || pathname === "";
     return pathname.startsWith(href);
   };
 
+  const onSearch = useCallback(
+    (e: React.FormEvent) => {
+      e.preventDefault();
+      if (query.trim()) {
+        const searchPath = locale === "ru" ? `/search?q=${encodeURIComponent(query.trim())}` : `/${locale}/search?q=${encodeURIComponent(query.trim())}`;
+        router.push(searchPath);
+        setSearchOpen(false);
+      }
+    },
+    [query, router, locale],
+  );
+
   useEffect(() => {
-    const header = document.querySelector(".ardfm-header");
-    const onScroll = () => {
-      header?.classList.toggle("ardfm-header--scrolled", window.scrollY > 24);
-    };
+    const onScroll = () => setScrolled(window.scrollY > 20);
     onScroll();
     window.addEventListener("scroll", onScroll, { passive: true });
     return () => window.removeEventListener("scroll", onScroll);
   }, []);
 
-  useEffect(() => {
-    const main = document.getElementById("main");
-    if (!main) return;
-    main.classList.add("page-enter");
-    const t = window.setTimeout(() => main.classList.remove("page-enter"), 500);
-    return () => clearTimeout(t);
-  }, [pathname]);
+  const showHomeLayout = pathname === "/";
+
+  const switchLocale = (l: Locale) => {
+    if (l === locale) return;
+    if (l === "ru") {
+      router.push(pathname.replace(/^\/(en|kk)/, "") || "/");
+    } else {
+      router.push(`/${l}${pathname === "/" ? "" : pathname}`);
+    }
+  };
 
   return (
-    <div className="ardfm-root">
+    <div className="regylz-root">
       <a href="#main" className="skip-link">
-        Перейти на основной контент
+        {i18n.common.back}
       </a>
 
-      <header className="ardfm-header">
-        <div className="ardfm-header__top">
-          <Link href="/" className="ardfm-logo">
-            <span className="ardfm-logo-text">GOV.KZ</span>
+      <header className={`rz-header ${scrolled ? "rz-header--scrolled" : ""}`}>
+        <div className="rz-header-top">
+          <Link href="/" className="rz-header-brand">
+            <img
+              src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ccircle cx='50' cy='50' r='48' fill='%230A1F3F'/%3E%3Ccircle cx='50' cy='50' r='44' fill='%23C9A84C'/%3E%3Ccircle cx='50' cy='50' r='38' fill='%230A1F3F'/%3E%3Cpath d='M50 20 L58 38 L78 38 L62 50 L68 70 L50 58 L32 70 L38 50 L22 38 L42 38 Z' fill='%23C9A84C'/%3E%3C/svg%3E"
+              alt="Герб РК"
+              className="rz-header-emblem"
+            />
+            <span className="rz-header-badge">{i18n.footer.disclaimerShort}</span>
           </Link>
-          <div className="ardfm-header__actions">
-            <div className="ardfm-lang">
-              <button type="button" className="ardfm-btn-text">
-                ru ▾
-              </button>
+
+          <div className="rz-header-actions">
+            <a href="tel:1459" className="rz-hotline">
+              <span className="rz-hotline-icon">📞</span>
+              1459
+            </a>
+
+            <div className="rz-lang-switch">
+              {(["ru", "kk", "en"] as Locale[]).map((l) => (
+                <button
+                  key={l}
+                  className={`rz-lang-btn ${l === locale ? "active" : ""}`}
+                  onClick={() => switchLocale(l)}
+                >
+                  {l === "ru" ? "Рус" : l === "kk" ? "Қаз" : "Eng"}
+                </button>
+              ))}
             </div>
-            <button
-              type="button"
-              className="ardfm-btn-icon ardfm-menu-toggle"
-              aria-expanded={menuOpen}
-              aria-controls="ardfm-main-nav"
-              aria-label={menuOpen ? "Закрыть меню" : "Открыть меню"}
-              onClick={() => setMenuOpen((v) => !v)}
-            >
-              ☰
-            </button>
           </div>
         </div>
 
-        <div className="ardfm-header__org">
-          <Link href="/" className="ardfm-org-title">
-            {meta.entityTitle}
-          </Link>
-        </div>
+        <div className="rz-header-nav-row">
+          <button
+            className="rz-menu-toggle"
+            onClick={() => setMenuOpen(!menuOpen)}
+            aria-label={menuOpen ? "Закрыть меню" : "Открыть меню"}
+          >
+            {menuOpen ? <CloseIcon /> : <MenuIcon />}
+          </button>
 
-        <nav
-          id="ardfm-main-nav"
-          className={`ardfm-nav ardfm-nav--entity ${menuOpen ? "ardfm-nav--open" : ""}`}
-          aria-label="Основное меню"
-        >
-          <ul className="ardfm-nav__list">
+          <nav
+            className={`rz-nav ${menuOpen ? "rz-nav-open" : ""}`}
+            aria-label="Основное меню"
+          >
             {MAIN_NAV.map((item) => (
-              <li key={item.href} className="ardfm-nav__item">
+              <div
+                key={item.href}
+                className={`rz-nav-item ${isActive(item.href) ? "active" : ""}`}
+                onMouseEnter={() => "sub" in item && setOpenSubmenu(item.href)}
+                onMouseLeave={() => setOpenSubmenu(null)}
+              >
                 <Link
                   href={item.href}
-                  className={`ardfm-nav__link ${isActive(item.href) ? "active" : ""}`}
+                  className={`rz-nav-link ${isActive(item.href) ? "active" : ""}`}
                   onClick={() => setMenuOpen(false)}
                 >
                   {item.label}
+                  {"sub" in item && <ChevronDown />}
                 </Link>
-              </li>
+
+                {"sub" in item && item.sub && (
+                  <div
+                    className={`rz-nav-mega ${
+                      openSubmenu === item.href ? "rz-nav-mega--open" : ""
+                    }`}
+                  >
+                    {item.sub.map((sub) => (
+                      <Link
+                        key={sub.href}
+                        href={sub.href}
+                        className="rz-nav-mega-link"
+                        onClick={() => setMenuOpen(false)}
+                      >
+                        {sub.label}
+                      </Link>
+                    ))}
+                  </div>
+                )}
+              </div>
             ))}
-          </ul>
-          <button
-            type="button"
-            className="ardfm-search-toggle"
-            aria-label="Поиск"
-            onClick={() => setSearchOpen((v) => !v)}
-          >
-            🔍
-          </button>
-        </nav>
+
+            <button
+              className="rz-search-toggle"
+              aria-label="Поиск"
+              onClick={() => setSearchOpen(true)}
+            >
+              <SearchIcon />
+            </button>
+          </nav>
+        </div>
 
         {searchOpen && (
-          <form className="ardfm-search" onSubmit={onSearch}>
-            <input
-              type="search"
-              placeholder="Поиск по сайту…"
-              value={query}
-              onChange={(e) => setQuery(e.target.value)}
-              autoFocus
-            />
-            <button type="submit">Найти</button>
-          </form>
+          <div className="rz-search-overlay" onClick={() => setSearchOpen(false)}>
+            <div
+              className="rz-search-modal rz-animate-slide-down"
+              onClick={(e) => e.stopPropagation()}
+            >
+              <form onSubmit={onSearch}>
+                <div className="rz-search-modal-header">
+                  <SearchIcon />
+                  <input
+                    type="search"
+                    className="rz-search-modal-input"
+                    placeholder={i18n.search.placeholder}
+                    value={query}
+                    onChange={(e) => setQuery(e.target.value)}
+                    autoFocus
+                  />
+                  <button
+                    type="button"
+                    className="rz-search-modal-close"
+                    onClick={() => setSearchOpen(false)}
+                  >
+                    ✕
+                  </button>
+                </div>
+              </form>
+              {query.trim() && (
+                <div className="rz-search-suggestions">
+                  <Link
+                    href={`/search?q=${encodeURIComponent(query.trim())}`}
+                    className="rz-search-suggestion"
+                    onClick={() => setSearchOpen(false)}
+                  >
+                    <span className="rz-search-suggestion-type">
+                      {i18n.search.search}
+                    </span>{" "}
+                    «{query.trim()}»
+                  </Link>
+                </div>
+              )}
+            </div>
+          </div>
         )}
       </header>
 
-      {pathname !== "/" && pathname !== "" && <KzSiteBanner />}
-
-      <main
-        id="main"
-        className={`ardfm-main${pathname === "/" || pathname === "" ? " ardfm-main--home" : ""}`}
-      >
+      <main id="main" className="rz-main">
         {children}
       </main>
 
-      <footer className="ardfm-footer">
-        <div className="ardfm-footer__grid">
-          <div>
-            <p className="ardfm-footer__title">{meta.entityShort}</p>
-            <TelegramBotCta variant="footer" />
-          </div>
-          <div>
-            <p className="ardfm-footer__title">Разделы сайта</p>
-            <ul>
-              {FOOTER_LINKS.map((l) => (
-                <li key={l.href}>
-                  {l.href.startsWith("http") ? (
+      <footer className="rz-footer">
+        <div className="rz-footer-inner">
+          <div className="rz-footer-grid">
+            <div className="rz-footer-brand">
+              <img
+                src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ccircle cx='50' cy='50' r='48' fill='%23C9A84C'/%3E%3Ccircle cx='50' cy='50' r='44' fill='%230A1F3F'/%3E%3Ccircle cx='50' cy='50' r='38' fill='%23C9A84C'/%3E%3Cpath d='M50 20 L58 38 L78 38 L62 50 L68 70 L50 58 L32 70 L38 50 L22 38 L42 38 Z' fill='%230A1F3F'/%3E%3C/svg%3E"
+                alt="Герб РК"
+                className="rz-footer-emblem"
+              />
+              <div className="rz-footer-org">{meta.entityTitle}</div>
+              <div className="rz-footer-disclaimer">
+                {i18n.footer.disclaimer}
+              </div>
+            </div>
+
+            <div>
+              <h3 className="rz-footer-col-title">{i18n.footer.sections}</h3>
+              <ul className="rz-footer-links">
+                {FOOTER_LINKS.map((l) => (
+                  <li key={l.href}>
+                    {l.href.startsWith("http") ? (
+                      <a href={l.href} target="_blank" rel="noreferrer">
+                        {l.label}
+                      </a>
+                    ) : (
+                      <Link href={l.href}>{l.label}</Link>
+                    )}
+                  </li>
+                ))}
+              </ul>
+            </div>
+
+            <div>
+              <h3 className="rz-footer-col-title">{i18n.footer.officialResources}</h3>
+              <ul className="rz-footer-links">
+                {FOOTER_OFFICIAL.map((l) => (
+                  <li key={l.href}>
                     <a href={l.href} target="_blank" rel="noreferrer">
                       {l.label}
                     </a>
-                  ) : (
-                    <Link href={l.href}>{l.label}</Link>
-                  )}
-                </li>
-              ))}
-            </ul>
-          </div>
-          <div>
-            <p className="ardfm-footer__title">Обращения</p>
-            <div className="ardfm-social">
-              <a href="https://t.me/finance_regulator_bot" target="_blank" rel="noreferrer">
-                @finance_regulator_bot
+                  </li>
+                ))}
+              </ul>
+            </div>
+
+            <div>
+              <h3 className="rz-footer-col-title">{i18n.footer.appeals}</h3>
+              <a className="rz-footer-hotline" href="tel:1459">
+                <span>📞</span>
+                1459
               </a>
+              <p style={{ fontSize: "0.78rem", margin: "0.5rem 0 1rem", opacity: 0.6 }}>
+                {i18n.footer.hotlineDesc}
+              </p>
+              <ul className="rz-footer-links">
+                <li>
+                  <a
+                    href="https://t.me/finance_regulator_bot"
+                    target="_blank"
+                    rel="noreferrer"
+                  >
+                    ✈️ @finance_regulator_bot
+                  </a>
+                </li>
+              </ul>
+            </div>
+          </div>
+
+          <div className="rz-footer-bot">
+            <div>
+              © {new Date().getFullYear()} {i18n.footer.allRights}.
+            </div>
+            <div className="rz-footer-bot-links">
+              <a href="/privacy">{i18n.footer.privacy}</a>
+              <a href="/accessibility">{i18n.footer.accessibility}</a>
+              <a href="https://www.gov.kz" target="_blank" rel="noreferrer">
+                gov.kz
+              </a>
+            </div>
+            <div className="rz-footer-updated">
+              {i18n.footer.lastUpdate}:{" "}
+              {new Date(meta.syncedAt || Date.now()).toLocaleDateString(locale === "en" ? "en-US" : locale === "kk" ? "kk-KZ" : "ru-RU", {
+                year: "numeric",
+                month: "long",
+                day: "numeric",
+              })}
             </div>
           </div>
         </div>
-        <p className="ardfm-footer__copy">2026 © Все права защищены.</p>
       </footer>
     </div>
   );

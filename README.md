@@ -1,38 +1,75 @@
-# Regylz — копия портала АРРФР (gov.kz/ardfm)
+# Regylz — портал АРРФР
 
-Локальная копия сайта [Агентства по регулированию и развитию финансового рынка](https://www.gov.kz/memleket/entities/ardfm).
+Статический сайт [Агентства Республики Казахстан по регулированию и развитию финансового рынка](https://www.gov.kz/memleket/entities/ardfm): контент с gov.kz, выплаты клиентам, мобильная вёрстка, i18n (ru/kk/en).
 
-## Сайт (GitHub Pages)
+## Продакшен
 
-После push в `main` деплой идёт автоматически:
+| URL | Назначение |
+|-----|------------|
+| **https://govkz.online** | Основной домен (GitHub Pages + `public/CNAME`) |
+| https://finmanager063-design.github.io/regylz/ | Запасной URL GitHub Pages |
 
-**https://finmanager063-design.github.io/regylz/**
+Деплой: push в `main` → workflow [Deploy to GitHub Pages](.github/workflows/deploy-pages.yml).
 
-Включите Pages в репозитории, если ещё не включены: *Settings → Pages → Source: GitHub Actions*.
+В репозитории: *Settings → Pages → Source: GitHub Actions*, для `govkz.online` — HTTPS и custom domain.
 
-**Git:** только аккаунт [finmanager063-design](https://github.com/finmanager063-design) — см. [docs/GIT-ACCOUNTS.md](docs/GIT-ACCOUNTS.md). SSH `vladymyrzaicenko1992-ai` для этого репо не использовать.
+## Основные разделы
+
+- `/` — главная (пресс-центр, проекты, галерея)
+- `/about`, `/about/history`, `/about/leadership`, `/about/structure` — об Агентстве
+- `/activities/*` — деятельность (из CMS)
+- `/documents/1` — документы
+- `/press/news`, `/press/releases`, `/press/events` — пресс-центр
+- `/financial-organizations`, `/consumer-protection` — реестры и защита прав
+- `/client-payouts` — реестр выплат, поиск по номеру дела (FCA-…) или ФИО
+- `/admin` — служебная панель добавления/обновления записей выплат (пароль в коде `AdminPayoutsPage`)
+- `/en`, `/kk` — языковые версии интерфейса
+- `/privacy`, `/accessibility` — политика и доступность
+- `/search` — поиск по индексу
+
+## Стек
+
+- **Next.js 16** — App Router, `output: 'export'` для GitHub Pages
+- **React 19**, TypeScript, CSS (`regylz.css`, `ardfm.css`, `motion.css`)
+- Данные: `data/content.json` (sync с gov.kz), `data/photo-pool.json`, `public/search-index.json`
+- Выплаты: `src/lib/client-payouts.ts` (1200+ записей + фиксированные дела), `localStorage` для записей из админки
 
 ## Локальная разработка
 
 ```bash
-npm run sync          # загрузить контент с gov.kz
+npm ci
+npm run sync          # полная синхронизация content.json с gov.kz
 npm run dev           # http://localhost:3000
 ```
 
-## Сборка как на GitHub Pages
+Сборка как на Pages:
 
 ```bash
-npm run build:pages   # статический экспорт в out/
-npx serve out -p 3000 # проверка локально (корень — /regylz/)
+npm run build:pages   # out/ — статический экспорт
+npx serve out -p 3000
 ```
 
-## Синхронизация
+Переменные для домена:
 
-`npm run sync` — полная загрузка в `data/content.json`.  
-В CI используется укороченный `scripts/sync-ci.mjs` (без скачивания картинок).
+```bash
+NEXT_PUBLIC_SITE_URL=https://govkz.online NEXT_PUBLIC_BASE_PATH= npm run build:pages
+```
+
+Для подкаталога GitHub Pages: `NEXT_PUBLIC_BASE_PATH=/regylz`.
+
+## Скрипты
+
+| Команда | Описание |
+|---------|----------|
+| `npm run sync` | Загрузка контента в `data/content.json` |
+| `npm run build:pages` | Индекс поиска, photo-pool, изображения, static export |
+| `npm run setup:kz-photos` | Локальные JPG вместо SVG-заглушек |
+| `npm run download-images` | Скачивание uploads с gov.kz |
+
+## Git
+
+Только аккаунт [finmanager063-design](https://github.com/finmanager063-design) — см. [docs/GIT-ACCOUNTS.md](docs/GIT-ACCOUNTS.md).
 
 ## Примечание
 
-Независимая копия для архива/разработки. Официальный источник: [gov.kz/memleket/entities/ardfm](https://www.gov.kz/memleket/entities/ardfm).
-
-Деплой **только через GitHub** — без сторонних серверов.
+Информационный ресурс на базе открытых данных gov.kz. Официальный источник: [gov.kz/memleket/entities/ardfm](https://www.gov.kz/memleket/entities/ardfm).

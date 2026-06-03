@@ -1,5 +1,49 @@
 @import "tailwindcss";
 
+@theme {
+  --color-navy-50: #f0f3f9;
+  --color-navy-100: #d9e0f0;
+  --color-navy-200: #b3c1e0;
+  --color-navy-300: #8da2d1;
+  --color-navy-400: #6783c1;
+  --color-navy-500: #4164b2;
+  --color-navy-600: #2a4a8f;
+  --color-navy-700: #1a3a6b;
+  --color-navy-800: #0f2a4f;
+  --color-navy-900: #071a33;
+  --color-navy-950: #030d1a;
+
+  --color-gold-50: #fdf8ed;
+  --color-gold-100: #faefcc;
+  --color-gold-200: #f5df99;
+  --color-gold-300: #f0cf66;
+  --color-gold-400: #ebbf33;
+  --color-gold-500: #c9a84c;
+  --color-gold-600: #a8882e;
+  --color-gold-700: #87681f;
+  --color-gold-800: #664815;
+  --color-gold-900: #45300d;
+
+  --color-surface: #f8f9fc;
+  --color-surface-alt: #f0f2f8;
+  --color-border: #e2e6ef;
+  --color-text: #1a1a2e;
+  --color-text-secondary: #5c6370;
+  --color-text-inverse: #ffffff;
+
+  --font-sans: 'Inter', system-ui, -apple-system, sans-serif;
+
+  --radius-sm: 6px;
+  --radius-md: 10px;
+  --radius-lg: 16px;
+  --radius-xl: 20px;
+
+  --shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.06);
+  --shadow-md: 0 4px 16px rgba(0, 0, 0, 0.08);
+  --shadow-lg: 0 8px 32px rgba(0, 0, 0, 0.1);
+  --shadow-xl: 0 16px 48px rgba(0, 0, 0, 0.12);
+}
+
 * {
   box-sizing: border-box;
 }
@@ -7,11 +51,96 @@
 body {
   margin: 0;
   padding: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
-.ardfm-logo-text {
-  font-weight: 700;
-  color: #4053d4;
-  font-size: 1.25rem;
-  letter-spacing: 0.02em;
+::selection {
+  background: var(--color-gold-500);
+  color: var(--color-navy-900);
+}
+
+.skip-link {
+  position: absolute;
+  left: -9999px;
+  z-index: 9999;
+  padding: 0.75rem 1.5rem;
+  background: var(--color-navy-800);
+  color: #fff;
+  font-weight: 600;
+  border-radius: 0 0 var(--radius-md) 0;
+  text-decoration: none;
+}
+.skip-link:focus {
+  left: 0;
+  top: 0;
+}
+
+.regylz-root {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  background: var(--color-surface);
+  color: var(--color-text);
+  font-family: var(--font-sans);
+  line-height: 1.6;
+}
+
+.regylz-root.dark {
+  --color-surface: #0f1117;
+  --color-surface-alt: #1a1d28;
+  --color-border: #2a2d3a;
+  --color-text: #e8e8ed;
+  --color-text-secondary: #9a9ea8;
+  background: var(--color-surface);
+  color: var(--color-text);
+}
+
+.regylz-root.high-contrast {
+  --color-navy-500: #0044cc;
+  --color-navy-600: #0033aa;
+  --color-navy-700: #002288;
+  --color-gold-500: #cc8800;
+  --color-text: #000000;
+  --color-text-secondary: #333333;
+  --color-border: #666666;
+}
+
+.gov-img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+.container-main {
+  width: 100%;
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 0 1.5rem;
+}
+
+@media (max-width: 768px) {
+  .container-main {
+    padding: 0 1rem;
+  }
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(12px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.animate-in {
+  animation: fadeIn 0.4s ease-out forwards;
+}
+
+.animate-in-delay-1 { animation-delay: 0.1s; }
+.animate-in-delay-2 { animation-delay: 0.2s; }
+.animate-in-delay-3 { animation-delay: 0.3s; }
+.animate-in-delay-4 { animation-delay: 0.4s; }
+.animate-in-delay-5 { animation-delay: 0.5s; }
+
+.stagger-item {
+  opacity: 0;
+  animation: fadeIn 0.4s ease-out forwards;
 }

@@ -23,6 +23,14 @@ export function collectStaticSlugs(content: SiteContent): { slug: string[] }[] {
     ["documents", "1"],
     ["about", "faq"],
     ["about", "structure"],
+    ["about", "history"],
+    ["about", "leadership"],
+    ["financial-organizations"],
+    ["consumer-protection"],
+    ["privacy"],
+    ["accessibility"],
+    ["en"],
+    ["kk"],
   ];
   for (const r of extraRoutes) addSlug(seen, r);
 
