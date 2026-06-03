@@ -245,9 +245,7 @@ export function ContactsPage() {
             <Link href="/press/news">Пресс-центр</Link>
           </li>
           <li>
-            <a href="https://www.gov.kz/memleket/entities/ardfm?lang=ru" target="_blank" rel="noreferrer">
-              Официальный портал gov.kz
-            </a>
+            <Link href="/">Официальный сайт Агентства</Link>
           </li>
         </ul>
       </section>

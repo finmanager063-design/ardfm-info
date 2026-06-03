@@ -50,6 +50,6 @@ export const FOOTER_LINKS = [
 export const FOOTER_OFFICIAL = [
   { href: "https://www.akorda.kz/ru", label: "Сайт Президента РК" },
   { href: "https://primeminister.kz/ru", label: "Сайт Премьер-Министра РК" },
-  { href: "https://www.gov.kz", label: "Портал gov.kz" },
+  { href: "/", label: "Сайт Агентства" },
   { href: "https://www.gov.kz/article/41788?lang=ru", label: "Жизненные ситуации" },
 ] as const;

@@ -25,12 +25,12 @@ export const CONTACT_CHANNELS = [
     note: "Основной канал обращений",
   },
   {
-    id: "egov",
+    id: "web",
     icon: "🌐",
-    title: "Портал gov.kz",
-    value: "memleket/entities/ardfm",
-    href: "https://www.gov.kz/memleket/entities/ardfm?lang=ru",
-    note: "Официальная страница Агентства",
+    title: "Официальный сайт",
+    value: "govkz.online",
+    href: "https://govkz.online/",
+    note: "Информационный ресурс Агентства",
   },
   {
     id: "call",

@@ -14,7 +14,7 @@ const siteUrl = process.env.NEXT_PUBLIC_SITE_URL
 
 export const metadata: Metadata = {
   title: {
-    default: `${content.meta.entityTitle} | Официальный информационный ресурс`,
+    default: content.meta.entityTitle,
     template: `%s | ${content.meta.entityShort}`,
   },
   description:

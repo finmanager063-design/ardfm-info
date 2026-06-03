@@ -83,17 +83,6 @@ export default function AboutPage() {
           </div>
         </div>
 
-        <div className="rz-alert-bar">
-          <span className="rz-alert-bar-icon">ℹ️</span>
-          <div className="rz-alert-bar-content">
-            <p className="rz-alert-bar-title">Источник информации</p>
-            <p className="rz-alert-bar-text">
-              Данный раздел содержит информацию, полученную с официального сайта{" "}
-              <a href="https://www.gov.kz" target="_blank" rel="noreferrer">gov.kz</a>.
-              Для получения официальной информации обратитесь на портал Правительства РК.
-            </p>
-          </div>
-        </div>
       </div>
     </div>
   );

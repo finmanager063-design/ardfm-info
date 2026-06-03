@@ -110,7 +110,7 @@ export function GovShell({
               alt="Герб РК"
               className="rz-header-emblem"
             />
-            <span className="rz-header-badge">{i18n.footer.disclaimerShort}</span>
+            <span className="rz-header-badge">{meta.entityShort}</span>
           </Link>
 
           <div className="rz-header-actions">
@@ -257,9 +257,6 @@ export function GovShell({
                 className="rz-footer-emblem"
               />
               <div className="rz-footer-org">{meta.entityTitle}</div>
-              <div className="rz-footer-disclaimer">
-                {i18n.footer.disclaimer}
-              </div>
             </div>
 
             <div>
@@ -330,9 +327,6 @@ export function GovShell({
             <div className="rz-footer-bot-links">
               <a href="/privacy">{i18n.footer.privacy}</a>
               <a href="/accessibility">{i18n.footer.accessibility}</a>
-              <a href="https://www.gov.kz" target="_blank" rel="noreferrer">
-                gov.kz
-              </a>
             </div>
             <div className="rz-footer-updated">
               {i18n.footer.lastUpdate}:{" "}
