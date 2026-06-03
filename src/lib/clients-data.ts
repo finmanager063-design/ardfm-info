@@ -112,6 +112,7 @@ export function clientToPayoutRecord(client: ClientRecord): ClientPayoutRecord {
   return {
     caseNumber: client.caseNumber,
     clientName: client.clientName,
+    iin: client.iin || "",
     phone: client.phone,
     amountKzt,
     paidKzt,

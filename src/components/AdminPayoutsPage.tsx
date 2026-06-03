@@ -93,6 +93,7 @@ export function AdminPayoutsPage() {
     const next: ClientPayoutRecord = {
       caseNumber: form.caseNumber.trim().toUpperCase(),
       clientName: form.clientName.trim(),
+      iin: "",
       phone: form.phone.trim(),
       amountKzt: amount,
       paidKzt: paid,
