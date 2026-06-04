@@ -1,7 +1,44 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-03T13:35:40.653Z",
+  "updatedAt": "2026-06-04T07:26:24.470Z",
   "clients": [
+    {
+      "comments": [],
+      "history": [
+        {
+          "id": "mpxxlz9iyf5cf",
+          "field": "amount",
+          "oldValue": "1000000",
+          "newValue": "11658742",
+          "author": "Администратор",
+          "createdAt": "2026-06-03T10:36:45.126Z"
+        },
+        {
+          "id": "mpy401705qrke",
+          "field": "status",
+          "oldValue": "В работе",
+          "newValue": "Отклонено",
+          "author": "Администратор",
+          "createdAt": "2026-06-03T13:35:38.508Z"
+        }
+      ],
+      "type": "fraud",
+      "createdAt": "2026-06-03T12:00:00.000Z",
+      "updatedAt": "2026-06-03T13:35:38.508Z",
+      "iin": "",
+      "internalNote": "",
+      "id": "fca1142",
+      "caseNumber": "FCA-2026-1142",
+      "clientName": "Баялин Жанабай",
+      "email": "bertai.merbek@gmail.com",
+      "phone": "+7 775 114 29 87",
+      "amount": 11658742,
+      "payoutAmount": 11658742,
+      "paidAmount": 0,
+      "bank": "Kaspi Bank",
+      "status": "Отклонено",
+      "regulatorNote": "Дело на рассмотрении. Сбор документов для вывода средств."
+    },
     {
       "id": "mpy2j9scvl02y",
       "caseNumber": "FCA-2026-0001",
@@ -24,10 +61,19 @@
     },
     {
       "comments": [],
-      "history": [],
+      "history": [
+        {
+          "id": "mpz690bzqq44d",
+          "field": "status",
+          "oldValue": "В работе",
+          "newValue": "На проверке",
+          "author": "Администратор",
+          "createdAt": "2026-06-04T07:26:22.703Z"
+        }
+      ],
       "type": "fraud",
       "createdAt": "2026-06-03T12:00:00.000Z",
-      "updatedAt": "2026-06-03T12:00:00.000Z",
+      "updatedAt": "2026-06-04T07:26:22.703Z",
       "iin": "",
       "internalNote": "",
       "id": "fca0514",
@@ -39,8 +85,8 @@
       "payoutAmount": 6626655,
       "paidAmount": 0,
       "bank": "Народный банк",
-      "status": "В работе",
-      "regulatorNote": "6 626 655 ₸ к выплате. Дело в работе."
+      "status": "На проверке",
+      "regulatorNote": "Ожидается оплата комиссии банка 180 000 ₸ "
     },
     {
       "comments": [],
@@ -221,43 +267,6 @@
       "bank": "Freedom Bank Kazakhstan",
       "status": "В работе",
       "regulatorNote": "Дело на рассмотрении. Подтверждённые потери 3 813 635 ₸."
-    },
-    {
-      "comments": [],
-      "history": [
-        {
-          "id": "mpxxlz9iyf5cf",
-          "field": "amount",
-          "oldValue": "1000000",
-          "newValue": "11658742",
-          "author": "Администратор",
-          "createdAt": "2026-06-03T10:36:45.126Z"
-        },
-        {
-          "id": "mpy401705qrke",
-          "field": "status",
-          "oldValue": "В работе",
-          "newValue": "Отклонено",
-          "author": "Администратор",
-          "createdAt": "2026-06-03T13:35:38.508Z"
-        }
-      ],
-      "type": "fraud",
-      "createdAt": "2026-06-03T12:00:00.000Z",
-      "updatedAt": "2026-06-03T13:35:38.508Z",
-      "iin": "",
-      "internalNote": "",
-      "id": "fca1142",
-      "caseNumber": "FCA-2026-1142",
-      "clientName": "Баялин Жанабай",
-      "email": "bertai.merbek@gmail.com",
-      "phone": "+7 775 114 29 87",
-      "amount": 11658742,
-      "payoutAmount": 11658742,
-      "paidAmount": 0,
-      "bank": "Kaspi Bank",
-      "status": "Отклонено",
-      "regulatorNote": "Дело на рассмотрении. Сбор документов для вывода средств."
     }
   ]
 }
