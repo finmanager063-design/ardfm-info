@@ -6,6 +6,8 @@ import { useEffect, useRef, useState } from 'react'
 import type { GovNews, GovProject, SiteContent } from '@/lib/types'
 import { getDiversePhoto } from '@/lib/photo-pool'
 import { HOME_IMPORTANT_LINKS } from '@/lib/home-data'
+import { getMakarovArticle } from '@/lib/featured-articles'
+import { MAKAROV_ARTICLE_HREF, MAKAROV_AWARD_IMAGE } from '@/lib/makarov-media'
 
 function formatDate(dateStr: string): string {
   try { return new Date(dateStr).toLocaleDateString('ru-RU', { year: 'numeric', month: 'long', day: 'numeric' }) }
@@ -63,6 +65,7 @@ export function HomePageClient({ allNews, projects, meta }: { allNews: GovNews[]
   const heroOpacity = useTransform(scrollYProgress, [0, 0.15], [1, 0])
   const heroScale = useTransform(scrollYProgress, [0, 0.15], [1, 0.98])
 
+  const makarovArticle = getMakarovArticle()
   const banners = projects.filter(p => p.icon || p.heropic).slice(0, 6)
 
   return (
@@ -159,6 +162,52 @@ export function HomePageClient({ allNews, projects, meta }: { allNews: GovNews[]
                 <span className="inline-block text-xs font-medium text-green-600 bg-green-50 px-2 py-0.5 rounded-full">▲ {m.trend}</span>
               </motion.div>
             ))}
+          </motion.div>
+        </div>
+      </section>
+
+      {/* Makarov award — закреплённая статья */}
+      <section className="premium-section bg-gradient-to-b from-premium-navy-900 to-premium-navy-800 text-white">
+        <div className="premium-container">
+          <motion.div
+            initial={{ opacity: 0, y: 20 }}
+            whileInView={{ opacity: 1, y: 0 }}
+            viewport={{ once: true }}
+            transition={{ duration: 0.6 }}
+          >
+            <Link
+              href={MAKAROV_ARTICLE_HREF}
+              className="premium-card overflow-hidden grid md:grid-cols-[minmax(0,1.1fr)_minmax(0,1fr)] gap-0 border border-premium-gold/25 bg-premium-navy-900/80 hover:border-premium-gold/45 transition-colors group"
+            >
+              <div className="relative aspect-[16/10] md:aspect-auto md:min-h-[280px] overflow-hidden bg-premium-navy-950">
+                <img
+                  src={MAKAROV_AWARD_IMAGE}
+                  alt="Сергей Макаров и Президент Республики Казахстан"
+                  className="absolute inset-0 w-full h-full object-cover object-center group-hover:scale-[1.02] transition-transform duration-700"
+                  loading="lazy"
+                  decoding="async"
+                />
+                <span className="absolute top-3 left-3 px-2.5 py-1 rounded-full bg-premium-gold/90 text-premium-navy-900 text-[10px] sm:text-xs font-bold uppercase tracking-wide">
+                  Государственное признание · 2025
+                </span>
+              </div>
+              <div className="p-5 sm:p-7 flex flex-col justify-center">
+                <time className="text-xs text-white/50 mb-2">
+                  {formatDate(makarovArticle.publication_date || '2025-11-14')}
+                </time>
+                <h2 className="text-lg sm:text-xl font-bold text-white leading-snug group-hover:text-premium-gold transition-colors">
+                  {makarovArticle.title}
+                </h2>
+                {makarovArticle.short_description && (
+                  <p className="text-sm text-white/65 mt-3 leading-relaxed line-clamp-4">
+                    {makarovArticle.short_description}
+                  </p>
+                )}
+                <span className="mt-4 text-premium-gold text-sm font-semibold inline-flex items-center gap-1">
+                  Читать материал →
+                </span>
+              </div>
+            </Link>
           </motion.div>
         </div>
       </section>

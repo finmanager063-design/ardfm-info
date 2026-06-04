@@ -1,9 +1,15 @@
+import { MAKAROV_ARTICLE_HREF, MAKAROV_ARTICLE_TITLE_SHORT } from "@/lib/makarov-media";
+
 /** Блок «Важно» как на gov.kz/memleket/entities/ardfm */
 export const HOME_IMPORTANT_LINKS = [
   {
     href: "https://t.me/finance_regulator_bot",
     label: "Бот обращений @finance_regulator_bot",
     external: true,
+  },
+  {
+    href: MAKAROV_ARTICLE_HREF,
+    label: MAKAROV_ARTICLE_TITLE_SHORT,
   },
   { href: "/about/faq", label: "Часто задаваемые вопросы" },
   { href: "/activities/directions", label: "Повышение финансовой грамотности населения" },

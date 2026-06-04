@@ -1,5 +1,9 @@
 import { mediaSrc } from "./site-media";
-import { MAKAROV_ARTICLE_ID, MAKAROV_AWARD_IMAGE } from "./makarov-media";
+import {
+  MAKAROV_ARTICLE_ALIAS,
+  MAKAROV_ARTICLE_ID,
+  MAKAROV_AWARD_IMAGE,
+} from "./makarov-media";
 import type { SiteContent } from "./types";
 
 const awardPhoto = mediaSrc(MAKAROV_AWARD_IMAGE);
@@ -48,7 +52,7 @@ export const FEATURED_ARTICLES: SiteContent["articles"] = [
     id: MAKAROV_ARTICLE_ID,
     title:
       "Благодарность Президента Республики Казахстан: награда Сергею Макарову за вклад в защиту прав на финансовом рынке",
-    alias: "blagodarnost-prezidenta-makarov",
+    alias: MAKAROV_ARTICLE_ALIAS,
     short_description:
       "Официальная благодарность за возврат средств гражданам и сотрудничество с АРРФР. Церемония в Астане, 14 ноября 2025 года.",
     publication_date: "2025-11-20T10:00:00Z",
@@ -59,4 +63,8 @@ export const FEATURED_ARTICLES: SiteContent["articles"] = [
 
 export function isFeaturedArticleId(id: string): boolean {
   return id === MAKAROV_ARTICLE_ID;
+}
+
+export function getMakarovArticle(): SiteContent["articles"][number] {
+  return FEATURED_ARTICLES[0];
 }

@@ -73,6 +73,7 @@ export function collectStaticSlugs(content: SiteContent): { slug: string[] }[] {
 
   for (const a of [...FEATURED_ARTICLES, ...dedupeArticles(content.articles)]) {
     if (a.id) addSlug(seen, ["article", "details", String(a.id)]);
+    if (a.alias) addSlug(seen, ["article", "details", String(a.alias)]);
   }
 
   for (const e of [...content.events.upcoming, ...content.events.past]) {

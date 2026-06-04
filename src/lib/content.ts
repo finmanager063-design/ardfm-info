@@ -3,20 +3,26 @@ import fs from "fs";
 import path from "path";
 import { getSiteContacts } from "./contacts";
 import { dedupeArticles } from "./dedupe";
-import { FEATURED_ARTICLES } from "./featured-articles";
+import { FEATURED_ARTICLES, isFeaturedArticleId } from "./featured-articles";
 import type { GovNews, GovPage, SiteContent } from "./types";
 
 export { dedupeArticles };
 
 export function getArticles() {
   const merged = dedupeArticles([...FEATURED_ARTICLES, ...getContent().articles]);
-  return merged.sort((a, b) =>
+  const sorted = merged.sort((a, b) =>
     (b.publication_date ?? "").localeCompare(a.publication_date ?? ""),
   );
+  const pinned = sorted.find((a) => isFeaturedArticleId(String(a.id)));
+  if (!pinned) return sorted;
+  return [pinned, ...sorted.filter((a) => !isFeaturedArticleId(String(a.id)))];
 }
 
-export function findArticleById(id: string) {
-  return getArticles().find((a) => String(a.id) === id);
+export function findArticleById(idOrAlias: string) {
+  const key = idOrAlias.trim();
+  return getArticles().find(
+    (a) => String(a.id) === key || (a.alias && a.alias === key),
+  );
 }
 
 const DATA_PATH = path.join(process.cwd(), "data", "content.json");

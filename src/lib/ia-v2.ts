@@ -57,6 +57,10 @@ export const ACTIVITY_LEGACY_TO_SLUG: Record<string, string> = Object.fromEntrie
 
 /** 301: старый URL → канонический (IA v2) */
 export const ROUTE_REDIRECTS: Record<string, string> = {
+  "/article/blagodarnost-prezidenta-makarov":
+    "/article/details/featured-makarov-award-2025",
+  "/article/details/blagodarnost-prezidenta-makarov":
+    "/article/details/featured-makarov-award-2025",
   "/press": "/media",
   "/press/": "/media",
   "/press/news": "/media/news",
