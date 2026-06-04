@@ -58,7 +58,7 @@ export function GovShell({
   const [menuOpen, setMenuOpen] = useState(false);
   const [searchOpen, setSearchOpen] = useState(false);
   const [query, setQuery] = useState("");
-  const [openSubmenu, setOpenSubmenu] = useState<string | null>(null);
+  const [expandedGroup, setExpandedGroup] = useState<string | null>(null);
   const [scrolled, setScrolled] = useState(false);
 
   const isActive = (href: string) => {
@@ -84,6 +84,20 @@ export function GovShell({
     window.addEventListener("scroll", onScroll, { passive: true });
     return () => window.removeEventListener("scroll", onScroll);
   }, []);
+
+  useEffect(() => {
+    setMenuOpen(false);
+    setExpandedGroup(null);
+  }, [pathname]);
+
+  useEffect(() => {
+    if (!menuOpen) return;
+    const prev = document.body.style.overflow;
+    document.body.style.overflow = "hidden";
+    return () => {
+      document.body.style.overflow = prev;
+    };
+  }, [menuOpen]);
 
   const showHomeLayout = pathname === "/";
 
@@ -138,16 +152,29 @@ export function GovShell({
           </div>
         </div>
 
-        <div className="rz-header-nav-row">
+        <div className={`rz-header-nav-row ${menuOpen ? "rz-header-nav-row--open" : ""}`}>
           <button
+            type="button"
             className="rz-menu-toggle"
-            onClick={() => setMenuOpen(!menuOpen)}
+            onClick={() => setMenuOpen((open) => !open)}
             aria-label={menuOpen ? "Закрыть меню" : "Открыть меню"}
+            aria-expanded={menuOpen}
+            aria-controls="rz-primary-nav"
           >
             {menuOpen ? <CloseIcon /> : <MenuIcon />}
           </button>
 
+          {menuOpen && (
+            <button
+              type="button"
+              className="rz-nav-backdrop"
+              aria-label="Закрыть меню"
+              onClick={() => setMenuOpen(false)}
+            />
+          )}
+
           <nav
+            id="rz-primary-nav"
             className={`rz-nav ${menuOpen ? "rz-nav-open" : ""}`}
             aria-label="Основное меню"
           >
@@ -175,17 +202,24 @@ export function GovShell({
             {NAV_GROUPS.map((group) => (
               <div
                 key={group.id}
-                className={`rz-nav-item ${group.items.some((i) => isActive(i.href)) ? "active" : ""}`}
-                onMouseEnter={() => setOpenSubmenu(group.id)}
-                onMouseLeave={() => setOpenSubmenu(null)}
+                className={`rz-nav-item ${group.items.some((i) => isActive(i.href)) ? "active" : ""} ${
+                  expandedGroup === group.id ? "rz-nav-group-open" : ""
+                }`}
               >
-                <span className="rz-nav-link rz-nav-link--group">
+                <button
+                  type="button"
+                  className="rz-nav-link rz-nav-link--group"
+                  aria-expanded={expandedGroup === group.id}
+                  onClick={() =>
+                    setExpandedGroup((id) => (id === group.id ? null : group.id))
+                  }
+                >
                   {group.label}
                   <ChevronDown />
-                </span>
+                </button>
                 <div
                   className={`rz-nav-mega ${
-                    openSubmenu === group.id ? "rz-nav-mega--open" : ""
+                    expandedGroup === group.id ? "rz-nav-mega--open" : ""
                   }`}
                 >
                   {group.items.map((sub) => (
@@ -203,9 +237,13 @@ export function GovShell({
             ))}
 
             <button
+              type="button"
               className="rz-search-toggle"
               aria-label="Поиск"
-              onClick={() => setSearchOpen(true)}
+              onClick={() => {
+                setMenuOpen(false);
+                setSearchOpen(true);
+              }}
             >
               <SearchIcon />
             </button>
