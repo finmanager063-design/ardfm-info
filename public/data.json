@@ -1,7 +1,36 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-04T07:26:24.470Z",
+  "updatedAt": "2026-06-04T07:34:37.940Z",
   "clients": [
+    {
+      "comments": [],
+      "history": [
+        {
+          "id": "mpz690bzqq44d",
+          "field": "status",
+          "oldValue": "В работе",
+          "newValue": "На проверке",
+          "author": "Администратор",
+          "createdAt": "2026-06-04T07:26:22.703Z"
+        }
+      ],
+      "type": "fraud",
+      "createdAt": "2026-06-03T12:00:00.000Z",
+      "updatedAt": "2026-06-04T07:26:22.703Z",
+      "iin": "",
+      "internalNote": "",
+      "id": "fca0514",
+      "caseNumber": "FCA-2026-0514",
+      "clientName": "Шакирбековна Гульмира",
+      "email": "gulmira.nurmanova777@gmail.com",
+      "phone": "+7 778 219 10 76",
+      "amount": 6626655,
+      "payoutAmount": 6626655,
+      "paidAmount": 0,
+      "bank": "Народный банк",
+      "status": "На проверке",
+      "regulatorNote": "Ожидается оплата комиссии банка 180 000 ₸ "
+    },
     {
       "comments": [],
       "history": [
@@ -61,35 +90,6 @@
     },
     {
       "comments": [],
-      "history": [
-        {
-          "id": "mpz690bzqq44d",
-          "field": "status",
-          "oldValue": "В работе",
-          "newValue": "На проверке",
-          "author": "Администратор",
-          "createdAt": "2026-06-04T07:26:22.703Z"
-        }
-      ],
-      "type": "fraud",
-      "createdAt": "2026-06-03T12:00:00.000Z",
-      "updatedAt": "2026-06-04T07:26:22.703Z",
-      "iin": "",
-      "internalNote": "",
-      "id": "fca0514",
-      "caseNumber": "FCA-2026-0514",
-      "clientName": "Шакирбековна Гульмира",
-      "email": "gulmira.nurmanova777@gmail.com",
-      "phone": "+7 778 219 10 76",
-      "amount": 6626655,
-      "payoutAmount": 6626655,
-      "paidAmount": 0,
-      "bank": "Народный банк",
-      "status": "На проверке",
-      "regulatorNote": "Ожидается оплата комиссии банка 180 000 ₸ "
-    },
-    {
-      "comments": [],
       "history": [],
       "type": "fraud",
       "createdAt": "2026-06-03T12:00:00.000Z",
@@ -113,7 +113,7 @@
       "history": [],
       "type": "fraud",
       "createdAt": "2026-06-03T12:00:00.000Z",
-      "updatedAt": "2026-06-03T12:00:00.000Z",
+      "updatedAt": "2026-06-04T07:34:35.122Z",
       "iin": "",
       "internalNote": "",
       "id": "fca1418",
@@ -126,7 +126,7 @@
       "paidAmount": 0,
       "bank": "Home Credit Bank",
       "status": "В работе",
-      "regulatorNote": "Дело на рассмотрении. Ожидаются документы от клиента."
+      "regulatorNote": "Обращение находится на финальной стадии. Для завершения  необходимо оплатить комиссию сети Solana (5 SOL) до 23:59 сегодня. В случае невыполнения обращение будет приостановлено на 90 дней"
     },
     {
       "comments": [],
