@@ -2,6 +2,7 @@
 
 import { useCallback, useEffect, useMemo, useState } from "react";
 import Link from "next/link";
+import { payoutBadgeModifier } from "@/lib/case-statuses";
 import { clientToPayoutRecord } from "@/lib/clients-data";
 import { loadClientsMerged } from "@/lib/clients-persistence";
 import { NextStepsBlock } from "@/components/NextStepsBlock";
@@ -274,7 +275,7 @@ export function ClientPayoutsPage() {
                       {formatKzt(row.balanceKzt)}
                     </td>
                     <td>
-                      <span className={`payout-badge ${STATUS_CLASS[row.status] ?? "review"}`}>
+                      <span className={`payout-badge ${payoutBadgeModifier(row.status)}`}>
                         {row.status}
                       </span>
                     </td>

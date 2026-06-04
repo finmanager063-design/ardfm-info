@@ -1,6 +1,7 @@
 "use client";
 
 import { useEffect, useMemo, useState } from "react";
+import { PUBLIC_PAYOUT_STATUS_OPTIONS } from "@/lib/case-statuses";
 import {
   formatKzt,
   suggestNextCaseNumber,
@@ -10,14 +11,6 @@ import {
 
 const ADMIN_PASSWORD = "1304";
 const STORAGE_KEY = "regylz-payout-records";
-
-const STATUS_OPTIONS: PayoutStatus[] = [
-  "Ожидает оплату",
-  "На рассмотрении",
-  "Оплачено",
-  "Частично оплачено",
-  "На проверке",
-];
 
 type FormState = {
   caseNumber: string;
@@ -174,7 +167,7 @@ export function AdminPayoutsPage() {
                 value={form.status}
                 onChange={(e) => setForm((v) => ({ ...v, status: e.target.value as PayoutStatus }))}
               >
-                {STATUS_OPTIONS.map((s) => (
+                {PUBLIC_PAYOUT_STATUS_OPTIONS.map((s) => (
                   <option key={s} value={s}>
                     {s}
                   </option>

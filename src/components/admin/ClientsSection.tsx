@@ -8,13 +8,16 @@ import {
   formatDate,
   STATUS_OPTIONS,
   TYPE_OPTIONS,
+  normalizeClientStatus,
+  getStatusMeta,
   type ClientRecord,
   type ClientComment,
   type ClientHistoryEntry,
-  type ClientStatus,
+  type CanonicalClientStatus,
   type AppealType,
   type ClientsDataFile,
 } from '@/lib/clients-data'
+import { STATUS_GROUPS } from '@/lib/case-statuses'
 import {
   getLastLocalSaveLabel,
   loadClientsMerged,
@@ -27,7 +30,7 @@ const emptyForm = () => ({
   type: 'fraud' as AppealType,
   amount: 0, payoutAmount: 0, paidAmount: 0,
   bank: 'Kaspi Bank',
-  status: 'Новый' as ClientStatus,
+  status: 'Новый' as CanonicalClientStatus,
   regulatorNote: '', internalNote: '',
 })
 
@@ -38,7 +41,7 @@ export function ClientsSection() {
   const [toast, setToast] = useState<{ type: 'ok' | 'err'; text: string } | null>(null)
 
   const [search, setSearch] = useState('')
-  const [statusFilter, setStatusFilter] = useState<ClientStatus | 'all'>('all')
+  const [statusFilter, setStatusFilter] = useState<CanonicalClientStatus | 'all'>('all')
   const [amountMin, setAmountMin] = useState('')
   const [amountMax, setAmountMax] = useState('')
 
@@ -83,7 +86,9 @@ export function ClientsSection() {
 
   const filtered = useMemo(() => {
     let result = clients
-    if (statusFilter !== 'all') result = result.filter(c => c.status === statusFilter)
+    if (statusFilter !== 'all') {
+      result = result.filter(c => normalizeClientStatus(c.status) === statusFilter)
+    }
     const min = amountMin ? Number(amountMin) : 0
     const max = amountMax ? Number(amountMax) : Infinity
     if (amountMin || amountMax) {
@@ -113,7 +118,10 @@ export function ClientsSection() {
     setForm({
       clientName: c.clientName, iin: c.iin, phone: c.phone, email: c.email,
       type: c.type, amount: c.amount, payoutAmount: c.payoutAmount, paidAmount: c.paidAmount,
-      bank: c.bank, status: c.status, regulatorNote: c.regulatorNote, internalNote: c.internalNote,
+      bank: c.bank,
+      status: normalizeClientStatus(c.status),
+      regulatorNote: c.regulatorNote,
+      internalNote: c.internalNote,
     })
     setShowForm(true)
   }
@@ -189,7 +197,7 @@ export function ClientsSection() {
     if (ok) setCommentText('')
   }
 
-  const quickStatus = async (client: ClientRecord, status: ClientStatus) => {
+  const quickStatus = async (client: ClientRecord, status: CanonicalClientStatus) => {
     const now = new Date().toISOString()
     const next = clients.map(c => c.id === client.id
       ? {
@@ -216,16 +224,12 @@ export function ClientsSection() {
     setSelectedIds(new Set(filtered.map(c => c.id)))
   }
 
-  const statusBadge = (s: ClientStatus) => {
-    const colors: Record<ClientStatus, string> = {
-      'Новый': 'bg-zinc-500/20 text-zinc-300 border-zinc-500/30',
-      'В работе': 'bg-blue-500/20 text-blue-300 border-blue-500/30',
-      'На проверке': 'bg-amber-500/20 text-amber-300 border-amber-500/30',
-      'Решено': 'bg-emerald-500/20 text-emerald-400 border-emerald-500/30',
-      'Отклонено': 'bg-red-500/20 text-red-400 border-red-500/30',
-    }
-    return `px-2.5 py-0.5 rounded-full text-xs font-medium border ${colors[s]}`
+  const statusBadge = (s: string) => {
+    const meta = getStatusMeta(s)
+    return `px-2.5 py-0.5 rounded-full text-xs font-medium border ${meta.adminClass}`
   }
+
+  const statusLabel = (s: string) => normalizeClientStatus(s)
 
   const typeLabel = (t: AppealType) => TYPE_OPTIONS.find(o => o.value === t)?.label || t
 
@@ -265,7 +269,7 @@ export function ClientsSection() {
         <input value={search} onChange={e => setSearch(e.target.value)} placeholder="Поиск по ФИО, № дела, телефону, ИИН, email…"
           className="admin-input flex-1" />
         <div className="flex flex-col sm:flex-row gap-2">
-          <select value={statusFilter} onChange={e => setStatusFilter(e.target.value as ClientStatus | 'all')} className="admin-input sm:w-44">
+          <select value={statusFilter} onChange={e => setStatusFilter(e.target.value as CanonicalClientStatus | 'all')} className="admin-input sm:w-52">
             <option value="all">Все статусы</option>
             {STATUS_OPTIONS.map(s => <option key={s} value={s}>{s}</option>)}
           </select>
@@ -292,7 +296,7 @@ export function ClientsSection() {
                 <p className="text-premium-gold font-mono text-xs">{c.caseNumber}</p>
                 <p className="text-white font-medium">{c.clientName}</p>
               </div>
-              <span className={statusBadge(c.status)}>{c.status}</span>
+              <span className={statusBadge(c.status)}>{statusLabel(c.status)}</span>
             </div>
             <p className="text-white/50 text-xs mb-1">{c.phone}</p>
             <p className="text-white/80 text-sm font-semibold mb-3">{formatCurrency(c.payoutAmount || c.amount)}</p>
@@ -300,7 +304,7 @@ export function ClientsSection() {
               <button type="button" onClick={() => openEdit(c)} className="premium-btn premium-btn-outline text-xs !py-1.5 !px-3">Изменить</button>
               <select
                 value={c.status}
-                onChange={e => quickStatus(c, e.target.value as ClientStatus)}
+                onChange={e => quickStatus(c, e.target.value as CanonicalClientStatus)}
                 className="admin-input text-xs !py-1.5 flex-1 min-w-[120px]"
               >
                 {STATUS_OPTIONS.map(s => <option key={s} value={s}>{s}</option>)}
@@ -340,7 +344,7 @@ export function ClientsSection() {
                   <td className="py-2.5 px-2 text-white/50 text-xs hidden lg:table-cell">{c.phone}</td>
                   <td className="py-2.5 px-2 text-white/50 text-xs hidden xl:table-cell">{c.iin || '—'}</td>
                   <td className="py-2.5 px-2 text-right text-white/80 font-medium">{formatCurrency(c.payoutAmount || c.amount)}</td>
-                  <td className="py-2.5 px-2"><span className={statusBadge(c.status)}>{c.status}</span></td>
+                  <td className="py-2.5 px-2"><span className={statusBadge(c.status)}>{statusLabel(c.status)}</span></td>
                   <td className="py-2.5 px-2 text-center">
                     <div className="flex items-center justify-center gap-1">
                       <button type="button" onClick={() => openEdit(c)} className="text-white/40 hover:text-premium-gold p-1 text-xs" title="Редактировать">✎</button>
@@ -455,8 +459,12 @@ export function ClientsSection() {
               </div>
               <div>
                 <label className="admin-label">Статус</label>
-                <select value={form.status} onChange={e => setForm(v => ({ ...v, status: e.target.value as ClientStatus }))} className="admin-input">
-                  {STATUS_OPTIONS.map(s => <option key={s} value={s}>{s}</option>)}
+                <select value={form.status} onChange={e => setForm(v => ({ ...v, status: e.target.value as CanonicalClientStatus }))} className="admin-input">
+                  {STATUS_GROUPS.map(g => (
+                    <optgroup key={g.label} label={g.label}>
+                      {g.items.map(s => <option key={s} value={s}>{s}</option>)}
+                    </optgroup>
+                  ))}
                 </select>
               </div>
               <div>

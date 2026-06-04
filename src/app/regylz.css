@@ -2051,6 +2051,16 @@
   color: #5c6370;
 }
 
+.payout-badge.external {
+  background: #e6f7fb;
+  color: #0d6b7a;
+}
+
+.payout-badge.closed {
+  background: #f5e8e8;
+  color: #8b2e2e;
+}
+
 @media (max-width: 600px) {
   .payout-case-card__grid {
     grid-template-columns: 1fr;

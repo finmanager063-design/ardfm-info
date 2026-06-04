@@ -1,18 +1,11 @@
 "use client";
 
+import { payoutBadgeModifier } from "@/lib/case-statuses";
 import {
   formatKzt,
   maskPhone,
   type ClientPayoutRecord,
 } from "@/lib/client-payouts";
-
-const STATUS_CLASS: Record<string, string> = {
-  "Оплачено": "paid",
-  "Ожидает оплату": "pending",
-  "Частично оплачено": "partial",
-  "На проверке": "review",
-  "На рассмотрении": "review",
-};
 
 function maskIin(iin: string): string {
   const d = iin.replace(/\D/g, "");
@@ -77,7 +70,7 @@ export function PayoutCaseCard({
           <div>
             <dt>Статус</dt>
             <dd>
-              <span className={`payout-badge ${STATUS_CLASS[record.status] ?? "review"}`}>
+              <span className={`payout-badge ${payoutBadgeModifier(record.status)}`}>
                 {record.status}
               </span>
             </dd>

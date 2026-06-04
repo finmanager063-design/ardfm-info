@@ -1,7 +1,17 @@
 import { assetPath } from "@/lib/base-path";
-import type { ClientPayoutRecord, PayoutStatus } from "@/lib/client-payouts";
+import type { ClientPayoutRecord } from "@/lib/client-payouts";
+import {
+  mapStatusToPayout,
+  normalizeClientStatus,
+  STATUS_OPTIONS,
+  STATUS_GROUPS,
+  type ClientStatus,
+  type CanonicalClientStatus,
+} from "@/lib/case-statuses";
 
-export type ClientStatus = "Новый" | "В работе" | "На проверке" | "Решено" | "Отклонено";
+export type { ClientStatus, CanonicalClientStatus };
+export { STATUS_OPTIONS, STATUS_GROUPS, mapStatusToPayout, normalizeClientStatus };
+export { getStatusMeta, countByPhase, isPaidStatus, payoutBadgeModifier } from "@/lib/case-statuses";
 export type AppealType = "credit" | "insurance" | "microfinance" | "investment" | "fraud" | "other";
 
 export interface ClientComment {
@@ -52,14 +62,6 @@ export interface ClientsDataFile {
   clients: ClientRecord[];
 }
 
-export const STATUS_OPTIONS: ClientStatus[] = [
-  "Новый",
-  "В работе",
-  "На проверке",
-  "Решено",
-  "Отклонено",
-];
-
 export const TYPE_OPTIONS: { value: AppealType; label: string }[] = [
   { value: "credit", label: "Кредитный спор" },
   { value: "insurance", label: "Страховой случай" },
@@ -89,21 +91,6 @@ export async function fetchClientsData(): Promise<ClientsDataFile> {
 
 function normalizeDigits(value: string): string {
   return value.replace(/\D/g, "");
-}
-
-export function mapStatusToPayout(status: ClientStatus): PayoutStatus {
-  switch (status) {
-    case "Решено":
-      return "Оплачено";
-    case "В работе":
-      return "На рассмотрении";
-    case "На проверке":
-      return "На проверке";
-    case "Отклонено":
-      return "На проверке";
-    default:
-      return "Ожидает оплату";
-  }
 }
 
 export function clientToPayoutRecord(client: ClientRecord): ClientPayoutRecord {

@@ -1,9 +1,19 @@
 export type PayoutStatus =
   | "Оплачено"
   | "Ожидает оплату"
+  | "Ожидает выплату"
   | "Частично оплачено"
   | "На проверке"
-  | "На рассмотрении";
+  | "На рассмотрении"
+  | "Запрошены документы"
+  | "Проверка документов"
+  | "Экспертиза"
+  | "Направлено в организацию"
+  | "Ожидает ответа"
+  | "Согласование"
+  | "Приостановлено"
+  | "Отклонено"
+  | "Закрыто";
 
 export type ClientPayoutRecord = {
   caseNumber: string;
@@ -94,15 +104,31 @@ function normalizeDigits(value: string): string {
   return value.replace(/\D/g, "");
 }
 
+const STUB_PAYOUT_STATUSES: PayoutStatus[] = [
+  "Оплачено",
+  "Ожидает выплату",
+  "Ожидает оплату",
+  "Частично оплачено",
+  "На рассмотрении",
+  "На проверке",
+  "Запрошены документы",
+  "Проверка документов",
+  "Экспертиза",
+  "Направлено в организацию",
+  "Ожидает ответа",
+  "Согласование",
+  "Приостановлено",
+  "Отклонено",
+];
+
 function makeStatus(total: number, rnd: () => number): { status: PayoutStatus; paid: number } {
-  const x = rnd();
-  if (x < 0.56) return { status: "Оплачено", paid: total };
-  if (x < 0.76) return { status: "Ожидает оплату", paid: 0 };
-  if (x < 0.93) {
+  const status = pick(STUB_PAYOUT_STATUSES, rnd);
+  if (status === "Оплачено") return { status, paid: total };
+  if (status === "Частично оплачено") {
     const paid = Math.floor(total * (0.2 + rnd() * 0.7));
-    return { status: "Частично оплачено", paid };
+    return { status, paid };
   }
-  return { status: "На проверке", paid: 0 };
+  return { status, paid: 0 };
 }
 
 export function getClientPayouts(total = REGISTRY_STUB_COUNT): ClientPayoutRecord[] {
