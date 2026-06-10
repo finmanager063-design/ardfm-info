@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
-2:I[13720,["/ardfm-info/_next/static/chunks/0w5bf6qo2zbxc.js","/ardfm-info/_next/static/chunks/0_t29vi~hh.tn.js","/ardfm-info/_next/static/chunks/0kqizz4-jdifk.js","/ardfm-info/_next/static/chunks/0wxc~v~ry3ho7.js","/ardfm-info/_next/static/chunks/0fd9017.8cj0j.js"],"GovHtmlContent"]
-4:I[97367,["/ardfm-info/_next/static/chunks/0w5bf6qo2zbxc.js","/ardfm-info/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+2:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/0ti0l2v~ply~a.js"],"GovHtmlContent"]
+4:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
 3:Td8d,<!DOCTYPE html>
 <html>
@@ -18,5 +18,5 @@
 <p><strong>Управление внешних коммуникаций</strong></p>
 <p><a href="mailto:press@finreg.kz"><strong>press@finreg.kz</strong></a></p>
 </body>
-</html>0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","h1",null,{"className":"page-title","children":"О правилах и условиях признания действий на рынке ЦФА как совершенных в целях манипулирования"}],["$","time",null,{"children":"15 мая 2026 г."}],["$","$L2",null,{"html":"$3"}]]}],[["$","script","script-0",{"src":"/ardfm-info/_next/static/chunks/0kqizz4-jdifk.js","async":true}],["$","script","script-1",{"src":"/ardfm-info/_next/static/chunks/0wxc~v~ry3ho7.js","async":true}],["$","script","script-2",{"src":"/ardfm-info/_next/static/chunks/0fd9017.8cj0j.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"jmbY7W-wXgKbjjiiRpruE"}
+</html>0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","h1",null,{"className":"page-title","children":"О правилах и условиях признания действий на рынке ЦФА как совершенных в целях манипулирования"}],["$","time",null,{"children":"15 мая 2026 г."}],["$","$L2",null,{"html":"$3"}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/0ti0l2v~ply~a.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"4NHfUZ1wJugrbuOM5u-iJ"}
 6:null

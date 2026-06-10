@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
-2:I[22016,["/ardfm-info/_next/static/chunks/0w5bf6qo2zbxc.js","/ardfm-info/_next/static/chunks/0_t29vi~hh.tn.js","/ardfm-info/_next/static/chunks/0kqizz4-jdifk.js","/ardfm-info/_next/static/chunks/0wxc~v~ry3ho7.js","/ardfm-info/_next/static/chunks/0fd9017.8cj0j.js"],""]
-3:I[13720,["/ardfm-info/_next/static/chunks/0w5bf6qo2zbxc.js","/ardfm-info/_next/static/chunks/0_t29vi~hh.tn.js","/ardfm-info/_next/static/chunks/0kqizz4-jdifk.js","/ardfm-info/_next/static/chunks/0wxc~v~ry3ho7.js","/ardfm-info/_next/static/chunks/0fd9017.8cj0j.js"],"GovHtmlContent"]
-9:I[97367,["/ardfm-info/_next/static/chunks/0w5bf6qo2zbxc.js","/ardfm-info/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+2:I[22016,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/0ti0l2v~ply~a.js"],""]
+3:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/0ti0l2v~ply~a.js"],"GovHtmlContent"]
+9:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
 a:"$Sreact.suspense"
 4:T1406,<!DOCTYPE html>
 <html>
@@ -17,9 +17,9 @@ a:"$Sreact.suspense"
 <p>На&nbsp;круглом столе детально рассмотрели опыт России. Представители Банка России подробно остановились на&nbsp;всех аспектах внедрения СРО, говорится в&nbsp;сообщении.</p>
 <p>&laquo;Участники встречи положительно оценили инициативу по&nbsp;внедрению института СРО и&nbsp;отметили, что для этого на&nbsp;рынке микрофинансирования и&nbsp;коллекторских услуг есть все необходимые условия. Успешная реализация этой модели повысит дисциплину субъектов рынка, улучшит качество услуг, а&nbsp;также обеспечит формирование сбалансированного регулирования с&nbsp;фокусом на&nbsp;развитие рынка,&nbsp;&mdash; считают в&nbsp;АРРФР. &mdash;&nbsp;По&nbsp;итогам встречи участники подчеркнули необходимость продолжения совместной работы над механизмами внедрения СРО и&nbsp;выразили готовность к&nbsp;сотрудничеству&raquo;.<br /><br />Источник: Forbes Kazakhstan</p>
 </body>
-</html>0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","nav",null,{"className":"breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Главная"}]," / ",["$","$L2",null,{"href":"/articles","children":"Статьи"}]," /"," ","Как в Казахстане хотят усилить надзор над МФО и ко","…"]}],["$","h1",null,{"className":"page-title","children":"Как в Казахстане хотят усилить надзор над МФО и коллекторами"}],["$","time",null,{"dateTime":"2025-10-02","children":"2 октября 2025 г."}],["$","$L3",null,{"html":"$4"}]]}],["$L5","$L6","$L7"],"$L8"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"jmbY7W-wXgKbjjiiRpruE"}
-5:["$","script","script-0",{"src":"/ardfm-info/_next/static/chunks/0kqizz4-jdifk.js","async":true}]
-6:["$","script","script-1",{"src":"/ardfm-info/_next/static/chunks/0wxc~v~ry3ho7.js","async":true}]
-7:["$","script","script-2",{"src":"/ardfm-info/_next/static/chunks/0fd9017.8cj0j.js","async":true}]
+</html>0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","nav",null,{"className":"breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Главная"}]," / ",["$","$L2",null,{"href":"/articles","children":"Статьи"}]," /"," ","Как в Казахстане хотят усилить надзор над МФО и ко","…"]}],["$","h1",null,{"className":"page-title","children":"Как в Казахстане хотят усилить надзор над МФО и коллекторами"}],["$","time",null,{"dateTime":"2025-10-02","children":"2 октября 2025 г."}],["$","$L3",null,{"html":"$4"}]]}],["$L5","$L6","$L7"],"$L8"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"4NHfUZ1wJugrbuOM5u-iJ"}
+5:["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true}]
+6:["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true}]
+7:["$","script","script-2",{"src":"/_next/static/chunks/0ti0l2v~ply~a.js","async":true}]
 8:["$","$L9",null,{"children":["$","$a",null,{"name":"Next.MetadataOutlet","children":"$@b"}]}]
 b:null
