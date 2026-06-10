@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
-2:I[22016,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],""]
-3:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
-9:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+2:I[22016,["/ardfm-info/_next/static/chunks/0w5bf6qo2zbxc.js","/ardfm-info/_next/static/chunks/0_t29vi~hh.tn.js","/ardfm-info/_next/static/chunks/0kqizz4-jdifk.js","/ardfm-info/_next/static/chunks/0wxc~v~ry3ho7.js","/ardfm-info/_next/static/chunks/0fd9017.8cj0j.js"],""]
+3:I[13720,["/ardfm-info/_next/static/chunks/0w5bf6qo2zbxc.js","/ardfm-info/_next/static/chunks/0_t29vi~hh.tn.js","/ardfm-info/_next/static/chunks/0kqizz4-jdifk.js","/ardfm-info/_next/static/chunks/0wxc~v~ry3ho7.js","/ardfm-info/_next/static/chunks/0fd9017.8cj0j.js"],"GovHtmlContent"]
+9:I[97367,["/ardfm-info/_next/static/chunks/0w5bf6qo2zbxc.js","/ardfm-info/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
 a:"$Sreact.suspense"
 4:T13ff,<!DOCTYPE html>
 <html>
@@ -19,9 +19,9 @@ a:"$Sreact.suspense"
 <p>С точки зрения средней суммы депозита на одного взрослого жителя старше 15 лет максимальная сумма приходится на города Алматы (в среднем 4,0 млн тенге на одного человека) и Нур-Султан (1,8 млн тенге). Минимальная сумма депозита на одного взрослого жителя приходится на Туркестанскую (57 тысяч тенге) и Алматинскую (185 тысяч тенге) области. В целом данная статистика подтверждается показателями по среднемесячной номинальной заработной плате в региональном разрезе, поскольку наиболее высокий уровень данного показателя отмечается в Атырауской (в III квартале 2020 года &shy;&ndash; 350,8 тысяч тенге), Мангистауской областях (297,8 тысяч тенге), а также в городах Алматы (236,2 тысяч тенге) и Нур-Султан (289,8 тысяч тенге).</p>
 <p>&laquo;Объем срочных депозитов составил <strong>14 869,7 млрд</strong> тенге, увеличившись за октябрь 2020 года на 2,3%. В их структуре вклады в национальной валюте составили 8 920,1 млрд тенге, в иностранной валюте &ndash; 5 949,5 млрд тенге. Средневзвешенная ставка вознаграждения по срочным депозитам в национальной валюте небанковских юридических лиц составила 7% (в декабре 2019 года &ndash; 7,4%), по депозитам физических лиц &ndash; 9,5% (в декабре 2019 года &ndash; 9,0%). Максимальные ставки вознаграждения по несрочным и сберегательным депозитам со сроком 24 месяца, устанавливаемые АО &laquo;Казахстанский фонд гарантирования депозитов&raquo;, остались на уровне сентября 2020 года. Это связано с тем, что в октябре 2020 года Национальным Банком было принято решение о сохранении базовой ставки на прежнем уровне &ndash; 9%&raquo;, - заключили в Агентстве.</p>
 </body>
-</html>0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","nav",null,{"className":"breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Главная"}]," / ",["$","$L2",null,{"href":"/media/news","children":"Новости"}]," / Новость"]}],["$","h1",null,{"className":"page-title","children":"Казахстанцы стали активно открывать депозиты. Лидируют жители Алматы"}],["$","time",null,{"dateTime":"2020-11-27T19:11:00Z","children":"27 ноября 2020 г."}],null,["$","$L3",null,{"html":"$4"}]]}],["$L5","$L6","$L7"],"$L8"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zM9lERO3SlzCY7qBjKejW"}
-5:["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true}]
-6:["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true}]
-7:["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true}]
+</html>0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","nav",null,{"className":"breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Главная"}]," / ",["$","$L2",null,{"href":"/media/news","children":"Новости"}]," / Новость"]}],["$","h1",null,{"className":"page-title","children":"Казахстанцы стали активно открывать депозиты. Лидируют жители Алматы"}],["$","time",null,{"dateTime":"2020-11-27T19:11:00Z","children":"27 ноября 2020 г."}],null,["$","$L3",null,{"html":"$4"}]]}],["$L5","$L6","$L7"],"$L8"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"jmbY7W-wXgKbjjiiRpruE"}
+5:["$","script","script-0",{"src":"/ardfm-info/_next/static/chunks/0kqizz4-jdifk.js","async":true}]
+6:["$","script","script-1",{"src":"/ardfm-info/_next/static/chunks/0wxc~v~ry3ho7.js","async":true}]
+7:["$","script","script-2",{"src":"/ardfm-info/_next/static/chunks/0fd9017.8cj0j.js","async":true}]
 8:["$","$L9",null,{"children":["$","$a",null,{"name":"Next.MetadataOutlet","children":"$@b"}]}]
 b:null

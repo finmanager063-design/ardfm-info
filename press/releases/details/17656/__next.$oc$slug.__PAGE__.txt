@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
-2:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
-5:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
-6:"$Sreact.suspense"
+2:I[13720,["/ardfm-info/_next/static/chunks/0w5bf6qo2zbxc.js","/ardfm-info/_next/static/chunks/0_t29vi~hh.tn.js","/ardfm-info/_next/static/chunks/0kqizz4-jdifk.js","/ardfm-info/_next/static/chunks/0wxc~v~ry3ho7.js","/ardfm-info/_next/static/chunks/0fd9017.8cj0j.js"],"GovHtmlContent"]
+6:I[97367,["/ardfm-info/_next/static/chunks/0w5bf6qo2zbxc.js","/ardfm-info/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
 3:T1332,<!DOCTYPE html>
 <html>
 <head>
@@ -22,6 +22,7 @@
 <p><strong>Управление внешних коммуникаций </strong></p>
 <p><a href="mailto:press@finreg.kz"><strong>press@finreg.kz</strong></a></p>
 </body>
-</html>0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","h1",null,{"className":"page-title","children":"О порядке проведения биометрической аутентификации  финансовыми и платежными организациями"}],["$","time",null,{"children":"10 апреля 2026 г."}],["$","$L2",null,{"html":"$3"}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true}]],"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zM9lERO3SlzCY7qBjKejW"}
-4:["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]
-7:null
+</html>0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","h1",null,{"className":"page-title","children":"О порядке проведения биометрической аутентификации  финансовыми и платежными организациями"}],["$","time",null,{"children":"10 апреля 2026 г."}],["$","$L2",null,{"html":"$3"}]]}],[["$","script","script-0",{"src":"/ardfm-info/_next/static/chunks/0kqizz4-jdifk.js","async":true}],["$","script","script-1",{"src":"/ardfm-info/_next/static/chunks/0wxc~v~ry3ho7.js","async":true}],"$L4"],"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"jmbY7W-wXgKbjjiiRpruE"}
+4:["$","script","script-2",{"src":"/ardfm-info/_next/static/chunks/0fd9017.8cj0j.js","async":true}]
+5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
+8:null

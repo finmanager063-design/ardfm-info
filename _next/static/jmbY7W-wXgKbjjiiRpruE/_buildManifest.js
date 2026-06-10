@@ -1,7 +1,12 @@
 self.__BUILD_MANIFEST = {
   "__rewrites": {
     "afterFiles": [],
-    "beforeFiles": [],
+    "beforeFiles": [
+      {
+        "source": "/ardfm-info//_next/:path+",
+        "destination": "/ardfm-info/_next/:path+"
+      }
+    ],
     "fallback": []
   },
   "sortedPages": [
