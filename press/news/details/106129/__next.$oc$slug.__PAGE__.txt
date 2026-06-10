@@ -1,0 +1,19 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],""]
+3:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
+5:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+4:T9d3,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<p>&laquo;Агентство Республики Казахстан по регулированию и развитию финансового рынка (далее &ndash; Агентство) проводит мероприятия по отбору кандидатов на должности председателя и членов ликвидационной комиссии АО &laquo;Tengri Bank&raquo; в городах:</p>
+<p>Алматы, Нур-Султан, Актау, Караганда, Кокшетау, Павлодар, Тараз и Шымкент.</p>
+<p>Кандидаты должны иметь высшее экономическое или юридическое образование или высшее образование в области бухгалтерского учета и аудита, знать нормативные правовые акты Республики Казахстан, регламентирующие порядок ликвидации финансовых организаций и юридических лиц.</p>
+<p>Требования к кандидатам и перечень представляемых им документов установлены Правилами назначения и освобождения ликвидационных комиссий принудительно ликвидируемых банков, страховых (перестраховочных) организаций и Требований, предъявляемых к председателю и членам ликвидационной комиссии принудительно ликвидируемых банка, страховой (перестраховочной) организации, утвержденными постановлением <span>Агентства от 25 мая 2020 года № 57</span><strong>.</strong></p>
+<p>Заявление о назначении председателем и/или членом ликвидационной комиссии банка с приложением документов необходимо представить в Агентство до &laquo;12&raquo; октября 2020 года по адресу: г. Алматы, мкр-н Коктем-3, д.21.</p>
+<p>По всем интересующим вопросам обращаться по телефону: 8 (727) 2788 104 (5604)&raquo;.</p>
+</body>
+</html>0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","nav",null,{"className":"breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Главная"}]," / ",["$","$L2",null,{"href":"/media/news","children":"Новости"}]," / Новость"]}],["$","h1",null,{"className":"page-title","children":"Конкурс на занятие должностей председателя и членов ликвидационной комиссии АО \"Tengri Bank\""}],["$","time",null,{"dateTime":"2020-10-06T13:04:00Z","children":"6 октября 2020 г."}],null,["$","$L3",null,{"html":"$4"}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zM9lERO3SlzCY7qBjKejW"}
+7:null

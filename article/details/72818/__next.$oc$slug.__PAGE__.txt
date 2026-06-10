@@ -1,0 +1,20 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],""]
+3:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
+5:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+4:T4a3,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<p><a href="https://www.gov.kz/memleket/entities/ardfm/documents/1?activities=9048&amp;created_date=2026-01-17%20-%202027-01-16&amp;lang=ru">2026 год</a></p>
+<p><a href="https://www.gov.kz/memleket/entities/ardfm/documents/1?activities=9048&amp;created_date=2025-01-17%20-%202026-01-16&amp;lang=ru">2025 год</a></p>
+<p><a href="https://www.gov.kz/memleket/entities/ardfm/documents/1?activities=9048&amp;created_date=2024-01-17%20-%202025-01-16&amp;lang=ru">2024 год</a></p>
+<p><a href="https://www.gov.kz/memleket/entities/ardfm/documents/1?activities=9048&amp;created_date=2023-01-17%20-%202024-01-16&amp;lang=ru">2023 год</a></p>
+<p><a href="https://www.gov.kz/memleket/entities/ardfm/documents/1?activities=9048&amp;created_date=2022-02-15%20-%202023-01-16&amp;lang=ru">2022 год</a></p>
+<p><a href="https://www.gov.kz/memleket/entities/ardfm/documents/1?activities=9048&amp;created_date=2021-01-14%20-%202022-01-14&amp;lang=ru">2021 год</a></p>
+<p><a href="https://www.gov.kz/memleket/entities/ardfm/documents/1?activities=9048&amp;created_date=2020-01-01%20-%202021-01-13&amp;lang=ru">2020 год</a></p>
+</body>
+</html>0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","nav",null,{"className":"breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Главная"}]," / ",["$","$L2",null,{"href":"/articles","children":"Статьи"}]," /"," ","Сведения о зарегистрированных выпусках объявленных","…"]}],["$","h1",null,{"className":"page-title","children":"Сведения о зарегистрированных выпусках объявленных акций"}],["$","time",null,{"dateTime":"2022-01-28","children":"28 января 2022 г."}],["$","$L3",null,{"html":"$4"}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zM9lERO3SlzCY7qBjKejW"}
+7:null

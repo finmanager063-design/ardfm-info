@@ -1,0 +1,35 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],""]
+3:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
+9:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+a:"$Sreact.suspense"
+4:T1031,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<p><span><strong>Уполномоченным государственным органом по регулированию финансового рынка&nbsp;</strong><strong>согласованы руководящие работники страхового рынка (по отрасли &laquo;общее страхование&raquo;)</strong></span></p>
+<ol>
+<li><span>Ибрагимов Ш.А. &ndash; Член Совета директоров АО &laquo;СК &laquo;Евразия&raquo; (протокол №87/СО от 16.10.2019г.);</span></li>
+<li><span>Елюбаев Ж.С. &ndash; Член Совета директоров &ndash; независимый директор АО &laquo;СК &laquo;Евразия&raquo; (протокол №88/СО от 16.10.2019г.);</span></li>
+<li><span>Альжанов Т.К. &ndash; Председатель Совета директоров АО &laquo;Нефтяная страховая компания&raquo; (протокол №90/СО от 25.10.2019г.);</span></li>
+<li><span>Сейсембаева Г.К. &ndash; Главный бухгалтер АО &laquo;СК &laquo;Freedom Finance Insurance&raquo; (прежнее название АО &laquo;СК &laquo;Trust Insurance&raquo;) (протокол №91/СО от 25.10.2019г.);</span></li>
+<li><span>Альжанов Ж.К. &ndash; Член Совета директоров АО &laquo;Нефтяная страховая компания&raquo; &nbsp;(протокол №92/СО от 29.10.2019г.);</span></li>
+<li><span>Султанов Б.Т. &ndash; Член Совета директоров АО &laquo;Экспортная страховая компания &laquo;Kazakh Export&raquo; (протокол №93/СО от 05.11.2019г.);</span></li>
+<li><span>Аюханова М.Е. - заместитель Председателя Правления АО &laquo;СК &laquo;Amanat&raquo; (протокол №100/СО/Т от 22.11.2019г.);</span></li>
+<li><span>Шаухымбердиева Г.А. &ndash; Главный бухгалтер &ndash; начальник управления бухгалтерского учета и отчетности АО &laquo;Нефтяная страховая компания&raquo; (протокол №103/СО от 20.12.2019г.);</span></li>
+<li><span>Абен Д.Д. -&nbsp; заместитель Председателя Правления &ndash; член Правления АО &laquo;Зерновая страховая компания&raquo; (протокол 104/СО/Т от 25.12.2019г.);</span></li>
+<li><span>Ергалиева Ш.А. &ndash; Председатель Правления&nbsp; АО &laquo;Зерновая страховая компания&raquo; (протокол №105/СО от 26.12.2019г.);</span></li>
+<li><span>Султанов Б.Т. &ndash; Председатель Совета директоров АО &laquo;Экспортная страховая компания &laquo;KazakhExport&raquo; &nbsp;(протокол №106/СО от 26.12.2019г.);</span></li>
+<li><span>Хазимов К.М. - Член Совета директоров &ndash; независимый директор АО &laquo;Зерновая страховая компания&raquo; (протокол 107/СО/Т от 27.12.2019г.);</span></li>
+<li><span>Усатов Е.В. - Член Совета директоров &nbsp;- независимый директор АО &laquo;Нефтяная страховая компания&raquo; (протокол №108/СО от 30.12.201г.);</span></li>
+<li><span>Асқарұлы А. - Член Совета директоров АО &laquo;Экспортная страховая компания &laquo;KazakhExport&raquo; (протокол №109/СО от 30.12.2019г.);</span></li>
+<li><span>Джумагазиев Э.Г. &ndash; Член Совета директоров АО &laquo;Зерновая страховая компания&raquo; (протокол №110/СО от 30.12.2019г.).</span></li>
+</ol>
+</body>
+</html>0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","nav",null,{"className":"breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Главная"}]," / ",["$","$L2",null,{"href":"/media/news","children":"Новости"}]," / Новость"]}],["$","h1",null,{"className":"page-title","children":"Уполномоченным государственным органом по регулированию финансового рынка согласованы руководящие работники страхового рынка"}],["$","time",null,{"dateTime":"2020-01-21T18:13:00Z","children":"21 января 2020 г."}],null,["$","$L3",null,{"html":"$4"}]]}],["$L5","$L6","$L7"],"$L8"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zM9lERO3SlzCY7qBjKejW"}
+5:["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true}]
+6:["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true}]
+7:["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true}]
+8:["$","$L9",null,{"children":["$","$a",null,{"name":"Next.MetadataOutlet","children":"$@b"}]}]
+b:null

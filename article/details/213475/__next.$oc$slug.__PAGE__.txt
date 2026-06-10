@@ -1,0 +1,22 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],""]
+3:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
+5:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+4:Td7c,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<div class="description">Председатель Агентства по регулированию и развитию финансового рынка Мадина Абылкасымова 15 сентября 2025 года на рассмотрении законопроекта о банковской деятельности в Мажилисе сообщила об изменениях в сфере исламской банковской деятельности, передает корреспондент Zakon.kz.</div>
+<div class="content">
+<p>Она напомнила, что сегодня осуществление исламской банковской деятельности в Казахстане допускается исключительно через создание отдельного исламского банка.</p>
+<blockquote>"В настоящее время в Казахстане работают два исламских банка &ndash; иностранный банк "Коммерческий банк Абу-Даби" и казахстанский банк "Заман Банк". Их совокупная доля в активах и кредитном портфеле банковской системы составляет менее 0,5%. Законопроектом предусматривается предоставление универсальным банкам права осуществлять исламские банковские операции в формате "исламских окон" в рамках имеющейся лицензии", &ndash; сообщила Абылкасымова.</blockquote>
+<p>Для этого предлагается использовать модель "исламских окон", которая широко применяется в ОАЭ, Малайзии, Пакистане, Бахрейне, Катаре и Индонезии.</p>
+<p>По ее словам, модель "исламских окон" позволяет банкам создавать внутри своей структуры специализированные подразделения, предлагающие исламские продукты без необходимости создания отдельного банка.</p>
+<blockquote>"Учитывая специфику исламских финансов, предусмотрено организационное обособление исламской деятельности, раздельный учет и управление активами и обязательствами, выделение отдельного персонала, а также обязательное наличие совета по соответствию шариату, который утверждает финансовые продукты и проводит аудит", &ndash; добавила Абылкасымова.</blockquote>
+<p>Ранее мы писали, что у банков в Казахстане будет два вида&nbsp;<a href="https://www.zakon.kz/ekonomika-biznes/6490958-dva-vida-litsenzii-budet-u-bankov-v-kazakhstane.html" target="_blank" rel="noopener">лицензии</a>&nbsp;&ndash; базовая и универсальная.<br /><br />Источник: Zakon.kz</p>
+</div>
+</body>
+</html>0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","nav",null,{"className":"breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Главная"}]," / ",["$","$L2",null,{"href":"/articles","children":"Статьи"}]," /"," ","\"Исламские окна\": новые полномочия получат универс","…"]}],["$","h1",null,{"className":"page-title","children":"\"Исламские окна\": новые полномочия получат универсальные банки в Казахстане"}],["$","time",null,{"dateTime":"2025-09-16","children":"16 сентября 2025 г."}],["$","$L3",null,{"html":"$4"}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zM9lERO3SlzCY7qBjKejW"}
+7:null

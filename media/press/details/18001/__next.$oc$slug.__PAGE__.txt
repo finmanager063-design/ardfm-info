@@ -1,0 +1,25 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],""]
+3:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
+5:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+4:Tbde,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<p>Правлением Агентства по регулированию и развитию финансового рынка принято Совместное постановление Правления Агентства №&nbsp;87 и Правления Национального Банка №&nbsp;50 <strong>&laquo;Об утверждении Правил совершения банком с универсальной банковской лицензией, исламским банком, филиалом банка &ndash; нерезидента Республики Казахстан и филиалом исламского банка &ndash; нерезидента Республики Казахстан сделок с цифровыми финансовыми активами&raquo;. </strong></p>
+<p>Документ&nbsp;разработан в реализацию Закона РК &laquo;О банках и банковской деятельности в Республике Казахстан&raquo;.</p>
+<p>Совместным постановлением <strong>устанавливается порядок совершения банком с универсальной банковской лицензией и исламским банком сделок с цифровыми финансовыми активами (ЦФА)</strong>, а также определен перечень ЦФА, с которыми такие банки вправе совершать сделки, требования к указанным ЦФА и порядок совершения сделок с собственными ЦФА.</p>
+<p>В частности, указанный <strong>перечень ЦФА</strong> включает:</p>
+<p>- ЦФА, базовым активом которых выступают деньги (стейблкоины);</p>
+<p>- ЦФА, обеспеченные долговыми эмиссионными ценными бумагами, включая исламские ценные бумаги;</p>
+<p>- финансовые инструменты, выпускаемые в цифровой форме.</p>
+<p>Совместное постановление предусматривает, что сделки с ЦФА осуществляются исключительно <strong>на цифровых платформах операторов платформ</strong> <strong>ЦФА</strong> и (или) операторов торговых платформ цифровых активов.</p>
+<p>С полным текстом документа можно ознакомиться <a href="https://www.gov.kz/memleket/entities/ardfm/documents/details/1008429?lang=ru">на сайте Агентства.</a></p>
+<p>&nbsp;</p>
+<p><strong>Управление внешних коммуникаций</strong></p>
+<p><a href="mailto:press@finreg.kz"><strong>press@finreg.kz</strong></a></p>
+</body>
+</html>0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","nav",null,{"className":"breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Главная"}]," / ",["$","$L2",null,{"href":"/media/press","children":"Пресс-релизы"}]]}],["$","h1",null,{"className":"page-title","children":"Об утверждении Правил совершения банком с универсальной банковской лицензией и исламским банком сделок с ЦФА"}],["$","time",null,{"children":"6 мая 2026 г."}],"$undefined",["$","$L3",null,{"html":"$4"}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zM9lERO3SlzCY7qBjKejW"}
+7:null

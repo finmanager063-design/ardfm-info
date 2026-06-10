@@ -1,0 +1,23 @@
+1:"$Sreact.fragment"
+2:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
+4:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+3:Tc0b,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<p>Правительством Республики Казахстан принято постановление Правительства Республики Казахстан от 2 октября 2025 года № 818 <strong>&laquo;Об определении критериев осуществления торгов ценными бумагами на бирже&raquo;</strong>.</p>
+<p>Постановление разработано в реализацию подпункта 13) статьи 436 и подпункта 7) статьи 681 Налогового кодекса Республики Казахстан от 18 июля 2025 года № 214-VIII.</p>
+<p>Постановлением предусматривается <strong>установление критериев ликвидности ценных бумаг для целей применения налоговых льгот в отношении дивидендов и вознаграждений</strong>, выплачиваемых по таким ценным бумагам. Также предусматриваются минимальные требования к объему и количеству сделок по акциям и паям паевых инвестиционных фондов, а также устанавливаются требования к доле акций в свободном обращении и наличию IPO (Initial Public Offering) либо SPO (Secondary Public Offering). Для долговых ценных бумаг предусмотрен критерий по объему выпуска, размещенного на бирже методом открытых торгов и находящегося в обращении.</p>
+<p>Указанные положения представляют собой <strong>переутверждение действующего регулирования</strong> в рамках реализации нового Налогового кодекса Республики Казахстан.</p>
+<p>Постановление направлено <strong>на повышение ликвидности фондового рынка </strong>за счет стимулирования компаний к активной торговле ценными бумагами, расширения предложения ценных бумаг на рыночных условиях в том числе за счет проведения IPO.</p>
+<p>С полным текстом документа можно ознакомиться на <a href="https://www.gov.kz/memleket/entities/ardfm/documents/details/906651">интернет-ресурсе</a> Агентства.</p>
+<p>&nbsp;</p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>Управление внешних коммуникаций</strong></p>
+<p><strong>+7 (727) 237 10 89</strong></p>
+<p><a href="mailto:press@finreg.kz"><strong>press@finreg.kz</strong></a></p>
+</body>
+</html>0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","h1",null,{"className":"page-title","children":"Об определении критериев осуществления торгов ценными бумагами на бирже"}],["$","time",null,{"children":"7 октября 2025 г."}],["$","$L2",null,{"html":"$3"}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zM9lERO3SlzCY7qBjKejW"}
+6:null

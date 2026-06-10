@@ -1,0 +1,97 @@
+1:"$Sreact.fragment"
+2:I[50612,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"ShellWrapper"]
+3:I[39756,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"default"]
+4:I[37457,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"default"]
+9:I[68027,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"default",1]
+:HL["/_next/static/chunks/0rgbmrr6_b96m.css","style"]
+:HL["/_next/static/chunks/0t1-qk9~.xa44.css","style"]
+:HL["https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap","style"]
+0:{"P":null,"c":["","premium","a",""],"q":"","i":false,"f":[[["",{"children":["premium",{"children":["a",{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0rgbmrr6_b96m.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/0t1-qk9~.xa44.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0w5bf6qo2zbxc.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/0_t29vi~hh.tn.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ru","className":"notranslate","children":[["$","head",null,{"children":[["$","link",null,{"rel":"icon","href":"/favicon.ico"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap","rel":"stylesheet"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"GovernmentOrganization\",\"name\":\"Агентство Республики Казахстан по регулированию и развитию финансового рынка\",\"alternateName\":\"АРРФР\",\"description\":\"Агентство Республики Казахстан по регулированию и развитию финансового рынка — государственный орган, осуществляющий регулирование и надзор на финансовом рынке\",\"url\":\"https://govkz.online\",\"address\":{\"@type\":\"PostalAddress\",\"addressCountry\":\"KZ\",\"addressLocality\":\"Астана\",\"streetAddress\":\"проспект Мәңгілік Ел, 20а\",\"postalCode\":\"010000\"},\"telephone\":\"+7-7172-79-00-00\",\"image\":\"https://govkz.online/images/og-image.jpg\",\"knowsAbout\":[\"Регулирование финансового рынка\",\"Банковский надзор\",\"Страховой надзор\",\"Рынок ценных бумаг\",\"Микрофинансовые организации\",\"Защита прав потребителей финансовых услуг\"],\"parentOrganization\":{\"@type\":\"GovernmentOrganization\",\"name\":\"Правительство Республики Казахстан\"}}"}}]]}],["$","body",null,{"children":["$","$L2",null,{"meta":{"syncedAt":"2026-05-29T09:02:13.563Z","source":"https://www.gov.kz/memleket/entities/ardfm","entityTitle":"Агентство Республики Казахстан по регулированию и развитию финансового рынка","entityShort":"АРРФР","contacts":{"telegram":{"username":"finance_regulator_bot","handle":"@finance_regulator_bot","url":"https://t.me/finance_regulator_bot"}}},"children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":"$L5","templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["$L6",{},null,false,null]},null,false,"$@7"]},null,false,"$@7"]},null,false,null],"$L8",false]],"m":"$undefined","G":["$9",["$La","$Lb"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"zM9lERO3SlzCY7qBjKejW"}
+c:I[57956,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0q_stswmcf.p4.js","/_next/static/chunks/0wxc~v~ry3ho7.js"],"VariantAClient"]
+16:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"ViewportBoundary"]
+18:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"MetadataBoundary"]
+19:"$Sreact.suspense"
+5:["$","$L4",null,{}]
+d:Tae1,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<p>Агентством по регулированию и развитию финансового рынка разработан проект постановления Правления Агентства <strong>&laquo;О внесении изменений и дополнений в постановления Правления Агентства Республики Казахстан по регулированию и развитию финансового рынка по вопросам регулирования финансового рынка и противодействия легализации (отмыванию) доходов, полученных преступным путем, финансированию терроризма и финансированию распространения оружия массового уничтожения на финансовом рынке&raquo;</strong>.</p>
+<p>Документ разработан <strong>в целях снижения избыточной регуляторной нагрузки на финансовые организации</strong>, а также приведения в соответствие с законодательными актами Республики Казахстан.</p>
+<p>Проект предусматривает применение банками риск-ориентированного подхода при мониторинге, изучении и анализе операций клиентов и оптимизации процедур открытия банковских счетов нерезидентам Республики Казахстан.</p>
+<p>Кроме того, проектом предусмотрены редакционные поправки, которые уточняют отдельные категории клиентов и пересмотр подходов к их оценке с учетом практики применения риск-ориентированного подхода, а также актуализация отдельных процедур, связанных с предоставлением финансовых услуг дистанционным способом.</p>
+<p>С полным текстом документа можно ознакомиться <a href="https://www.gov.kz/memleket/entities/ardfm/documents/details/1018609?lang=ru">на сайте Агентства</a>.</p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>Управление внешних коммуникаций</strong></p>
+<p><a href="mailto:press@finreg.kz"><strong>press@finreg.kz</strong></a></p>
+</body>
+</html>e:T727,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<p>Агентством по регулированию и развитию финансового рынка разработан проект постановления Правления Агентства <strong>&laquo;</strong><strong>Об утверждении Правил применения инструментов урегулирования банка</strong><strong>&raquo;</strong><strong>.</strong></p>
+<p>Документ разработан в рамках реализации статей 93, 95-98&nbsp;Закона &laquo;О банках и банковской деятельности в Республике Казахстан&raquo;.</p>
+<p>Проектом устанавливаются порядок принудительной реструктуризации обязательств банка, проведения принудительной продажи акций банка новому инвестору, передачи активов и обязательств неплатежеспособного банка другому банку (банкам), создания и функционирования стабилизационного банка, а также передачи ему активов и обязательств.</p>
+<p>С текстом проекта постановления можно ознакомиться&nbsp;<a href="https://www.gov.kz/memleket/entities/ardfm/documents/details/1016781?lang=ru">на сайте Агентства.</a></p>
+<p>&nbsp;</p>
+<p><strong>Управление внешних коммуникаций</strong></p>
+<p><a href="mailto:press@finreg.kz"><strong>press</strong><strong>@</strong><strong>finreg</strong><strong>.</strong><strong>kz</strong></a></p>
+</body>
+</html>f:T90c,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<p>Агентством по регулированию и развитию финансового рынка разработан проект постановления Правления Агентства <strong>&laquo;О внесении изменений и дополнений в некоторые нормативные правовые акты Республики Казахстан по вопросам регулирования микрофинансовой и коллекторской деятельности&raquo;</strong>.</p>
+<p>Документом предлагается внести изменения в некоторые нормативные правовые акты в сфере микрофинансовой и коллекторской деятельности.</p>
+<p>В частности, изменения направлены на замену терминов &laquo;электронное правительство&raquo;, &laquo;информационные системы&raquo; на &laquo;цифровое правительство&raquo;, &laquo;цифровые системы&raquo; и иные в целях приведения в соответствие с приятым 9 января 2026 года Цифровым кодексом Республики Казахстан.</p>
+<p>Кроме того, в реализацию Закона Республики Казахстан <br />&laquo;О микрофинансовой деятельности&raquo; вносятся изменения в правила лицензирования микрофинансовой деятельности по необходимости раскрытия источников средств, используемых для формирования уставного капитала и (или) приобретения долей участия (акций) заявителей.</p>
+<p>С текстом проекта постановления можно ознакомиться на интернет-портале &laquo;Открытые НПА&raquo; и на <a href="https://www.gov.kz/memleket/entities/ardfm/documents/details/1011825?lang=ru">сайте</a> Агентства.</p>
+</body>
+</html>10:T814,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<p>Агентством по регулированию и развитию финансового рынка разработан проект постановления Правления Агентства <strong>&laquo;Об установлении значений финансово-экономических и иных признаков ухудшения финансовой устойчивости банка&raquo;</strong>.</p>
+<p>Проект постановления разработан в реализацию части второй пункта&nbsp;2 статьи 85 Закона Республики Казахстан от 16 января 2026 года №&nbsp;258-VIII &laquo;О банках и банковской деятельности в Республике Казахстан&raquo; в целях установления значений финансово-экономических и иных признаков ухудшения финансовой устойчивости банка для своевременного выявления рисков и стадий ухудшения финансового состояния банков.</p>
+<p>Документом предусмотрены количественные и качественные признаки ухудшения финансовой устойчивости банка, а также их пороговые значения, позволяющие определить соответствующий режим надзорного реагирования.</p>
+<p>С полным текстом проекта Постановления можно ознакомиться <a href="https://www.gov.kz/memleket/entities/ardfm/documents/details/1016373?lang=ru">на сайте Агентства.</a></p>
+<p>&nbsp;</p>
+<p><strong>Управление внешних коммуникаций </strong></p>
+<p><a href="mailto:press@finreg.kz"><strong>press@finreg.kz</strong></a></p>
+</body>
+</html>11:Tea6,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<p>Правлением Агентства по регулированию и развитию финансового рынка принято постановление от 20 апреля 2026 года №79 <strong>&laquo;</strong><strong>О внесении изменений и дополнений в некоторые нормативные правовые акты Республики Казахстан по вопросам развития финансового рынка и рынка цифровых финансовых активов</strong><strong>&raquo;</strong>.</p>
+<p>Постановление предусматривает внесение изменений и дополнений в Правила осуществления деятельности по управлению инвестиционным портфелем, в Правила осуществления деятельности по ведению системы реестров держателей ценных бумаг, а также в Правила осуществления деятельности центрального депозитария.</p>
+<p>Документ разработан в целях реализации мер по развитию и внедрению цифровых финансовых активов, а также с учетом формирования правовых и институциональных основ их выпуска, учета и обращения.</p>
+<p>Внесенные изменения и дополнения направлены на адаптацию действующего регулирования к новым видам финансовых инструментов, выпускаемым в цифровой форме, уточнение полномочий и функций участников финансового рынка, а также обеспечение правовой определенности и непрерывности регулирования в части учета, хранения и обращения цифровых финансовых активов.</p>
+<p>Предусматривается приведение правил осуществления профессиональной деятельности на рынке ценных бумаг в соответствие с требованиями Закона в части разрешения операций с цифровыми финансовыми активами и развития рынка цифровых финансовых активов.</p>
+<p>Также постановлением предусмотрены редакционные поправки в соответствии с Законом Республики Казахстан от 16 января 2026 года № 259-VIII &laquo;О внесении изменений и дополнений в некоторые законодательные акты Республики Казахстан по вопросам регулирования и развития финансового рынка, связи и банкротства&raquo;.</p>
+<p>С полным текстом документа можно ознакомиться <a href="https://www.gov.kz/memleket/entities/ardfm/documents/details/1014576?lang=ru">на сайте Агентства</a>.</p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>Управление внешних коммуникаций</strong></p>
+<p><strong>+7 (727) 237 10 89</strong></p>
+<p><a href="mailto:press@finreg.kz"><strong>press@finreg.kz</strong></a></p>
+</body>
+</html>6:["$","$1","c",{"children":[["$","$Lc",null,{"news":[{"id":"18388","title":"О применении банками риск-ориентированного подхода при изучении операций клиентов и оптимизации процедур открытия банковских счетов нерезидентам","body":"$d","created_date":"2026-05-29T10:10:00Z","heropic":"/uploads/2026/5/29/518e96329765736f21493303d78d85e3_original.84693.jpg"},{"id":"18370","title":"О правилах применения инструментов урегулирования","body":"$e","created_date":"2026-05-26T16:04:00Z","heropic":"/uploads/2025/10/8/86e8caa3c4cf52cddf8953304f3a9c7c_original.4113520.jpg"},{"id":"18349","title":"О совершенствовании регулирования микрофинансовой  и коллекторской деятельности","body":"$f","created_date":"2026-05-25T17:54:00Z","heropic":"/uploads/2026/1/21/eb6f2ec0cf5ce4311d9c98d3ffbd24ee_original.78015.jpg"},{"id":"18340","title":"Об установлении значений финансово-экономических и иных признаков ухудшения финансовой устойчивости банка","body":"$10","created_date":"2026-05-25T11:43:00Z","heropic":"/uploads/2026/5/25/3785ab3e5d2904fc14efdd48e7386f9d_original.2069886.png"},{"id":"18335","title":"О вопросах развития рынка цифровых финансовых активов","body":"$11","created_date":"2026-05-25T10:11:00Z","heropic":"/uploads/2025/7/3/a4dbcd50c98f96b199cf1c233bccaecf_original.5069616.jpg"}],"meta":"$0:f:0:1:0:props:children:1:props:children:1:props:children:props:meta"}],["$L12","$L13"],"$L14"]}]
+15:[]
+7:"$W15"
+8:["$","$1","h",{"children":[null,["$","$L16",null,{"children":"$L17"}],["$","div",null,{"hidden":true,"children":["$","$L18",null,{"children":["$","$19",null,{"name":"Next.Metadata","children":"$L1a"}]}]}],null]}]
+a:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0rgbmrr6_b96m.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+b:["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/0t1-qk9~.xa44.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+1b:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+12:["$","script","script-0",{"src":"/_next/static/chunks/0q_stswmcf.p4.js","async":true,"nonce":"$undefined"}]
+13:["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true,"nonce":"$undefined"}]
+14:["$","$L1b",null,{"children":["$","$19",null,{"name":"Next.MetadataOutlet","children":"$@1c"}]}]
+17:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+1d:I[27201,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"IconMark"]
+1a:[["$","title","0",{"children":"Агентство Республики Казахстан по регулированию и развитию финансового рынка"}],["$","meta","1",{"name":"description","content":"Агентство Республики Казахстан по регулированию и развитию финансового рынка (АРРФР): новости, документы, реестры лицензий и защита прав потребителей финансовых услуг"}],["$","link","2",{"rel":"manifest","href":"/manifest.json","crossOrigin":"$undefined"}],["$","meta","3",{"name":"keywords","content":"АРРФР,финансовый регулятор Казахстан,лицензии финансовых организаций,защита прав потребителей финансовых услуг,Агентство финансового рынка"}],["$","meta","4",{"name":"google-site-verification","content":"google-site-verification-code"}],["$","meta","5",{"name":"yandex-verification","content":"yandex-verification-code"}],["$","meta","6",{"property":"og:title","content":"Агентство Республики Казахстан по регулированию и развитию финансового рынка"}],["$","meta","7",{"property":"og:description","content":"Агентство Республики Казахстан по регулированию и развитию финансового рынка"}],["$","meta","8",{"property":"og:site_name","content":"АРРФР"}],["$","meta","9",{"property":"og:locale","content":"ru_RU"}],["$","meta","10",{"property":"og:type","content":"website"}],["$","meta","11",{"name":"twitter:card","content":"summary"}],["$","meta","12",{"name":"twitter:title","content":"Агентство Республики Казахстан по регулированию и развитию финансового рынка"}],["$","meta","13",{"name":"twitter:description","content":"Агентство Республики Казахстан по регулированию и развитию финансового рынка"}],["$","link","14",{"rel":"icon","href":"/favicon.ico?favicon.0x3dzn~oxb6tn.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","15",{"rel":"icon","href":"/favicon.ico"}],["$","link","16",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png"}],["$","$L1d","17",{}]]
+1c:null

@@ -1,0 +1,22 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],""]
+3:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
+5:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+4:Tdd1,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<p><strong>АРРФР утвердило новые правила распределения прибыли для банков, получавших господдержку, передает&nbsp;<a href="https://lsm.kz/" target="_blank" rel="noopener">LS</a>.<br /></strong></p>
+<p>Теперь БВУ не смогут направлять на дивиденды доходы, сформированные за счет госпомощи. Речь идет, в частности, о дисконте по льготному финансированию, высвобожденных провизиях и положительной переоценке активов.</p>
+<p>Кроме того, для выплаты дивидендов или проведения обратного выкупа акций банкам необходимо досрочно вернуть госсредства. При этом сумма возврата должна быть не меньше объема выплат акционерам. Также вводится требование рассчитывать прибыль для распределения за вычетом всех эффектов от господдержки. Корректировки распространяются в том числе на прибыль прошлых лет. Дополнительно банки обязали подтверждать расчеты отдельным отчетом независимого аудитора.</p>
+<p>Помимо этого, ограничения затронули крупных акционеров: снизить долю в банке можно будет только при условии возврата господдержки либо наличия плана по ее досрочному погашению. Таким образом, регулятор усиливает контроль за использованием государственных средств и ограничивает возможность их косвенного распределения через дивиденды.</p>
+<p>Постановление вводится в действие через 10 дней со дня его первого официального опубликования.</p>
+<p>По данным АРРФР, на 1 января три БВУ имеют на балансе средства господдержки на общую сумму 1,1 трлн тенге, в том числе Alatau City &ndash; 950,2 млрд тенге, Евразийский &ndash; 120 млрд тенге, Нурбанк &ndash; 42,3 млрд тенге. Долг перед государством полностью досрочно погасили Halyk, RBK и БЦК.</p>
+<p>Ранее LS писал, что казахстанские банки остаются&nbsp;<a href="https://lsm.kz/povyshenie-bazovoj-stavki-ne-ostuzhaet-potrebkreditovanie--mnenie" target="_blank" rel="noopener">прибыльными</a>, несмотря на новые налоги и ужесточения.&nbsp;</p>
+<p>В январе в АРРФР&nbsp;<a href="https://lsm.kz/banki-dolzhny-gosudarstvu-bolee-1-trln-tenge" target="_blank" rel="noopener">сообщали</a>, что три БВУ все еще должны государству более 1 трлн тенге.&nbsp;</p>
+<p>Источник: Lsm.kz</p>
+</body>
+</html>0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","nav",null,{"className":"breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Главная"}]," / ",["$","$L2",null,{"href":"/articles","children":"Статьи"}]," /"," ","Дивиденды под запретом: новые правила для банков с","…"]}],["$","h1",null,{"className":"page-title","children":"Дивиденды под запретом: новые правила для банков с господдержкой"}],["$","time",null,{"dateTime":"2026-04-08","children":"8 апреля 2026 г."}],["$","$L3",null,{"html":"$4"}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zM9lERO3SlzCY7qBjKejW"}
+7:null

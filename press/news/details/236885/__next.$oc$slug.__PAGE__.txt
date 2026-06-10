@@ -1,0 +1,29 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],""]
+3:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
+5:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+4:Tc86,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<ol>
+<li>Чакалиди И.В. &ndash; Председатель Правления АО &laquo;Tengri Partners Investment Banking (Kazakhstan)&raquo; (протокол № 19/РЦБ от 16.06.2021);</li>
+<li>Охонов Ф.Р. - Председатель Правления &ndash; член Совета директоров АО &laquo;ДО Народного Банка Казахстана &laquo;Halyk Finance&raquo; (протокол № 20/РЦБ от 16.06.2021);</li>
+<li>Хон В.А. &ndash; Заместитель Председателя Правления &ndash; член Правления АО &laquo;Halyk Global Markets&raquo; (протокол № 22/РЦБ/Т от 21.06.2021);</li>
+<li>Саржаков Ж.Н. &ndash; Заместитель Председателя Правления АО &laquo;Казахстанская фондовая биржа&raquo; (протокол № 23/РЦБ от 21.06.2021);</li>
+<li>Аюханова М.Е. &ndash; Заместитель Председателя Правления &ndash; член Правления АО &laquo;ДО Народного Банка Казахстана &laquo;Halyk Finance&raquo; (протокол № 24/РЦБ от 21.06.2021);</li>
+<li>Дронин А.В. &ndash; и.о. Председателя Правления АО &laquo;BCC Invest&raquo; - ДО АО &laquo;Банк ЦентрКредит&raquo; (протокол № 27/РЦБ от 12.07.2021);</li>
+<li>Карашукеев Е.Ш. - Председатель Совета директоров АО &laquo;Информационно-учетный центр&raquo; (протокол № 29/РЦБ от 19.07.2021);</li>
+<li>Чакалиди И.В. &ndash; член Совета директоров АО &laquo;Tengri Partners Investment Banking (Kazakhstan)&raquo; (протокол № 31/РЦБ от 26.07.2021);</li>
+<li>Салимов Е.И. - член Совета директоров АО &laquo;Казахстанская фондовая биржа&raquo; (протокол № 32/РЦБ от 26.07.2021);</li>
+<li>Елемесов А.Р. - Независимый директор - член Совета директоров АО &laquo;Казахстанская фондовая биржа&raquo; (протокол № 33/РЦБ от 26.07.2021);</li>
+<li>Сундетова З.С. &ndash; член Правления АО &laquo;SkyBridge Invest&raquo; (протокол № 34/РЦБ от 26.07.2021);</li>
+<li>Дронин А.В. &ndash; член Совета директоров АО &laquo;Казахстанская фондовая биржа&raquo; (протокол № 35/РЦБ от 26.07.2021);</li>
+<li>Израэли Д. - Независимый директор - член Совета директоров АО &laquo;Казахстанская фондовая биржа&raquo; (протокол № 36/РЦБ от 28.07.2021);</li>
+<li>Кошкинбаев Е.Ж. - член Совета директоров АО &laquo;Инвестиционный Финансовый Дом &laquo;YURTA&raquo; (протокол № 37/РЦБ от 30.07.2021).</li>
+</ol>
+</body>
+</html>0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","nav",null,{"className":"breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Главная"}]," / ",["$","$L2",null,{"href":"/media/news","children":"Новости"}]," / Новость"]}],["$","h1",null,{"className":"page-title","children":"Агентством согласованы руководящие работники рынка ценных бумаг"}],["$","time",null,{"dateTime":"2021-08-02T16:25:00Z","children":"2 августа 2021 г."}],null,["$","$L3",null,{"html":"$4"}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zM9lERO3SlzCY7qBjKejW"}
+7:null

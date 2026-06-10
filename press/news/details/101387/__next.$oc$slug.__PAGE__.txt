@@ -1,0 +1,22 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],""]
+3:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
+5:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+4:Tf88,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<p align="justify"><i>Комментарий Олжаса Кизатова, директора Департамента банковского регулирования Агентства РК по регулированию и развитию финансового рынка</i></p>
+<p align="justify">После ухудшения финансового состояния Tengri Bank, Агентством с начала текущего года в целях защиты интересов вкладчиков Банка осуществлялся усиленный надзор за его деятельностью.</p>
+<p align="justify">В рамках данного надзорного режима Агентством ежемесячно принимались меры надзорного реагирования в виде письменного предписания по устранению нарушений требований законодательства и санкций в виде административных штрафов. Всего наложено <strong>11 письменных предписаний и 36 административных штрафов</strong>.</p>
+<p align="justify">Для повышения финансовой устойчивости Банка был затребован от крупного акционера и менеджмента Tengri Bank &laquo;План мероприятий по улучшению финансового положения Банка&raquo;.</p>
+<p align="justify">В рамках новых полномочий финансового регулятора по применению мотивированного суждения было осуществлено признание пула заемщиков на сумму <strong>44 млрд.</strong> тенге. В итоге доля портфеля займов, связанного с Банком особыми отношениями, составила <strong>58%</strong>, что позволило отразить на балансе Банка реальную стоимость и риски по данным займам.</p>
+<p align="justify">Для обеспечения сохранности активов Tengri Bank было ограничено проведение Банком высокорисковых операций по кредитованию, продаже и выводу активов и залогового имущества.</p>
+<p align="justify">В целях максимального закрытия обязательств перед клиентами Банка, Агентством совместно с крупным акционером и менеджментом Банка обеспечило привлечение дополнительной ликвидности на сумму <strong>16,9 млрд. тенге</strong> и были проведены мероприятия по рефинансированию и взысканию проблемных кредитов. Данные меры позволили в кратчайшие сроки сократить обязательства перед клиентами Банка на сумму <strong>26,4 млрд. тенге</strong> или порядка <strong>26</strong>% от общих обязательств Банка на начало года.</p>
+<p align="justify">Своевременное проведение указанных мероприятий позволило не только сохранить активы, но и максимально снизить обязательства Tengri Bank для минимизации потерь клиентов Банка при начале ликвидационного производства в Банке.</p>
+<p>&nbsp;</p>
+</body>
+</html>0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","nav",null,{"className":"breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Главная"}]," / ",["$","$L2",null,{"href":"/media/news","children":"Новости"}]," / Новость"]}],["$","h1",null,{"className":"page-title","children":"Касательно Tengri Bank"}],["$","time",null,{"dateTime":"2020-09-18T11:58:00Z","children":"18 сентября 2020 г."}],null,["$","$L3",null,{"html":"$4"}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zM9lERO3SlzCY7qBjKejW"}
+7:null

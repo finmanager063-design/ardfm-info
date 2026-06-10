@@ -1,0 +1,98 @@
+1:"$Sreact.fragment"
+2:I[50612,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"ShellWrapper"]
+3:I[39756,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"default"]
+4:I[37457,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"default"]
+8:I[68027,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"default",1]
+:HL["/_next/static/chunks/0rgbmrr6_b96m.css","style"]
+:HL["/_next/static/chunks/0t1-qk9~.xa44.css","style"]
+:HL["https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap","style"]
+0:{"P":null,"c":["","article","details","chem-riskuet-chelovek-oformivshiy-chuzhoy-kredit-na-sebya",""],"q":"","i":false,"f":[[["",{"children":[["slug","article/details/chem-riskuet-chelovek-oformivshiy-chuzhoy-kredit-na-sebya","oc",null],{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0rgbmrr6_b96m.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/0t1-qk9~.xa44.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0w5bf6qo2zbxc.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/0_t29vi~hh.tn.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ru","className":"notranslate","children":[["$","head",null,{"children":[["$","link",null,{"rel":"icon","href":"/favicon.ico"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap","rel":"stylesheet"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"GovernmentOrganization\",\"name\":\"Агентство Республики Казахстан по регулированию и развитию финансового рынка\",\"alternateName\":\"АРРФР\",\"description\":\"Агентство Республики Казахстан по регулированию и развитию финансового рынка — государственный орган, осуществляющий регулирование и надзор на финансовом рынке\",\"url\":\"https://govkz.online\",\"address\":{\"@type\":\"PostalAddress\",\"addressCountry\":\"KZ\",\"addressLocality\":\"Астана\",\"streetAddress\":\"проспект Мәңгілік Ел, 20а\",\"postalCode\":\"010000\"},\"telephone\":\"+7-7172-79-00-00\",\"image\":\"https://govkz.online/images/og-image.jpg\",\"knowsAbout\":[\"Регулирование финансового рынка\",\"Банковский надзор\",\"Страховой надзор\",\"Рынок ценных бумаг\",\"Микрофинансовые организации\",\"Защита прав потребителей финансовых услуг\"],\"parentOrganization\":{\"@type\":\"GovernmentOrganization\",\"name\":\"Правительство Республики Казахстан\"}}"}}]]}],["$","body",null,{"children":["$","$L2",null,{"meta":{"syncedAt":"2026-05-29T09:02:13.563Z","source":"https://www.gov.kz/memleket/entities/ardfm","entityTitle":"Агентство Республики Казахстан по регулированию и развитию финансового рынка","entityShort":"АРРФР","contacts":{"telegram":{"username":"finance_regulator_bot","handle":"@finance_regulator_bot","url":"https://t.me/finance_regulator_bot"}}},"children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["$L5",{},null,false,null]},null,false,"$@6"]},null,false,null],"$L7",false]],"m":"$undefined","G":["$8",["$L9","$La"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"zM9lERO3SlzCY7qBjKejW"}
+c:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+d:"$Sreact.suspense"
+10:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"ViewportBoundary"]
+12:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"MetadataBoundary"]
+5:["$","$1","c",{"children":["$Lb",[["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true,"nonce":"$undefined"}]],["$","$Lc",null,{"children":["$","$d",null,{"name":"Next.MetadataOutlet","children":"$@e"}]}]]}]
+f:[]
+6:"$Wf"
+7:["$","$1","h",{"children":[null,["$","$L10",null,{"children":"$L11"}],["$","div",null,{"hidden":true,"children":["$","$L12",null,{"children":["$","$d",null,{"name":"Next.Metadata","children":"$L13"}]}]}],null]}]
+9:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0rgbmrr6_b96m.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+a:["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/0t1-qk9~.xa44.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+14:I[22016,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],""]
+15:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
+16:T3002,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<p>Казахстанцы для повышения шансов на получение кредита иногда используют способ оформления займа, когда один человек становится созаёмщиком вместе с другим. Это позволяет при подаче заявки показать общие доходы и возможность исполнения обязательств по ежемесячной оплате. Об ответственности и рисках созаёмщика при оформлении кредита рассказал экономист Бауржан Шурманов, передаёт корреспондент&nbsp;<a href="https://tengrinews.kz/" target="_blank" rel="noopener">Tengrinews.kz</a>.</p>
+<h2>Оформлять ли кредит на себя ради знакомых или родственников</h2>
+<p>Как отметил экономист Бауржан Шурманов,&nbsp;<em>кредит всегда ложится на того, чьё имя в договоре</em>. Даже если заемщик обещает платить,&nbsp;<strong>юридическая обязанность перед банком</strong>&nbsp;<em>будет на том, кто оформил кредит</em>&nbsp;как гарант.</p>
+<blockquote>
+<p>"В случае проблем с платежами долг взыщут именно с вас. Поэтому оптимальное решение - не соглашаться. Исключение возможно только для супруга или близкого родственника, с которым у вас общий бюджет и высокий уровень доверия", - рассказал эксперт.</p>
+</blockquote>
+<p>Поэтому нужно понимать, что гарант или созаёмщик - это полноценный должник.</p>
+<blockquote>
+<p>"Любой конфликт с заёмщиком приведёт к тому, что долг перейдёт на вас. Гораздо разумнее помочь человеку иначе - советом или ограниченной суммой, но не связываться с чужим долгом", - добавил Бауржан Шурманов.</p>
+</blockquote>
+<h2>На что обратить внимание перед согласием на кредит</h2>
+<p>По словам экономиста, сперва следует оценить&nbsp;<strong>кредитную историю и долговую нагрузку</strong>&nbsp;человека, который просит быть созаёмщиком.</p>
+<blockquote>
+<p>"Важно понимать его реальные доходы и стабильность работы. Нужно задать себе прямой вопрос, сможете ли вы самостоятельно погашать кредит, если он перестанет платить", - пояснил Бауржан Шурманов.</p>
+</blockquote>
+<p>При этом он подчеркнул, что также стоит&nbsp;<strong>внимательно</strong>&nbsp;<strong>изучить условия кредита</strong>, включая&nbsp;<strong>ставку, комиссии и штрафы</strong>.</p>
+<h2>Какие меры принять, если согласились быть созаёмщиком</h2>
+<p>Эксперт указал о необходимости&nbsp;<strong>зафиксировать обязательства заёмщика юридически</strong>.</p>
+<p>При это он акцентировал внимание на том, что нужно:</p>
+<ul>
+<li>оформить&nbsp;<strong>нотариальную расписку о возврате</strong>;</li>
+<li>получить&nbsp;<strong>залог</strong>&nbsp;или ценное имущество;</li>
+<li><strong>контролировать процесс платежей лично</strong>, а не полагаться на устные обещания.</li>
+</ul>
+<h2>Как правильно отказаться, если не хотите брать кредит за другого человека</h2>
+<p>Отказ, по мнению эксперта, должен быть прямым и без лишних объяснений.</p>
+<blockquote>
+<p>"Возможные аргументы: у вас собственные обязательства, вы не готовы брать на себя чужие риски, у вас семья и дети, принципиально не оформляете кредиты за других. Это честная позиция, не требующая оправданий", - сообщил Бауржан Шурманов.</p>
+</blockquote>
+<h2>Что делать, если кредит уже оформлен</h2>
+<p>Если на созаёмщика уже оформлен кредит, то нужно&nbsp;<strong>полностью контролировать график платежей</strong>.</p>
+<blockquote>
+<p>"Все документы должны храниться у вас. Желательно оплачивать кредит напрямую и получать компенсацию от заёмщика. Все переводы и расчёты фиксировать, чтобы в случае судебного разбирательства иметь доказательства", - пояснил эксперт.</p>
+</blockquote>
+<h2>Что делать, если человек перестал платить по кредиту</h2>
+<p>Если человек перестал платить по кредиту, взятому на созаёмщика, то сделать следующие шаги:</p>
+<ul>
+<li>получить&nbsp;<strong>подтверждение задолженности через банк</strong>;</li>
+<li>направить&nbsp;<strong>заёмщику письменное уведомление</strong>.</li>
+</ul>
+<blockquote>
+<p>"Если реакции нет - обращаться в суд с иском. Но важно понимать, что банк взыщет долг именно с вас, а возврат с заёмщика будет отдельным процессом и небыстрым", - выделил Бауржан Шурманов.</p>
+</blockquote>
+<h2>Документы при оформлении займа</h2>
+<p>При оформлении кредита необходимо обращать внимание на следующие моменты:</p>
+<ul>
+<li><strong>кредитный договор</strong>&nbsp;- ставка, комиссии, штрафы, условия досрочного погашения;</li>
+<li><strong>обязательства</strong>&nbsp;созаёмщика или гаранта, а также&nbsp;<strong>график платежей</strong>;</li>
+<li>документы заёмщика&nbsp;<strong>о доходах и кредитной истории</strong>, а также&nbsp;<strong>наличие страховки</strong>, покрывающей риски болезни, потери работы или смерти.</li>
+</ul>
+<h2>Кто может стать созаёмщиком</h2>
+<p>Как правило, по словам Бауржана Шурманова, созаёмщиком при оформлении кредита могут стать&nbsp;<strong>супруги или родственники</strong>. Однако иногда банки&nbsp;<strong>ограничивают круг гарантов территорией прописки</strong>.</p>
+<p>При решении банки обычно обращают внимание на официальный доход, стабильную занятость и положительную кредитную историю.</p>
+<h2>Что делать, если заставляют оформить кредит</h2>
+<p>Если есть давление со стороны родственников, окружения или посторонних лиц, важно понимать, что никакие уговоры или эмоциональное давление не снимают с созаёмщика юридической ответственности перед банком. После подписания договора именно гарант остаётся должником, а не тот, кто его уговаривал.</p>
+<blockquote>
+<p>"В такой ситуации нужно твёрдо обозначить позицию. Можно ссылаться на собственные финансовые обязательства, на риски для семьи, на принципиальное нежелание брать кредиты за других. Если давление продолжается, лучше перевести общение в письменную форму, чтобы сохранить доказательства, или ограничить контакты. Если же речь идёт не только об эмоциональном давлении, но и о попытках заставить силой или угрозами, необходимо обращаться в полицию. Принуждение к кредитным обязательствам квалифицируется как нарушение закона", - заявил экономист Бауржан Шурманов.</p>
+</blockquote>
+<p>Вместе с тем, по данным Агентства по регулированию и развитию финансового рынка, созаёмщика чаще всего привлекают&nbsp;<em>при оформлении ипотеки для покупки жилья</em>, если у заёмщика недостаточно собственных доходов для получения одобрения от банка.</p>
+<p>В АРРФР указали, что ответственность созаёмщика равна ответственности заемщика. В случае просрочки&nbsp;<em>банк может списать средства с любых счетов созаёмщика, взыскать имущество или обратиться в суд</em>.</p>
+<blockquote>
+<p>"При этом риски созаёмщика выше: он обязуется погашать долг в полном объёме, а не только в пределах установленной гарантии", - отметили в ведомстве.</p>
+</blockquote>
+<p>При этом&nbsp;<em>обязательства сохраняются до полного исполнения договора, даже при наличии нескольких созаёмщиков</em>.</p>
+<p><a href="https://tengrinews.kz/article/finansovaya-gramotnost-kazahstantsam-nujno-znat-kreditah-3008/">Финансовая грамотность: что казахстанцам нужно знать о кредитах</a></p>
+<p>Напомним, ранее был опубликован проект НПА для возможности&nbsp;<a href="https://tengrinews.kz/private_finance/chasti-kazahstantsev-predlojili-dat-otsrochku-po-kreditam-575107/">введения отсрочки выплат по кредиту</a>&nbsp;для социально уязвимых слоев населения (СУСН) и пострадавших от ЧП. Это изменение предлагалось для повышения эффективности механизмов урегулирования проблемной задолженности заёмщиков. Об этом подробнее можно прочитать здесь.<br /><br />Источник: Tengrinews.kz</p>
+</body>
+</html>b:["$","article",null,{"children":[["$","nav",null,{"className":"breadcrumb","children":[["$","$L14",null,{"href":"/","children":"Главная"}]," / ",["$","$L14",null,{"href":"/articles","children":"Статьи"}]," /"," ","Чем рискует человек, оформивший чужой кредит на се","…"]}],["$","h1",null,{"className":"page-title","children":"Чем рискует человек, оформивший чужой кредит на себя"}],["$","time",null,{"dateTime":"2025-08-22","children":"22 августа 2025 г."}],["$","$L15",null,{"html":"$16"}]]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+17:I[27201,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"IconMark"]
+e:null
+13:[["$","title","0",{"children":"Чем рискует человек, оформивший чужой кредит на себя | АРРФР"}],["$","meta","1",{"name":"description","content":"Агентство Республики Казахстан по регулированию и развитию финансового рынка (АРРФР): новости, документы, реестры лицензий и защита прав потребителей финансовых услуг"}],["$","link","2",{"rel":"manifest","href":"/manifest.json","crossOrigin":"$undefined"}],["$","meta","3",{"name":"keywords","content":"АРРФР,финансовый регулятор Казахстан,лицензии финансовых организаций,защита прав потребителей финансовых услуг,Агентство финансового рынка"}],["$","meta","4",{"name":"google-site-verification","content":"google-site-verification-code"}],["$","meta","5",{"name":"yandex-verification","content":"yandex-verification-code"}],["$","meta","6",{"property":"og:title","content":"Агентство Республики Казахстан по регулированию и развитию финансового рынка"}],["$","meta","7",{"property":"og:description","content":"Агентство Республики Казахстан по регулированию и развитию финансового рынка"}],["$","meta","8",{"property":"og:site_name","content":"АРРФР"}],["$","meta","9",{"property":"og:locale","content":"ru_RU"}],["$","meta","10",{"property":"og:type","content":"website"}],["$","meta","11",{"name":"twitter:card","content":"summary"}],["$","meta","12",{"name":"twitter:title","content":"Агентство Республики Казахстан по регулированию и развитию финансового рынка"}],["$","meta","13",{"name":"twitter:description","content":"Агентство Республики Казахстан по регулированию и развитию финансового рынка"}],["$","link","14",{"rel":"icon","href":"/favicon.ico?favicon.0x3dzn~oxb6tn.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","15",{"rel":"icon","href":"/favicon.ico"}],["$","link","16",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png"}],["$","$L17","17",{}]]

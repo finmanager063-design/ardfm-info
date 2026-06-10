@@ -1,0 +1,68 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],""]
+3:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
+9:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+a:"$Sreact.suspense"
+4:T12a5,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<p align="justify">По итогам отбора в кадровый резерв Агентства Республики Казахстан по регулированию и развитию финансового рынка зачислены 43 кандидата.</p>
+<p align="justify">На этапе собеседования учитывались такие показатели, как уровень образования, степень готовности претендентов к занятию должности служащего Агентства Республики Казахстан по регулированию и развитию финансового рынка, личные компетенции и достижения участников, выбранное участником направление деятельности.</p>
+<p align="justify">&nbsp;</p>
+<p align="justify"><strong>Список кандидатов, зачисленных в кадровый резерв Агентства Республики Казахстан по регулированию и развитию финансового рынка</strong></p>
+<ol>
+<li><strong>Әкімкұлов Азамат Бауыржанұлы</strong></li>
+<li><strong>Азиз Гульфариза Нурланкызы</strong></li>
+<li><strong>Асылбекова Мадина Таукеевна</strong></li>
+<li><strong>Ахмамбетов Олжас Урумбекович</strong></li>
+<li><strong>Бәлдіров Бекзат Толыбайұлы</strong></li>
+<li><strong>Бүркітбеков Заңгар Әкішұлы</strong></li>
+<li><strong>Базашева Айман Еркінқызы</strong></li>
+<li><strong>Байдикенов Магжан Нурланович</strong></li>
+<li><strong>Байжанова Лаззат Серикбаевна</strong></li>
+<li><strong>Бакешов Мақсат Тлеубекұлы</strong></li>
+<li><strong>Бекболатұлы Мадияр</strong></li>
+<li><strong>Бекетов Аскар Тлеккабилович</strong></li>
+<li><strong>Беликов Владимир Александрович</strong></li>
+<li><strong>Дильманова Нургуль Кайратовна</strong></li>
+<li><strong>Есенжол Дархан Есенжолұлы</strong></li>
+<li><strong>Жұрсінәлі Бағдар Бердалыұлы</strong></li>
+<li><strong>Жанбеков Алмабек Хайруллаевич</strong></li>
+<li><strong>Жарасов Азим Ганиұлы</strong></li>
+<li><strong>Жармуханов Канат Кайратович</strong></li>
+<li><strong>Жумагалиев Курмет Мархабатович</strong></li>
+<li><strong>Исламкұл Елбатыр Қайратұлы</strong></li>
+<li><strong>Көпелдесова Айнаш Мұратқанқызы</strong></li>
+<li><strong>Касенов Бауыржан Маратович</strong></li>
+<li><strong>Каун Анна Владимировна</strong></li>
+<li><strong>Ким Дмитрий Анатольевич</strong></li>
+<li><strong>Киштибаева Гаухар Ералыевна</strong></li>
+<li><strong>Копжасаров Асет Мейрамулы</strong></li>
+<li><strong>Кындыбаев Дамир Ануарулы</strong></li>
+<li><strong>Мазинова Айгерим Женисбековна</strong></li>
+<li><strong>Малгажина Куралай Аятовна</strong></li>
+<li><strong>Максутова Алма Ерболовна</strong></li>
+<li><strong>Мухамедкаримов Нурсултан Мукташевич</strong></li>
+<li><strong>Мухим Айгерім Сарсенқызы</strong></li>
+<li><strong>Нұрболатова Ақбота Нұрболатқызы</strong></li>
+<li><strong>Поляков Артем Сергеевич</strong></li>
+<li><strong>Салимжанов Амангельды Серикович</strong></li>
+<li><strong>Сандыбаева Куралай Жарылкасынқызы</strong></li>
+<li><strong>Сушков Дмитрий Павлович</strong></li>
+<li><strong>Турдакынов Ернур Багдатович</strong></li>
+<li><strong>Уатаева Айгуль Кадыровна</strong></li>
+<li><strong>Улугбеков Касымхан Улугбекович</strong></li>
+<li><strong>Утебаев Темирлан Сакенович</strong></li>
+<li><strong>Шунеев Шынгыс Жолдыбаевич</strong></li>
+</ol>
+<p><strong>&nbsp;</strong></p>
+<p>Информацию по трудоустройству можно получить по телефону 8 (727) 237-1235</p>
+</body>
+</html>0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","nav",null,{"className":"breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Главная"}]," / ",["$","$L2",null,{"href":"/media/news","children":"Новости"}]," / Новость"]}],["$","h1",null,{"className":"page-title","children":"Результаты отбора в кадровый резерв"}],["$","time",null,{"dateTime":"2021-04-07T10:34:00Z","children":"7 апреля 2021 г."}],null,["$","$L3",null,{"html":"$4"}]]}],["$L5","$L6","$L7"],"$L8"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zM9lERO3SlzCY7qBjKejW"}
+5:["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true}]
+6:["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true}]
+7:["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true}]
+8:["$","$L9",null,{"children":["$","$a",null,{"name":"Next.MetadataOutlet","children":"$@b"}]}]
+b:null

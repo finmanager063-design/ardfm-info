@@ -1,0 +1,24 @@
+1:"$Sreact.fragment"
+2:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
+4:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+3:Tac1,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<p><strong>16 октября 2025 года Правлением Агентства Республики Казахстан по регулированию и развитию финансового рынка принято постановление №65 </strong><strong>&laquo;О внесении изменений и дополнений в постановление Правления Национального Банка Республики Казахстан от 14 ноября 2019 года № 192 &laquo;Об утверждении пруденциальных нормативов и иных обязательных к соблюдению организацией, осуществляющей микрофинансовую деятельность, норм и лимитов, методики их расчетов&raquo;.</strong></p>
+<p>Постановлением предусматривается поэтапное снижение значения лимита на долю просроченной задолженности по основному долгу, начисленному вознаграждению свыше 90 календарных дней в общей сумме ссудного портфеля микрофинансовой организации (далее &ndash; МФО):</p>
+<ul>
+<li>со дня введения в действие постановления &ndash; <strong>не более 15% </strong><em>(на текущий момент лимит установлен на уровне не более 20%)</em>;</li>
+<li>с 1 января 2026 года &ndash; <strong>не более 10%.</strong></li>
+</ul>
+<p>Кроме того, в целях приведения в соответствие с Законом Республики Казахстан &laquo;О микрофинансовой деятельности&raquo; в перечень пруденциальных нормативов и иных обязательных к соблюдению МФО норм и лимитов, включен коэффициент долговой нагрузки.</p>
+<p>Изменения вводятся в действие с 3 ноября 2025 года.</p>
+<p>С полным текстом постановления можно ознакомится на официальном <a href="https://www.gov.kz/memleket/entities/ardfm/documents/details/914544?lang=ru">интернет-ресурсе</a> Агентства. &nbsp;</p>
+<p>&nbsp;</p>
+<p><strong>Управление внешних коммуникаций</strong></p>
+<p><a href="mailto:press@finreg.kz"><strong>press@finreg.kz</strong></a></p>
+</body>
+</html>0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","h1",null,{"className":"page-title","children":"О внесении изменений и дополнений в пруденциальные нормативы и иные обязательные к соблюдению организацией, осуществляющей микрофинансовую деятельность, нормы и лимиты, методику их расчетов"}],["$","time",null,{"children":"29 октября 2025 г."}],["$","$L2",null,{"html":"$3"}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zM9lERO3SlzCY7qBjKejW"}
+6:null

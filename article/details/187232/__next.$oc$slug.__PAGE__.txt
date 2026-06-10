@@ -1,0 +1,28 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],""]
+3:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
+5:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+4:T98b,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<p>Заместитель председателя Агентства по регулированию и развитию финансового рынка (АРРФР) Олжас Кизатов ответил на предложение депутатов о полном запрете выдачи казахстанцам онлайн-кредитов, передает корреспондент&nbsp;<a href="https://tengrinews.kz/" target="_blank" rel="noopener">Tengrinews.kz</a>.</p>
+<div class="content_main_inner">
+<div class="content_main_share" data-id="554109" data-type="news"><span style="color: #3b4256; font-size: 20px;">Как заявил Кизатов, данный вопрос необходимо тщательно прорабатывать.</span></div>
+<div class="content_main_text">
+<blockquote>
+<p>"Я знаю, что идут такие депутатские инициативы относительно введения запрета на онлайн-кредитование, выдачу онлайн-кредитов. Я думаю, что этот вопрос надо очень тщательно взвешивать, прорабатывать, потому что мы сейчас живем в эпоху цифровизации. Все финансовые институты полностью свои продукты переводят в цифровой формат", - ответил зампред АРРФР.</p>
+</blockquote>
+<p>По его мнению, полная отмена онлайн-кредитов может привести к замедлению развития новых финансовых продуктов.</p>
+<blockquote>
+<p>"Я считаю, что к этому вопросу нужно очень тщательно, взвешенно подходить. Мы поддерживаем инициативу другой группы депутатов, которые говорят, что для минимизации мошенничества при онлайн-кредитовании нужно ввести период "охлаждения". Мы считаем, что эта норма является наиболее эффективной", - добавил Олжас Кизатов.</p>
+<p>&nbsp;</p>
+<p>Источник: Tengrinews.kz</p>
+</blockquote>
+</div>
+</div>
+</body>
+</html>0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","nav",null,{"className":"breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Главная"}]," / ",["$","$L2",null,{"href":"/articles","children":"Статьи"}]," /"," ","Могут ли в Казахстане запретить выдачу онлайн-кред","…"]}],["$","h1",null,{"className":"page-title","children":"Могут ли в Казахстане запретить выдачу онлайн-кредитов, ответили в АРРФР"}],["$","time",null,{"dateTime":"2024-11-19","children":"19 ноября 2024 г."}],["$","$L3",null,{"html":"$4"}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zM9lERO3SlzCY7qBjKejW"}
+7:null

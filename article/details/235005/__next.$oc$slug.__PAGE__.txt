@@ -1,0 +1,44 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],""]
+3:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
+5:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+4:Td6c,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<div class="article__description">Если авария небольшая, а водители не спорят о виновнике, оформить страховую выплату можно прямо на месте - через телефон и без вызова полиции.</div>
+<div class="content">
+<h2>Что произошло</h2>
+<p>В Агентстве по регулированию и развитию финансового рынка напомнили казахстанцам об упрощенном порядке оформления страховых выплат после ДТП, сообщает&nbsp;<a href="https://qumash.kz/news/vertolet-i-roskoshnie-kortezhi-vipusknikov-zhanaozena-shokirovali-kazahstantsev/Qumash.kz" target="_blank" rel="noopener">Qumash.kz</a>.</p>
+<p>Речь идет о европротоколе - системе, которая позволяет оформить аварию без сотрудников дорожной полиции и суда.</p>
+<blockquote>
+<p>"В&nbsp;Казахстане по&nbsp;системе европротокола уже выплатили 5,5&nbsp;млрд тенге", - отмечают в&nbsp;АРРФР.</p>
+</blockquote>
+<h2>Когда это работает</h2>
+<p>Для оформления европротокола нужно соблюсти несколько условий:</p>
+<ul>
+<li>в ДТП участвуют только две машины;</li>
+<li>у обоих водителей есть действующий страховой полис;</li>
+<li>ущерб не превышает 100 МРП;</li>
+<li>у водителей нет споров о виновнике;</li>
+<li>никто не пострадал, включая третьих лиц.</li>
+</ul>
+<h2>Как оформить</h2>
+<p>Обоим участникам аварии нужно скачать одно из&nbsp;приложений:</p>
+<ul>
+<li>Europrotocol;</li>
+<li>DTP.kz;</li>
+<li>Halyk Kazakhstan.</li>
+</ul>
+<p>Помимо мобильных приложений, обратиться за&nbsp;страховой выплатой можно через официальные интернет-ресурсы страховых организаций.</p>
+<p>После этого водители проходят идентификацию, заполняют данные о&nbsp;ДТП и&nbsp;загружают фото и&nbsp;видео с&nbsp;места аварии.</p>
+<p>Заявление автоматически отправляется в страховую компанию. Главное - не уезжать с места ДТП, пока страховщик не подтвердит принятие декларации.</p>
+<h2>Что по&nbsp;цифрам</h2>
+<p>На&nbsp;сегодня по&nbsp;европротоколу в&nbsp;Казахстане уже оформили 27 822 случая&nbsp;ДТП. Общая сумма выплат составила 5,5&nbsp;млрд тенге.</p>
+<p>Как отмечают в&nbsp;агентстве, система помогает водителям быстрее получать страховые выплаты и&nbsp;снижает нагрузку на&nbsp;дороги и&nbsp;суды.<br /><br /><br />Источник: Qumash.kz</p>
+</div>
+</body>
+</html>0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","nav",null,{"className":"breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Главная"}]," / ",["$","$L2",null,{"href":"/articles","children":"Статьи"}]," /"," ","Казахстанцы могут оформить ДТП без полиции и суда","…"]}],["$","h1",null,{"className":"page-title","children":"Казахстанцы могут оформить ДТП без полиции и суда"}],["$","time",null,{"dateTime":"2026-05-26","children":"26 мая 2026 г."}],["$","$L3",null,{"html":"$4"}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zM9lERO3SlzCY7qBjKejW"}
+7:null

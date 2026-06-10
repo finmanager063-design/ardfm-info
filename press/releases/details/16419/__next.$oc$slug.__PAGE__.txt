@@ -1,0 +1,21 @@
+1:"$Sreact.fragment"
+2:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
+4:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+3:Tacd,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<p>Агентством по регулированию и развитию финансового рынка разработан проект Совместного постановления Правления Агентства и Правления Национального Банка <strong>&laquo;Об утверждении Правил совершения банком с универсальной банковской лицензией, исламским банком сделок с цифровыми финансовыми активами&raquo;</strong>.</p>
+<p>Проект разработан в реализацию Закона РК &laquo;О банках и банковской деятельности в Республике Казахстан&raquo;, принятого 16 января 2026 года.</p>
+<p>В соответствии с Законом банку с универсальной лицензией, филиалу банка &ndash; нерезидента Республики Казахстан, исламскому банку, филиалу исламского банка &ndash; нерезидента Республики Казахстан <strong>предоставляется возможность осуществлять инвестиционную деятельность путем приобретения цифровых финансовых активов</strong>.</p>
+<p>Проектом совместного Постановления предусмотрено установление порядка совершения банком с универсальной банковской лицензией и исламским банком сделок с цифровыми финансовыми активами, а также определен перечень цифровых финансовых активов, с которыми такие банки вправе совершать сделки, и требования к указанным цифровым финансовым активам.</p>
+<p>С текстом проекта постановления можно ознакомиться на <a href="https://legalacts.egov.kz/npa/view?id=15750784">интернет-портале &laquo;Открытые НПА&raquo;</a> и <a href="https://www.gov.kz/memleket/entities/ardfm/documents/details/960866?lang=ru">сайте Агентства</a>.</p>
+<p>&nbsp;</p>
+<p align="center"><strong>Управление внешних коммуникаций </strong></p>
+<p align="center"><a href="mailto:press@finreg.kz"><strong>press@finreg.kz</strong></a><strong>.</strong></p>
+<p align="center">&nbsp;</p>
+</body>
+</html>0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","h1",null,{"className":"page-title","children":"Об утверждении правил совершения сделок с цифровыми финансовыми активами"}],["$","time",null,{"children":"4 февраля 2026 г."}],["$","$L2",null,{"html":"$3"}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zM9lERO3SlzCY7qBjKejW"}
+6:null

@@ -1,0 +1,32 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],""]
+3:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
+5:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+4:Tda5,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<p>Агентство по регулированию и развитию финансового рынка и Нацбанк ввели запрет на бонусы и дивиденды для банков-должников, передает&nbsp;<a href="https://tengrinews.kz/" target="_blank" rel="noopener">Tengrinews.kz</a>.</p>
+<div class="content_main_inner">
+<div class="content_main_share" data-id="564700" data-type="news"><span style="color: #3b4256; font-size: 20px;">Согласно документу АРРФР </span><a style="font-size: 20px;" href="https://www.gov.kz/memleket/entities/ardfm/documents/details/808973?lang=ru" rel="nofollow">"Основные приоритеты надзорной политики банковского сектора на 2025 год"</a><span style="color: #3b4256; font-size: 20px;">, Нацбанк и АРРФР приняли новое постановление, которое вносит изменения в механизм предоставления займов последней инстанции (ЗПИ). Оно направлено на обеспечение устойчивости платежеспособных банков в условиях возможных шоков ликвидности.</span></div>
+<div class="content_main_text">
+<p>Основные изменения касаются использования средств, полученных в рамках ЗПИ.</p>
+<blockquote>
+<p>"Вместо ограничений использования денег ЗПИ введен запрет на выплату дивидендов и бонусов руководящим работникам, а также на выдачу займов и выплат связанным сторонам и на увеличение административных расходов", - говорится в документе.</p>
+</blockquote>
+<div class="tn-inpage">
+<div id="adfox_160136414229977809">
+<p>В рамках нового механизма также существенно упрощен процесс предоставления ЗПИ: сокращен перечень документов, введена возможность подачи заявок в электронном виде, а также расширен список активов, принимаемых в качестве обеспечения. Теперь это не только высоколиквидные ценные бумаги, но и займы, соответствующие определенным критериям качества.</p>
+<p>Нацбанк будет самостоятельно определять дисконт к стоимости нерыночных активов в зависимости от их риска и качества. Кроме того, для оценки активов будут использоваться результаты регулярного анализа качества активов (AQR).</p>
+<p>По мнению регуляторов, такие меры повысят устойчивость банковской системы и обеспечат более прозрачное и эффективное распределение ликвидности.</p>
+<p>&nbsp;</p>
+<p>Источник: Tengrinews.kz</p>
+</div>
+</div>
+</div>
+</div>
+</body>
+</html>0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","nav",null,{"className":"breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Главная"}]," / ",["$","$L2",null,{"href":"/articles","children":"Статьи"}]," /"," ","Казахстанские банки-должники лишились бонусов и ди","…"]}],["$","h1",null,{"className":"page-title","children":"Казахстанские банки-должники лишились бонусов и дивидендов"}],["$","time",null,{"dateTime":"2025-03-12","children":"12 марта 2025 г."}],["$","$L3",null,{"html":"$4"}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zM9lERO3SlzCY7qBjKejW"}
+7:null

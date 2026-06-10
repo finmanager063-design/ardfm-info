@@ -1,0 +1,44 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],""]
+3:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
+5:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+4:Tf54,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<p><strong>Современные мессенджеры стали не только средством общения, но и популярной площадкой для интернет-мошенников.</strong></p>
+<p><font size="4">Они используют WhatsApp, Telegram и другие приложения, чтобы обманом получить доступ к аккаунтам, выманить деньги или личную информацию, сообщает Exclusive.kz со ссылкой на Агентство Казахстана по регулированию и развитию финансового рынка.</font></p>
+<div>
+<div id="adfox_166011047886066503"><font size="4"><span style="color: #3b4256; font-size: 20px;">Чаще всего преступники маскируются под сотрудников банков, государственных органов, родственников, знакомых. Злоумышленники рассылают фишинговые ссылки, предлагают &laquo;выгодные&raquo; подработки за просмотр видео, присылают вредоносные файлы и создают поддельные чаты, чтобы выманить конфиденциальные данные.</span></font></div>
+</div>
+<p>Наибольшему риску подвержены школьники, студенты и пожилые люди. Именно поэтому важно быть бдительными и предупредить близких о рисках.</p>
+<p><strong>&nbsp;</strong><strong>Что важно знать?</strong></p>
+<ul class="wp-block-list">
+<li>никогда не пересылайте деньги в качестве &laquo;залогов&raquo; за</li>
+</ul>
+<p>подработку, товары или услуги в интернете;</p>
+<ul class="wp-block-list">
+<li>не переходите по подозрительным ссылкам, даже если они</li>
+</ul>
+<p>пришли от &laquo;знакомого&raquo; &ndash; его аккаунт мог быть взломан;</p>
+<ul class="wp-block-list">
+<li>проверяйте список устройств, подключенных к мессенджеру, и</li>
+</ul>
+<p>регулярно выходите из лишних сеансов, а также из своих аккаунтов на сторонних устройствах, например, в интернет-кафе;</p>
+<ul class="wp-block-list">
+<li>используйте двухфакторную аутентификацию и сложные пароли;</li>
+<li>не сообщайте коды из SMS и пароли посторонним, даже если они</li>
+</ul>
+<p>представляются сотрудниками банка или государственных органов;</p>
+<ul class="wp-block-list">
+<li>объясните родным, особенно пожилым, что представители</li>
+</ul>
+<p>государственных органов не будут звонить посредством мессенджера с просьбой перевести деньги или &laquo;подтвердить личность&raquo;, а также не дают никаких инструкций и не требуют их выполнения.</p>
+<p>Если вы или ваши близкие все же стали жертвой злоумышленников &ndash; немедленно обратитесь в полицию. Своевременная реакция может остановить мошенников и сохранить ваши средства.</p>
+<p>&nbsp;</p>
+<p>Источник: Exclusive.kz</p>
+</body>
+</html>0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","nav",null,{"className":"breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Главная"}]," / ",["$","$L2",null,{"href":"/articles","children":"Статьи"}]," /"," ","Мошенники в мессенджерах: как защитить близких","…"]}],["$","h1",null,{"className":"page-title","children":"Мошенники в мессенджерах: как защитить близких"}],["$","time",null,{"dateTime":"2025-05-22","children":"22 мая 2025 г."}],["$","$L3",null,{"html":"$4"}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zM9lERO3SlzCY7qBjKejW"}
+7:null

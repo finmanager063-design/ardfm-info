@@ -1,0 +1,140 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],""]
+3:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
+9:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+a:"$Sreact.suspense"
+4:T47a7,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<div class="spoiler"><input id="epir_spoilerf8ed81a7-520b-47e7-aeef-c29f747f9154" type="checkbox" /> <strong><label for="epir_spoilerf8ed81a7-520b-47e7-aeef-c29f747f9154">Документы ФАТФ</label></strong>
+<div>
+<p><a href="https://eurasiangroup.org/ru/recommendations-methodology-and-high-level-principles"><u><strong>Рекомендации, методология и принципы высокого уровня</strong></u></a></p>
+<p>На русс. яз. Перевод подготовлен Международным учебно-методическим центром по финансовому мониторингу.</p>
+<p>Источник информации:&nbsp;<a href="https://eurasiangroup.org/ru/recommendations-methodology-and-high-level-principles">https://eurasiangroup.org/ru/recommendations-methodology-and-high-level-principles</a></p>
+<p>&nbsp;</p>
+<p><a href="https://www.fatf-gafi.org/publications/fatfrecommendations/documents/fatf-recommendations.html"><strong>Рекомендации ФАТФ, февраль 2012 г.</strong></a></p>
+<p>На англ. яз. "International Standards on Combating Money Laundering and the Financing of Terrorism &amp; Proliferation: The FATF Recommendations".</p>
+<p>Источник информации:&nbsp;<a href="https://www.fatf-gafi.org/publications/fatfrecommendations/documents/fatf-recommendations.html">https://www.fatf-gafi.org/publications/fatfrecommendations/documents/fatf-recommendations.html</a></p>
+<p>&nbsp;</p>
+<p><a href="http://www.fatf-gafi.org/media/fatf/documents/methodology/FATF%20Methodology%2022%20Feb%202013.pdf"><strong>Методология оценки технического соответствия Рекомендациям ФАТФ и эффективности систем ПОД/ФТ, февраль 2013 г.</strong></a></p>
+<p>На англ. яз. "Methodology for Assessing Technical Compliance with the FATF Recommendations and the Effectiveness of AML/CFT Systems".</p>
+<p>Источник информации: <a href="http://www.fatf-gafi.org/media/fatf/documents/methodology/FATF%20Methodology%2022%20Feb%202013.pdf">http://www.fatf-gafi.org/media/fatf/documents/methodology/FATF%20Methodology%2022%20Feb%202013.pdf</a></p>
+<p>&nbsp;</p>
+<p><a href="https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html"><strong>Черные и серые списки</strong></a></p>
+<p>На англ. яз. &laquo;Black and grey&raquo; lists</p>
+<p>Источник информации:&nbsp;<a href="https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html">https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html</a></p>
+</div>
+</div>
+<div class="spoiler"><input id="epir_spoilerc23944a9-f73c-44a5-9daa-8cefa4982f5b" type="checkbox" /> <strong><label for="epir_spoilerc23944a9-f73c-44a5-9daa-8cefa4982f5b">Международные конвенции</label></strong>
+<div><a href="/uploads/2020/4/3/ae8178e6bb03996e33824957d7f9f589_original.111616.doc" download=""><i class="fas fa-file-word" aria-hidden="true"></i> <strong>Международная конвенция о борьбе с финансированием терроризма от 10 января 2000 г., Нью-Йорк</strong></a></div>
+<div>&nbsp;</div>
+<div><a href="/uploads/2020/4/3/85db9881225257117b1e81668909dd9e_original.129536.doc" download=""><i class="fas fa-file-word" aria-hidden="true"></i> <strong>Конвенция Совета Европы об отмывании, выявлении, изъятии и конфискации доходов от преступной деятельности от 8 ноября 1990 г., Страсбург</strong></a></div>
+<div>&nbsp;</div>
+<div><strong><a href="/uploads/2020/4/3/acde1173521728abee964f85c6ec42ae_original.234496.doc" download=""><i class="fas fa-file-word" aria-hidden="true"></i> Конвенция ООН о борьбе против незаконного оборота наркотических средств и психотропных веществ от 20 декабря 1988 г., Вена</a></strong></div>
+<div>&nbsp;</div>
+<div><strong><a href="/uploads/2020/4/3/89f38e7945689b2219862278e0094d92_original.228864.doc" download=""><i class="fas fa-file-word" aria-hidden="true"></i> Конвенция ООН против транснациональной организованной преступности от 13 декабря 2000 г., Палермо</a></strong></div>
+<div>&nbsp;</div>
+<div><strong><a href="/uploads/2020/4/3/9f939e0db1de1fd0c570eac2a86313bd_original.75264.doc" download=""><i class="fas fa-file-word" aria-hidden="true"></i> Шанхайская Конвенция о борьбе с терроризмом, сепаратизмом и экстремизмом от 15 июня 2001 г., Шанхай</a></strong></div>
+<div>&nbsp;</div>
+<div><strong><a href="/uploads/2020/4/3/0c8cc76e37c8e0b597a5a192110fc413_original.339968.doc" download=""><i class="fas fa-file-word" aria-hidden="true"></i> Конвенция ООН против коррупции от 31 октября 2003г.</a></strong></div>
+<div>&nbsp;</div>
+<div><strong><a href="/uploads/2020/4/3/fda944c3d8146a817eaef9c3b3ef2f2b_original.203776.doc" download=""><i class="fas fa-file-word" aria-hidden="true"></i> Конвенция Совета Европы об отмывании, выявлении, изъятии и конфискации доходов от преступной деятельности и о финансировании терроризма от 16 мая 2005 г., Варшава</a></strong></div>
+</div>
+<div class="spoiler"><input id="epir_spoilera583db74-63c9-4ed6-956c-b2dd8b1f830b" type="checkbox" /> <strong><label for="epir_spoilera583db74-63c9-4ed6-956c-b2dd8b1f830b">Резолюции Совета Безопасности ООН</label></strong>
+<div>
+<p><a href="https://undocs.org/ru/S/RES/1267%281999%29"><strong>Резолюция Совета Безопасности ООН №1267 от 15.10.1999 г.</strong></a><br />На англ. яз. и на русс. яз. В отношении организации &laquo;Аль-Каида&raquo; и связанных с ней лиц и организаций.<br />Источник информации:&nbsp;<a href="https://undocs.org/ru/S/RES/1267%281999%29">https://undocs.org/ru/S/RES/1267%281999%29</a></p>
+<p>&nbsp;</p>
+<p><a href="https://undocs.org/ru/S/RES/1373%282001%29"><strong>Резолюция Совета Безопасности ООН №1373 от 28.09.2001 г.</strong></a><br />На англ. яз. и на русс. яз. О борьбе с терроризмом.</p>
+<p>Источник информации:&nbsp;<a href="https://undocs.org/ru/S/RES/1373%282001%29">https://undocs.org/ru/S/RES/1373%282001%29</a></p>
+<p>&nbsp;</p>
+<p><a href="https://undocs.org/ru/S/RES/1988%282011%29"><strong>Резолюция Совета Безопасности ООН №1988 от 17.06.2011 г.</strong></a><br />На англ. яз. и на русс. яз. В отношении движения &laquo;Талибан&raquo; и связанных с ним лиц и организаций.<br />Источник информации:&nbsp;<a href="https://undocs.org/ru/S/RES/1988%282011%29">https://undocs.org/ru/S/RES/1988%282011%29</a></p>
+<p>&nbsp;</p>
+<p><a href="https://undocs.org/ru/S/RES/2178%282014%29"><strong>Резолюция Совета Безопасности ООН №2178 от 24.09.2014 г.</strong></a><br />На англ. яз. и на русс. яз. В отношении Исламского государства Ирака и Леванта (ИГИЛ).</p>
+<p>Источник информации:&nbsp;<a href="https://undocs.org/ru/S/RES/2178%282014%29">https://undocs.org/ru/S/RES/2178%282014%29</a></p>
+<p>&nbsp;</p>
+<p><a href="https://www.un.org/securitycouncil/ru/sanctions/1267/aq_sanctions_list/summaries"><strong>Перечень лиц, групп, предприятий и организаций, связанных с &laquo;Аль-Каидой&raquo;,</strong> <strong>ИГИЛ (ДАИШ)</strong></a><br />На англ. яз.</p>
+<p>Источник информации:&nbsp;<a href="https://www.un.org/securitycouncil/ru/sanctions/1267/aq_sanctions_list/summaries">https://www.un.org/securitycouncil/ru/sanctions/1267/aq_sanctions_list/summaries</a></p>
+<p>&nbsp;</p>
+<p><a href="https://www.un.org/securitycouncil/ru/sanctions/1267"><strong><u>Комитет Совета Безопасности, учрежденный резолюциями 1267(1999), 1989 (2011) и 2253 (2015) по ИГИЛ (ДАИШ), &laquo;Аль-Каиде&raquo; и связанным с ними лицам, группам, предприятиям и организациям</u></strong></a></p>
+<p>На русс. яз.<br />Источник информации:&nbsp;<a href="https://www.un.org/securitycouncil/ru/sanctions/1267">https://www.un.org/securitycouncil/ru/sanctions/1267</a></p>
+</div>
+</div>
+<div class="spoiler"><input id="epir_spoilercfbf695d-8e0d-431a-ba65-6acc28794262" type="checkbox" /> <strong><label for="epir_spoilercfbf695d-8e0d-431a-ba65-6acc28794262">Документы Базельского комитета по банковскому надзору, IAIS, IOSCO</label></strong>
+<div>
+<p><a href="/uploads/2020/4/3/1dcc39547356cfa2be0a4cf5a7ed7d1a_original.363520.doc" download=""><i class="fas fa-file-word" aria-hidden="true"></i> <strong>Методические рекомендации БКБН по эффективному управлению рисками, связанными с отмыванием денег и финансированием терроризма, январь 2014 г.</strong></a></p>
+<p>&nbsp;</p>
+<p><a href="https://www.iaisweb.org/uploads/2022/01/211111-Application-Paper-on-Combating-Money-Laundering-and-Terrorist-Financing.pdf"><strong>Практический документ IAIS по противодействию отмыванию денег и финансированию терроризма</strong></a></p>
+<p>На англ. яз. "Application Paper on Combating Money Laundering and Terrorist Financing".</p>
+<p>Источник информации:&nbsp;<a href="https://www.iaisweb.org/uploads/2022/01/211111-Application-Paper-on-Combating-Money-Laundering-and-Terrorist-Financing.pdf">https://www.iaisweb.org/uploads/2022/01/211111-Application-Paper-on-Combating-Money-Laundering-and-Terrorist-Financing.pdf</a></p>
+<p>&nbsp;</p>
+<p><a href="http://www.bis.org/publ/bcbs230.pdf"><strong>Основные принципы эффективного банковского надзора, сентябрь 2012 г.</strong></a></p>
+<p>На англ. яз. "Сore Principles for Effective Banking Supervision".</p>
+<p>Источник информации:&nbsp;<a href="http://www.bis.org/publ/bcbs230.pdf">http://www.bis.org/publ/bcbs230.pdf</a></p>
+<p>&nbsp;</p>
+<p><a href="http://www.bis.org/publ/bcbs154.pdf"><strong>Надлежащая тщательная проверка и прозрачность платежных поручений, сопровождающих международные электронные переводы, май 2009 г.</strong></a></p>
+<p>На англ. яз. "Due diligence and transparency regarding cover payment messages related to cross-border wire transfers".</p>
+<p>Источник информации:&nbsp;<a href="http://www.bis.org/publ/bcbs154.pdf">http://www.bis.org/publ/bcbs154.pdf</a></p>
+<p>&nbsp;</p>
+<p><a href="http://www.iosco.org/library/pubdocs/pdf/IOSCOPD205.pdf"><strong>Руководство IOSCO по противодействию отмыванию доходов для коллективных инвестиционных схем, октябрь 2005 г.</strong></a></p>
+<p>На англ. яз. "Anti-money laundering guidance for collective investment schemes".</p>
+<p>Источник информации:&nbsp;<a href="http://www.iosco.org/library/pubdocs/pdf/IOSCOPD205.pdf">http://www.iosco.org/library/pubdocs/pdf/IOSCOPD205.pdf</a></p>
+<p>&nbsp;</p>
+<p><a href="http://www.bis.org/publ/joint11.pdf"><strong>Инициативы по ПОД/ФТ объединенного форума ряда комитетов Банка международных расчетов, январь 2005 г.</strong></a></p>
+<p>На англ. яз. "Initiatives by the BCBS, IAIS and IOSCO to combat money laundering and the financing of terrorism".</p>
+<p>Источник информации:&nbsp;<a href="http://www.bis.org/publ/joint11.pdf">http://www.bis.org/publ/joint11.pdf</a></p>
+<p>&nbsp;</p>
+<p><a href="http://www.bis.org/publ/bcbs110.pdf"><strong>Управление рисками, связанными с выполнением принципа "знай своего клиента", на консолидированной основе, октябрь 2004 г.</strong></a></p>
+<p>На англ. яз. "Consolidated KYC Risk Management".</p>
+<p>Источник информации:&nbsp;<a href="http://www.bis.org/publ/bcbs110.pdf">http://www.bis.org/publ/bcbs110.pdf</a></p>
+<p>&nbsp;</p>
+<p><a href="http://www.bis.org/publ/bcbs85annex.htm"><strong>Общее руководство по открытию счетов и идентификации клиентов, февраль 2003 г.</strong></a></p>
+<p>На англ. яз. "General Guide to Account Opening and Customer Identification".</p>
+<p>Источник информации:&nbsp;<a href="http://www.bis.org/publ/bcbs85annex.htm">http://www.bis.org/publ/bcbs85annex.htm</a></p>
+<p>&nbsp;&nbsp;</p>
+<p><a href="http://www.bis.org/publ/bcbs89.pdf"><strong>О предоставлении юрисдикциями на взаимной основе финансовых данных в целях борьбы с финансированием терроризма, апрель 2002 г.</strong></a></p>
+<p>На англ. яз. "Sharing of financial records between jurisdictions in connection with the fight against terrorist financing".</p>
+<p>Источник информации:&nbsp;<a href="http://www.bis.org/publ/bcbs89.pdf">http://www.bis.org/publ/bcbs89.pdf</a></p>
+<p>&nbsp;</p>
+<p><a href="http://www.bis.org/publ/bcbs85.pdf"><strong>Руководство для банков о надлежащей тщательной проверке клиента, октябрь 2001 г.</strong></a></p>
+<p>На англ. яз. "Customer due diligence for banks".</p>
+<p>Источник информации:&nbsp;<a href="http://www.bis.org/publ/bcbs85.pdf">http://www.bis.org/publ/bcbs85.pdf</a></p>
+<p>&nbsp;</p>
+<p><a href="http://www.bis.org/publ/bcbsc137.pdf"><strong>Предотвращение криминального использования банковской системы в целях отмывания денег, декабрь 1988 г.</strong></a></p>
+<p>На англ. яз. "Prevention of Criminal Use of the Banking System for the Purpose of Money-Laundering (December 1988)".</p>
+<p>Источник информации:&nbsp;<a href="http://www.bis.org/publ/bcbsc137.pdf">http://www.bis.org/publ/bcbsc137.pdf</a></p>
+</div>
+</div>
+<div class="spoiler"><input id="epir_spoiler3d50e615-0303-4042-8159-695ab97630c0" type="checkbox" /> <strong><label for="epir_spoiler3d50e615-0303-4042-8159-695ab97630c0">Ссылки</label></strong>
+<div>
+<p><a href="http://www.fatf-gafi.org/"><strong>Группа разработки финансовых мер борьбы с отмыванием денег (ФАТФ)</strong></a></p>
+<p>Источник информации:&nbsp;<a href="http://www.fatf-gafi.org/">http://www.fatf-gafi.org/</a></p>
+<p>&nbsp;</p>
+<p style="margin-top: 0cm; background: white;"><a href="https://www.gov.kz/memleket/entities/afm?lang=ru"><strong>Агентство Республики Казахстан по финансовому мониторингу (АФМ)</strong></a></p>
+<p style="margin-top: 0cm; background: white;">Источник информации:&nbsp;<a href="https://www.gov.kz/memleket/entities/afm?lang=ru">https://www.gov.kz/memleket/entities/afm?lang=ru </a></p>
+<p>&nbsp;</p>
+<p><a href="http://www.eurasiangroup.org" target="_blank" rel="noopener"><strong>Евразийская группа по противодействию легализации преступных доходов и финансированию терроризма (ЕАГ)</strong></a></p>
+<p>Источник информации:&nbsp;<a href="http://www.eurasiangroup.org" target="_blank" rel="noopener">http://www.eurasiangroup.org</a></p>
+<p>&nbsp;</p>
+<p><strong><a href="https://www.un.org/securitycouncil/ru/content/repertoire/sanctions-and-other-committees" target="_blank" rel="noopener">Комитеты по санкциям Совета Безопасности ООН</a></strong></p>
+<p style="margin: 0cm; margin-bottom: .0001pt; text-align: justify;">Источник информации:&nbsp;<a href="https://www.un.org/securitycouncil/ru/content/repertoire/sanctions-and-other-committees">https://www.un.org/securitycouncil/ru/content/repertoire/sanctions-and-other-committees</a><span style="font-size: 9.0pt; font-family: 'Verdana','sans-serif'; color: black;"> </span></p>
+</div>
+</div>
+<div class="spoiler"><input id="epir_spoilera7968874-20ed-4377-8814-855bcd271b4d" type="checkbox" /> <strong><label for="epir_spoilera7968874-20ed-4377-8814-855bcd271b4d">Типологические отчеты</label></strong>
+<div>
+<p><a href="https://eurasiangroup.org/ru/eag-typology-projects"><strong><u>Типологические проекты ЕАГ</u></strong></a></p>
+<p>Источник информации:&nbsp;<a href="https://eurasiangroup.org/ru/eag-typology-projects">https://eurasiangroup.org/ru/eag-typology-projects</a></p>
+<p>&nbsp;</p>
+<p><a href="https://eurasiangroup.org/ru/fatf-typology-reports"><strong><u>Типологические отчеты ФАТФ</u></strong></a></p>
+<p>Источник информации:&nbsp;<a href="https://eurasiangroup.org/ru/fatf-typology-reports">https://eurasiangroup.org/ru/fatf-typology-reports</a></p>
+</div>
+</div>
+<p>&nbsp;</p>
+</body>
+</html>0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","nav",null,{"className":"breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Главная"}]," / ",["$","$L2",null,{"href":"/articles","children":"Статьи"}]," /"," ","Международные документы","…"]}],["$","h1",null,{"className":"page-title","children":"Международные документы"}],["$","time",null,{"dateTime":"2018-03-01","children":"1 марта 2018 г."}],["$","$L3",null,{"html":"$4"}]]}],["$L5","$L6","$L7"],"$L8"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zM9lERO3SlzCY7qBjKejW"}
+5:["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true}]
+6:["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true}]
+7:["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true}]
+8:["$","$L9",null,{"children":["$","$a",null,{"name":"Next.MetadataOutlet","children":"$@b"}]}]
+b:null

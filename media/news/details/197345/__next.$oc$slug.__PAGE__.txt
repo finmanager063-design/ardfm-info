@@ -1,0 +1,21 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],""]
+3:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
+5:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+4:Te1e,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<p align="justify"><em>Экономист Тимур Абилкасымов назначен советником Председателя Агентства РК по регулированию и развитию финансового рынка. Он будет принимать участие в вопросах, касающихся финансовой стабильности, экономико-математического моделирования, стресс-тестирования банковского сектора и др. </em></p>
+<p align="justify"><em>До назначения Тимур Абилкасымов </em>занимал должность партнера консалтинговой компании ПОО &laquo;Radius Advisory Lab&raquo;, где консультировал коммерческие банки и крупные холдинги Казахстана и Узбекистана по вопросам совершенствования систем управления рисками, корпоративного управления и внедрения стандартов МСФО. Работал в компаниях квазигосударственного сектора и БВУ, является членом Клуба молодых экспертов при Сенате Парламента РК.</p>
+<p align="justify">Тимур Абилкасымов окончил Казахстанский институт менеджмента, экономики и прогнозирования по специальностям &laquo;экономика бизнеса&raquo; и &laquo;экономика государственной политики&raquo; в 2011 году, получил степень MBA по специальности &laquo;риск-менеджмент&raquo; в Лондонской школе бизнеса и финансов. Является обладателем международного сертификата FRM (Financial Risk Manager) от Глобальной Ассоциации профессионалов по управлению рисками. Помимо прочего, Тимур Абилкасымов имеет сертификаты по операционным рискам, Базель III и Data science. Прочие должности: ранее господин Абилкасымов занимал должность члена Совета директоров АО &laquo;Казтемиртранс&raquo; и &laquo;Kazakhstan Energy Reinsurance Company&raquo;, а также работал старшим преподавателем в КазГЮУ им. М. Нарикбаева по риск-менеджменту.&nbsp; Являлся автором телеграм-канала &laquo;Risk Takers&raquo;, посвященного вопросам управления рисками, моделирования и финансового сектора.</p>
+<p align="justify">&nbsp;</p>
+<p align="justify"><strong><em>телефон Управления внешних коммуникаций: +7 727 237&nbsp;1090</em></strong></p>
+<p align="justify"><strong><em>для запросов СМИ:&nbsp; </em></strong><a href="mailto:press@finreg.kz"><strong><em>press@finreg.kz</em></strong></a></p>
+<p align="justify"><span><strong><em>GOV</em></strong></span><span><strong><em>.</em></strong></span><span><strong><em>kz</em></strong></span></p>
+<p align="justify"><span>&nbsp;</span></p>
+</body>
+</html>0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","nav",null,{"className":"breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Главная"}]," / ",["$","$L2",null,{"href":"/media/news","children":"Новости"}]," / Новость"]}],["$","h1",null,{"className":"page-title","children":"Экономист Тимур Абилкасымов назначен советником Председателя АРРФР"}],["$","time",null,{"dateTime":"2021-05-05T12:14:00Z","children":"5 мая 2021 г."}],null,["$","$L3",null,{"html":"$4"}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zM9lERO3SlzCY7qBjKejW"}
+7:null

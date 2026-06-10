@@ -1,0 +1,20 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],""]
+3:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
+5:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+4:Tcdf,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<p>Агентством по регулированию и развитию финансового рынка разработан проект постановления Правления Агентства &laquo;Об утверждении условий распределения прибыли, начисления дивидендов по простым и (или) привилегированным акциям, проведения обратного выкупа собственных акций банком второго уровня, для обеспечения (восстановления) финансовой устойчивости и (или) оздоровления которого используются средства государственного бюджета, Национального фонда Республики Казахстан, Национального Банка Республики Казахстан и (или) его дочерних организаций, а также уменьшения крупным участником банка второго уровня, банковским холдингом доли прямого и (или) косвенного владения и (или) пользования и (или) распоряжения акциями банка второго уровня&raquo; (далее &ndash; проект постановления).</p>
+<p>Проект постановления разработан во исполнение пункта 3 статьи 6 новой редакции Закона Республики Казахстан &laquo;О банках и банковской деятельности в Республике Казахстан&raquo; и распространяется на банки второго уровня, имеющие на балансе средства господдержки.</p>
+<p>Проект постановления направлен на стимулирование банков к досрочному исполнению обязательств по возврату средств государственной поддержки и устанавливает условия распределения прибыли, начисления дивидендов по простым и (или) привилегированным акциям, проведения обратного выкупа собственных акций банками второго уровня, а также условия уменьшения доли прямого и (или) косвенного владения акциями банка со стороны крупных участников и банковских холдингов.</p>
+<p>С полным текстом проекта постановления можно ознакомиться на <a href="https://www.gov.kz/memleket/entities/ardfm/documents/details/949633?lang=ru">интернет-ресурсе Агентства</a>.</p>
+<p>&nbsp;</p>
+<p><strong>Управление внешних коммуникаций </strong></p>
+<p><a href="mailto:press@finreg.kz"><strong>press@finreg.kz</strong></a></p>
+</body>
+</html>0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","nav",null,{"className":"breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Главная"}]," / ",["$","$L2",null,{"href":"/media/press","children":"Пресс-релизы"}]]}],["$","h1",null,{"className":"page-title","children":"О распределении прибыли и выплаты дивидендов банками, получившими государственную поддержку"}],["$","time",null,{"children":"12 января 2026 г."}],"$undefined",["$","$L3",null,{"html":"$4"}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zM9lERO3SlzCY7qBjKejW"}
+7:null

@@ -1,0 +1,343 @@
+1:"$Sreact.fragment"
+2:I[50612,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"ShellWrapper"]
+3:I[39756,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"default"]
+4:I[37457,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"default"]
+b:I[68027,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"default",1]
+:HL["/_next/static/chunks/0rgbmrr6_b96m.css","style"]
+:HL["/_next/static/chunks/0t1-qk9~.xa44.css","style"]
+:HL["https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap","style"]
+0:{"P":null,"c":["","article","details","aktuarii",""],"q":"","i":false,"f":[[["",{"children":[["slug","article/details/aktuarii","oc",null],{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0rgbmrr6_b96m.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/0t1-qk9~.xa44.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0w5bf6qo2zbxc.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/0_t29vi~hh.tn.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ru","className":"notranslate","children":[["$","head",null,{"children":[["$","link",null,{"rel":"icon","href":"/favicon.ico"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap","rel":"stylesheet"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"GovernmentOrganization\",\"name\":\"Агентство Республики Казахстан по регулированию и развитию финансового рынка\",\"alternateName\":\"АРРФР\",\"description\":\"Агентство Республики Казахстан по регулированию и развитию финансового рынка — государственный орган, осуществляющий регулирование и надзор на финансовом рынке\",\"url\":\"https://govkz.online\",\"address\":{\"@type\":\"PostalAddress\",\"addressCountry\":\"KZ\",\"addressLocality\":\"Астана\",\"streetAddress\":\"проспект Мәңгілік Ел, 20а\",\"postalCode\":\"010000\"},\"telephone\":\"+7-7172-79-00-00\",\"image\":\"https://govkz.online/images/og-image.jpg\",\"knowsAbout\":[\"Регулирование финансового рынка\",\"Банковский надзор\",\"Страховой надзор\",\"Рынок ценных бумаг\",\"Микрофинансовые организации\",\"Защита прав потребителей финансовых услуг\"],\"parentOrganization\":{\"@type\":\"GovernmentOrganization\",\"name\":\"Правительство Республики Казахстан\"}}"}}]]}],["$","body",null,{"children":["$","$L2",null,{"meta":{"syncedAt":"2026-05-29T09:02:13.563Z","source":"https://www.gov.kz/memleket/entities/ardfm","entityTitle":"Агентство Республики Казахстан по регулированию и развитию финансового рынка","entityShort":"АРРФР","contacts":{"telegram":{"username":"finance_regulator_bot","handle":"@finance_regulator_bot","url":"https://t.me/finance_regulator_bot"}}},"children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L5",[["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true,"nonce":"$undefined"}],"$L6","$L7"],"$L8"]}],{},null,false,null]},null,false,"$@9"]},null,false,null],"$La",false]],"m":"$undefined","G":["$b",["$Lc","$Ld"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"zM9lERO3SlzCY7qBjKejW"}
+e:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+f:"$Sreact.suspense"
+12:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"ViewportBoundary"]
+14:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"MetadataBoundary"]
+6:["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true,"nonce":"$undefined"}]
+7:["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true,"nonce":"$undefined"}]
+8:["$","$Le",null,{"children":["$","$f",null,{"name":"Next.MetadataOutlet","children":"$@10"}]}]
+11:[]
+9:"$W11"
+a:["$","$1","h",{"children":[null,["$","$L12",null,{"children":"$L13"}],["$","div",null,{"hidden":true,"children":["$","$L14",null,{"children":["$","$f",null,{"name":"Next.Metadata","children":"$L15"}]}]}],null]}]
+c:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0rgbmrr6_b96m.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+d:["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/0t1-qk9~.xa44.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+16:I[22016,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],""]
+17:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
+18:T1da0,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<table class="table table-bordered" style="width: 100%;" border="1">
+<tbody>
+<tr>
+<td><strong>№</strong></td>
+<td><strong>Актуарии</strong></td>
+<td><strong>Лицензия (номер, дата выдачи)</strong></td>
+</tr>
+<tr>
+<td>1.</td>
+<td>Абетаева Карлыгаш Ануарбековна</td>
+<td>№33 от 03.03.2005г.</td>
+</tr>
+<tr>
+<td>2.</td>
+<td>Абселемова Назым Темиркановна</td>
+<td>№40 от 05.01.2007г.</td>
+</tr>
+<tr>
+<td>3.</td>
+<td>Ажгалиева Айман Урынбасаровна</td>
+<td>№50 от 08.10.2007г.</td>
+</tr>
+<tr>
+<td>4.</td>
+<td>Атейбекова Рима Бейсенбековна</td>
+<td>№66 от 22.01.2009г.</td>
+</tr>
+<tr>
+<td>5.</td>
+<td>Аукенов Айдар Болатович</td>
+<td>№38 от 26.06.2006г.</td>
+</tr>
+<tr>
+<td>6.</td>
+<td>Бабажанов Ерлан Ермекович</td>
+<td>№58 от 09.10.2008г.</td>
+</tr>
+<tr>
+<td>7.</td>
+<td>Байжанова Карлыгаш Сембеевна</td>
+<td>№19 от 16.07.2002г.</td>
+</tr>
+<tr>
+<td>8.</td>
+<td>Байменова Лаура Сериковна</td>
+<td>№51 от 08.10.2007г.</td>
+</tr>
+<tr>
+<td>9.</td>
+<td>Буряк Андрей Николаевич</td>
+<td>№2.4.99 от 22.12.2017г.</td>
+</tr>
+<tr>
+<td>10.</td>
+<td>Әбіш Наиля Болаткызы</td>
+<td>№62 от 16.10.2008г.</td>
+</tr>
+<tr>
+<td>11.</td>
+<td>Дильдабаева Индира Шынгысхановна</td>
+<td>№2.4.85 от 30.03.2011г.</td>
+</tr>
+<tr>
+<td>12.</td>
+<td>Елдесбай Алуа Турсынбеккызы</td>
+<td>№39 от 10.08.2006г.</td>
+</tr>
+<tr>
+<td>13.</td>
+<td>Елдесбай Куралай Турсынбеккызы</td>
+<td>№42 от 05.01.2007г.</td>
+</tr>
+<tr>
+<td>14.</td>
+<td>Жапакова Айслу Шамгановна</td>
+<td>№2.4.77 от 30.11.2010г.</td>
+</tr>
+<tr>
+<td>15.</td>
+<td>Иманбердиев Догдырбек Джакипбаевич</td>
+<td>№9 от 28.11.2001г.</td>
+</tr>
+<tr>
+<td>16.</td>
+<td>Исмухамбетова Жанат Шаяхметовна</td>
+<td>№2.4.87 от 29.04.2011г.</td>
+</tr>
+<tr>
+<td>17.</td>
+<td>Исхакова Гульнара Махаметовна</td>
+<td>№2.4.78 от 24.12.2010г.</td>
+</tr>
+<tr>
+<td>18.</td>
+<td>Кадырбаев Ермек Касымович</td>
+<td>№30 от 11.02.2004г.</td>
+</tr>
+<tr>
+<td>19.</td>
+<td>Каирбекова Сауле Батырхановна</td>
+<td>№2.4.88 от 05.08.2011г.</td>
+</tr>
+<tr>
+<td>20.</td>
+<td>Калиева Ажар Нурзихановна</td>
+<td>№71 от 27.01.2009г.</td>
+</tr>
+<tr>
+<td>21.</td>
+<td>Келменбетов Ербол Есмуратович</td>
+<td>№2.4.84 от 25.03.2011г.</td>
+</tr>
+<tr>
+<td>22.</td>
+<td>Кныкова Акжаркын Утеуовна</td>
+<td>№18 от 16.07.2002г.</td>
+</tr>
+<tr>
+<td>23.</td>
+<td>Конурбаев Ержан Еркенович</td>
+<td>№7 от 28.11.2001г.</td>
+</tr>
+<tr>
+<td>24.</td>
+<td>Коптлеуов Мухтар Абаевич</td>
+<td>№2.4.74 от 12.11.2010г.</td>
+</tr>
+<tr>
+<td>25.</td>
+<td>Макашева Айнагуль Галымжанкызы</td>
+<td>№43 от 05.01.2007г.</td>
+</tr>
+<tr>
+<td>26.</td>
+<td>Махмеджанова Роза Набибуллаевна</td>
+<td>№69 от 23.01.2009г.</td>
+</tr>
+<tr>
+<td>27.</td>
+<td>Медеубаев Меиржан Амалбекович</td>
+<td>№2.4.76 от 22.11.2010г.</td>
+</tr>
+<tr>
+<td>28.</td>
+<td>Мирзалиев Аскар Есенович</td>
+<td>№28 от 06.02.2003г.</td>
+</tr>
+<tr>
+<td>29.</td>
+<td>Мырзахмет Болат Кумисбекович</td>
+<td>№36 от 10.10.2005г.</td>
+</tr>
+<tr>
+<td>30.</td>
+<td>Никитина Надежда Николаевна</td>
+<td>№2.4.81 от 16.02.2011г.</td>
+</tr>
+<tr>
+<td>31.</td>
+<td>Орынбай Максат Советпайулы</td>
+<td>№32 от 10.02.2005г.</td>
+</tr>
+<tr>
+<td>32.</td>
+<td>Пак Элеонора Валерьевна</td>
+<td>№2.4.89 от 05.08.2011г.</td>
+</tr>
+<tr>
+<td>33.</td>
+<td>Рахимжанова Мира Ерлановна</td>
+<td>№2.4.80 от 16.02.2011г.</td>
+</tr>
+<tr>
+<td>34.</td>
+<td>Рыскулов Адильбек Сабырханулы</td>
+<td>№2.4.94 от 13.02.2012г.</td>
+</tr>
+<tr>
+<td>35.</td>
+<td>Сапин Азат Маратулы</td>
+<td>№2.4.96 от 04.01.2013г.</td>
+</tr>
+<tr>
+<td>36.</td>
+<td>Сырымбаева Жанар Торехановна</td>
+<td>№2.4.97 от 02.08.2016г.</td>
+</tr>
+<tr>
+<td>37.</td>
+<td>Сихов Мирболат Бакытжанович</td>
+<td>№22 от 16.07.2002г.</td>
+</tr>
+<tr>
+<td>38.</td>
+<td>Сихова Гульдана Мирбулатовна</td>
+<td>№65 от 22.01.2009г.</td>
+</tr>
+<tr>
+<td>39.</td>
+<td>Сихова Сара Бахытжановна</td>
+<td>№47 от 30.07.2007г.</td>
+</tr>
+<tr>
+<td>40.</td>
+<td>Те Елена Павловна</td>
+<td>№27 от 05.02.2003г.</td>
+</tr>
+<tr>
+<td>41.</td>
+<td>Тимиргалеев Серик Сапарбекович</td>
+<td>№2 от 28.11.2001г.</td>
+</tr>
+<tr>
+<td>42.</td>
+<td>Тлеукенова Роза Жанатовна</td>
+<td>№2.4.95 от 26.11.2012г.</td>
+</tr>
+<tr>
+<td>43.</td>
+<td>Токаева Анар Сериковна</td>
+<td>№2.4.92 от 06.01.2015г.</td>
+</tr>
+<tr>
+<td>44.</td>
+<td>Тукеева Жанар Журабековна</td>
+<td>№59 от 16.10.2008г.</td>
+</tr>
+<tr>
+<td>45.</td>
+<td>Туманова Фариза Исакуловна</td>
+<td>№2.4.98 от 05.05.2017г.</td>
+</tr>
+<tr>
+<td>46.</td>
+<td>Уткельбаев Аскар Бекмухамедович</td>
+<td>№61 от 16.10.2008г.</td>
+</tr>
+<tr>
+<td>47.</td>
+<td>Халиева Раушан Махсутовна</td>
+<td>№4 от 28.11.2001г.</td>
+</tr>
+<tr>
+<td>48.</td>
+<td>Худайбергенов Нариман Халитович</td>
+<td>№3 от 28.11.2001г.</td>
+</tr>
+<tr>
+<td>49.</td>
+<td>Шакенов Ринат Канатович</td>
+<td>№49 от 17.09.2007г.</td>
+</tr>
+<tr>
+<td>50.</td>
+<td>Шангиреев Ержан Ибатуллаевич</td>
+<td>№53 от 18.01.2008г.</td>
+</tr>
+<tr>
+<td>51.</td>
+<td>Шатманов Берик Жомартович</td>
+<td>№2.4.90 от 05.08.2011г.</td>
+</tr>
+<tr>
+<td>52.</td>
+<td>Шашкина Ольга Александровна</td>
+<td>№2.4.75 от 04.05.2013г.</td>
+</tr>
+<tr>
+<td>53.</td>
+<td>Шевченко Владимир Викторович</td>
+<td>№10 от 28.11.2001г.</td>
+</tr>
+<tr>
+<td>54.</td>
+<td>Шукатаева Айжан Сембековна</td>
+<td>№37 от 16.06.2006г.</td>
+</tr>
+<tr>
+<td>55.</td>
+<td>Уржумова Дина Станиславовна</td>
+<td>№2.4.100 от 04.04.2018г.</td>
+</tr>
+<tr>
+<td>56.</td>
+<td>Шойбеков Бекежан Дастанович</td>
+<td>№2.4.101 от 22.10.2019г.</td>
+</tr>
+<tr>
+<td>57.</td>
+<td>Расилова Жаннат Туребековна</td>
+<td>№2.4.102 от 25.05.2020г.</td>
+</tr>
+<tr>
+<td>58.</td>
+<td>Наметов Тлек Аскарович</td>
+<td>№2.4.103 от 21.05.2021г.</td>
+</tr>
+<tr>
+<td>59.</td>
+<td>Асылбекова Карлыгаш Жомартовна</td>
+<td>№2.4.104 от 21.05.2021г.</td>
+</tr>
+<tr>
+<td>60.</td>
+<td>Сейдахметова Зарина Кажиахметовна</td>
+<td>№2.4.105 от 07.10.2021г.</td>
+</tr>
+</tbody>
+</table>
+</body>
+</html>5:["$","article",null,{"children":[["$","nav",null,{"className":"breadcrumb","children":[["$","$L16",null,{"href":"/","children":"Главная"}]," / ",["$","$L16",null,{"href":"/articles","children":"Статьи"}]," /"," ","Актуарии","…"]}],["$","h1",null,{"className":"page-title","children":"Актуарии"}],["$","time",null,{"dateTime":"2019-12-24","children":"24 декабря 2019 г."}],["$","$L17",null,{"html":"$18"}]]}]
+13:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+19:I[27201,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"IconMark"]
+10:null
+15:[["$","title","0",{"children":"Актуарии | АРРФР"}],["$","meta","1",{"name":"description","content":"Агентство Республики Казахстан по регулированию и развитию финансового рынка (АРРФР): новости, документы, реестры лицензий и защита прав потребителей финансовых услуг"}],["$","link","2",{"rel":"manifest","href":"/manifest.json","crossOrigin":"$undefined"}],["$","meta","3",{"name":"keywords","content":"АРРФР,финансовый регулятор Казахстан,лицензии финансовых организаций,защита прав потребителей финансовых услуг,Агентство финансового рынка"}],["$","meta","4",{"name":"google-site-verification","content":"google-site-verification-code"}],["$","meta","5",{"name":"yandex-verification","content":"yandex-verification-code"}],["$","meta","6",{"property":"og:title","content":"Агентство Республики Казахстан по регулированию и развитию финансового рынка"}],["$","meta","7",{"property":"og:description","content":"Агентство Республики Казахстан по регулированию и развитию финансового рынка"}],["$","meta","8",{"property":"og:site_name","content":"АРРФР"}],["$","meta","9",{"property":"og:locale","content":"ru_RU"}],["$","meta","10",{"property":"og:type","content":"website"}],["$","meta","11",{"name":"twitter:card","content":"summary"}],["$","meta","12",{"name":"twitter:title","content":"Агентство Республики Казахстан по регулированию и развитию финансового рынка"}],["$","meta","13",{"name":"twitter:description","content":"Агентство Республики Казахстан по регулированию и развитию финансового рынка"}],["$","link","14",{"rel":"icon","href":"/favicon.ico?favicon.0x3dzn~oxb6tn.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","15",{"rel":"icon","href":"/favicon.ico"}],["$","link","16",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png"}],["$","$L19","17",{}]]

@@ -1,0 +1,17 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],""]
+3:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
+5:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+4:Td2e,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<p align="justify">В соответствии с требованиями законодательства Республики Казахстан для реализации сделки по присоединению АО &laquo;АТФ Банк&raquo; к группе J&yacute;san Агентство выдало согласие АО &laquo;J&yacute;san Банк&raquo; на покупку 99,76% акций АТФ Банка и крупному акционеру АО &laquo;АТФ Банк&raquo; господину Есенову Г.Ш. на приобретение 19,97% акций J&yacute;san Банка. Также участниками сделки были получены необходимые разрешения на смену акционера со стороны Национального Банка Кыргызской Республики в отношении АО &laquo;Оптима Банк&raquo;, дочерней организацией АТФ Банка.</p>
+<p align="justify">Финансовая модель объединения банков соответствует классической модели слияния и поглощения (M&amp;A), при которой собственный капитал &nbsp;банка в размере 124 млрд. тенге был использован для создания дополнительных провизий. После покрытия убытков действующим акционером, J&yacute;san Банк осуществил докапитализацию АТФ Банка на сумму 97 млрд. тенге, сформировав достаточный уровень капитала в соответствии с требованиями регулятора. По итогам сделки АТФ Банк создал необходимый объем провизий, имеет необходимый запас капитала и ликвидности, что обеспечивает финансовую устойчивость и стабильное развитие банка в долгосрочной перспективе.</p>
+<p align="justify">Агентство считает, что объединение бизнес-моделей крупнейших казахстанских банков будет способствовать повышению стабильности банковского сектора и улучшению качества предоставляемых услуг населению за счет использования финансовых и технологических преимуществ двух банков. Ожидается, что совокупный объем активов J&yacute;san Bank и АТФ Банка составит около 3 трлн. тенге, а общая рыночная доля двух банков достигнет 10% от активов банковского сектора.</p>
+<p align="justify">Текущая деятельность J&yacute;san Bank и АТФ Банка, а также доступность услуг для клиентов банков осуществляется своевременно и в полном объеме.</p>
+</body>
+</html>0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","nav",null,{"className":"breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Главная"}]," / ",["$","$L2",null,{"href":"/media/news","children":"Новости"}]," / Новость"]}],["$","h1",null,{"className":"page-title","children":"О приобретении АТФ Банка Jýsan Банком"}],["$","time",null,{"dateTime":"2020-12-30T15:57:00Z","children":"30 декабря 2020 г."}],null,["$","$L3",null,{"html":"$4"}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zM9lERO3SlzCY7qBjKejW"}
+7:null

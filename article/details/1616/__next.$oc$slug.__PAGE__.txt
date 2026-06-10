@@ -1,0 +1,79 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],""]
+3:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
+9:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+a:"$Sreact.suspense"
+4:T1e07,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<div class="mce-toc">
+<ul>
+<li><a href="#mcetoc_1fma5vqps13">УЧАСТНИКИ СТРАХОВОГО РЫНКА</a></li>
+<li><a href="#mcetoc_1fma5vqps14">КОНСОЛИДИРОВАННЫЙ НАДЗОР</a></li>
+<li><a href="#mcetoc_1fma5vqps15">ЛИКВИДАЦИОННЫЙ ПРОЦЕСС</a></li>
+<li><a href="#mcetoc_1fo2b5dhi6">РЕЕСТРЫ РАЗРЕШЕНИЙ И УВЕДОМЛЕНИЙ</a></li>
+<li><a href="#mcetoc_1fma5vqps16">ТЕСТИРОВАНИЕ КАНДИДАТОВ</a></li>
+<li><a href="#mcetoc_1fma5vqps17">ДОПОЛНИТЕЛЬНАЯ ИНФОРМАЦИЯ</a></li>
+<li><a href="#mcetoc_1fo2b5dhi7">СТАТИСТИКА</a></li>
+<li><a href="#mcetoc_1frbmivkb3">САНКЦИИ И МЕРЫ ВОЗДЕЙСТВИЯ</a></li>
+</ul>
+</div>
+<p align="justify">Деятельность Агентства направлена на регулирование и развитие страхового рынка, обеспечение финансовой стабильности профессиональных участников страхового рынка и поддержание доверия к страховой системе, обеспечение надлежащего уровня защиты интересов потребителей страховых услуг, создание равноправных условий для деятельности участников страхового рынка и поддержание добросовестной конкуренции на страховом рынке Казахстана.</p>
+<p align="justify"><img src="/uploads/2026/5/20/9d93eb8004b03edf5340e216d19ff037_original.91711.jpg" width="100%" height="100%" /></p>
+<h3 id="mcetoc_1fma5vqps13">УЧАСТНИКИ СТРАХОВОГО РЫНКА</h3>
+<ul>
+<li><a href="https://www.gov.kz/memleket/entities/ardfm/financial-organizations/25?lang=ru">Страховые (перестраховочные) организации и их филиалы</a></li>
+<li><a href="https://www.gov.kz/memleket/entities/ardfm/financial-organizations/149?lang=ru">Представительства страховых (перестраховочных) организаций-резидентов Республики Казахстан</a></li>
+<li><a href="https://www.gov.kz/memleket/entities/ardfm/financial-organizations/150?lang=ru">Представительства страховых (перестраховочных) организаций-нерезидентов Республики Казахстан</a></li>
+<li><a href="https://www.gov.kz/memleket/entities/ardfm/financial-organizations/26?lang=ru">Страховые брокеры</a></li>
+<li><a href="https://www.gov.kz/memleket/entities/ardfm/financial-organizations/74?lang=ru">Представительства страховых брокеров-нерезидентов Республики Казахстан</a></li>
+<li><a href="https://www.gov.kz/memleket/entities/ardfm/financial-organizations/27?lang=ru">Актуарии</a></li>
+<li><a href="https://www.gov.kz/memleket/entities/ardfm/financial-organizations/51?lang=ru">АО "Фонд гарантирования страховых выплат"</a></li>
+<li><a href="https://www.gov.kz/memleket/entities/ardfm/documents/details/728379?lang=ru">Общества взаимного страхования</a></li>
+</ul>
+<h3 id="mcetoc_1fma5vqps14">КОНСОЛИДИРОВАННЫЙ НАДЗОР</h3>
+<ul>
+<li><a href="https://www.gov.kz/memleket/entities/ardfm/financial-organizations/34?lang=ru">Страховые холдинги</a></li>
+<li><a href="https://www.gov.kz/memleket/entities/ardfm/financial-organizations/61?lang=ru">Страховые группы</a></li>
+<li><a href="https://www.gov.kz/memleket/entities/ardfm/financial-organizations/43?lang=ru">Крупные участники финансовых организаций&nbsp;</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</li>
+</ul>
+<h3 id="mcetoc_1fma5vqps15">ЛИКВИДАЦИОННЫЙ ПРОЦЕСС</h3>
+<ul>
+<li><a href="https://www.gov.kz/memleket/entities/ardfm/liquidations/1/25?lang=ru">Организации находящиеся в процессе ликвидации</a></li>
+<li><a href="https://www.gov.kz/memleket/entities/ardfm/liquidations/2/25?lang=ru">Ликвидированные организаци</a></li>
+</ul>
+<h3 id="mcetoc_1fo2b5dhi6">РЕЕСТРЫ РАЗРЕШЕНИЙ И УВЕДОМЛЕНИЙ</h3>
+<ul>
+<li><a href="https://www.gov.kz/memleket/entities/ardfm/permissions-notifications/section/1/subsection/8?lang=ru">Разрешения</a></li>
+<li><a href="https://www.gov.kz/memleket/entities/ardfm/permissions-notifications/section/2/registry/3?lang=ru">Уведомления</a></li>
+<li><a href="https://www.gov.kz/memleket/entities/ardfm/documents/details/343854?lang=ru">Реестр действующих согласий на назначение (избрание) руководящих работников</a></li>
+</ul>
+<h3 id="mcetoc_1fma5vqps16">ТЕСТИРОВАНИЕ КАНДИДАТОВ</h3>
+<ul>
+<li><a href="https://www.gov.kz/memleket/entities/ardfm/documents/details/19531?lang=ru">На должности руководящих работников страховых (перестраховочных) организаций, страховых холдингов, страховых брокеров, лиц, претендующих на получение лицензии на осуществление актуарной деятельности на страховом рынке</a></li>
+<li><a href="https://www.gov.kz/memleket/entities/ardfm/documents/details/19539?lang=ru">На руководящие должности АО &laquo;Фонд гарантирования страховых выплат&raquo;</a></li>
+<li><a href="https://www.gov.kz/memleket/entities/ardfm/documents/details/19547?lang=ru">На должности председателя или члена ликвидационной комиссии принудительно ликвидируемой страховой (перестраховочной) организации</a></li>
+<li><a href="https://www.gov.kz/memleket/entities/ardfm/live-broadcast/1?lang=ru">Online трансляция тестирования</a></li>
+</ul>
+<h3 id="mcetoc_1fma5vqps17">ДОПОЛНИТЕЛЬНАЯ ИНФОРМАЦИЯ</h3>
+<ul>
+<li><a href="https://www.gov.kz/memleket/entities/ardfm/documents/details/45581?lang=ru">Исключенные страховые агенты</a></li>
+<li><a href="https://www.gov.kz/memleket/entities/ardfm/press/article/details/73389?lang=ru">Запрещенные страховые (перестраховочные) организации-нерезиденты</a></li>
+<li><a href="https://www.gov.kz/memleket/entities/ardfm/documents/details/45394?lang=ru">Список лиц, у которых отозвано согласие на занятие руководящей должности</a></li>
+</ul>
+<h3 id="mcetoc_1fo2b5dhi7">СТАТИСТИКА</h3>
+<p>Показатели финансового сектора:</p>
+<ul>
+<li><a href="https://www.gov.kz/memleket/entities/ardfm/press/article/details/72462?lang=ru">Страховой сектор</a></li>
+</ul>
+<p><a href="https://www.gov.kz/memleket/entities/ardfm/press/article/details/72460?lang=ru">Обзор финансового сектора</a></p>
+<h3 id="mcetoc_1frbmivkb3"><a href="https://www.gov.kz/memleket/entities/ardfm/sanctions?lang=ru">САНКЦИИ И МЕРЫ ВОЗДЕЙСТВИЯ</a></h3>
+</body>
+</html>0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","nav",null,{"className":"breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Главная"}]," / ",["$","$L2",null,{"href":"/articles","children":"Статьи"}]," /"," ","Страховой сектор","…"]}],["$","h1",null,{"className":"page-title","children":"Страховой сектор"}],["$","time",null,{"dateTime":"2019-12-24","children":"24 декабря 2019 г."}],["$","$L3",null,{"html":"$4"}]]}],["$L5","$L6","$L7"],"$L8"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zM9lERO3SlzCY7qBjKejW"}
+5:["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true}]
+6:["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true}]
+7:["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true}]
+8:["$","$L9",null,{"children":["$","$a",null,{"name":"Next.MetadataOutlet","children":"$@b"}]}]
+b:null

@@ -1,0 +1,20 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],""]
+3:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
+5:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+4:Te95,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<p>Правлением Агентства по регулированию и развитию финансового рынка 14 апреля 2026 года принято постановление № 64 <strong>&laquo;Об установлении минимального рейтинга для юридических лиц и государств, необходимость наличия которого требуется в соответствии с законодательством Республики Казахстан, регулирующим деятельность финансовых организаций, филиалов банков-нерезидентов Республики Казахстан, филиалов страховых (перестраховочных) организаций-нерезидентов Республики Казахстан, перечня рейтинговых агентств, присваивающих данный рейтинг&raquo;</strong><strong>.</strong></p>
+<p>Проект разработан в соответствии с пунктом 4 статьи 9, подпунктом 6) статьи 15, пунктом 3 статьи 16, пунктом 3 статьи 41, пунктом 10 статьи 50, пунктом 7 статьи 105 Закона Республики Казахстан &laquo;О банках и банковской деятельности в Республике Казахстан&raquo; и в реализацию пункта 26 перечня правовых актов к распоряжению Премьер-Министра Республики Казахстан №18-р от 16 февраля 2026 года &laquo;О мерах по реализации законов Республики Казахстан от &laquo;16&raquo; января 2026 года &laquo;О банках и банковской деятельности в Республике Казахстан&raquo; и &laquo;О внесении изменений и дополнений в некоторые законодательные акты Республики Казахстан по вопросам регулирования и развития финансового рынка, связи и банкротства&raquo;.</p>
+<p>Постановлением устанавливается <strong>необходимость наличия минимально требуемого рейтинга у финансовых организаций</strong> (банки, страховые организации), филиалов банков нерезидентов, а также в отношении учредителей и акционеров банка, лиц, приобретающих статус крупного участника, банковского холдинга, страхового холдинга, которые в т.ч. должны иметь соответствующий рейтинг и (или) быть резидентами государства, имеющего определенный суверенный рейтинг одного из рейтинговых агентств.&nbsp;</p>
+<p>С полным текстом документа можно ознакомиться <a href="https://www.gov.kz/memleket/entities/ardfm/documents/details/999484?lang=ru">на интернет-ресурсе Агентства</a>.</p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>Управление внешних коммуникаций</strong></p>
+<p><a href="mailto:press@finreg.kz"><strong>press@finreg.kz</strong></a></p>
+</body>
+</html>0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","nav",null,{"className":"breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Главная"}]," / ",["$","$L2",null,{"href":"/media/press","children":"Пресс-релизы"}]]}],["$","h1",null,{"className":"page-title","children":"Об установлении минимального рейтинга для юридических лиц и государств"}],["$","time",null,{"children":"21 апреля 2026 г."}],"$undefined",["$","$L3",null,{"html":"$4"}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zM9lERO3SlzCY7qBjKejW"}
+7:null

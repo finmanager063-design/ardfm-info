@@ -1,0 +1,25 @@
+1:"$Sreact.fragment"
+2:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
+4:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+3:T690,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<p>12 декабря 2025 года с 09 часов 30 минут до 11 часов 30 минут KPMG при поддержке Агентства по регулированию и развитию финансового рынка и Ассоциации финансистов Казахстана проведет семинар в <strong>офлайн</strong> формате, по адресу - пр. Достык 180, БЦ Коктем, офис KPMG Алматы.</p>
+<p>Тема семинара - <strong>&laquo;Бизнес-завтрак KPMG по ESG-требованиям для небанковского финансового сектора&raquo;.</strong></p>
+<p>Структура семинара:</p>
+<ul>
+<li>ESG как новая обязательная рамка регулирования финансового рынка;</li>
+<li>Основные ESG-требования и ожидания АРРФР;</li>
+<li>ESG-риски в страховании, инвестициях и микрофинансировании;</li>
+<li>Нефинансовая отчетность и данные;</li>
+<li>Практические шаги по внедрению ESG в деятельность;</li>
+<li>Рекомендации и дальнейшие шаги.</li>
+</ul>
+<p>&nbsp;</p>
+<p>Для участия в семинаре необходимо пройти регистрацию по следующей <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=uyT_3okgAESMjvceaAN4slt1pEtJSdJLiBg30lqVBltURVdJQVJYVFU3QTdENUFVMkRLVEVWRzY1MSQlQCNjPTEu">ссылке</a>.</p>
+</body>
+</html>0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","h1",null,{"className":"page-title","children":"Семинар по ESG-требованиям для небанковского финансового сектора"}],["$","time",null,{"children":"2 декабря 2025 г."}],["$","$L2",null,{"html":"$3"}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zM9lERO3SlzCY7qBjKejW"}
+6:null

@@ -1,0 +1,46 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],""]
+3:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
+9:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+a:"$Sreact.suspense"
+4:T20cb,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<p data-start="66" data-end="341">В Казахстане представлен первый в истории страны &laquo;Руководство по рынку облигаций&raquo; (Bond Market Guide for Kazakhstan). Документ подготовлен Агентством по регулированию и развитию финансового рынка, Национальным Банком, Министерством финансов, МФЦА и Азиатским банком развития, передает&nbsp;<a href="https://dknews.kz/" target="_blank" rel="noopener">DKNews.kz</a>.</p>
+<p data-start="343" data-end="476">Руководство разработано при поддержке Форума рынков облигаций ASEAN+3 и ориентировано на международных инвесторов и участников рынка.</p>
+<h2 data-section-id="4je295" data-start="478" data-end="502">Что содержит документ</h2>
+<p data-start="504" data-end="585">Комплексный справочник охватывает ключевые аспекты казахстанского рынка капитала:</p>
+<p data-start="587" data-end="952">&bull; историю становления и развития рынка облигаций<br data-start="635" data-end="638" />&bull; правовую и регуляторную базу<br data-start="668" data-end="671" />&bull; требования к листингу и раскрытию информации<br data-start="717" data-end="720" />&bull; условия доступа для иностранных инвесторов<br data-start="764" data-end="767" />&bull; виды долговых инструментов, включая сукук<br data-start="810" data-end="813" />&bull; инфраструктуру торгов, клиринга и расчётов на KASE и AIX<br data-start="871" data-end="874" />&bull; налоговый режим и стоимость участия<br data-start="911" data-end="914" />&bull; текущие вызовы и перспективы рынка</p>
+<p data-start="954" data-end="1015">Отдельное внимание уделено юрисдикции МФЦА и её особенностям.</p>
+<h2 data-section-id="1mhrcs6" data-start="1017" data-end="1035">Зачем это нужно</h2>
+<p data-start="1037" data-end="1141">Документ призван повысить прозрачность рынка и упростить доступ к информации для иностранных участников.</p>
+<p data-start="1143" data-end="1251">Заместитель председателя Агентства по регулированию и развитию финансового рынка Нуржан Турсунханов отметил:</p>
+<blockquote class="quote" data-start="1253" data-end="1787">&laquo;Регуляторная прозрачность &ndash; фундаментальное условие доверия инвесторов. Руководство детально описывает нормативно-правовую базу казахстанского рынка ценных бумаг и даёт иностранным участникам надежный ориентир при оценке возможностей&hellip; Реформа направлена на то, чтобы на рынке появлялись новые эмитенты и инструменты для инвестирования, формировалась устойчивая база инвесторов и ликвидность, надежно защищались права всех участников и в конечном счете рынок капитала занял более значимое место в финансировании экономики Казахстана&raquo;.</blockquote>
+<h2 data-section-id="3xt0bc" data-start="1789" data-end="1812">Роль рынка облигаций</h2>
+<p data-start="1814" data-end="1886">В Национальном Банке подчеркнули значение долгового рынка для экономики.</p>
+<p data-start="1888" data-end="1947">Заместитель председателя Нацбанка Алия Молдабекова заявила:</p>
+<blockquote class="quote" data-start="1949" data-end="2187">&laquo;Рынок облигаций играет ключевую роль в финансировании экономики и является одним из приоритетных направлений развития финансового рынка Казахстана&hellip; Руководство направлено на повышение его прозрачности и инвестиционной привлекательности&raquo;.</blockquote>
+<h2 data-section-id="10865qc" data-start="2189" data-end="2214">Позиция Минфина и МФЦА</h2>
+<p data-start="2216" data-end="2308">В Министерстве финансов акцентируют внимание на развитии рынка государственных ценных бумаг.</p>
+<p data-start="2310" data-end="2346">Вице-министр Даурен Кенбеил отметил:</p>
+<blockquote class="quote" data-start="2348" data-end="2514">&laquo;Развитый и ликвидный рынок государственных ценных бумаг &ndash; основа устойчивости государственных финансов и способности привлекать инвестиции на конкурентных условиях&raquo;.</blockquote>
+<p data-start="2516" data-end="2593">В МФЦА также считают публикацию важным инструментом для привлечения капитала.</p>
+<p data-start="2595" data-end="2633">Управляющий Ренат Бектуров подчеркнул:</p>
+<blockquote class="quote" data-start="2635" data-end="2815">&laquo;Включение в Руководство отдельной главы о правовой и рыночной инфраструктуре МФЦА позволяет глобальным инвесторам в полной мере оценить преимущества работы через нашу юрисдикцию&raquo;.</blockquote>
+<h2 data-section-id="fz7fpc" data-start="2817" data-end="2843">Международная поддержка</h2>
+<p data-start="2845" data-end="2904">Документ подготовлен при участии Азиатского банка развития.</p>
+<p data-start="2906" data-end="2969">Директор представительства АБР в Казахстане Утсав Кумар заявил:</p>
+<blockquote class="quote" data-start="2971" data-end="3103">&laquo;Публикация отражает растущую роль Казахстана в региональной финансовой интеграции и его стремление привлечь международный капитал&raquo;.</blockquote>
+<h2 data-section-id="16llouo" data-start="3105" data-end="3118">Что дальше</h2>
+<p data-start="3120" data-end="3169">Власти планируют продолжить реформирование рынка:</p>
+<p data-start="3171" data-end="3370">&bull; разработка программы развития рынка ценных бумаг до 2030 года<br data-start="3234" data-end="3237" />&bull; подготовка нового закона о рынке капитала<br data-start="3280" data-end="3283" />&bull; расширение базы инвесторов<br data-start="3311" data-end="3314" />&bull; повышение ликвидности и внедрение новых инструментов</p>
+<p data-start="3372" data-end="3478">Руководство станет основой для дальнейшего развития и интеграции Казахстана в глобальные финансовые рынки.<br /><br />Источник: Dknews.kz</p>
+</body>
+</html>0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","nav",null,{"className":"breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Главная"}]," / ",["$","$L2",null,{"href":"/articles","children":"Статьи"}]," /"," ","В Казахстане впервые выпустили руководство по рынк","…"]}],["$","h1",null,{"className":"page-title","children":"В Казахстане впервые выпустили руководство по рынку облигаций"}],["$","time",null,{"dateTime":"2026-05-04","children":"4 мая 2026 г."}],["$","$L3",null,{"html":"$4"}]]}],["$L5","$L6","$L7"],"$L8"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zM9lERO3SlzCY7qBjKejW"}
+5:["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true}]
+6:["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true}]
+7:["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true}]
+8:["$","$L9",null,{"children":["$","$a",null,{"name":"Next.MetadataOutlet","children":"$@b"}]}]
+b:null

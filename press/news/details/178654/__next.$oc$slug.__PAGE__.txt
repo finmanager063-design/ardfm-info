@@ -1,0 +1,42 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],""]
+3:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
+9:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+a:"$Sreact.suspense"
+4:T17f6,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<p align="justify">В Агентстве Республики Казахстан по регулированию и развитию финансового рынка (далее &ndash; Агентство) рассказали о результатах системного мониторинга рекламной деятельности финансовых организаций в феврале 2021 года.</p>
+<p align="justify">Мониторинг проводился на предмет возможных мошеннических и других незаконных действий. Так, Агентством в феврале применены рекомендательные меры надзорного реагирования <span>в </span>отношении<strong> АО &laquo;Bank RBK&raquo;</strong>. Санкции последовали за размещение в средствах массовой информации рекламы банковских услуг с некорректным указанием сведений о дате выдачи лицензии и уполномоченном органе, выдавшем лицензию.</p>
+<p align="justify">В отношении субъектов рынка ценных бумаг и страхового рынка фактов недостоверной рекламы, незаконных действий и мошенничества в феврале не выявлено. В отношении организаций, осуществляющих микрофинансовую деятельность, были приняты следующие меры:</p>
+<ul>
+<li><strong>ТОО "Астра-Ломбард"</strong> выписано предписание за не указание размера неустойки при просрочке займа клиентом и ненадлежащем исполнении обязательств, а также осуществление действий, не соответствующих требованиям Закона РК &laquo;О микрофинансовой деятельности&raquo;;</li>
+<li>в отношении <strong>ТОО "Сейф - Ломбард"</strong> было направлено письменное предписание за нарушение при составлении графика погашения микрокредитов. Договоры организации не соответствовали требованиям к содержанию, оформлению и обязательным условиям, утвержденным Постановлением Правления Национального Банка РК от 29.11.2019г. № 232;</li>
+<li>в отношении <strong>ТОО КТ &laquo;Кызылту-Несие&raquo;</strong>, <strong>ТОО КТ &laquo;Акжар Кредит&raquo;</strong>, <strong>ТОО КТ &laquo;Тайынша Агро Финанс&raquo;</strong>, <strong>ТОО &laquo;Ломбард Аю-тас Финанс&raquo;</strong>, <strong>ТОО КТ &laquo;Шалкар&raquo;</strong> Агентством применены административные взыскания в виде штрафов по 72&nbsp;925 тенге каждому. Кредитные товарищества и ломбарды не направляли уведомления об утверждении услуг по предоставлению микрокредитов по предоставлению микрокредитов в уполномоченный орган.</li>
+</ul>
+<p align="justify">Источниками мониторинга рекламной деятельности финансовых и иных организаций, взаимодействующих с населением на предмет возможности мошеннических и других незаконных действий являются:</p>
+<p align="justify">-&nbsp;документы и информация, представленные финансовыми и иными организациями в Агентство, в том числе по запросу Агентства;</p>
+<p align="justify">- обращения, документы и информация, поступившие от физических и юридических лиц, государственных органов;</p>
+<p align="justify">- сайты финансовых и иных организаций;</p>
+<p align="justify">- социальные сети <span>Facebook, Twitter, Instagram, &laquo;</span>ВКонтакте&raquo;, Telegram;</p>
+<p align="justify">- мобильные приложения финансовых и иных организаций;</p>
+<p align="justify">- реклама на теле-, радиоканалах, в общественном транспорте, периодических печатных изданиях, а также наружная реклама.</p>
+<p align="justify">Мониторинг проводился в городах Нур-Султан, Алматы, Шымкент и областных центрах Казахстана.</p>
+<p align="justify">&nbsp;</p>
+<p align="justify"><strong><em>&nbsp;</em></strong></p>
+<p align="justify"><strong><em>Телефон горячей линии: +7 (727) 237-10-00</em></strong></p>
+<p align="justify"><strong><em>(режим работы: понедельник - пятница с 9.00 до 17.00)</em></strong></p>
+<p align="justify"><strong><em>&nbsp;</em></strong></p>
+<p align="justify"><strong><em>Телефон Управления внешних коммуникаций Агентства: +7 (727) 237-10-90</em></strong></p>
+<p align="justify"><strong><em>для запросов СМИ: </em></strong><a href="mailto:press@finreg.kz"><strong><em>press@finreg.kz</em></strong></a></p>
+<p align="justify">&nbsp;</p>
+<p align="justify">&nbsp;</p>
+</body>
+</html>0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","nav",null,{"className":"breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Главная"}]," / ",["$","$L2",null,{"href":"/media/news","children":"Новости"}]," / Новость"]}],["$","h1",null,{"className":"page-title","children":"О мерах регулятора к банкам и МФО по результатам мониторинга рекламной деятельности в феврале"}],["$","time",null,{"dateTime":"2021-03-29T14:49:00Z","children":"29 марта 2021 г."}],null,["$","$L3",null,{"html":"$4"}]]}],["$L5","$L6","$L7"],"$L8"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zM9lERO3SlzCY7qBjKejW"}
+5:["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true}]
+6:["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true}]
+7:["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true}]
+8:["$","$L9",null,{"children":["$","$a",null,{"name":"Next.MetadataOutlet","children":"$@b"}]}]
+b:null

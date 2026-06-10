@@ -1,0 +1,20 @@
+1:"$Sreact.fragment"
+2:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
+4:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+3:Tb14,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<p>Правлением Агентства по регулированию и развитию финансового рынка 28 апреля 2026 года принято Постановление №85 <strong>&laquo;Об утверждении пруденциальных нормативов и лимитов, обязательных к соблюдению банкам с универсальной банковской лицензией, банкам с базовой банковской лицензией, исламским банкам, их предельных значений и методик расчетов&raquo;</strong><strong>.</strong></p>
+<p>Документ разработан соответствии с частью третьей пункта 1 и частью первой пункта 3 статьи 72 Закона Республики Казахстан &laquo;О банках и банковской деятельности в Республике Казахстан&raquo;, а также пункта 40 перечня правовых актов к распоряжению Премьер-Министра Республики Казахстан №18-р от 16 февраля 2026 года &laquo;О мерах по реализации законов Республики Казахстан от &laquo;16&raquo; января 2026 года &laquo;О банках и банковской деятельности в Республике Казахстан&raquo; и &laquo;О внесении изменений и дополнений в некоторые законодательные акты Республики Казахстан по вопросам регулирования и развития финансового рынка, связи и банкротства&raquo;.</p>
+<p>Целью Постановления является установление пруденциальных нормативов для банка с универсальной банковской лицензией, банка с базовой банковской лицензией, исламского банка, их предельных значений и методик расчетов, а также дополнительных нормативов и лимитов.</p>
+<p>С полным текстом документа можно ознакомиться на <a href="https://www.gov.kz/memleket/entities/ardfm/documents/details/1008025?lang=ru">сайте Агентства</a>.</p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>Управление внешних коммуникаций</strong></p>
+<p><a href="mailto:press@finreg.kz"><strong>press@finreg.kz</strong></a></p>
+</body>
+</html>0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","h1",null,{"className":"page-title","children":"Об утверждении пруденциальных нормативов и лимитов, обязательных к соблюдению банкам с универсальной банковской лицензией, банкам с базовой банковской лицензией, исламским банкам, их предельных значений и методик расчетов"}],["$","time",null,{"children":"6 мая 2026 г."}],["$","$L2",null,{"html":"$3"}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zM9lERO3SlzCY7qBjKejW"}
+6:null

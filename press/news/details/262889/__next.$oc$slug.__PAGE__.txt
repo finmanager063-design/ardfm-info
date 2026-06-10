@@ -1,0 +1,21 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],""]
+3:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
+5:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+4:Td21,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<p class="rvps373396" style="text-align: justify; background: white; margin: 0cm 0cm 3.75pt 0cm;"><font face="arial,helvetica,sans-serif"><b><i><font size="4"><span class="rvts673396"><span style="font-size: 10.5pt; font-family: 'Arial','sans-serif'; color: black; background: white;">23 сентября 2021 года в г. Бишкек состоялось 22-е заседание Консультационного совета по валютной политике центральных (национальных) банков государств-членов ЕАЭС. Данный совет является консультативно-совещательным органом в рамках развития и углубления сотрудничества по вопросам валютной политики&nbsp;</span></span></font></i></b><span style="font-size: 10.0pt; font-family: 'Arial','sans-serif'; color: black;"></span></font></p>
+<p class="rvps373396" style="text-align: justify; background: white; margin: 0cm 0cm 3.75pt 0cm;"><font size="3" face="arial,helvetica,sans-serif"><span class="rvts273396"><span style="font-size: 10.5pt; font-family: 'Arial','sans-serif'; color: black;">Участники заседания обсудили текущую экономическую ситуацию и ход реализации денежно-кредитной политики в государствах-членах ЕАЭС. Обсуждались также проекты соглашений о наднациональном органе по регулированию финансового рынка и о стандартизированной лицензии, а также ряд других актуальных вопросов интеграционного взаимодействия.</span></span></font></p>
+<p class="rvps373396" style="text-align: justify; background: white; margin: 0cm 0cm 3.75pt 0cm;"><font size="3" face="arial,helvetica,sans-serif"><span class="rvts273396"><span style="font-size: 10.5pt; font-family: 'Arial','sans-serif'; color: black;">В заседании приняли участие руководители центральных (национальных) банков Республики Армения, Республики Беларусь, Республики Казахстан, Российской Федерации, Кыргызской Республики, а также Агентства Республики Казахстан по регулированию и развитию финансового рынка и Государственной службы регулирования и надзора за финансовым рынком при Министерстве экономики и финансов Кыргызской Республики.&nbsp;</span></span></font></p>
+<p class="rvps373396" style="text-align: justify; background: white; margin: 0cm 0cm 3.75pt 0cm;">&nbsp;</p>
+<p class="rvps373396" style="text-align: justify; background: white; margin: 0cm 0cm 3.75pt 0cm;">&nbsp;</p>
+<h3><font size="3">Пресс-служба:&nbsp;</font></h3>
+<h3><font size="3">+7 (727) 237-10-90&nbsp;</font></h3>
+<h3><font size="3"> email: press@finreg.kz&nbsp; </font></h3>
+</body>
+</html>0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","nav",null,{"className":"breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Главная"}]," / ",["$","$L2",null,{"href":"/media/news","children":"Новости"}]," / Новость"]}],["$","h1",null,{"className":"page-title","children":"Состоялось 22-е заседание Консультационного совета регуляторов стран ЕАЭС"}],["$","time",null,{"dateTime":"2021-09-23T16:32:00Z","children":"23 сентября 2021 г."}],null,["$","$L3",null,{"html":"$4"}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zM9lERO3SlzCY7qBjKejW"}
+7:null

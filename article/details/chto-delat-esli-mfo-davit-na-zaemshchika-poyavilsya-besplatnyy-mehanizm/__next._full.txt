@@ -1,0 +1,90 @@
+1:"$Sreact.fragment"
+2:I[50612,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"ShellWrapper"]
+3:I[39756,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"default"]
+4:I[37457,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"default"]
+9:I[68027,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"default",1]
+:HL["/_next/static/chunks/0rgbmrr6_b96m.css","style"]
+:HL["/_next/static/chunks/0t1-qk9~.xa44.css","style"]
+:HL["https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap","style"]
+0:{"P":null,"c":["","article","details","chto-delat-esli-mfo-davit-na-zaemshchika-poyavilsya-besplatnyy-mehanizm",""],"q":"","i":false,"f":[[["",{"children":[["slug","article/details/chto-delat-esli-mfo-davit-na-zaemshchika-poyavilsya-besplatnyy-mehanizm","oc",null],{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0rgbmrr6_b96m.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/0t1-qk9~.xa44.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0w5bf6qo2zbxc.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/0_t29vi~hh.tn.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ru","className":"notranslate","children":[["$","head",null,{"children":[["$","link",null,{"rel":"icon","href":"/favicon.ico"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap","rel":"stylesheet"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"GovernmentOrganization\",\"name\":\"Агентство Республики Казахстан по регулированию и развитию финансового рынка\",\"alternateName\":\"АРРФР\",\"description\":\"Агентство Республики Казахстан по регулированию и развитию финансового рынка — государственный орган, осуществляющий регулирование и надзор на финансовом рынке\",\"url\":\"https://govkz.online\",\"address\":{\"@type\":\"PostalAddress\",\"addressCountry\":\"KZ\",\"addressLocality\":\"Астана\",\"streetAddress\":\"проспект Мәңгілік Ел, 20а\",\"postalCode\":\"010000\"},\"telephone\":\"+7-7172-79-00-00\",\"image\":\"https://govkz.online/images/og-image.jpg\",\"knowsAbout\":[\"Регулирование финансового рынка\",\"Банковский надзор\",\"Страховой надзор\",\"Рынок ценных бумаг\",\"Микрофинансовые организации\",\"Защита прав потребителей финансовых услуг\"],\"parentOrganization\":{\"@type\":\"GovernmentOrganization\",\"name\":\"Правительство Республики Казахстан\"}}"}}]]}],["$","body",null,{"children":["$","$L2",null,{"meta":{"syncedAt":"2026-05-29T09:02:13.563Z","source":"https://www.gov.kz/memleket/entities/ardfm","entityTitle":"Агентство Республики Казахстан по регулированию и развитию финансового рынка","entityShort":"АРРФР","contacts":{"telegram":{"username":"finance_regulator_bot","handle":"@finance_regulator_bot","url":"https://t.me/finance_regulator_bot"}}},"children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":"$L5","templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["$L6",{},null,false,null]},null,false,"$@7"]},null,false,null],"$L8",false]],"m":"$undefined","G":["$9",["$La","$Lb"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"zM9lERO3SlzCY7qBjKejW"}
+d:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+e:"$Sreact.suspense"
+11:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"ViewportBoundary"]
+13:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"MetadataBoundary"]
+5:["$","$L4",null,{}]
+6:["$","$1","c",{"children":["$Lc",[["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true,"nonce":"$undefined"}]],["$","$Ld",null,{"children":["$","$e",null,{"name":"Next.MetadataOutlet","children":"$@f"}]}]]}]
+10:[]
+7:"$W10"
+8:["$","$1","h",{"children":[null,["$","$L11",null,{"children":"$L12"}],["$","div",null,{"hidden":true,"children":["$","$L13",null,{"children":["$","$e",null,{"name":"Next.Metadata","children":"$L14"}]}]}],null]}]
+a:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0rgbmrr6_b96m.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+b:["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/0t1-qk9~.xa44.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+15:I[22016,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],""]
+16:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
+17:T219f,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<p data-start="78" data-end="470">Просрочки, бесконечные звонки, непонятные проценты и давление со стороны микрофинансовых организаций &mdash; с этим сталкиваются тысячи казахстанцев. Но теперь у заемщиков появился официальный инструмент защиты, о котором многие до сих пор не знают.</p>
+<p data-start="78" data-end="470">&nbsp;</p>
+<p data-start="78" data-end="470">В Казахстане работает микрофинансовый омбудсман &mdash; независимый посредник между клиентом и МФО, который помогает решить конфликт без суда и бесплатно,&nbsp;передает&nbsp;<a href="https://dknews.kz/" target="_blank" rel="noopener">DKNews.kz</a>.</p>
+<p data-start="472" data-end="558">И самое главное &mdash; его решение обязательно для исполнения микрофинансовой организацией.</p>
+<p data-start="560" data-end="831">С начала года по 30 апреля в офис омбудсмана уже поступило 1 537 обращений. Еще более 1 500 человек получили консультации по телефону. Цифры говорят сами за себя: казахстанцы все чаще ищут способ защитить свои права не через скандалы и суды, а цивилизованно и официально.</p>
+<h2 data-section-id="y8url7" data-start="833" data-end="871">Кто такой микрофинансовый омбудсман</h2>
+<p data-start="873" data-end="1031">Если объяснять простыми словами &mdash; это независимый арбитр между заемщиком и МФО. Его задача &mdash; не встать на чью-то сторону, а помочь найти справедливое решение.</p>
+<p data-start="1033" data-end="1075">Особенно актуально это для людей, которые:</p>
+<ul data-start="1076" data-end="1300">
+<li data-section-id="14qp9fl" data-start="1076" data-end="1116">не согласны с начисленными процентами;</li>
+<li data-section-id="vy2ydj" data-start="1117" data-end="1163">столкнулись с давлением при взыскании долга;</li>
+<li data-section-id="jpjqy0" data-start="1164" data-end="1207">считают, что условия займа были нарушены;</li>
+<li data-section-id="1w6d35d" data-start="1208" data-end="1251">не могут договориться о реструктуризации;</li>
+<li data-section-id="nerfxd" data-start="1252" data-end="1300">получили отказ от микрофинансовой организации.</li>
+</ul>
+<p data-start="1302" data-end="1366">Важно: обращение к омбудсману для заемщика полностью бесплатное.</p>
+<h2 data-section-id="15w5w8t" data-start="1368" data-end="1398">Как обратиться к омбудсману</h2>
+<p data-start="1400" data-end="1445">Подать обращение можно несколькими способами:</p>
+<ul data-start="1447" data-end="1648">
+<li data-section-id="91s578" data-start="1447" data-end="1538">через официальный сайт:&nbsp;<a class="decorated-link" href="https://mfombudsman.kz/?utm_source=chatgpt.com" target="_blank" rel="noopener" data-start="1473" data-end="1536">mfombudsman.kz</a>
+<div id="vl7e5swh3k" class="shield-container">
+<div data-reactroot="">&nbsp;</div>
+</div>
+</li>
+<li data-section-id="172zioq" data-start="1539" data-end="1584">по электронной почте:&nbsp;<a class="decorated-link cursor-pointer" target="_blank" rel="noopener" data-start="1563" data-end="1582">info@mfombudsman.kz</a>
+<div id="a3udmx1h2i" class="shield-container">
+<div data-reactroot="">&nbsp;</div>
+</div>
+</li>
+<li data-section-id="1p94fju" data-start="1585" data-end="1648">лично в офисе: Алматы, улица Мынбаева, 53, 3 этаж, офис 321</li>
+</ul>
+<p data-start="1650" data-end="1670">Контактные телефоны:</p>
+<ul data-start="1671" data-end="1712">
+<li data-section-id="19uzxb3" data-start="1671" data-end="1691">+7 (727) 338-22-44</li>
+<li data-section-id="19uzxco" data-start="1692" data-end="1712">+7 (727) 338-22-25</li>
+</ul>
+<h2 data-section-id="18aoiq" data-start="1714" data-end="1744">Какие документы понадобятся</h2>
+<p data-start="1746" data-end="1801">Чтобы обращение рассмотрели быстрее, нужно подготовить:</p>
+<ul data-start="1803" data-end="2169">
+<li data-section-id="961csg" data-start="1803" data-end="1826">заявление омбудсману;</li>
+<li data-section-id="1azpnhn" data-start="1827" data-end="1885">заполненную анкету заемщика (ее можно скачать на сайте);</li>
+<li data-section-id="1xw9r4p" data-start="1886" data-end="1911">удостоверение личности;</li>
+<li data-section-id="qyobzd" data-start="1912" data-end="1935">договор микрокредита;</li>
+<li data-section-id="dyf003" data-start="1936" data-end="1955">график погашения;</li>
+<li data-section-id="oajckv" data-start="1956" data-end="1999">дополнительные соглашения, если они есть;</li>
+<li data-section-id="1csxokb" data-start="2000" data-end="2054">заявление в МФО или компании, которой передали долг;</li>
+<li data-section-id="mtu601" data-start="2055" data-end="2094">ответы от организации (если имеются);</li>
+<li data-section-id="1cefxyl" data-start="2095" data-end="2169">согласие на обработку персональных данных и получение кредитного отчета.</li>
+</ul>
+<h2 data-section-id="lpz24b" data-start="2171" data-end="2204">Почему это важно именно сейчас</h2>
+<p data-start="2206" data-end="2396">Институт микрофинансового омбудсмана официально заработал в Казахстане с 21 декабря 2024 года. И для многих заемщиков это может стать реальной альтернативой долгим судебным разбирательствам.</p>
+<p data-start="2398" data-end="2606">На фоне роста числа микрозаймов и долговой нагрузки вопрос защиты заемщиков становится все более острым. Многие казахстанцы просто не знают, что у них есть право оспорить действия МФО официально и без затрат.</p>
+<p data-start="2608" data-end="2721">Фактически омбудсман может стать тем самым &laquo;последним шансом&raquo; договориться без суда, коллекторов и новых штрафов.</p>
+<h2 data-section-id="a7bovq" data-start="2723" data-end="2753">Что важно помнить заемщикам</h2>
+<p data-start="2755" data-end="2951">Эксперты советуют не игнорировать проблему и не ждать, пока долг начнет расти вместе с пеней и штрафами. Если вы понимаете, что не можете договориться с МФО самостоятельно, лучше обращаться сразу.</p>
+<p data-start="2953" data-end="3050">Иногда один официальный запрос помогает остановить давление и перевести конфликт в правовое поле.</p>
+<p data-start="3052" data-end="3171" data-is-last-node="" data-is-only-node="">И пока одни продолжают молча платить или скрываться от звонков, другие уже используют новый механизм защиты своих прав.<br /><br />Источник: Dknews.kz</p>
+</body>
+</html>c:["$","article",null,{"children":[["$","nav",null,{"className":"breadcrumb","children":[["$","$L15",null,{"href":"/","children":"Главная"}]," / ",["$","$L15",null,{"href":"/articles","children":"Статьи"}]," /"," ","Что делать, если МФО давит на заемщика: появился б","…"]}],["$","h1",null,{"className":"page-title","children":"Что делать, если МФО давит на заемщика: появился бесплатный механизм"}],["$","time",null,{"dateTime":"2026-05-15","children":"15 мая 2026 г."}],["$","$L16",null,{"html":"$17"}]]}]
+12:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+18:I[27201,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"IconMark"]
+f:null
+14:[["$","title","0",{"children":"Что делать, если МФО давит на заемщика: появился бесплатный механизм | АРРФР"}],["$","meta","1",{"name":"description","content":"Агентство Республики Казахстан по регулированию и развитию финансового рынка (АРРФР): новости, документы, реестры лицензий и защита прав потребителей финансовых услуг"}],["$","link","2",{"rel":"manifest","href":"/manifest.json","crossOrigin":"$undefined"}],["$","meta","3",{"name":"keywords","content":"АРРФР,финансовый регулятор Казахстан,лицензии финансовых организаций,защита прав потребителей финансовых услуг,Агентство финансового рынка"}],["$","meta","4",{"name":"google-site-verification","content":"google-site-verification-code"}],["$","meta","5",{"name":"yandex-verification","content":"yandex-verification-code"}],["$","meta","6",{"property":"og:title","content":"Агентство Республики Казахстан по регулированию и развитию финансового рынка"}],["$","meta","7",{"property":"og:description","content":"Агентство Республики Казахстан по регулированию и развитию финансового рынка"}],["$","meta","8",{"property":"og:site_name","content":"АРРФР"}],["$","meta","9",{"property":"og:locale","content":"ru_RU"}],["$","meta","10",{"property":"og:type","content":"website"}],["$","meta","11",{"name":"twitter:card","content":"summary"}],["$","meta","12",{"name":"twitter:title","content":"Агентство Республики Казахстан по регулированию и развитию финансового рынка"}],["$","meta","13",{"name":"twitter:description","content":"Агентство Республики Казахстан по регулированию и развитию финансового рынка"}],["$","link","14",{"rel":"icon","href":"/favicon.ico?favicon.0x3dzn~oxb6tn.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","15",{"rel":"icon","href":"/favicon.ico"}],["$","link","16",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png"}],["$","$L18","17",{}]]

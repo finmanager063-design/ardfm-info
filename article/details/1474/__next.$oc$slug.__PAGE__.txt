@@ -1,0 +1,79 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],""]
+3:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
+9:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+a:"$Sreact.suspense"
+4:T1e54,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<div class="mce-toc">
+<ul>
+<li><a href="#mcetoc_1fmsek0d6cv">ПРОФЕССИОНАЛЬНЫЕ УЧАСТНИКИ РЦБ</a></li>
+<li><a href="#mcetoc_1fl6c2pb4u">КОНСОЛИДИРОВАННЫЙ НАДЗОР</a></li>
+<li><a href="#mcetoc_1fmsf7b8ldj">РЕЕСТРЫ РАЗРЕШЕНИЙ И УВЕДОМЛЕНИЙ</a></li>
+<li><a href="#mcetoc_1fl6c2pb412">ТЕСТИРОВАНИЕ КАНДИДАТОВ</a></li>
+<li><a href="#mcetoc_1fmsek0d6d0">ДОПОЛНИТЕЛЬНАЯ ИНФОРМАЦИЯ</a></li>
+<li><a href="#mcetoc_1fmsek0d6d1">СТАТИСТИКА</a></li>
+<li><a href="#mcetoc_1frbmivkb3">САНКЦИИ И МЕРЫ ВОЗДЕЙСТВИЯ</a></li>
+</ul>
+</div>
+<p align="justify">Агентство проводит государственную политику по обеспечению функционирования и развития рынка ценных бумаг, развитию его инфраструктуры, осуществляет мониторинг и анализ текущего состояния фондового рынка и его участников, обеспечивает надлежащий уровень защиты прав и интересов инвесторов, а также полноту и доступность информации о деятельности субъектов рынка ценных бумаг.</p>
+<h3 id="mcetoc_1fmsek0d6cv"><img src="/uploads/2026/3/19/b174ffd0e699dbaa2a8b5b65dee1b708_original.231893.jpg" width="1068" height="620" /></h3>
+<h3 id="mcetoc_1fmsek0d6cv">ПРОФЕССИОНАЛЬНЫЕ УЧАСТНИКИ РЦБ</h3>
+<ul>
+<li><a href="https://www.gov.kz/memleket/entities/ardfm/financial-organizations/48?lang=ru">Брокеры-дилеры</a></li>
+<li><a href="https://www.gov.kz/memleket/entities/ardfm/financial-organizations/109?lang=ru">Центральный депозитарий ценных бумаг</a></li>
+<li><a href="https://www.gov.kz/memleket/entities/ardfm/financial-organizations/50?lang=ru">Управляющие инвестиционным портфелем</a></li>
+<li><a href="https://www.gov.kz/memleket/entities/ardfm/financial-organizations/42?lang=ru">Кастодианы</a></li>
+<li><a href="https://www.gov.kz/memleket/entities/ardfm/financial-organizations/49?lang=ru">Трансфер-агенты</a></li>
+<li><a href="https://www.gov.kz/memleket/entities/ardfm/financial-organizations/45?lang=ru">Организатор торгов</a></li>
+<li><a href="https://www.gov.kz/memleket/entities/ardfm/financial-organizations/183?lang=ru">Реестр управляющих инвестиционным портфелем, соответствующих требованиям для управления пенсионными активами</a></li>
+<li><a href="https://www.gov.kz/memleket/entities/ardfm/financial-organizations/317?lang=ru">Клиринговые организации</a></li>
+</ul>
+<h3 id="mcetoc_1fl6c2pb4u">КОНСОЛИДИРОВАННЫЙ НАДЗОР</h3>
+<ul>
+<li><a href="https://www.gov.kz/memleket/entities/ardfm/financial-organizations/43?lang=ru">Крупные участники финансовых организаций</a></li>
+</ul>
+<h3 id="mcetoc_1fmsf7b8ldj">РЕЕСТРЫ РАЗРЕШЕНИЙ И УВЕДОМЛЕНИЙ</h3>
+<ul>
+<li><a href="https://www.gov.kz/memleket/entities/ardfm/permissions-notifications/section/1/subsection/3?lang=ru">Разрешения</a></li>
+<li><a href="https://www.gov.kz/memleket/entities/ardfm/permissions-notifications/section/2/registry/2?lang=ru">Уведомления</a></li>
+</ul>
+<h3 id="mcetoc_1fl6c2pb412">ТЕСТИРОВАНИЕ КАНДИДАТОВ</h3>
+<ul>
+<li><a href="https://www.gov.kz/memleket/entities/ardfm/documents/details/19558?lang=ru">Тестовые вопросы для проведения тестирования кандидатов на должности руководящих работников единого накопительного пенсионного фонда и добровольных накопительных пенсионных фондов</a></li>
+<li><a href="https://www.gov.kz/memleket/entities/ardfm/documents/details/19551?lang=ru">Тестовые вопросы для проведения тестирования кандидатов на должности руководящих работников профессиональных участников рынка ценных бумаг</a></li>
+<li><a href="https://www.gov.kz/memleket/entities/ardfm/live-broadcast/1?lang=ru">Online трансляция тестирования</a></li>
+</ul>
+<h3 id="mcetoc_1fmsek0d6d0"><strong>ДОПОЛНИТЕЛЬНАЯ ИНФОРМАЦИЯ</strong></h3>
+<ul>
+<li><a href="https://www.gov.kz/memleket/entities/ardfm/press/article/details/2395?lang=ru">Список лиц, у которых отозвано согласие на занятие руководящей должности</a></li>
+<li><a href="https://www.gov.kz/memleket/entities/ardfm/documents/details/356682?lang=ru">Реестр действующих согласий на назначение (избрание) руководящих работников на рынке ценных бумаг</a></li>
+<li><a href="https://www.gov.kz/memleket/entities/ardfm/documents/details/509894?lang=ru">Реестр действующих согласий на назначение (избрание) руководящих работников на рынке пенсионных услуг</a></li>
+</ul>
+<h3 id="mcetoc_1fmsek0d6d1">СТАТИСТИКА</h3>
+<p>Эмитенты и эмиссионные ценные бумаги:</p>
+<ul>
+<li><a href="https://www.gov.kz/memleket/entities/ardfm/press/article/details/72818?lang=ru">Сведения о зарегистрированных выпусках объявленных акций</a></li>
+<li><a href="https://www.gov.kz/memleket/entities/ardfm/press/article/details/72832?lang=ru">Сведения о зарегистрированных выпусках облигаций</a></li>
+<li><a href="https://www.gov.kz/memleket/entities/ardfm/press/article/details/72851?lang=ru">Сведения о зарегистрированных выпусках паев паевых инвестиционных фондов</a></li>
+<li><a href="https://www.gov.kz/memleket/entities/ardfm/press/article/details/72854?lang=ru">Сведения по количеству голосующих акций акционерных обществ</a></li>
+<li><a href="https://www.gov.kz/memleket/entities/ardfm/press/article/details/73106?lang=ru">Сведения о количестве держателей паев паевых инвестиционных фондов</a></li>
+</ul>
+<p>Показатели финансового сектора:</p>
+<ul>
+<li><a href="https://www.gov.kz/memleket/entities/ardfm/press/article/details/70337?lang=ru">Профессиональные участники рынка ценных бумаг</a></li>
+<li><a href="https://www.gov.kz/memleket/entities/ardfm/press/article/details/70340?lang=ru">Накопительная пенсионная система</a></li>
+</ul>
+<p><a href="https://www.gov.kz/memleket/entities/ardfm/press/article/details/72460?lang=ru">Обзор финансового сектора</a></p>
+<p><a href="https://www.gov.kz/memleket/entities/ardfm/documents/details/275298?lang=ru">Приоритеты надзорной политики</a></p>
+<h3 id="mcetoc_1frbmivkb3"><a href="https://www.gov.kz/memleket/entities/ardfm/sanctions?lang=ru">САНКЦИИ И МЕРЫ ВОЗДЕЙСТВИЯ</a></h3>
+</body>
+</html>0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","nav",null,{"className":"breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Главная"}]," / ",["$","$L2",null,{"href":"/articles","children":"Статьи"}]," /"," ","Рынок ценных бумаг и управление пенсионными актива","…"]}],["$","h1",null,{"className":"page-title","children":"Рынок ценных бумаг и управление пенсионными активами"}],["$","time",null,{"dateTime":"2019-12-19","children":"19 декабря 2019 г."}],["$","$L3",null,{"html":"$4"}]]}],["$L5","$L6","$L7"],"$L8"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zM9lERO3SlzCY7qBjKejW"}
+5:["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true}]
+6:["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true}]
+7:["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true}]
+8:["$","$L9",null,{"children":["$","$a",null,{"name":"Next.MetadataOutlet","children":"$@b"}]}]
+b:null

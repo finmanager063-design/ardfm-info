@@ -1,0 +1,22 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],""]
+3:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
+5:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+4:Tb00,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<p><strong>В АРРФР утвердили признаки недобросовестных практик в брокерской деятельности и порядок их выявления, передает&nbsp;</strong><a href="https://lsm.kz/" target="_blank" rel="noopener"><strong>LS</strong></a><strong>.</strong></p>
+<p>В постановлении регулятора к таким отнесены побуждение потребителя к покупке финпродукта, который не соответствует его заявленным потребностям при инвестиционном консультировании.</p>
+<p>Затем идет сокрытие, искажение или неполное раскрытие информации о существенных условиях и рисках финпродукта, создание условий, ограничивающих свободу выбора финпродукта или брокерской компании, за исключением случаев, обусловленных объективными инфраструктурными или договорными ограничениями.</p>
+<p>Также к недобросовестным практикам относится навязывание дополнительных платных услуг и сокрытие информации о праве отказаться от них.</p>
+<p>Кроме того, брокерские компании обязали регулярно отслеживать работу своих сотрудников, чтобы выявлять и предотвращать риски недобросовестного поведения/практик и принимать необходимые корректирующие меры для их предотвращения.</p>
+<p>Наряду с этим брокерские организации должны будут разрабатывать программу повышения финансовой грамотности и реализовывать их при взаимодействии с клиентами.</p>
+<p>В агентстве еще утвердили порядок рассмотрения обращений клиентов.</p>
+<p>Ранее LS&nbsp;<a href="https://lsm.kz/reforma-na-rynke-kapitala-kazahstana" target="_blank" rel="noopener">писал</a>&nbsp;о том, что в Казахстане планируют сократить разницу в регулировании между национальным рынком капитала и МФЦА.&nbsp;</p>
+<p><br />Источник: Lsm.kz</p>
+</body>
+</html>0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","nav",null,{"className":"breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Главная"}]," / ",["$","$L2",null,{"href":"/articles","children":"Статьи"}]," /"," ","АРРФР вводит новые правила для брокеров: что измен","…"]}],["$","h1",null,{"className":"page-title","children":"АРРФР вводит новые правила для брокеров: что изменится для клиентов"}],["$","time",null,{"dateTime":"2026-05-22","children":"22 мая 2026 г."}],["$","$L3",null,{"html":"$4"}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zM9lERO3SlzCY7qBjKejW"}
+7:null

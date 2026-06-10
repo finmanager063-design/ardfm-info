@@ -1,0 +1,22 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],""]
+3:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
+5:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+4:T8ea,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<p><font size="4" face="arial,helvetica,sans-serif">Агентством в 2023 году было утверждено Руководство по раскрытию информации в области экологического, социального и корпоративного управления. Руководство было доработано, внесены изменения и дополнения.</font></p>
+<p><font size="4" face="arial,helvetica,sans-serif">В рамках доработки Руководства предусмотрены следующие ключевые изменения:</font></p>
+<ul>
+<li><font size="4" face="arial,helvetica,sans-serif">переименование Руководства в &laquo;Руководство по климату и устойчивому развитию&raquo;;</font></li>
+<li><font size="4" face="arial,helvetica,sans-serif">замена термина ESG на формулировку &laquo;риски и возможности, связанные с устойчивым развитием или климатом&raquo; в целях унификации и повышения измеримости раскрываемой информации в соответствии с подходами Совета по МСФО;</font></li>
+<li><font size="4" face="arial,helvetica,sans-serif">уточнение понятия корпоративного управления в области устойчивого развития в соответствии с требованиями МСФО;</font></li>
+<li><font size="4" face="arial,helvetica,sans-serif">исключение приложений по стандартам EBA, TCFD и Принципам Экватора в связи с фокусом на стандарты МСФО S1 и S2, объединившие данные подходы;</font></li>
+<li><font size="4" face="arial,helvetica,sans-serif">унификация терминологии путём замены формулировки &laquo;банки и финансовые организации&raquo; на &laquo;финансовые организации&raquo;.</font></li>
+</ul>
+</body>
+</html>0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","nav",null,{"className":"breadcrumb","children":[["$","$L2",null,{"href":"/documents/1","children":"Документы"}]," / ","О Руководстве по раскрытию информации в ","…"]}],["$","h1",null,{"className":"page-title","children":"О Руководстве по раскрытию информации в области климата и устойчивого развития для банков и других финансовых организаций"}],["$","time",null,{"children":"5 февраля 2026 г."}],["$","$L3",null,{"html":"$4"}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zM9lERO3SlzCY7qBjKejW"}
+7:null

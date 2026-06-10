@@ -1,0 +1,20 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],""]
+3:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
+5:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+4:Tc09,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<p>&laquo;Агентство Республики Казахстан по регулированию и развитию финансового рынка в соответствии с Предпринимательским кодексом Республики Казахстан от 29 октября 2015 года, Правилами проведения аккредитации, основаниями и порядком отмены аккредитации объединений субъектов частного предпринимательства и иных некоммерческих организаций, утвержденными постановлением Правительства Республики Казахстан от 30 ноября 2018 года № 799 (далее &ndash; Правила), объявляет о проведении аккредитации объединений субъектов частного предпринимательства для участия в Экспертном совете по вопросам частного предпринимательства при Агентстве Республики Казахстан по регулированию и развитию финансового рынка.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Для получения аккредитации заявитель представляет следующие документы:</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1) заявление по форме&nbsp; согласно приложению&nbsp; к Правилам;</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2) нотариально засвидетельствованные копии учредительных документов и документов, подтверждающих государственную (учетную) регистрацию (перерегистрацию) юридического лица, филиала (представительства) в случае непредставления оригинала для сверки;</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3) список членов объединения и/или организации с указанием бизнес-идентификационного номера.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Для получения свидетельства об аккредитации на бессрочной основе заявитель также представляет три копии свидетельств об аккредитации в государственный орган, к которому обращается заявитель.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Пакет документов для получения аккредитации принимается в срок до 12 января 2022 года&raquo;.</p>
+</body>
+</html>0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","nav",null,{"className":"breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Главная"}]," / ",["$","$L2",null,{"href":"/articles","children":"Статьи"}]," /"," ","Объявление о проведении аккредитации объединений с","…"]}],["$","h1",null,{"className":"page-title","children":"Объявление о проведении аккредитации объединений субъектов частного предпринимательства для участия в Экспертном совете по вопросам частного предпринимательства при Агентстве"}],["$","time",null,{"dateTime":"2021-12-27","children":"27 декабря 2021 г."}],["$","$L3",null,{"html":"$4"}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zM9lERO3SlzCY7qBjKejW"}
+7:null

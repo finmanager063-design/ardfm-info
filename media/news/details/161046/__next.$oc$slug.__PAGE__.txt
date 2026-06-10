@@ -1,0 +1,20 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],""]
+3:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
+5:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+4:Teec,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<p align="justify">15 февраля 2021 года вступило в законную силу решение специализированного межрайонного экономического суда г. Алматы о принудительном прекращении деятельности АО &laquo;Tengri Bank&raquo; (далее &ndash; Банк).&nbsp; Приказом Председателем Агентства РК по регулированию и развитию финансового рынка (далее &ndash; Агентство) №53 от 15.02.21г. назначен состав ликвидационной комиссии Банка, к которой в рамках действующего законодательства переходят полномочия по управлению делами Банка. Председателем ликвидационной комиссии Банка назначена сотрудник АРРФР - &nbsp;Огай Оксана Дмитриевна.</p>
+<p align="justify">Согласно Правилам осуществления ликвидации и требований к работе ликвидационных комиссий принудительно ликвидируемых банков, утвержденных постановлением Правления Агентства №114 от 30.11.20г.<span>, с даты назначения ликвидационная комиссия проведет следующие мероприятия:</span></p>
+<p align="justify"><span>- в течение 3 (трех) рабочих дней - разместит объявление о принятом судом решении о принудительной ликвидации банка и назначении уполномоченным органом ликвидационной комиссии в месте, доступном для обозрения, а также на интернет-ресурсе Банка;</span></p>
+<p align="justify">- в течение 10 (десяти) рабочих дней - о<span>публикует информацию о принудительной ликвидации Банка в официальных печатных изданиях Министерства юстиции Республики Казахстан на казахском и русском языках с обязательным указанием порядка, сроков заявления претензий и адресов.</span></p>
+<p align="justify"><span>Дополнительно сообщаем, что требования кредиторов физических лиц - клиентов банка по банковским счетам включаются ликвидационной комиссией в реестр требований кредиторов самостоятельно в соответствии с очередностью, установленной </span><a href="http://adilet.zan.kz/rus/docs/Z950002444_#z103"><span>статьей 74-2</span></a><span> Закона о банках. Информация о включении таких требований доводится до сведения кредиторов банка в письменной форме, с указанием очередности удовлетворения требования каждого кредитора. </span></p>
+<p align="justify"><span>&nbsp;</span></p>
+<p align="justify"><strong>Контакты ликвидационной комиссии &laquo;Tengri Bank&raquo;: г. Алматы, пр. Абая 10А, тел. +7 (727) 244 93 07.</strong></p>
+</body>
+</html>0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","nav",null,{"className":"breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Главная"}]," / ",["$","$L2",null,{"href":"/media/news","children":"Новости"}]," / Новость"]}],["$","h1",null,{"className":"page-title","children":"Вступило в силу решение суда о принудительной ликвидации АО «Tengri Bank»"}],["$","time",null,{"dateTime":"2021-02-15T10:59:00Z","children":"15 февраля 2021 г."}],null,["$","$L3",null,{"html":"$4"}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zM9lERO3SlzCY7qBjKejW"}
+7:null

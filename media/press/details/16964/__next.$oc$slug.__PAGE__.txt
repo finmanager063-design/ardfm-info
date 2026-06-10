@@ -1,0 +1,33 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],""]
+3:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
+9:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+a:"$Sreact.suspense"
+4:T10f8,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<p><strong>Агентство Республики Казахстан </strong></p>
+<p><strong>по регулированию и развитию финансового рынка</strong></p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>ПРЕСС-РЕЛИЗ</strong></p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>Об утверждении Правил публикации финансовой и иной отчетности финансовыми организациями</strong></p>
+<p><strong>&nbsp;</strong></p>
+<p>3 марта 2026 года &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>&nbsp;</p>
+<p>Агентством по регулированию и развитию финансового рынка разработан проект постановления Правления Агентства <strong>&laquo;Об утверждении Правил публикации финансовой и иной отчетности финансовыми организациями, банковскими и страховыми холдингами, филиалами банков-нерезидентов Республики Казахстан, филиалами страховых (перестраховочных) организаций-нерезидентов Республики Казахстан, филиалами страховых брокеров-нерезидентов Республики Казахстан&raquo;</strong>.</p>
+<p>Проект разработан в целях реализации положений, предусмотренных статьей 9-7 Закона Республики Казахстан &laquo;О государственном регулировании, контроле и надзоре финансового рынка и финансовых организаций&raquo;.</p>
+<p>Проект постановления устанавливает порядок, перечень и сроки публикации финансовой и иной отчетности финансовыми организациями, банковскими и страховыми холдингами, филиалами банков-нерезидентов Республики Казахстан, филиалами страховых (перестраховочных) организаций-нерезидентов Республики Казахстан, филиалами страховых брокеров-нерезидентов Республики Казахстан, за исключением юридических лиц, исключительным видом деятельности которых является организация обменных операций с иностранной валютой, и юридических лиц, исключительной деятельностью которых является инкассация банкнот, монет и ценностей.</p>
+<p>С текстом проекта постановления можно ознакомиться <a href="https://legalacts.egov.kz/npa/view?id=15775467">на интернет-портале &laquo;Открытые НПА&raquo;</a> и на <a href="https://www.gov.kz/memleket/entities/ardfm/documents/details/978212?lang=ru">сайте Агентства</a>.</p>
+<p>&nbsp;</p>
+<p><strong>Управление внешних коммуникаций </strong></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="mailto:press@finreg.kz"><strong>press@finreg.kz</strong></a></p>
+</body>
+</html>0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","nav",null,{"className":"breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Главная"}]," / ",["$","$L2",null,{"href":"/media/press","children":"Пресс-релизы"}]]}],["$","h1",null,{"className":"page-title","children":"Об утверждении Правил публикации финансовой и иной отчетности финансовыми организациями, банковскими и страховыми холдингами, филиалами банков-нерезидентов Республики Казахстан, филиалами страховых (перестраховочных) организаций-нерезидентов Республики Казахстан, филиалами страховых брокеров-нерезидентов Республики Казахстан"}],["$","time",null,{"children":"3 марта 2026 г."}],"$undefined",["$","$L3",null,{"html":"$4"}]]}],["$L5","$L6","$L7"],"$L8"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zM9lERO3SlzCY7qBjKejW"}
+5:["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true}]
+6:["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true}]
+7:["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true}]
+8:["$","$L9",null,{"children":["$","$a",null,{"name":"Next.MetadataOutlet","children":"$@b"}]}]
+b:null

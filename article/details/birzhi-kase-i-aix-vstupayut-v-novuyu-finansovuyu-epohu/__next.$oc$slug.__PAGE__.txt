@@ -1,0 +1,27 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],""]
+3:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
+5:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+4:Td7c,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<p>Заместитель Председателя АРРФР Мария Хаджиева выступила на международной конференции KASE: Joining Tabadul Digital Hub,&nbsp;передает&nbsp;<a href="https://dknews.kz/" target="_blank" rel="noopener">DKnews.kz</a>.</p>
+<p>В Алматы состоялась международная конференция KASE: Joining Tabadul Digital Hub, посвященная интеграции Казахстана в глобальную цифровую финансовую экосистему. В мероприятии приняли участие представители регуляторных органов, финансовых организаций и бирж.</p>
+<p>Заместитель Председателя Агентства по регулированию и развитию финансового рынка (АРРФР) Мария Хаджиева выступила на конференции, отметив важность присоединения бирж KASE и AIX к Tabadul Digital Hub. По ее словам, это событие открывает новые перспективы для финансового рынка Казахстана, способствует росту ликвидности и создает новые инвестиционные возможности.</p>
+<blockquote class="quote">
+<p>&laquo;Это событие не только укрепляет позиции Казахстана как ведущего финансового центра региона, но и позволяет интегрировать наши рынки с международными партнерами. Мы уверены, что сотрудничество в рамках Tabadul Digital Hub станет катализатором дальнейшего развития фондового рынка и расширения доступа инвесторов к новым финансовым инструментам&raquo;&nbsp;<strong>Мария Хаджиева</strong></p>
+</blockquote>
+<p>В ходе конференции спикеры обсудили перспективы трансграничной торговли ценными бумагами, внедрение цифровых финансовых инструментов, а также использование токенизированных активов.</p>
+<p>На сегодняшний день рынок капитала Казахстана демонстрирует устойчивый рост:</p>
+<ul>
+<li>Капитализация фондового рынка достигла 63 млрд долларов (26% ВВП).</li>
+<li>Корпоративные облигации составляют 26 млрд долларов (11% ВВП).</li>
+<li>Количество розничных инвесторов превысило 3,5 млн.</li>
+</ul>
+<p>Присоединение Казахстана к Tabadul Digital Hub позволит упростить доступ к международным рынкам, увеличить объем инвестиций и повысить прозрачность финансовой инфраструктуры.<br /><br /><br />Источник: Dknews.kz<br /><br /><br /></p>
+</body>
+</html>0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","nav",null,{"className":"breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Главная"}]," / ",["$","$L2",null,{"href":"/articles","children":"Статьи"}]," /"," ","Биржи KASE и AIX вступают в новую финансовую эпоху","…"]}],["$","h1",null,{"className":"page-title","children":"Биржи KASE и AIX вступают в новую финансовую эпоху"}],["$","time",null,{"dateTime":"2025-02-14","children":"14 февраля 2025 г."}],["$","$L3",null,{"html":"$4"}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zM9lERO3SlzCY7qBjKejW"}
+7:null

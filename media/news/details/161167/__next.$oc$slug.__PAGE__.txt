@@ -1,0 +1,23 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],""]
+3:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
+5:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+4:T8bb,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<p align="justify"><strong>Уважаемые представители СМИ!</strong></p>
+<p align="justify">Приглашаем на онлайн-брифинг на тему<strong><span>&nbsp;</span>&laquo;Порядок передачи пенсионных накоплений казахстанцев частным управляющим инвестиционным портфелем&raquo;</strong>.</p>
+<p align="justify">Мероприятие состоится<span>&nbsp;</span><strong>17 февраля (среда)</strong><span>&nbsp;</span>на платформе<span>&nbsp;</span><strong>Webex</strong><span>&nbsp;</span>(приложение нужно скачать заранее, накануне конференции вам будет направлена ссылка).<br /><strong>Начало в 16.30</strong>, техническое подключение будет возможно с 16.00 17 февраля.</p>
+<p align="justify"><br /><strong>Спикеры:</strong></p>
+<p align="justify">- Заместитель председателя Агентства<span>&nbsp;</span><strong>Мария Хаджиева</strong>;<br />- Директор департамента рынка ценных бумаг<span>&nbsp;</span><strong>Едил Медеу</strong>;<br /><br />Для аккредитации в онлайн-брифинге необходимо выслать ФИО, наименование издания, мобильный номер и электронную почту на<span>&nbsp;</span><a href="mailto:press@finreg.kz">press@finreg.kz</a>.</p>
+<p align="justify">&nbsp;</p>
+<p align="justify">Контактные номера сотрудников Управления внешних коммуникаций Агентства:</p>
+<p align="justify">Зарина Жакупова: +7 777 790-01-00,<span>&nbsp;</span><a href="mailto:Zarina.Zhakupova@finreg.kz">Zarina.Zhakupova@finreg.kz</a></p>
+<p align="justify">Акбота Калитова: &nbsp;+7 702 226-77-88,<span>&nbsp;</span><a href="mailto:Akbota.kalitova@finreg.kz">Akbota.kalitova@finreg.kz</a></p>
+<p align="justify">&nbsp;</p>
+</body>
+</html>0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","nav",null,{"className":"breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Главная"}]," / ",["$","$L2",null,{"href":"/media/news","children":"Новости"}]," / Новость"]}],["$","h1",null,{"className":"page-title","children":"Онлайн-брифинг на тему «Порядок передачи пенсионных накоплений казахстанцев частным управляющим инвестиционным портфелем»"}],["$","time",null,{"dateTime":"2021-02-16T12:48:00Z","children":"16 февраля 2021 г."}],null,["$","$L3",null,{"html":"$4"}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zM9lERO3SlzCY7qBjKejW"}
+7:null

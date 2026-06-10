@@ -1,0 +1,140 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],""]
+3:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
+9:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+a:"$Sreact.suspense"
+4:T2aed,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<p align="center"><strong style="font-size: medium;">Обзор обращений физических и юридических лиц</strong></p>
+<p align="center"><font size="3"><strong>в Агентстве Республики Казахстан по регулированию и развитию финансового рынка</strong></font></p>
+<p align="center"><font size="3"><strong>и результаты их рассмотрения за 1 квартал 2024 года</strong></font></p>
+<table style="border-collapse: collapse; width: 53.1955%; height: 150px;" border="1" align="center">
+<tbody>
+<tr style="height: 62px;">
+<td style="width: 14.2857%; height: 93px;" rowspan="2"><strong><font size="2">Название документа</font></strong><br /><strong><font size="2"><br /></font></strong></td>
+<td style="width: 14.2857%; height: 93px;" rowspan="2"><strong><font size="2">Поступило обращений</font></strong><br /><font size="2"><br /></font></td>
+<td style="width: 14.2857%; height: 93px;" rowspan="2"><strong><font size="2">Рассмотрено, в том числе с предыдущих отчетных периодов</font></strong><br /><font size="2"><br /></font></td>
+<td style="width: 42.8571%; height: 62px; padding-left: 120px;" colspan="3"><strong><font size="2">из них:</font></strong></td>
+<td style="width: 14.2857%; height: 93px;" rowspan="2">
+<p><strong><font size="2">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;На рассмотрении</font></strong></p>
+</td>
+</tr>
+<tr style="height: 31px;">
+<td style="width: 14.2857%; height: 31px;"><strong><font size="2">Удовлетворено и даны разъяснения</font></strong></td>
+<td style="width: 14.2857%; height: 31px;"><strong><font size="2">Отказано и прекращено</font></strong></td>
+<td style="width: 14.2857%; height: 31px;"><strong><font size="2">перенаправлено </font></strong><strong><font size="2">в другие организации</font></strong></td>
+</tr>
+<tr style="height: 47px;">
+<td style="width: 14.2857%; height: 47px;"><strong>Обращения</strong> <strong>физических лиц и представителей юридических лиц</strong></td>
+<td style="width: 14.2857%; height: 47px;"><strong>30743</strong></td>
+<td style="width: 14.2857%; height: 47px;"><strong>27860</strong></td>
+<td style="width: 14.2857%; height: 47px;"><strong>23190</strong></td>
+<td style="width: 14.2857%; height: 47px;"><strong>3745</strong></td>
+<td style="width: 14.2857%; height: 47px;"><strong>925</strong></td>
+<td style="width: 14.2857%; height: 47px;"><strong>6380</strong></td>
+</tr>
+</tbody>
+</table>
+<p align="center">&nbsp;</p>
+<p align="center"><strong style="font-size: medium;">Обзор обращений физических и юридических лиц</strong></p>
+<p align="center"><font size="3"><strong>в Агентстве Республики Казахстан по регулированию и развитию финансового рынка</strong></font></p>
+<p align="center"><font size="3"><strong>и результаты их рассмотрения за 2 квартал 2024 года</strong></font></p>
+<table style="border-collapse: collapse; width: 53.1955%; height: 150px;" border="1" align="center">
+<tbody>
+<tr style="height: 62px;">
+<td style="width: 14.2857%; height: 93px;" rowspan="2"><strong><font size="2">Название документа</font></strong><br /><strong><font size="2"><br /></font></strong></td>
+<td style="width: 14.2857%; height: 93px;" rowspan="2"><strong><font size="2">Поступило обращений</font></strong><br /><font size="2"><br /></font></td>
+<td style="width: 14.2857%; height: 93px;" rowspan="2"><strong><font size="2">Рассмотрено, в том числе с предыдущих отчетных периодов</font></strong><br /><font size="2"><br /></font></td>
+<td style="width: 42.8571%; height: 62px; padding-left: 120px;" colspan="3"><strong><font size="2">из них:</font></strong></td>
+<td style="width: 14.2857%; height: 93px;" rowspan="2">
+<p><strong><font size="2">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;На рассмотрении</font></strong></p>
+</td>
+</tr>
+<tr style="height: 31px;">
+<td style="width: 14.2857%; height: 31px;"><strong><font size="2">Удовлетворено и даны разъяснения</font></strong></td>
+<td style="width: 14.2857%; height: 31px;"><strong><font size="2">Отказано и прекращено</font></strong></td>
+<td style="width: 14.2857%; height: 31px;"><strong><font size="2">перенаправлено </font></strong><strong><font size="2">в другие организации</font></strong></td>
+</tr>
+<tr style="height: 47px;">
+<td style="width: 14.2857%; height: 47px;"><strong>Обращения</strong> <strong>физических лиц и представителей юридических лиц</strong></td>
+<td style="width: 14.2857%; height: 47px;"><strong>26168</strong></td>
+<td style="width: 14.2857%; height: 47px;"><strong>28493</strong></td>
+<td style="width: 14.2857%; height: 47px;"><strong>24406</strong></td>
+<td style="width: 14.2857%; height: 47px;"><strong>3466</strong></td>
+<td style="width: 14.2857%; height: 47px;"><strong>621</strong></td>
+<td style="width: 14.2857%; height: 47px;"><strong>3556</strong></td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p align="center"><strong style="font-size: medium;">Обзор обращений физических и юридических лиц</strong></p>
+<p align="center"><font size="3"><strong>в Агентстве Республики Казахстан по регулированию и развитию финансового рынка</strong></font></p>
+<p align="center"><font size="3"><strong>и результаты их рассмотрения за 3 квартал 2024 года</strong></font></p>
+<table style="border-collapse: collapse; width: 53.1955%; height: 150px;" border="1" align="center">
+<tbody>
+<tr style="height: 62px;">
+<td style="width: 14.2857%; height: 93px;" rowspan="2"><strong><font size="2">Название документа</font></strong><br /><strong><font size="2"><br /></font></strong></td>
+<td style="width: 14.2857%; height: 93px;" rowspan="2"><strong><font size="2">Поступило обращений</font></strong><br /><font size="2"><br /></font></td>
+<td style="width: 14.2857%; height: 93px;" rowspan="2"><strong><font size="2">Рассмотрено, в том числе с предыдущих отчетных периодов</font></strong><br /><font size="2"><br /></font></td>
+<td style="width: 42.8571%; height: 62px; padding-left: 120px;" colspan="3"><strong><font size="2">из них:</font></strong></td>
+<td style="width: 14.2857%; height: 93px;" rowspan="2">
+<p><strong><font size="2">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;На рассмотрении</font></strong></p>
+</td>
+</tr>
+<tr style="height: 31px;">
+<td style="width: 14.2857%; height: 31px;"><strong><font size="2">Удовлетворено и даны разъяснения</font></strong></td>
+<td style="width: 14.2857%; height: 31px;"><strong><font size="2">Отказано и прекращено</font></strong></td>
+<td style="width: 14.2857%; height: 31px;"><strong><font size="2">перенаправлено </font></strong><strong><font size="2">в другие организации</font></strong></td>
+</tr>
+<tr style="height: 47px;">
+<td style="width: 14.2857%; height: 47px;"><strong>Обращения</strong> <strong>физических лиц и представителей юридических лиц</strong></td>
+<td style="width: 14.2857%; height: 47px;"><strong>26155</strong></td>
+<td style="width: 14.2857%; height: 47px;"><strong>27058</strong></td>
+<td style="width: 14.2857%; height: 47px;"><strong>23586</strong></td>
+<td style="width: 14.2857%; height: 47px;"><strong>2780</strong></td>
+<td style="width: 14.2857%; height: 47px;"><strong>692</strong></td>
+<td style="width: 14.2857%; height: 47px;"><strong>5711</strong></td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p align="center"><strong style="font-size: medium;">Обзор обращений физических и юридических лиц</strong></p>
+<p align="center"><font size="3"><strong>в Агентстве Республики Казахстан по регулированию и развитию финансового рынка</strong></font></p>
+<p align="center"><font size="3"><strong>и результаты их рассмотрения за 4 квартал 2024 года</strong></font></p>
+<table style="border-collapse: collapse; width: 53.1955%; height: 150px;" border="1" align="center">
+<tbody>
+<tr style="height: 62px;">
+<td style="width: 14.2857%; height: 93px;" rowspan="2"><strong><font size="2">Название документа</font></strong><br /><strong><font size="2"><br /></font></strong></td>
+<td style="width: 14.2857%; height: 93px;" rowspan="2"><strong><font size="2">Поступило обращений</font></strong><br /><font size="2"><br /></font></td>
+<td style="width: 14.2857%; height: 93px;" rowspan="2"><strong><font size="2">Рассмотрено, в том числе с предыдущих отчетных периодов</font></strong><br /><font size="2"><br /></font></td>
+<td style="width: 42.8571%; height: 62px; padding-left: 120px;" colspan="3"><strong><font size="2">из них:</font></strong></td>
+<td style="width: 14.2857%; height: 93px;" rowspan="2">
+<p><strong><font size="2">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;На рассмотрении</font></strong></p>
+</td>
+</tr>
+<tr style="height: 31px;">
+<td style="width: 14.2857%; height: 31px;"><strong><font size="2">Удовлетворено и даны разъяснения</font></strong></td>
+<td style="width: 14.2857%; height: 31px;"><strong><font size="2">Отказано и прекращено</font></strong></td>
+<td style="width: 14.2857%; height: 31px;"><strong><font size="2">перенаправлено </font></strong><strong><font size="2">в другие организации</font></strong></td>
+</tr>
+<tr style="height: 47px;">
+<td style="width: 14.2857%; height: 47px;"><strong>Обращения</strong> <strong>физических лиц и представителей юридических лиц</strong></td>
+<td style="width: 14.2857%; height: 47px;"><strong>43681</strong></td>
+<td style="width: 14.2857%; height: 47px;"><strong>49392</strong></td>
+<td style="width: 14.2857%; height: 47px;"><strong>44432</strong></td>
+<td style="width: 14.2857%; height: 47px;"><strong>4078</strong></td>
+<td style="width: 14.2857%; height: 47px;"><strong>882</strong></td>
+<td style="width: 14.2857%; height: 47px;"><strong>8121</strong></td>
+</tr>
+</tbody>
+</table>
+</body>
+</html>0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","nav",null,{"className":"breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Главная"}]," / ",["$","$L2",null,{"href":"/articles","children":"Статьи"}]," /"," ","Обзор обращений физических и юридических лиц в Аге","…"]}],["$","h1",null,{"className":"page-title","children":"Обзор обращений физических и юридических лиц в Агентстве"}],["$","time",null,{"dateTime":"2024-04-04","children":"4 апреля 2024 г."}],["$","$L3",null,{"html":"$4"}]]}],["$L5","$L6","$L7"],"$L8"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zM9lERO3SlzCY7qBjKejW"}
+5:["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true}]
+6:["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true}]
+7:["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true}]
+8:["$","$L9",null,{"children":["$","$a",null,{"name":"Next.MetadataOutlet","children":"$@b"}]}]
+b:null

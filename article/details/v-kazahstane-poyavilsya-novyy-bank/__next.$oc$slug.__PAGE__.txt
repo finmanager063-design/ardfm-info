@@ -1,0 +1,33 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],""]
+3:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
+9:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+a:"$Sreact.suspense"
+4:T1417,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<p>Микрофинансовая организация BNK Finance Kazakhstan,, принадлежащая южнокорейскому холдингу, получила банковскую лицензию от Агентства по регулированию и развитию финансового рынка (АРРФР). Новый банк получил название BNK Commercial Bank.</p>
+<p>Официальную церемонию вручения банковской лицензии предваряло выступление традиционного корейского музыкального коллектива, а также приветственное слово от председателя АРРФР&nbsp;<strong>Мадины Абылкасымовой</strong>, генерального консула Кореи&nbsp;<strong>Ха Тэ Ук</strong>&nbsp;и председателя правления корейской BNK Capital&nbsp;<strong>Ким Сонг Джу</strong>.</p>
+<p>Председатель правления BNK Commercial Bank&nbsp;<strong>Ким Сонгхен</strong>&nbsp;отметил, что их целью является формирование банка для малого и среднего бизнеса на долгосрочную перспективу. Акцент сделан на развитие малых и средних предприятий и экспансию в страны СНГ. Этих цели компания хочет добиться к 2027 года. На протяжении 2025 года МФО будет осуществлять трансформацию в банк.</p>
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p>&laquo;Мы хотели бы обеспечить безопасные финансы на основе глобального доверия. Мы предлагаем цифровые финансы завтрашнего дня уже сегодня&raquo;, &mdash; отметил&nbsp;<strong>Ким Сонгхен.</strong></p>
+</blockquote>
+<p>Мадина Абылкасымова отметила, что для Казахстана это знаменательное событие, так как они предоставили первую банковскую лицензию с 2010 года.</p>
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p>&laquo;Агентством были приняты поправки, которые расширили возможности трансформации финансовых романизаций в банки. В 2024 году были снижены регуляторные требования для иностранных банков. Устранены устаревшие административные требования. Выдача лицензии подтверждает готовность привлечения новых иностранных участников на казахстанский рынок. В результате открытия нового банка мы увидим расширение конкуренции, это даст импульс кредитованию малого и среднего бизнеса&raquo;, &mdash; отметила Мадина Абыкласымова.</p>
+</blockquote>
+<p>В июне 2024 года президент Казахстана&nbsp;<strong>Касым-Жомарт Токаев</strong>&nbsp;сказал, что поддерживает решение корейской МФО BNK Finance Kazakhstan стать коммерческим банком.</p>
+<p>По словам главы Агентства по регулированию и развитию финансового рынка, МФО BNK Finance Kazakhstan занимает 13-е место по размеру активов (25,8 млрд тенге). Ее кредитный портфель достиг 21,8 млрд тенге.</p>
+<p>Согласно данным с eGov.kz, акционером МФО является южнокорейская BNK Capital Co. ​​В 2014 году она начала формирование финансовой сети в ключевых развивающихся странах Юго-Восточной Азии, успешно выйдя на рынки Мьянмы, Лаоса, Камбоджи, а также Казахстана, Узбекистана и Кыргызстана с продуктами микрокредитования. Это позволило ей закрепить статус одной из ведущих финансовых организаций в регионе.</p>
+<p>BNK Capital является частью холдинга BNK Financial Group, который включает в себя Busan Bank, Kyongnam Bank и четыре инвестиционные компании.</p>
+<p>&nbsp;</p>
+<p>Источник: Kursiv.media.kz</p>
+</body>
+</html>0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","nav",null,{"className":"breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Главная"}]," / ",["$","$L2",null,{"href":"/articles","children":"Статьи"}]," /"," ","В Казахстане появился новый банк","…"]}],["$","h1",null,{"className":"page-title","children":"В Казахстане появился новый банк"}],["$","time",null,{"dateTime":"2025-06-25","children":"25 июня 2025 г."}],["$","$L3",null,{"html":"$4"}]]}],["$L5","$L6","$L7"],"$L8"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zM9lERO3SlzCY7qBjKejW"}
+5:["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true}]
+6:["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true}]
+7:["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true}]
+8:["$","$L9",null,{"children":["$","$a",null,{"name":"Next.MetadataOutlet","children":"$@b"}]}]
+b:null

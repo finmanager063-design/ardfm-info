@@ -1,0 +1,20 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],""]
+3:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
+5:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+4:T9eb,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<p>В 2025 году Агентством завершен очередной цикл риск-ориентированного надзора в банковском секторе, в рамках которого проведена комплексная оценка по методологии SREP (Supervisory Review and Evaluation Process).</p>
+<p>Ежегодная оценка SREP стала важным этапом развития риск-ориентированного банковского надзора и позволила получить более глубокое представление о состоянии банковского сектора Казахстана. В рамках SREP проведен детальный анализ деятельности банков, включая уровень развития корпоративного управления, внутреннего контроля и систем управления рисками.</p>
+<p>По итогам надзорного цикла Агентством применена надзорная надбавка к капиталу в диапазоне от 0 до 4,5%. Решение о ее применении было принято в декабре 2025 года Комитетом по политике пруденциального регулирования с участием представителей Агентства и Национального банка. Все банки сохранили достаточный запас капитала и соблюдают минимальные нормативные требования с учетом надзорной надбавки.</p>
+<p>Настоящий <a href="https://www.gov.kz/memleket/entities/ardfm/documents/details/1010191?lang=ru">отчет</a> по итогам SREP помогает лучше понять текущие тенденции и риски в банковской системе. Накопленный опыт стал основой для ключевых выводов и рекомендаций, направленных на совершенствование бизнес-процессов и повышение устойчивости сектора.</p>
+<p>&nbsp;</p>
+<p><strong>Управление внешних коммуникаций</strong></p>
+<p><a href="mailto:press@finreg.kz"><strong>press@finreg.kz</strong></a></p>
+</body>
+</html>0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","nav",null,{"className":"breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Главная"}]," / ",["$","$L2",null,{"href":"/media/press","children":"Пресс-релизы"}]]}],["$","h1",null,{"className":"page-title","children":"Агентство завершило очередной цикл риск-ориентированного надзора в банковском секторе"}],["$","time",null,{"children":"13 мая 2026 г."}],"$undefined",["$","$L3",null,{"html":"$4"}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zM9lERO3SlzCY7qBjKejW"}
+7:null

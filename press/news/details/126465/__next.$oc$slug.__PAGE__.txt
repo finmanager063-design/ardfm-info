@@ -1,0 +1,19 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],""]
+3:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
+5:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+4:Tf02,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<p>С 2 по 13 ноября 2020 года была проведена виртуальная миссия Международного Валютного Фонда в Республике Казахстан в целях обзора экономического развития, перспектив и возможных рисков. Команда МВФ под руководством Главы миссии МВФ в Казахстане Николя Бланше провела ряд онлайн встреч с представителями государственных органов, организаций квазигосударственного сектора и финансового рынка, в ходе которых были обсуждены последствия пандемии Covid-19 и ценового шока на рынке нефти, возникшие проблемы и предпринятые ответные меры уполномоченных органов, а также приоритеты реформ после пандемии Covid-19.</p>
+<p>По результатам встречи с руководством Агентства Республики Казахстан по регулированию и развитию финансового рынка эксперты МВФ пришли к выводу, что антикризисные меры финансового регулятора были своевременны и помогли смягчить влияние кризиса на финансовый сектор страны. Экспертами МВФ была отмечена устойчивость банковского сектора республики в период пандемии и рекомендовано проводить дальнейшую работу по обеспечению финансовой стабильности.</p>
+<p>МВФ положительно оценил деятельность нового Агентства и отметил, что в дальнейшем оно будет играть важную роль в приведении системы финансового регулирования и надзора в Казахстане в соответствие с лучшими международными стандартами, а также в содействии укреплению бизнес-моделей и систем управления рисками в банках. В этой связи МВФ рекомендовано продолжить реализацию стратегии по укреплению институционального потенциала и независимости Агентства.</p>
+<p>По итогам визита подготовлено заключительное заявление миссии МВФ, опубликованное на сайтах<span>&nbsp;</span><a href="https://www.imf.org/en/News/Articles/2020/11/18/mcs111820-kazakhstan-staff-concluding-statement-of-an-imf-staff-visit" target="_blank" rel="noopener">МВФ</a>,<span>&nbsp;</span><a href="https://nationalbank.kz/ru/news/zaklyuchitelnoe-zayavlenie-missii-mvf">Национального Банка Казахстана</a><span>&nbsp;</span>и Агентства.</p>
+<p>Следующий визит миссии МВФ для проведения консультаций по Статье IV планируется весной 2021 года.</p>
+<p><a href="/uploads/2020/11/20/125fb79b19912705279e53bdcc95d195_original.73411.docx" download=""><i class="fas fa-file-word" aria-hidden="true"></i> Заключительное заявление Миссии МВФ</a></p>
+</body>
+</html>0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","nav",null,{"className":"breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Главная"}]," / ",["$","$L2",null,{"href":"/media/news","children":"Новости"}]," / Новость"]}],["$","h1",null,{"className":"page-title","children":"МВФ положительно оценил меры финансового регулятора в борьбе с кризисом пандемии COVID-19"}],["$","time",null,{"dateTime":"2020-11-20T20:14:00Z","children":"20 ноября 2020 г."}],null,["$","$L3",null,{"html":"$4"}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zM9lERO3SlzCY7qBjKejW"}
+7:null

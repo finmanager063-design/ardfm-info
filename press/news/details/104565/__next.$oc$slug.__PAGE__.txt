@@ -1,0 +1,49 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],""]
+3:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
+8:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+9:"$Sreact.suspense"
+4:T1130,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<table style="height: 167px;" width="819" align="justify">
+<tbody>
+<tr>
+<td style="width: 316px;" align="center">
+<p><b>Приказ НБРК от 04 апреля 2020 года № 97</b></p>
+</td>
+<td style="width: 181px;" align="center">
+<p>&nbsp;</p>
+</td>
+<td style="width: 300px;" align="center">
+<p><b>Приказ АРРФР от 04 апреля 2020 года № 178 </b></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p align="justify"><strong>&nbsp;</strong></p>
+<p align="center"><strong>&nbsp;</strong><strong>СОВМЕСТНЫЙ ПРИКАЗ</strong></p>
+<p align="center"><strong>&nbsp;</strong><strong>О внесении изменения в совместный приказ </strong><strong>Национального Банка Республики Казахстан и Агентства Республики Казахстан по регулированию и развитию финансового рынка </strong><strong>от 27 марта 2020 года № 88 и №169</strong></p>
+<p align="justify"><strong>&nbsp;</strong></p>
+<p align="justify">В соответствии с Указом Президента Республики Казахстан от 16 марта 2020 года № 286 &laquo;О мерах по обеспечению социально-экономической стабильности&raquo; <strong>ПРИКАЗЫВАЕМ:</strong></p>
+<ol align="justify">
+<li>Внести в совместный приказ Национального Банка Республики Казахстан и Агентства Республики Казахстан по регулированию и развитию финансового рынка от 27 марта 2020 года № 88 и №169 &laquo;О режиме работы субъектов финансового рынка&raquo; (далее &ndash; приказ) следующее изменение:</li>
+</ol>
+<p align="justify">подпункт 1) пункта 1 изложить в следующей редакции:</p>
+<p align="justify">&laquo;1)&nbsp; субъектам, указанным в приложении 1 к настоящему совместному приказу, обеспечить закрытие помещений филиалов, отделений, <br />за исключением помещений филиалов, отделений банков второго уровня <br />и Национального оператора почты, для обслуживания физических лиц, имеющих потребность в получении пенсий, адресной социальной помощи и социальных выплат в связи с потерей дохода во время чрезвычайного положения, и для оказания иных услуг для данной категории лиц.</p>
+<p align="justify">Банки второго уровня и Национальный оператор почты самостоятельно определяют филиалы и отделения для обслуживания физических лиц в целях, указанных в абзаце первом настоящего подпункта, и их график работы с учетом следующих ограничений:</p>
+<p align="justify">4 апреля 2020 года с 9 часов 00 минут до 16 часов 00 минут;</p>
+<p align="justify">с 5 апреля по 12 апреля 2020 года с 9 часов 00 минут до 14 часов 00 минут;&raquo;.</p>
+<ol start="2">
+<li align="justify">Настоящий приказ вступает в силу со дня его подписания.</li>
+<li align="justify">Контроль за исполнением настоящего приказа возложить на заместителя Председателя Национального Банка Республики Казахстан Галиеву Д.Т. и Первого заместителя Председателя Агентства Республики Казахстан по регулированию и развитию финансового рынка Смолякова О.А.</li>
+</ol>
+<p><strong>&nbsp;</strong></p>
+</body>
+</html>0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","nav",null,{"className":"breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Главная"}]," / ",["$","$L2",null,{"href":"/media/news","children":"Новости"}]," / Новость"]}],["$","h1",null,{"className":"page-title","children":"О режиме работы субъектов финансового рынка"}],["$","time",null,{"dateTime":"2020-04-04T13:54:00Z","children":"4 апреля 2020 г."}],null,["$","$L3",null,{"html":"$4"}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true}],"$L5","$L6"],"$L7"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zM9lERO3SlzCY7qBjKejW"}
+5:["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true}]
+6:["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true}]
+7:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
+a:null

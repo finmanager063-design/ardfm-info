@@ -1,0 +1,49 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],""]
+3:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
+7:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+4:T1011,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<div class="description"><font size="4">Агентство по регулированию и развитию финансвого рынка подготовило поправки в некоторые нормативные правовые акты РК по вопросам информационной безопасности, сообщает Zakon.kz.</font></div>
+<div class="content">
+<p>В частности, предлагается внести следующие поправки по вопросам информационной безопасности:</p>
+<ul>
+<li>определения порядка аутентификации клиента в мобильном приложении банка на ранее не зарегистрированном мобильном устройстве, а также повышения уровня защиты клиентских данных путем внесения дополнительного требования по блокировке мобильного банкинга при включенном микрофоне;</li>
+<li>расширения перечня технологических событий, связанных с возможным нарушением информационной безопасности банка, по которым должно обеспечиваться хранение записей;</li>
+<li>установления порядка использования автоматизированной системы обработки информации по событиям и инцидентам информационной безопасности Qainar оперативными центрами информационной безопасности финансовых организаций (при наличии);</li>
+<li>внедрения альтернативного способа уведомления уполномоченного органа об инцидентах информационной безопасности в случаях сбоя функционирования инфраструктуры банка;</li>
+<li>установления периодичности проведения внешнего аудита состояния системы управления информационной безопасностью банка. Банки обяжут блокировать мобильный банкинг при включенном микрофоне смартфона.</li>
+</ul>
+<div>
+<div class="w-100 flex justify-center articleAdver">
+<div id="adfox_1731999808875116971184560270">&nbsp;</div>
+<div>
+<div id="adfox_1731999648755816971184560270">
+<div id="yandex_rtb_1363505954" class="UZznxc yandex_rtb_R-A-4278065-2">
+<div class="mf2648be7 c737281ea b2358f0e9" data-animation-state="idle">
+<div class="hf96c16b2 f3ed079ae t2afb9fe8 e97fe49e7 jad1852eb" data-root="" data-name="visibility-slot" data-headersize="none" data-theme="light" data-ecomdata="">
+<div class="y3b2e11de be0d1c42">
+<div class="wb3ecbf5b w5e5878e6 b4615ece">
+<div class="ocf9e5bf3" data-name="background-slot">
+<p>Документ размещен на сайте&nbsp;<a href="https://legalacts.egov.kz/npa/view?id=15513160" target="_blank" rel="nofollow noopener">"Открытые НПА"</a>&nbsp;для публичного обсуждения до 30 апреля.</p>
+<p>Ранее мы&nbsp;<a href="https://www.zakon.kz/finansy/6473972-novye-pravila-finansovaya-gramotnost-klientov-stanet-chastyu-otvetstvennosti-bankov.html" target="_blank" rel="noopener">рассказали</a>, что в Казахстане планируют принять новые правила, предусматривающие, что финансовая грамотность клиентов станет частью ответственности банков.<br /><br />Источник: Zakon.kz</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</body>
+</html>0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","nav",null,{"className":"breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Главная"}]," / ",["$","$L2",null,{"href":"/articles","children":"Статьи"}]," /"," ","В Казахстане хотят изменить правила регистрации кл","…"]}],["$","h1",null,{"className":"page-title","children":"В Казахстане хотят изменить правила регистрации клиентов в мобильном приложении банка"}],["$","time",null,{"dateTime":"2025-04-18","children":"18 апреля 2025 г."}],["$","$L3",null,{"html":"$4"}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true}],"$L5"],"$L6"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zM9lERO3SlzCY7qBjKejW"}
+5:["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true}]
+6:["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]
+9:null

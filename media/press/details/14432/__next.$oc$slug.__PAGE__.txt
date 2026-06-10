@@ -1,0 +1,22 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],""]
+3:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
+5:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+4:Tcc8,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<p>15 сентября 2025 года Правлением Агентства принято постановление <br />№ 58 <strong>&laquo;</strong>О внесении изменений в постановление <strong>Правления </strong><strong>Агентства</strong><strong> Республики Казахстан</strong><strong> по регулированию и развитию финансового рынка</strong> <strong>от 24 августа 2020 года №</strong> <strong>74</strong> &laquo;Об утверждении <strong>форм и сроков представления временной администрацией (временным администратором)</strong> банка, страховой (перестраховочной) организации <strong>отчетности и иной информации, а также Правил их представления</strong><strong>&raquo;.</strong></p>
+<p>Постановление разработано в целях актуализации и оптимизации форм отчетности и дополнительной информации, представляемых временными администрациями (временным администратором) банков, страховых (перестраховочных) организаций.</p>
+<p>Предусматриваются следующие изменения:</p>
+<p>устанавливается единый срок для представления форм отчетности в уполномоченный орган, без учета наличия или отсутствия у временных администраций (временного администратора) банков филиалов и подразделений в регионах;</p>
+<p>- в формах отчетностей в приложениях к Постановлению меняется ссылка интернет-ресурса уполномоченного органа, а именно прописывается &laquo;<a href="http://www.gov.kz/memleket/entities/ardfm">www.gov.kz/memleket/entities/ardfm</a>&raquo; вместо &laquo;www.finreg.kz&raquo;;</p>
+<p>- исключается форма Отчета по внебалансовым счетам банка, страховой (перестраховочной) организации (Приложение 1), поскольку информация, отражаемая в нем, не оказывает влияния на процесс временного администрирования в банке, страховой (перестраховочной) организации, требующий контроля со стороны Агентства.</p>
+<p>Постановление вступает в силу с &nbsp;25.09.2025г.</p>
+<p>С полным текстом Постановления можно ознакомиться в <a href="http://zan.gov.kz/client/#!/doc/207551/rus">Эталонном контрольном банке НПА РК</a>.</p>
+<p>&nbsp;</p>
+</body>
+</html>0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","nav",null,{"className":"breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Главная"}]," / ",["$","$L2",null,{"href":"/media/press","children":"Пресс-релизы"}]]}],["$","h1",null,{"className":"page-title","children":"Об актуализации форм отчетности, предоставляемых временной администрацией (временным администратором) банка, страховой (перестраховочной) организации"}],["$","time",null,{"children":"6 октября 2025 г."}],"$undefined",["$","$L3",null,{"html":"$4"}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zM9lERO3SlzCY7qBjKejW"}
+7:null

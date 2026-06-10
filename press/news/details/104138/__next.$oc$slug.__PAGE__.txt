@@ -1,0 +1,22 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],""]
+3:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
+5:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+4:T6d6,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<ol>
+<li><span>Кыдырбаев Д.Х. &ndash; член Совета директоров &ndash; независимый директор АО &laquo;Tengri Partners Investment Banking (Kazakhstan)&raquo; (протокол №3/РЦБ от 27.02.2020г.);</span></li>
+<li><span>Мазур Е.Ф. &ndash; член Совета директоров АО &laquo;Tengri Partners Investment Banking (Kazakhstan)&raquo; (протокол №4/РЦБ от 27.02.2020г.);</span></li>
+<li><span>Коробецкая И.А. &ndash; член Совета директоров АО &laquo;Управляющая компания &laquo;ОРДА Капитал&raquo; (протокол №5/РЦБ от 27.02.2020г.);</span></li>
+<li><span>Смаилова Н.Н. &ndash; член Правления АО &laquo;Tengri Partners Investment Banking (Kazakhstan)&raquo; (протокол №6/РЦБ от 27.02.2020г.);</span></li>
+<li><span>Саенко А.И. &ndash;&nbsp; член Совета директоров &ndash; независимый директор АО &laquo;Информационно-учетный центр&raquo; (протокол №7/РЦБ от 02.03.2020г.);</span></li>
+<li><span>Сороченко Д.Ф. &ndash; Председатель Совета директоров АО &laquo;Управляющая компания &laquo;ОРДА Капитал&raquo; (протокол №8/РЦБ от 30.03.2020г.);</span></li>
+<li><span>Сарбасов А.А. &ndash; член Совета директоров АО &laquo;Единый накопительный пенсионный фонд&raquo; (протокол №9/РЦБ от 30.03.2020г.).</span></li>
+</ol>
+</body>
+</html>0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","nav",null,{"className":"breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Главная"}]," / ",["$","$L2",null,{"href":"/media/news","children":"Новости"}]," / Новость"]}],["$","h1",null,{"className":"page-title","children":"Агентством согласованы руководящие работники рынка ценных бумаг и пенсионного сектора"}],["$","time",null,{"dateTime":"2020-02-27T16:09:00Z","children":"27 февраля 2020 г."}],null,["$","$L3",null,{"html":"$4"}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zM9lERO3SlzCY7qBjKejW"}
+7:null

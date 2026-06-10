@@ -1,0 +1,74 @@
+1:"$Sreact.fragment"
+2:I[50612,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"ShellWrapper"]
+3:I[39756,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"default"]
+4:I[37457,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"default"]
+8:I[68027,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"default",1]
+:HL["/_next/static/chunks/0rgbmrr6_b96m.css","style"]
+:HL["/_next/static/chunks/0t1-qk9~.xa44.css","style"]
+:HL["https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap","style"]
+0:{"P":null,"c":["","article","details","kredity-kazahstancev-vyrosli-do-124-trln-tenge",""],"q":"","i":false,"f":[[["",{"children":[["slug","article/details/kredity-kazahstancev-vyrosli-do-124-trln-tenge","oc",null],{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0rgbmrr6_b96m.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/0t1-qk9~.xa44.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0w5bf6qo2zbxc.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/0_t29vi~hh.tn.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ru","className":"notranslate","children":[["$","head",null,{"children":[["$","link",null,{"rel":"icon","href":"/favicon.ico"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap","rel":"stylesheet"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"GovernmentOrganization\",\"name\":\"Агентство Республики Казахстан по регулированию и развитию финансового рынка\",\"alternateName\":\"АРРФР\",\"description\":\"Агентство Республики Казахстан по регулированию и развитию финансового рынка — государственный орган, осуществляющий регулирование и надзор на финансовом рынке\",\"url\":\"https://govkz.online\",\"address\":{\"@type\":\"PostalAddress\",\"addressCountry\":\"KZ\",\"addressLocality\":\"Астана\",\"streetAddress\":\"проспект Мәңгілік Ел, 20а\",\"postalCode\":\"010000\"},\"telephone\":\"+7-7172-79-00-00\",\"image\":\"https://govkz.online/images/og-image.jpg\",\"knowsAbout\":[\"Регулирование финансового рынка\",\"Банковский надзор\",\"Страховой надзор\",\"Рынок ценных бумаг\",\"Микрофинансовые организации\",\"Защита прав потребителей финансовых услуг\"],\"parentOrganization\":{\"@type\":\"GovernmentOrganization\",\"name\":\"Правительство Республики Казахстан\"}}"}}]]}],["$","body",null,{"children":["$","$L2",null,{"meta":{"syncedAt":"2026-05-29T09:02:13.563Z","source":"https://www.gov.kz/memleket/entities/ardfm","entityTitle":"Агентство Республики Казахстан по регулированию и развитию финансового рынка","entityShort":"АРРФР","contacts":{"telegram":{"username":"finance_regulator_bot","handle":"@finance_regulator_bot","url":"https://t.me/finance_regulator_bot"}}},"children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["$L5",{},null,false,null]},null,false,"$@6"]},null,false,null],"$L7",false]],"m":"$undefined","G":["$8",["$L9","$La"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"zM9lERO3SlzCY7qBjKejW"}
+c:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+d:"$Sreact.suspense"
+10:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"ViewportBoundary"]
+12:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"MetadataBoundary"]
+5:["$","$1","c",{"children":["$Lb",[["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true,"nonce":"$undefined"}]],["$","$Lc",null,{"children":["$","$d",null,{"name":"Next.MetadataOutlet","children":"$@e"}]}]]}]
+f:[]
+6:"$Wf"
+7:["$","$1","h",{"children":[null,["$","$L10",null,{"children":"$L11"}],["$","div",null,{"hidden":true,"children":["$","$L12",null,{"children":["$","$d",null,{"name":"Next.Metadata","children":"$L13"}]}]}],null]}]
+9:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0rgbmrr6_b96m.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+a:["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/0t1-qk9~.xa44.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+14:I[22016,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],""]
+15:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
+16:T1f5b,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<div>
+<h2 class="article__subtitle">С начала года показатель увеличился на 15,3%</h2>
+<p>Активы банковского сектора на 1 августа 2022 года составили 40,3 трлн&nbsp;тенге, увеличившись за июль текущего года на 2,8% или 1,1 трлн тенге. Рост с начала года &ndash; 7,2% или 2,7 трлн&nbsp;тенге. Рост активов произошел из-за увеличения вкладов клиентов на 4,8% или 1,3 трлн тенге и ссудного портфеля на 1,1% или 240 млрд тенге, сообщает корреспондент<span>&nbsp;</span><a href="https://kapital.kz/" rel="nofollow">центра деловой информации Kapital.kz</a><span>&nbsp;</span>со ссылкой на данные Агентства по регулированию и развитию финансового рынка.</p>
+</div>
+<div class="row">
+<p>Отметим, что на 1 августа 2022 года банковский сектор представлен 22 банками второго уровня, из которых 12 банков с иностранным участием, в том числе 10 дочерних банков.</p>
+</div>
+<div class="row">
+<p>&laquo;Высоколиквидные активы банков составили 12,6 трлн тенге или 31,3% от активов, что позволяет банкам обслуживать свои обязательства перед клиентами в полном объеме&raquo;, - сообщил финрегулятор.</p>
+</div>
+<div class="row">
+<p>Кредиты экономике за июль 2022 года выросли на 1,6% и составили 20,4 трлн тенге. Рост данного показателя с начала 2022 года составил 10,1% или 1,9 трлн тенге. Кредиты в национальной валюте за июль 2022 года увеличились на 2,1%, до 18,6 трлн тенге, кредиты в иностранной валюте снизились на 3,7%, до 1,7 трлн тенге. В отраслевой разбивке основная доля кредитов приходится на промышленность (34,2%), торговлю (21,3%), строительство (7,5%) и транспорт (5,8%).</p>
+</div>
+<div class="row">
+<p>&laquo;Кредиты юридическим лицам составили 8,0 трлн тенге, снизившись за июль 2022 года на 1,2%. При этом с начала текущего года рост данного показателя составил 2,9%, за аналогичный период 2021 года был зафиксирован рост на 1,8%. На снижение активности в сегменте корпоративного кредитования повлияло приостановление кредитной деятельности российских дочерних банков, а также ужесточение денежно-кредитных условий в результате роста инфляции&raquo;, - пояснили в АРРФР.</p>
+</div>
+<div class="row">
+<p>При этом займы крупному бизнесу увеличились с начала 2022 года на 8,9%, до 4,0 трлн тенге, займы МСБ (включая ИП) &ndash; на 3,6%, до 5,7 трлн тенге.</p>
+</div>
+<blockquote class="longrid__figure ">
+<p>&laquo;Кредиты физических лиц составили 12,4 трлн тенге, увеличившись за июль 2022 года на 3,4%, с начала текущего года рост составил 15,3%. Рост кредитов физическим лицам обусловлен увеличением ипотечного кредитования на 3,3%, до 4,0 трлн тенге в результате продолжения реализации льготных государственных ипотечных программ, а также ростом потребительских займов на 3,9%, до 6,9 трлн тенге&raquo;, - указывается в распространенной информации.</p>
+</blockquote>
+<div class="row">
+<p>На 1 августа 2022 года уровень займов NPL по банковскому сектору составил 828 млрд тенге или 3,8% от общего ссудного портфеля, увеличившись на 0,5 п.п. или 58 млрд тенге. На 1 января 2022 года &ndash; 3,3% или 669 млрд тенге. В портфеле юридических лиц уровень займов с просроченной задолженностью свыше 90 дней составил 4,1% или 396 млрд тенге, в портфеле физических лиц &ndash; 3,7% или 432 млрд тенге. Покрытие провизиями неработающих займов составляет 72,1%.</p>
+</div>
+<div class="row">
+<p>&nbsp;Собственный капитал банков вырос в июле текущего года на 7,2%, до 5,65 трлн тенге. На 1 августа 2022 года коэффициент достаточности основного капитала (к1) составил 17,6%, собственного капитала (к2) &ndash; 21%, что существенно превышает установленные законодательством нормативы и обеспечивает покрытие потенциальных рисков в банковском секторе.</p>
+</div>
+<div class="row">
+<p>Обязательства банковского сектора за июль 2022 года выросли на 2,2%, до 35,5 трлн тенге в результате увеличения вкладов клиентов на 4,8%, до 27,7 трлн тенге (доля в структуре обязательств 78,1%). С начала текущего года обязательства банков выросли на 7,2%.</p>
+</div>
+<div class="row">
+<p>Депозиты резидентов в депозитных организациях в июле 2022 года увеличились на 3,3%, до 28,1 трлн тенге (с начала года рост &ndash; 3,5%). Депозиты юридических лиц увеличились на 4,8%, до 14,5 трлн тенге, депозиты физических лиц - на 1,7%, до 13,6 трлн тенге.</p>
+</div>
+<div class="row">
+<p>Депозиты в национальной валюте за июль 2022 года выросли на 3,1%, до 18,1 трлн тенге, в иностранной валюте - на 3,5%, до 9,9 трлн тенге. В результате уровень долларизации на 1 августа 2022 года составил 35,4% по сравнению с 36,0% на начало 2022 года.</p>
+</div>
+<div>
+<p>На фоне повышения базовой ставки увеличивается стоимость фондирования. Средневзвешенная ставка вознаграждения по срочным депозитам в национальной валюте небанковских юридических лиц в июле 2022 года составила 12,3% (в декабре 2021 года &ndash; 7,4%), по депозитам физических лиц &ndash; 11,8% (в декабре 2021 года &ndash; 8,0%).</p>
+<p>&nbsp;</p>
+<p>Источник: Kapital.kz</p>
+</div>
+</body>
+</html>b:["$","article",null,{"children":[["$","nav",null,{"className":"breadcrumb","children":[["$","$L14",null,{"href":"/","children":"Главная"}]," / ",["$","$L14",null,{"href":"/articles","children":"Статьи"}]," /"," ","Кредиты казахстанцев выросли до 12,4 трлн тенге","…"]}],["$","h1",null,{"className":"page-title","children":"Кредиты казахстанцев выросли до 12,4 трлн тенге"}],["$","time",null,{"dateTime":"2022-09-09","children":"9 сентября 2022 г."}],["$","$L15",null,{"html":"$16"}]]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+17:I[27201,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"IconMark"]
+e:null
+13:[["$","title","0",{"children":"Кредиты казахстанцев выросли до 12,4 трлн тенге | АРРФР"}],["$","meta","1",{"name":"description","content":"Агентство Республики Казахстан по регулированию и развитию финансового рынка (АРРФР): новости, документы, реестры лицензий и защита прав потребителей финансовых услуг"}],["$","link","2",{"rel":"manifest","href":"/manifest.json","crossOrigin":"$undefined"}],["$","meta","3",{"name":"keywords","content":"АРРФР,финансовый регулятор Казахстан,лицензии финансовых организаций,защита прав потребителей финансовых услуг,Агентство финансового рынка"}],["$","meta","4",{"name":"google-site-verification","content":"google-site-verification-code"}],["$","meta","5",{"name":"yandex-verification","content":"yandex-verification-code"}],["$","meta","6",{"property":"og:title","content":"Агентство Республики Казахстан по регулированию и развитию финансового рынка"}],["$","meta","7",{"property":"og:description","content":"Агентство Республики Казахстан по регулированию и развитию финансового рынка"}],["$","meta","8",{"property":"og:site_name","content":"АРРФР"}],["$","meta","9",{"property":"og:locale","content":"ru_RU"}],["$","meta","10",{"property":"og:type","content":"website"}],["$","meta","11",{"name":"twitter:card","content":"summary"}],["$","meta","12",{"name":"twitter:title","content":"Агентство Республики Казахстан по регулированию и развитию финансового рынка"}],["$","meta","13",{"name":"twitter:description","content":"Агентство Республики Казахстан по регулированию и развитию финансового рынка"}],["$","link","14",{"rel":"icon","href":"/favicon.ico?favicon.0x3dzn~oxb6tn.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","15",{"rel":"icon","href":"/favicon.ico"}],["$","link","16",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png"}],["$","$L17","17",{}]]

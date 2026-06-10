@@ -1,0 +1,75 @@
+1:"$Sreact.fragment"
+2:I[50612,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"ShellWrapper"]
+3:I[39756,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"default"]
+4:I[37457,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"default"]
+b:I[68027,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"default",1]
+:HL["/_next/static/chunks/0rgbmrr6_b96m.css","style"]
+:HL["/_next/static/chunks/0t1-qk9~.xa44.css","style"]
+:HL["https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap","style"]
+0:{"P":null,"c":["","article","details","235139",""],"q":"","i":false,"f":[[["",{"children":[["slug","article/details/235139","oc",null],{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0rgbmrr6_b96m.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/0t1-qk9~.xa44.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0w5bf6qo2zbxc.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/0_t29vi~hh.tn.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ru","className":"notranslate","children":[["$","head",null,{"children":[["$","link",null,{"rel":"icon","href":"/favicon.ico"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap","rel":"stylesheet"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"GovernmentOrganization\",\"name\":\"Агентство Республики Казахстан по регулированию и развитию финансового рынка\",\"alternateName\":\"АРРФР\",\"description\":\"Агентство Республики Казахстан по регулированию и развитию финансового рынка — государственный орган, осуществляющий регулирование и надзор на финансовом рынке\",\"url\":\"https://govkz.online\",\"address\":{\"@type\":\"PostalAddress\",\"addressCountry\":\"KZ\",\"addressLocality\":\"Астана\",\"streetAddress\":\"проспект Мәңгілік Ел, 20а\",\"postalCode\":\"010000\"},\"telephone\":\"+7-7172-79-00-00\",\"image\":\"https://govkz.online/images/og-image.jpg\",\"knowsAbout\":[\"Регулирование финансового рынка\",\"Банковский надзор\",\"Страховой надзор\",\"Рынок ценных бумаг\",\"Микрофинансовые организации\",\"Защита прав потребителей финансовых услуг\"],\"parentOrganization\":{\"@type\":\"GovernmentOrganization\",\"name\":\"Правительство Республики Казахстан\"}}"}}]]}],["$","body",null,{"children":["$","$L2",null,{"meta":{"syncedAt":"2026-05-29T09:02:13.563Z","source":"https://www.gov.kz/memleket/entities/ardfm","entityTitle":"Агентство Республики Казахстан по регулированию и развитию финансового рынка","entityShort":"АРРФР","contacts":{"telegram":{"username":"finance_regulator_bot","handle":"@finance_regulator_bot","url":"https://t.me/finance_regulator_bot"}}},"children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L5",[["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true,"nonce":"$undefined"}],"$L6","$L7"],"$L8"]}],{},null,false,null]},null,false,"$@9"]},null,false,null],"$La",false]],"m":"$undefined","G":["$b",["$Lc","$Ld"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"zM9lERO3SlzCY7qBjKejW"}
+e:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+f:"$Sreact.suspense"
+12:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"ViewportBoundary"]
+14:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"MetadataBoundary"]
+6:["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true,"nonce":"$undefined"}]
+7:["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true,"nonce":"$undefined"}]
+8:["$","$Le",null,{"children":["$","$f",null,{"name":"Next.MetadataOutlet","children":"$@10"}]}]
+11:[]
+9:"$W11"
+a:["$","$1","h",{"children":[null,["$","$L12",null,{"children":"$L13"}],["$","div",null,{"hidden":true,"children":["$","$L14",null,{"children":["$","$f",null,{"name":"Next.Metadata","children":"$L15"}]}]}],null]}]
+c:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0rgbmrr6_b96m.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+d:["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/0t1-qk9~.xa44.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+16:I[22016,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],""]
+17:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
+18:T20be,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<div class="description">Сегодня, 28 мая 2026 года, в Агентстве Казахстана по регулированию и развитию финансового рынка (АРРФР) рассказали, как распознать финансовую пирамиду и не стать жертвой мошенников, сообщает Zakon.kz.</div>
+<div class="content">
+<p>Граждан в агентстве&nbsp;<a href="https://www.gov.kz/memleket/entities/ardfm/press/news/details/1229339?lang=ru" target="_blank" rel="nofollow noopener">предупреждают</a>, что участие в финансовых пирамидах практически всегда приводит к утрате вложенных средств. Несмотря на "привлекательность" таких схем, они не имеют реальной экономической основы и нарушают законодательство.</p>
+<blockquote>"Финансовые пирамиды постоянно эволюционируют, используя цифровые технологии, социальные сети, психологические манипуляции и профессиональную риторику для вовлечения граждан. Однако их базовый принцип остается неизменным &ndash; выплаты старым участникам производятся за счет денег новых вкладчиков, а не за счет реальной предпринимательской деятельности".Пресс-служба АРРФР</blockquote>
+<h2 class="">Основные признаки финансовой пирамиды</h2>
+<p>Гражданам следует насторожиться при наличии следующих характерных признаков:</p>
+<p><b><i>1. Завышенные обещания доходности</i></b></p>
+<p>Если предлагаемый доход существенно превышает рыночные показатели и преподносится как "гарантированный", это почти всегда свидетельствует о мошеннической схеме. Реальные инвестиции не дают фиксированной и аномально высокой прибыли без риска.</p>
+<p><b><i>2. Обязательное привлечение новых участников</i></b></p>
+<p>Ключевой источник выплат &ndash; деньги новых вкладчиков. Без постоянного притока средств схема быстро разрушается. Часто участникам обещают дополнительные бонусы за привлечение знакомых.</p>
+<p><b><i>3. Отсутствие лицензии и прозрачности</i></b></p>
+<p>Организаторы не могут подтвердить наличие лицензии Агентства РК по регулированию и развитию финансового рынка. В договорах отсутствует четкая ответственность за сохранность вложений, а финансовая отчетность вовсе не раскрывается.</p>
+<p><b><i>4. Агрессивная реклама в интернете</i></b></p>
+<p>Активное продвижение через мессенджеры, социальные сети и закрытые чаты, навязчивые призывы к оплате наличными или через электронные кошельки, обход официальных банковских каналов.</p>
+<p><b><i>5. Маскировка под "легальные проекты"</i></b></p>
+<p>В наименовании организации используются вводящие в заблуждение названия: "инновационный фонд", "инвестиционный клуб", "финансовый центр", "долговая программа", "онлайн-бизнес", "стартап с гарантированной прибылью".</p>
+<p><b><i>6. Небольшие стартовые взносы</i></b></p>
+<p>Низкий порог входа создает ложное чувство безопасности и постепенно подталкивает к более крупным вложениям.</p>
+<h2 class="">Как пирамиды маскируются под другие виды деятельности</h2>
+<p><b><i>Псевдобукмекеры.</i></b>&nbsp;Мошенники обещают "гарантированные выигрыши", не имея лицензии. Часто присылают фиктивные чеки в мессенджерах, тогда как легальные букмекеры выдают официальные электронные или кассовые чеки.</p>
+<p><i><b>Псевдоинвестиции.</b></i>&nbsp;Гражданам предлагают вложиться в "перспективные онлайн-проекты" или криптостартапы с обещанием сверхдоходов после запуска. На практике деньги собираются и затем организаторы исчезают. В таких схемах даже не всегда требуется привлечение новых участников.</p>
+<h2 class="">Чем финансовая пирамида отличается от сетевого маркетинга</h2>
+<p>В сетевом маркетинге доход формируется за счет реальной продажи товаров или услуг. В финансовой пирамиде единственным источником дохода остаются деньги новых участников, это ключевое отличие.</p>
+<h2 class="">Что делать, если вы подозреваете мошенничество:</h2>
+<ul>
+<li>Немедленно обратиться в полицию и Агентство РК по финансовому мониторингу (АФМ).</li>
+<li>Подать официальное заявление как можно раньше, так как это повышает шансы на возврат средств.</li>
+<li>Сохранить все переписки, договоры, чеки и доказательства переводов.</li>
+<li>Предупредить родственников и знакомых, чтобы они не стали следующими жертвами финансовой пирамиды.</li>
+</ul>
+<h2 class="">Как защитить себя от финансового мошенничества:</h2>
+<ul>
+<li>Проверяйте наличие лицензии на сайте АРРФР.</li>
+<li>Не переводите деньги через сомнительные кошельки и наличные расчеты.</li>
+<li>Не доверяйте обещаниям о "гарантированной прибыли".</li>
+<li>Избегайте закрытых чатов и предложений "только для своих".</li>
+</ul>
+<div class="selection">
+<p>"<b>Важно:</b>&nbsp;Создание и распространение финансовых пирамид является уголовным преступлением. По&nbsp;<a href="https://prg.kz/document/?doc_id=31575252#sub_id=2170000" target="_blank" rel="nofollow noopener">ст. 217</a>&nbsp;УК РК предусмотрено наказание вплоть до 12 лет лишения свободы с конфискацией имущества, а также пожизненный запрет на занятие определенной деятельностью", &ndash; подчеркнули в пресс-службе АРРФР.<br /><br />Источник: Zakon.kz</p>
+</div>
+</div>
+</body>
+</html>5:["$","article",null,{"children":[["$","nav",null,{"className":"breadcrumb","children":[["$","$L16",null,{"href":"/","children":"Главная"}]," / ",["$","$L16",null,{"href":"/articles","children":"Статьи"}]," /"," ","Казахстанцам раскрыли основные признаки финансовой","…"]}],["$","h1",null,{"className":"page-title","children":"Казахстанцам раскрыли основные признаки финансовой пирамиды"}],["$","time",null,{"dateTime":"2026-05-28","children":"28 мая 2026 г."}],["$","$L17",null,{"html":"$18"}]]}]
+13:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+19:I[27201,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"IconMark"]
+10:null
+15:[["$","title","0",{"children":"Казахстанцам раскрыли основные признаки финансовой пирамиды | АРРФР"}],["$","meta","1",{"name":"description","content":"Агентство Республики Казахстан по регулированию и развитию финансового рынка (АРРФР): новости, документы, реестры лицензий и защита прав потребителей финансовых услуг"}],["$","link","2",{"rel":"manifest","href":"/manifest.json","crossOrigin":"$undefined"}],["$","meta","3",{"name":"keywords","content":"АРРФР,финансовый регулятор Казахстан,лицензии финансовых организаций,защита прав потребителей финансовых услуг,Агентство финансового рынка"}],["$","meta","4",{"name":"google-site-verification","content":"google-site-verification-code"}],["$","meta","5",{"name":"yandex-verification","content":"yandex-verification-code"}],["$","meta","6",{"property":"og:title","content":"Агентство Республики Казахстан по регулированию и развитию финансового рынка"}],["$","meta","7",{"property":"og:description","content":"Агентство Республики Казахстан по регулированию и развитию финансового рынка"}],["$","meta","8",{"property":"og:site_name","content":"АРРФР"}],["$","meta","9",{"property":"og:locale","content":"ru_RU"}],["$","meta","10",{"property":"og:type","content":"website"}],["$","meta","11",{"name":"twitter:card","content":"summary"}],["$","meta","12",{"name":"twitter:title","content":"Агентство Республики Казахстан по регулированию и развитию финансового рынка"}],["$","meta","13",{"name":"twitter:description","content":"Агентство Республики Казахстан по регулированию и развитию финансового рынка"}],["$","link","14",{"rel":"icon","href":"/favicon.ico?favicon.0x3dzn~oxb6tn.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","15",{"rel":"icon","href":"/favicon.ico"}],["$","link","16",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png"}],["$","$L19","17",{}]]

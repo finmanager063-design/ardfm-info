@@ -1,0 +1,15 @@
+1:"$Sreact.fragment"
+2:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
+4:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+3:T79f,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<p>Агентством по регулированию и развитию финансового рынка в рамках реализации части второй пункта 3 статьи 63 нового Закона Республики Казахстан &laquo;О банках и банковской деятельности в Республике Казахстан&raquo; разработан проект постановления Правления Агентства &nbsp;<strong>&laquo;Об утверждении Требований к коллекторским агентствам и дочерним организациям по управлению стрессовыми активами, выступающим в качестве сервисных компаний, которым могут быть переданы в доверительное управление права (требования) по договорам банковского займа и (или) договорам о предоставлении микрокредита&raquo;</strong>.</p>
+<p>Проект постановления направлен на совершенствование регулирования деятельности сервисных компаний, которым могут быть переданы в доверительное управление права (требования) по договорам банковского займа, с целью обеспечения правовой определенности при передаче и управлении такими правами.</p>
+<p>С текстом проекта постановления можно ознакомиться&nbsp;<a href="https://www.gov.kz/memleket/entities/ardfm/documents/details/956150?lang=ru">на сайте Агентства.</a></p>
+</body>
+</html>0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","h1",null,{"className":"page-title","children":"Об утверждении Требований к коллекторским агентствам и дочерним организациям по управлению стрессовыми активами"}],["$","time",null,{"children":"21 января 2026 г."}],["$","$L2",null,{"html":"$3"}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zM9lERO3SlzCY7qBjKejW"}
+6:null

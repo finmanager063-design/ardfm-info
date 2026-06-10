@@ -1,0 +1,23 @@
+1:"$Sreact.fragment"
+2:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
+4:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+3:Ta94,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<p align="center"><strong>О совершенствовании регулирования микрофинансовой&nbsp;</strong><strong>и коллекторской деятельности</strong></p>
+<p>&nbsp;</p>
+<p>Агентством по регулированию и развитию финансового рынка разработан проект постановления Правления Агентства <strong>&laquo;О внесении изменений и дополнений в некоторые нормативные правовые акты Республики Казахстан по вопросам регулирования микрофинансовой и коллекторской деятельности в сфере оказания государственных услуг&raquo;</strong>.</p>
+<p>Документом предлагается внести изменения в некоторые нормативные правовые акты в сфере микрофинансовой и коллекторской деятельности.</p>
+<p>В частности, изменения направлены на установление критериев оценки безупречной деловой репутации и трудового стажа для руководящих работников микрофинансовых организаций. Также устанавливаются требования для организаций, осуществляющих микрофинансовую деятельность, по уведомлению уполномоченного органа о привлечении руководящего работника к уголовной и административной ответственности за совершение коррупционного правонарушения.</p>
+<p>Кроме того, вносятся редакционные изменения по актуализации ссылок в постановлениях.</p>
+<p>С текстом проекта постановления можно ознакомиться на интернет-портале &laquo;Открытые НПА&raquo; и на <a href="https://www.gov.kz/memleket/entities/ardfm/documents/details/961758?lang=ru">сайте</a> Агентства. &nbsp;</p>
+<p>&nbsp;</p>
+<p align="center"><strong>Управление внешних коммуникаций</strong></p>
+<p align="center"><a href="mailto:press@finreg.kz"><strong>press@finreg.kz</strong></a></p>
+<p align="center">&nbsp;</p>
+</body>
+</html>0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","h1",null,{"className":"page-title","children":"О совершенствовании регулирования микрофинансовой  и коллекторской деятельности"}],["$","time",null,{"children":"2 февраля 2026 г."}],["$","$L2",null,{"html":"$3"}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zM9lERO3SlzCY7qBjKejW"}
+6:null

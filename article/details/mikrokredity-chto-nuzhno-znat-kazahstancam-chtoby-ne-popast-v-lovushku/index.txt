@@ -1,0 +1,77 @@
+1:"$Sreact.fragment"
+2:I[50612,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"ShellWrapper"]
+3:I[39756,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"default"]
+4:I[37457,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"default"]
+9:I[68027,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"default",1]
+:HL["/_next/static/chunks/0rgbmrr6_b96m.css","style"]
+:HL["/_next/static/chunks/0t1-qk9~.xa44.css","style"]
+:HL["https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap","style"]
+0:{"P":null,"c":["","article","details","mikrokredity-chto-nuzhno-znat-kazahstancam-chtoby-ne-popast-v-lovushku",""],"q":"","i":false,"f":[[["",{"children":[["slug","article/details/mikrokredity-chto-nuzhno-znat-kazahstancam-chtoby-ne-popast-v-lovushku","oc",null],{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0rgbmrr6_b96m.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/0t1-qk9~.xa44.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0w5bf6qo2zbxc.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/0_t29vi~hh.tn.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ru","className":"notranslate","children":[["$","head",null,{"children":[["$","link",null,{"rel":"icon","href":"/favicon.ico"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap","rel":"stylesheet"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"GovernmentOrganization\",\"name\":\"Агентство Республики Казахстан по регулированию и развитию финансового рынка\",\"alternateName\":\"АРРФР\",\"description\":\"Агентство Республики Казахстан по регулированию и развитию финансового рынка — государственный орган, осуществляющий регулирование и надзор на финансовом рынке\",\"url\":\"https://govkz.online\",\"address\":{\"@type\":\"PostalAddress\",\"addressCountry\":\"KZ\",\"addressLocality\":\"Астана\",\"streetAddress\":\"проспект Мәңгілік Ел, 20а\",\"postalCode\":\"010000\"},\"telephone\":\"+7-7172-79-00-00\",\"image\":\"https://govkz.online/images/og-image.jpg\",\"knowsAbout\":[\"Регулирование финансового рынка\",\"Банковский надзор\",\"Страховой надзор\",\"Рынок ценных бумаг\",\"Микрофинансовые организации\",\"Защита прав потребителей финансовых услуг\"],\"parentOrganization\":{\"@type\":\"GovernmentOrganization\",\"name\":\"Правительство Республики Казахстан\"}}"}}]]}],["$","body",null,{"children":["$","$L2",null,{"meta":{"syncedAt":"2026-05-29T09:02:13.563Z","source":"https://www.gov.kz/memleket/entities/ardfm","entityTitle":"Агентство Республики Казахстан по регулированию и развитию финансового рынка","entityShort":"АРРФР","contacts":{"telegram":{"username":"finance_regulator_bot","handle":"@finance_regulator_bot","url":"https://t.me/finance_regulator_bot"}}},"children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":"$L5","templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["$L6",{},null,false,null]},null,false,"$@7"]},null,false,null],"$L8",false]],"m":"$undefined","G":["$9",["$La","$Lb"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"zM9lERO3SlzCY7qBjKejW"}
+d:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+e:"$Sreact.suspense"
+11:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"ViewportBoundary"]
+13:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"MetadataBoundary"]
+5:["$","$L4",null,{}]
+6:["$","$1","c",{"children":["$Lc",[["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true,"nonce":"$undefined"}]],["$","$Ld",null,{"children":["$","$e",null,{"name":"Next.MetadataOutlet","children":"$@f"}]}]]}]
+10:[]
+7:"$W10"
+8:["$","$1","h",{"children":[null,["$","$L11",null,{"children":"$L12"}],["$","div",null,{"hidden":true,"children":["$","$L13",null,{"children":["$","$e",null,{"name":"Next.Metadata","children":"$L14"}]}]}],null]}]
+a:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0rgbmrr6_b96m.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+b:["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/0t1-qk9~.xa44.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+15:I[22016,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],""]
+16:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
+17:T1bd2,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<p>На что казахстанцам, желающим получить микрокредит, стоит обратить внимание при оформлении договора, сообщило Агентство по регулированию и развитию финансового рынка (АРРФР), передает&nbsp;<a href="https://tengrinews.kz/" target="_blank" rel="noopener">Tengrinews.kz</a>.</p>
+<div class="content_main_inner">
+<div class="content_main_share" data-id="569643" data-type="news">Действия перед оформлением договора</div>
+<div class="content_main_text">
+<p>Прежде чем оформлять договор с микрофинансовой организацией (МФО), необходимо проверить&nbsp;<strong>наличие лицензии у МФО</strong>&nbsp;на официальном сайте АРРФР в разделе "Финансовые рынки", а также&nbsp;<strong>условия</strong>&nbsp;для получения кредита.</p>
+<blockquote>
+<p>"Важно помнить, что получение микрокредита &ndash; это финансовое обязательство. Несоблюдение условий договора может привести к штрафам, росту задолженности и ухудшению кредитной истории. Подходите к решению о займе ответственно", - указывается в сообщении АРРФР.</p>
+</blockquote>
+<h3>На какие пункты в договоре стоит обратить внимание?</h3>
+<p>В договоре микрокредитования должны быть четко прописаны:</p>
+<ul>
+<li><strong>сумма</strong>&nbsp;и&nbsp;<strong>срок</strong>&nbsp;микрокредита;</li>
+<li><strong>график</strong>&nbsp;и&nbsp;<strong>способ погашения</strong>&nbsp;(аннуитетный, дифференцированный и другие);</li>
+<li><strong>годовая ставка вознаграждения</strong>&nbsp;и&nbsp;<strong>годовая эффективная ставка вознаграждения</strong>&nbsp;(ГЭСВ), не превышающая 46 процентов в год (для краткосрочных микрокредитов - 0,3 процента в день, но не более 179 процентов в год);</li>
+<li>порядок&nbsp;<strong>начисления неустойки</strong>&nbsp;при просрочке оплаты кредита;</li>
+<li><strong>меры</strong>, применяемые при нарушении условий договора.
+<p>Нужно учитывать при задолженности&nbsp;<strong>очередность его погашения</strong>, а также порядок&nbsp;<strong>начисления штрафов и пеней</strong>.</p>
+<blockquote>
+<p>"Закон ограничивает размер неустойки: не более 0,5 процента от суммы просроченного платежа за каждый день просрочки в течение 90 дней и не более 0,03 процента в день после этого периода, но не более 10 процентов от суммы микрокредита в год", - отмечается в сообщении.</p>
+</blockquote>
+<p><em>Дифференцированный способ погашения предполагает ежемесячные выплаты фиксированной части основного долга с процентами на остаток, из-за чего платежи постепенно уменьшаются.</em></p>
+<p><em>Аннуитетный способ погашения подразумевает одинаковые ежемесячные платежи, где в начале основная часть уходит на проценты, а в конце - на погашение долга.</em></p>
+<h2>Какие есть права у заемщика?</h2>
+<p>Заемщик, получивший микрокредит, имеет право:</p>
+<ul>
+<li>ознакомиться с&nbsp;<strong>внутренними правилами и тарифами</strong>&nbsp;МФО;</li>
+<li><strong>досрочно погасить</strong>&nbsp;микрокредит&nbsp;<strong>без уплаты штрафов и комиссий</strong>;</li>
+<li>обратиться в МФО в течение 30 календарных дней с даты наступления просрочки с&nbsp;<strong>заявлением о пересмотре условий</strong>&nbsp;(при наличии подтверждающих документов);</li>
+<li>обратиться к&nbsp;<strong>микрофинансовому омбудсману</strong>&nbsp;при отсутствии соглашения с МФО.</li>
+</ul>
+<blockquote>
+<p>"МФО нередко предлагают клиентам дополнительные платные услуги - такие как страхование или консультации. Они оформляются отдельными договорами и увеличивают общую сумму выплат. Если заемщик не согласен на оказание таких услуг, он вправе отказаться от них или обратиться в другую организацию с более прозрачными условиями", - говорится в сообщении АРРФР.</p>
+</blockquote>
+<p>Также стоит быть внимательными при заключении договоров в электронном виде посредством приложений МФО.</p>
+<blockquote>
+<p>"Часто наличие галочки или других знаков свидетельствуют о согласии заключить договоры на дополнительные услуги и другие условия", - уточняется в сообщении.</p>
+</blockquote>
+<h2>Какие изменения будут в сфере кредитования?</h2>
+<p>Напомним, что в Казахстане собираются&nbsp;<a href="https://tengrinews.kz/kazakhstan_news/komu-v-kazahstane-zapretyat-davat-kredityi-569391/">запретить давать кредиты</a>&nbsp;некоторым категориям лиц. Так, будет запрещено предоставлять кредиты и иные кредитные продукты нерезидентам, а также выдавать займы лицам, связанным с банком особыми отношениями.</p>
+<p>Источник: Tengrinews.kz</p>
+</li>
+</ul>
+</div>
+</div>
+</body>
+</html>c:["$","article",null,{"children":[["$","nav",null,{"className":"breadcrumb","children":[["$","$L15",null,{"href":"/","children":"Главная"}]," / ",["$","$L15",null,{"href":"/articles","children":"Статьи"}]," /"," ","Микрокредиты: что нужно знать казахстанцам, чтобы ","…"]}],["$","h1",null,{"className":"page-title","children":"Микрокредиты: что нужно знать казахстанцам, чтобы не попасть в ловушку"}],["$","time",null,{"dateTime":"2025-05-08","children":"8 мая 2025 г."}],["$","$L16",null,{"html":"$17"}]]}]
+12:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+18:I[27201,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"IconMark"]
+f:null
+14:[["$","title","0",{"children":"Микрокредиты: что нужно знать казахстанцам, чтобы не попасть в ловушку | АРРФР"}],["$","meta","1",{"name":"description","content":"Агентство Республики Казахстан по регулированию и развитию финансового рынка (АРРФР): новости, документы, реестры лицензий и защита прав потребителей финансовых услуг"}],["$","link","2",{"rel":"manifest","href":"/manifest.json","crossOrigin":"$undefined"}],["$","meta","3",{"name":"keywords","content":"АРРФР,финансовый регулятор Казахстан,лицензии финансовых организаций,защита прав потребителей финансовых услуг,Агентство финансового рынка"}],["$","meta","4",{"name":"google-site-verification","content":"google-site-verification-code"}],["$","meta","5",{"name":"yandex-verification","content":"yandex-verification-code"}],["$","meta","6",{"property":"og:title","content":"Агентство Республики Казахстан по регулированию и развитию финансового рынка"}],["$","meta","7",{"property":"og:description","content":"Агентство Республики Казахстан по регулированию и развитию финансового рынка"}],["$","meta","8",{"property":"og:site_name","content":"АРРФР"}],["$","meta","9",{"property":"og:locale","content":"ru_RU"}],["$","meta","10",{"property":"og:type","content":"website"}],["$","meta","11",{"name":"twitter:card","content":"summary"}],["$","meta","12",{"name":"twitter:title","content":"Агентство Республики Казахстан по регулированию и развитию финансового рынка"}],["$","meta","13",{"name":"twitter:description","content":"Агентство Республики Казахстан по регулированию и развитию финансового рынка"}],["$","link","14",{"rel":"icon","href":"/favicon.ico?favicon.0x3dzn~oxb6tn.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","15",{"rel":"icon","href":"/favicon.ico"}],["$","link","16",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png"}],["$","$L18","17",{}]]

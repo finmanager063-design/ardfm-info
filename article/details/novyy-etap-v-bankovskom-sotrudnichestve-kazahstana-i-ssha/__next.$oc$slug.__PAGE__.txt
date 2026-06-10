@@ -1,0 +1,21 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],""]
+3:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
+5:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+4:T9cc,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<div class="text">
+<p>В рамках ежегодных встреч Международного валютного фонда и Группы Всемирного Банка 25 октября 2024 года в г. Вашингтоне состоялась встреча Председателя Агентства по регулированию и развитию финансового рынка Мадины Абылкасымовой со Старшим заместителем контролера по надзору за крупными банками Управления контролера денежного обращения США (Office of the Comptroller of the Currency, OCC) Грегом Коулманом,&nbsp;передает&nbsp;<a href="https://dknews.kz/" target="_blank" rel="noopener">DKnews.kz</a>.</p>
+<p>В ходе переговоров были обсуждены вопросы установления двухстороннего сотрудничества по надзору за банками и банковскими группами, осуществляющими деятельность на финансовых рынках США и Казахстана.</p>
+<p>По результатам встречи стороны подписали<span>&nbsp;</span><strong>Меморандум о взаимопонимании<span>&nbsp;</span></strong>между Агентством и OCC в целях обеспечения эффективного трансграничного надзора за банками в соответствии со стандартами Базельского комитета.</p>
+<p>В рамках Меморандума будет обеспечен регулярный обмен информацией о соблюдении банками и банковским группами законодательных актов по банковской деятельности, пруденциальных нормативов и других регуляторных требований. Это позволит регуляторам двух стран проводить комплексную оценку финансового положения и рисков финансовых институтов и их аффилированных зарубежных структур.</p>
+</div>
+<p>&nbsp;</p>
+<p>Источник: DKnews.kz</p>
+</body>
+</html>0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","nav",null,{"className":"breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Главная"}]," / ",["$","$L2",null,{"href":"/articles","children":"Статьи"}]," /"," ","Новый этап в банковском сотрудничестве Казахстана ","…"]}],["$","h1",null,{"className":"page-title","children":"Новый этап в банковском сотрудничестве Казахстана и США"}],["$","time",null,{"dateTime":"2024-11-01","children":"1 ноября 2024 г."}],["$","$L3",null,{"html":"$4"}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zM9lERO3SlzCY7qBjKejW"}
+7:null

@@ -1,0 +1,20 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],""]
+3:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
+5:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+4:Tcb1,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<p align="justify">Агентство Республики Казахстан по регулированию и развитию финансового рынка объявляет о начале отбора по формированию кадрового резерва. С <b>6 октября</b> стартовал прием резюме соискателей, передает пресс-служба финрегулятора.</p>
+<blockquote>
+<p align="justify">&laquo;Приглашаем талантливых и перспективных выпускников вузов и квалифицированных специалистов с опытом работы. Ключевыми критериями при выборе кандидатов будут являться соответствующее образование, высокий уровень квалификации, опыт работы, наличие международных финансовых и языковых сертификатов, а также потенциал кандидата&raquo;, - сказано в объявлении Агентства.</p>
+</blockquote>
+<p align="justify">Выбор лучших кандидатов будет обеспечен путем поэтапного подхода, соискателям будет предложено представить резюме, эссе и пройти собеседование. Кандидаты, отобранные по итогам рассмотрения резюме и эссе, будут приглашены на собеседование с руководителями заинтересованных подразделений. Агентство в поисках начальников управлений и ведущих специалистов.</p>
+<p align="justify">&laquo;Победители отбора зачисляются в кадровый резерв Агентства и в течение года могут быть трудоустроены в Агентство. Утвержденный список лиц, зачисленных в кадровый резерв, размещается на официальном сайте Агентства. Для участия в отборе в период <b>с 6 октября по 5 ноября 2020 года</b> (включительно) на официальном сайте Агентства необходимо скачать шаблон &laquo;Резюме&raquo;, заполнить его согласно требованиям и отправить с фотографией в формате на электронный адрес: <b>cv@finreg.kz</b>&raquo;, - сказано в объявлении.</p>
+<p align="justify"><b>Информацию по трудоустройству и этапах отбора можно получить по телефонам: +7 (727) 278-81-04 (внутренний номер 5430, 5923, 5534). </b>Подать резюме можно <a href="https://www.gov.kz/memleket/entities/ardfm/press/article/details/22830?lang=ru">здесь</a>.&nbsp;</p>
+</body>
+</html>0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","nav",null,{"className":"breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Главная"}]," / ",["$","$L2",null,{"href":"/media/news","children":"Новости"}]," / Новость"]}],["$","h1",null,{"className":"page-title","children":"Агентство объявило о формировании кадрового резерва"}],["$","time",null,{"dateTime":"2020-10-06T14:53:00Z","children":"6 октября 2020 г."}],null,["$","$L3",null,{"html":"$4"}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zM9lERO3SlzCY7qBjKejW"}
+7:null

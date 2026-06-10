@@ -1,0 +1,31 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],""]
+3:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
+9:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+a:"$Sreact.suspense"
+4:T10c0,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<p align="justify"><font size="3" face="times new roman,times,serif">Агентством Республики Казахстан по регулированию и развитию финансового рынка согласованы руководящие работники страхового рынка&nbsp;(по отрасли &laquo;страхование жизни&raquo;):</font></p>
+<ol>
+<li align="justify"><font size="3" face="times new roman,times,serif">Тулеушин К.А. - член Совета директоров &ndash; независимый директор АО &laquo;КСЖ &laquo;Государственная аннуитетная компания&raquo; (протокол №22/СО от 06.04.2020г.);</font></li>
+<li align="justify"><font size="3" face="times new roman,times,serif">Буранбаев А.Б. - член Совета директоров &ndash; независимый директор АО &laquo;КСЖ &laquo;Standard Life&raquo; (протокол № 28/СО от 14.04.2020г.);</font></li>
+<li align="justify"><font size="3" face="times new roman,times,serif">Ли Т.В. - член Совета директоров АО &laquo;КСЖ &laquo;Standard Life&raquo; (протокол № 30/СО от 16.04.2020г.);</font></li>
+<li align="justify"><font size="3" face="times new roman,times,serif">Боранбаева А.К. - управляющий директор &ndash; член Правления АО &laquo;Дочерняя компания Народного Банка Казахстана по страхованию жизни &laquo;Халык-Life&raquo; (протокол №23/СО от 06.04.2020г.);</font></li>
+<li align="justify"><font size="3" face="times new roman,times,serif">Ботанбекова К.А.- управляющий директор АО &laquo;Дочерняя компания Народного Банка Казахстана по страхованию жизни &laquo;Халык-Life&raquo; (протокол №29/СО от 16.04.2020 г.);</font></li>
+<li align="justify"><font size="3" face="times new roman,times,serif">Абдразаков Е.С. - Председатель Совета директоров АО &laquo;Компания по страхованию жизни &laquo;Сентрас Коммеск Life&raquo; (протокол № 18/СО от 27.03.2020 г.);</font></li>
+<li align="justify"><font size="3" face="times new roman,times,serif">Джаксымбетова Г.К. - Председатель Правления, член Совета директоров АО &laquo;Компания по страхованию жизни &laquo;Сентрас Коммеск Life&raquo; (протокол № 17/СО от 27.03.2020 г.);</font></li>
+<li align="justify"><font size="3" face="times new roman,times,serif">Мамажанов А.А. - член Совета директоров &ndash; независимый директор АО &laquo;Компания по страхованию жизни &laquo;Сентрас Коммеск Life&raquo; (протокол № 24/СО от 09.04.2020 г.);</font></li>
+<li align="justify"><font size="3" face="times new roman,times,serif">Ханин О.А. - заместитель Председателя Правления &ndash; член Правления АО &laquo;Компания по страхованию жизни &laquo;Сентрас Коммеск Life&raquo; (протокол № 19/СО от 27.03.2020 г.);</font></li>
+<li align="justify"><font size="3" face="times new roman,times,serif">Тиесова А.М. - заместитель Председателя Правления &ndash; член Правления АО &laquo;Компания по страхованию жизни &laquo;Сентрас Коммеск Life&raquo; (протокол № 16/СО от 27.03.2020 г.);</font></li>
+<li align="justify"><font size="3" face="times new roman,times,serif">Шалгинбаева А.К. - главный бухгалтер АО &laquo;Компания по страхованию жизни &laquo;Сентрас Коммеск Life&raquo; (протокол № 15/СО от 27.03.2020 г.).</font></li>
+</ol>
+</body>
+</html>0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","nav",null,{"className":"breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Главная"}]," / ",["$","$L2",null,{"href":"/media/news","children":"Новости"}]," / Новость"]}],["$","h1",null,{"className":"page-title","children":"Агентством согласованы руководящие работники страхового рынка (по отрасли «страхование жизни»)"}],["$","time",null,{"dateTime":"2020-04-20T00:00:00Z","children":"20 апреля 2020 г."}],null,["$","$L3",null,{"html":"$4"}]]}],["$L5","$L6","$L7"],"$L8"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zM9lERO3SlzCY7qBjKejW"}
+5:["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true}]
+6:["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true}]
+7:["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true}]
+8:["$","$L9",null,{"children":["$","$a",null,{"name":"Next.MetadataOutlet","children":"$@b"}]}]
+b:null

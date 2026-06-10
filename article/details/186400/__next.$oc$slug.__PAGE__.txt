@@ -1,0 +1,20 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],""]
+3:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
+5:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+4:T731,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<p>Агентство по регулированию и развитию финансового рынка (АРРФР) планирует ввести аутсорсинг для страхового брокера, сообщает АРРФР.&nbsp;</p>
+<p>&laquo;Правила работы страхового брокера (посредника между страховыми компаниями и их клиентами, который помогают людям выбрать подходящую страховую программу у одного страховщика или же сравнить между собой предложения нескольких компаний и предлагают широкий выбор полисов: каско, страхования жизни, имущества и другие &ndash; КазТАГ), дополняются аутсорсингом&raquo;, - говорится в проекте постановления АРРФР по внесению изменений и дополнений по вопросам регулирования страхового рынка.</p>
+<p>Согласно информации, страховой брокер может привлечь внешних подрядчиков для выполнения отдельных операций или бизнес-процессов.&nbsp;&nbsp;</p>
+<div><font size="4">Страховая организация несет полную ответственность за функции, переданные на аутсорсинг, добавлено в проекте постановления.</font></div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div><font size="4">Источник: КазТАГ</font></div>
+</body>
+</html>0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","nav",null,{"className":"breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Главная"}]," / ",["$","$L2",null,{"href":"/articles","children":"Статьи"}]," /"," ","Аутсорсинг для страхового брокера в Казахстане пла","…"]}],["$","h1",null,{"className":"page-title","children":"Аутсорсинг для страхового брокера в Казахстане планирует ввести АРРФР"}],["$","time",null,{"dateTime":"2024-11-11","children":"11 ноября 2024 г."}],["$","$L3",null,{"html":"$4"}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zM9lERO3SlzCY7qBjKejW"}
+7:null

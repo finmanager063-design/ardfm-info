@@ -1,0 +1,55 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],""]
+3:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
+9:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+a:"$Sreact.suspense"
+4:T26dd,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<p><strong class="formatted-body__strong">Казахстанцы могут столкнуться с блокировкой своего банковского счета. Первым делом нужно выяснить причину произошедшего, потому что от этого зависят дальнейшие действия. Об этом &ndash; на NUR.KZ.</strong></p>
+<p class="align-left formatted-body__paragraph">Блокировка счета всегда выглядит одинаково &ndash; человек открывает приложение банка, но не может воспользоваться своими деньгами. Паниковать в этом случае не стоит, однако нужно действовать оперативно.</p>
+<p class="align-left formatted-body__paragraph">Как отмечает&nbsp;<a class="formatted-body__link" href="https://www.gov.kz/memleket/entities/ardfm/press/news/details/1205096?lang=ru" target="_blank" rel="noopener">Агентство РК по регулированию и развитию финансового рынка</a>, первым делом нужно выяснить причину блокировки. Только после этого станет ясно, что нужно делать дальше.</p>
+<p class="align-left formatted-body__paragraph"><strong class="formatted-body__strong">Причины блокировки банковского счета могут быть разными:</strong></p>
+<ul class="formatted-body__list">
+<li class="formatted-body__list-item">подозрение на мошеннические или необычные операции &ndash; под это определение могут попасть даже крупные и частые переводы, особенно из-за границы;</li>
+<li class="formatted-body__list-item">блокировка по запросу государственных органов, например, налоговой службы, судебного исполнителя или органов финансового мониторинга;</li>
+<li class="formatted-body__list-item">технический сбой или ошибка в системе банка;</li>
+<li class="formatted-body__list-item">истечение срока действия карты.</li>
+</ul>
+<h2 id="i5hn3g" class="formatted-body__header2">Что делать, если счет заблокировали из-за переводов</h2>
+<p class="align-left formatted-body__paragraph">Банк может временно заблокировать карту&nbsp;<a class="formatted-body__link" href="https://www.nur.kz/nurfin/banks/2274858-chto-delat-kazahstancam-esli-bank-zablokiroval-kartu-za-chastye-perevody/">при выявлении необычных операций у клиента.</a></p>
+<p class="align-left formatted-body__paragraph">Это может произойти, если клиент получает крупные денежные переводы, особенно из-за границы. Также под подозрение могут попасть частые переводы на разные счета или операции на подозрительных онлайн-платформах.</p>
+<p class="align-left formatted-body__paragraph">Банк в таких случаях просто страхуется. Чтобы разблокировать счет, нужно связаться с банком и подтвердить, что операцию провел владелец счета. Если суммы транзакций были внушительными, возможно, придется подтвердить происхождение средств.</p>
+<aside id="js-adfox-mobile-slot3-2368755" data-lazyload-adfox-ad="1" data-id="js-adfox-mobile-slot3" data-adfox-loaded="true"></aside>
+<h2 id="m49z1" class="formatted-body__header2">Что делать, если счет заблокировали по решению суда</h2>
+<p class="align-left formatted-body__paragraph">Также казахстанцы могут столкнуться с арестом счетов&nbsp;<a class="formatted-body__link" href="https://www.nur.kz/nurfin/fines-and-taxes/2240073-kak-bystro-arestuyut-scheta-esli-ne-platit-nalogi-v-kazahstane/">из-за наличия задолженности</a>&nbsp;по кредитам, налогам, штрафам и даже алиментам.</p>
+<aside id="js-adfox-interscroller-2368755" class="adv-interscroller" data-lazyload-adfox-ad="1" data-id="js-adfox-interscroller" data-adfox-loaded="true"></aside>
+<aside id="js-adfox-scrollroll-2368755" class="adv-scrollroll" data-lazyload-adfox-ad="1" data-id="js-adfox-scrollroll" data-adfox-loaded="true"></aside>
+<p class="align-left formatted-body__paragraph">В таких случаях блокировка не становится внезапной &ndash; должнику сначала присылают уведомление и дают время на то, чтобы закрыть задолженность. Чтобы избавиться от ареста, придется сначала погасить долги и связаться с судебным исполнителем, который делал запрос на блокировку.</p>
+<h2 id="o6nrk" class="formatted-body__header2">Что делать, если блокировка произошла из-за ошибки банка</h2>
+<p class="align-left formatted-body__paragraph">В случаях, когда причин для блокировки не было, нужно связаться с банком через Call-центр или обратиться в ближайшее отделение, чтобы сообщить о произошедшем.</p>
+<p class="align-left formatted-body__paragraph">После этого следует уточнить у менеджера банка, какие действия необходимы для восстановления доступа. Вероятнее всего, ошибку оперативно исправят. Если проблема не решится, следует подать еще одно обращение для ее устранения.</p>
+<p class="align-left formatted-body__paragraph">При необходимости&nbsp;<a class="formatted-body__link" href="https://www.nur.kz/nurfin/personal/2240634-chto-delat-esli-zablokirovali-kartu-v-kazahstane/#jy8cp">можно будет подать жалобу</a>&nbsp;в Агентство РК по регулированию и развитию финансового рынка. В крайнем случае есть возможность обжаловать действия банка в судебном порядке.</p>
+<h2 id="xvh4o" class="formatted-body__header2">Что делать, если истек срок действия карточки</h2>
+<p class="align-left formatted-body__paragraph">Иногда приостановка обслуживания может быть ожидаемой. Например, это случается, когда срок действия карты подходит к концу. В такой ситуации достаточно перевыпустить ее.</p>
+<p class="align-left formatted-body__paragraph">Кроме того, банк может приостановить обслуживание в случае истечения срока действия удостоверения личности. По аналогии с карточкой, чтобы не столкнуться с блокировкой, нужно следить за актуальностью документов и&nbsp;<a class="formatted-body__link" href="https://www.nur.kz/nurfin/fines-and-taxes/2325320-vydacha-pasporta-podorozhala-na-10-skolko-stoyat-dokumenty-v-2026-godu-v-kazahstane/">заранее их обновлять.</a></p>
+<p class="align-left formatted-body__paragraph"><strong class="formatted-body__strong">Как снизить риск блокировки:</strong></p>
+<ul class="formatted-body__list">
+<li class="formatted-body__list-item">не использовать личный счет для предпринимательской деятельности;</li>
+<li class="formatted-body__list-item">заранее уведомлять банк о крупных переводах и иных нетипичных операциях;</li>
+<li class="formatted-body__list-item">следить за актуальностью персональных данных и сроками действия документов;</li>
+<li class="formatted-body__list-item">регулярно проверять наличие задолженностей и своевременно их погашать.</li>
+</ul>
+<p class="align-left formatted-body__paragraph">Таким образом, блокировка банковской карты может быть как временной мерой для защиты клиента, так и сигналом о наличии серьезных проблем вроде задолженностей или ошибок в документах. В обоих случаях игнорировать ситуацию нельзя &ndash; следует сразу выяснить причину и устранить первоисточник проблемы.</p>
+<p class="align-left formatted-body__paragraph">&nbsp;</p>
+<p class="align-left formatted-body__paragraph">Источник: NUR.kz</p>
+<p class="align-left formatted-body__paragraph">&nbsp;</p>
+</body>
+</html>0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","nav",null,{"className":"breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Главная"}]," / ",["$","$L2",null,{"href":"/articles","children":"Статьи"}]," /"," ","Что делать, если заблокировали банковский счет в К","…"]}],["$","h1",null,{"className":"page-title","children":"Что делать, если заблокировали банковский счет в Казахстане"}],["$","time",null,{"dateTime":"2026-04-22","children":"22 апреля 2026 г."}],["$","$L3",null,{"html":"$4"}]]}],["$L5","$L6","$L7"],"$L8"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zM9lERO3SlzCY7qBjKejW"}
+5:["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true}]
+6:["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true}]
+7:["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true}]
+8:["$","$L9",null,{"children":["$","$a",null,{"name":"Next.MetadataOutlet","children":"$@b"}]}]
+b:null

@@ -1,0 +1,17 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],""]
+3:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
+5:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+4:T658,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<p align="justify">В соответствии с решением Комиссии при Агентстве Республики Казахстан по регулированию и развитию финансового рынка по вопросам определения соответствия кандидатов на должности руководящих работников финансовых организаций, банковских, страховых холдингов, АО &laquo;Фонд гарантирования страховых выплат&raquo; согласованы следующие руководящие работники:</p>
+<p align="justify">1.Егембердиева С.Т. на должность заместителя Председателя Правления &ndash; члена Правления АО &laquo;КК ЗиМС Интертич&raquo; (протокол № 59/СО/Т от 11 декабря 2020 г.);</p>
+<p align="justify">2.Кулишова О.А. на должность члена Правления &ndash; Финансовый директор АО &laquo;Компания по страхованию жизни &laquo;KM Life&raquo; (протокол № 61/СО от 23 декабря 2020 г.);</p>
+<p align="justify">3.Абдигалиева Н.У. на должность и.о. главного бугхалтера АО &laquo;Страховая компания &laquo;Freedom Finance Insurance&raquo; (протокол № 60/СО/Т от 21 декабря 2020 г.).</p>
+</body>
+</html>0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","nav",null,{"className":"breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Главная"}]," / ",["$","$L2",null,{"href":"/media/news","children":"Новости"}]," / Новость"]}],["$","h1",null,{"className":"page-title","children":"Агентством Республики Казахстан по регулированию и развитию финансового рынка согласованы следующие руководящие работники страхового рынка"}],["$","time",null,{"dateTime":"2020-12-28T15:41:00Z","children":"28 декабря 2020 г."}],null,["$","$L3",null,{"html":"$4"}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zM9lERO3SlzCY7qBjKejW"}
+7:null

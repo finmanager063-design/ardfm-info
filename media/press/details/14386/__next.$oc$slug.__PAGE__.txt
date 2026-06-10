@@ -1,0 +1,18 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],""]
+3:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
+5:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+4:Te4d,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<p>Агентством Республики Казахстан по регулированию и развитию финансового рынка (далее &ndash; Агентство) 15 сентября принято постановление Правления № 59 &laquo;Об утверждении размеров таргетируемой убыточности и фактора достоверности, используемых для расчета страховой премии по обязательному страхованию гражданско-правовой ответственности владельцев транспортных средств в соответствии с Законом Республики Казахстан &laquo;Об обязательном страховании гражданско-правовой ответственности владельцев транспортных средств&raquo; на 2026 год&raquo; (далее &ndash; Постановление).</p>
+<p>Постановлением утверждены таргетируемая убыточность в размере <strong>65%</strong> и фактор достоверности в размере <strong>10%</strong> на 2026 год, используемые для расчета поправочных коэффициентов к коэффициентам по территории регистрации транспортного средства.</p>
+<p>Поправочные коэффициенты, в свою очередь, будут применены для расчета страховой премии по обязательному страхованию гражданско-правовой ответственности владельцев транспортных средств (далее &ndash; ОГПО ВТС), наряду с коэффициентами в зависимости от типа транспортного средства, возраста и стажа вождения страхователя, срока эксплуатации транспортного средства и наличия или отсутствия страховых случаев (система &laquo;бонус-малус&raquo;), установленными Законом ОГПО ВТС.</p>
+<p>Размеры поправочных коэффициентов будут рассчитаны Единой страховой базой данных и будут утверждены Агентством <strong>до 10 рабочего дня ноября</strong> <strong>текущего года</strong> в соответствии с Правилами, утвержденными Постановлением Агентства от 7 июня 2023 года № 46.</p>
+<p>С полным текстом Постановления можно ознакомиться в Эталонном контрольном банке нормативных правовых актов Республики Казахстан (<a href="https://zan.gov.kz/client/#!/doc/214520/rus">https://zan.gov.kz/client/#!/doc/214520/rus</a>) и на официальном интернет-ресурсе Агентства Республики Казахстан по регулированию и развитию финансового рынка (<a href="https://www.gov.kz/memleket/entities/ardfm/documents/details/902309?lang=ru">https://www.gov.kz/memleket/entities/ardfm/documents/details/902309?lang=ru</a>).</p>
+</body>
+</html>0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","nav",null,{"className":"breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Главная"}]," / ",["$","$L2",null,{"href":"/media/press","children":"Пресс-релизы"}]]}],["$","h1",null,{"className":"page-title","children":"Утверждены показатели для расчета стоимости обязательного автострахования"}],["$","time",null,{"children":"1 октября 2025 г."}],"$undefined",["$","$L3",null,{"html":"$4"}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zM9lERO3SlzCY7qBjKejW"}
+7:null

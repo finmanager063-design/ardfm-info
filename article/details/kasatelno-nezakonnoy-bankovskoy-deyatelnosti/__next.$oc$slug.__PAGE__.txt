@@ -1,0 +1,36 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],""]
+3:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
+9:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+a:"$Sreact.suspense"
+4:T1efa,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<p class="p1" style="margin: 0cm; margin-bottom: .0001pt; text-align: justify; text-indent: 35.4pt;" align="justify"><span class="s1"><span style="font-size: 14.0pt;">Агентство РК по регулированию и развитию финансового рынка доводит до вашего сведения, что в отдельных регионах&nbsp;Казахстана осуществляют незаконную банковскую деятельность организации,&nbsp;имеющее признаки финансовой (инвестиционной) пирамиды, такие как &laquo;Гарант 24 Ломбард&raquo;,&nbsp;&laquo;Estate&nbsp;Ломбард&raquo;.</span></span><span style="font-size: 14.0pt;"></span></p>
+<p class="p1" style="margin: 0cm; margin-bottom: .0001pt; text-align: justify;" align="justify"><span class="s1"><span style="font-size: 14.0pt;">Отличительной особенностью&nbsp;финансовых пирамид&nbsp;является:</span></span><span style="font-size: 14.0pt;"></span></p>
+<p class="p1" style="margin: 0cm; margin-bottom: .0001pt; text-align: justify;" align="justify"><span class="s1"><span style="font-size: 14.0pt;">- обещание очень высокой доходности;</span></span><span style="font-size: 14.0pt;"></span></p>
+<p class="p1" style="margin: 0cm; margin-bottom: .0001pt; text-align: justify;" align="justify"><span class="s1"><span style="font-size: 14.0pt;">- получение вознаграждения за привлечение новых участников;</span></span><span style="font-size: 14.0pt;"></span></p>
+<p class="p1" style="margin: 0cm; margin-bottom: .0001pt; text-align: justify;" align="justify"><span class="s1"><span style="font-size: 14.0pt;">- убеждение в гарантированности возврата инвестиций;</span></span><span style="font-size: 14.0pt;"></span></p>
+<p class="p1" style="margin: 0cm; margin-bottom: .0001pt; text-align: justify;" align="justify"><span class="s1"><span style="font-size: 14.0pt;">- использование фиктивных объектов инвестирования;</span></span><span style="font-size: 14.0pt;"></span></p>
+<p class="p1" style="margin: 0cm; margin-bottom: .0001pt; text-align: justify;" align="justify"><span class="s1"><span style="font-size: 14.0pt;">- использование масштабной рекламной кампании.</span></span><span style="font-size: 14.0pt;"></span></p>
+<p class="p1" style="margin: 0cm; margin-bottom: .0001pt; text-align: justify; text-indent: 35.4pt;" align="justify"><span class="s1"><span style="font-size: 14.0pt;">Как правило, финансовые (инвестиционные) пирамиды вовлекают в свою&nbsp;противоправную&nbsp;деятельность доверчивых граждан&nbsp;посредством распространения и размещения своей рекламы в Интернете.</span></span></p>
+<p align="justify"><span>Необходимо отметить, что в офисах данных&nbsp;компаний регулярно проводятся&nbsp;рекламные акции&nbsp;по привлечению людей для открытия &laquo;депозитов&raquo;.</span></p>
+<p align="justify"><span>Кроме того, на официальных сайтах компаний размещаются инвестиционные программы, в которых указывается о необходимости открытия &laquo;депозита&raquo; для получения высокого дохода.&nbsp;При этом внесенные деньги вносятся непосредственно в кассу компаний, что указывает на незаконную банковскую деятельность.</span></p>
+<p align="justify"><span>В соответствии с подпунктом 8) статьи 2 Закона Республики Казахстан &laquo;О банках и банковской деятельности в Республике Казахстан&raquo; (далее &ndash; Закон о банках)&nbsp;</span><span>&nbsp;</span><span>депозит - деньги, передаваемые одним лицом (депозитором) другому лицу - банку, в том числе финрегулятору и Национальному оператору почты, на условиях их возврата в номинальном выражении.</span></p>
+<p align="justify"><span>Согласно Закону о банках, к банковским операциям относится прием депозитов, и ни одно лицо, не имеющее соответствующей лицензии уполномоченного органа, не имеет права выполнять банковские операции в качестве основной или дополнительной деятельности. Банковские операции, осуществленные без лицензии уполномоченного органа - Агентства РК по регулированию и развитию финансового рынка, являются недействительными.</span></p>
+<p align="justify"><span>В свою очередь отмечаем, что данные компании не обладают специальным разрешением (лицензией) на осуществление банковской деятельности (банковских операций).</span></p>
+<p align="justify"><span>Статьей 150 Кодекса Республики Казахстан об административных правонарушения (далее &ndash; КоАП) установлена административная ответственность за производство, распространение и размещение рекламы деятельности финансовой (инвестиционной) пирамиды.</span></p>
+<p align="justify"><span>Статьей 155 КоАП установлена административная ответственность за осуществление банковской деятельности (банковских операций) без специального разрешения (лицензии) в случаях, когда такое разрешение (лицензия) обязательно, сопряженное с извлечением дохода в крупном размере, если это действие не содержит признаков уголовно наказуемого деяния.</span></p>
+<p align="justify"><span>При выявления вами признаков финансовых пирамид вам необходимо незамедлительно обратиться в правоохранительные органы.</span></p>
+<p align="justify"><span>В случае возникновения вопросов обращайтесь в Департамент защиты прав потребителей финансовых услуг Агентства РК по регулированию и развитию финансового рынка по электронной почте </span><a href="mailto:Fingramota@finreg.kz">Fingramota@finreg.kz</a><span>.&nbsp;</span></p>
+<p>&nbsp;</p>
+<p class="p1" style="margin: 0cm; margin-bottom: .0001pt; text-align: justify; text-indent: 35.4pt;">&nbsp;</p>
+</body>
+</html>0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","nav",null,{"className":"breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Главная"}]," / ",["$","$L2",null,{"href":"/articles","children":"Статьи"}]," /"," ","Касательно незаконной банковской деятельности","…"]}],["$","h1",null,{"className":"page-title","children":"Касательно незаконной банковской деятельности"}],["$","time",null,{"dateTime":"2020-02-22","children":"22 февраля 2020 г."}],["$","$L3",null,{"html":"$4"}]]}],["$L5","$L6","$L7"],"$L8"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zM9lERO3SlzCY7qBjKejW"}
+5:["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true}]
+6:["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true}]
+7:["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true}]
+8:["$","$L9",null,{"children":["$","$a",null,{"name":"Next.MetadataOutlet","children":"$@b"}]}]
+b:null

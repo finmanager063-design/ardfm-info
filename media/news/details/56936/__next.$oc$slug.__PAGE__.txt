@@ -1,0 +1,17 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],""]
+3:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
+5:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+4:T80c,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<p align="justify">В рамках требований систем управления рисками и внутреннего контроля банкам второго уровня и страховым организациям необходимо обеспечивать запас капитала c учетом рисков, присущих деятельности финансовых организаций. Это касается результатов стресс-тестирования финансовой устойчивости по отношению к внутренним и внешним факторам риска для обеспечения непрерывной и стабильной деятельности института в долгосрочной перспективе.</p>
+<p align="justify">Распространение пандемии коронавирусной инфекции (COVID-19) оказывает негативное влияние на казахстанские предприятия, в частности через снижение выручки и доходов реального сектора экономики. &nbsp;&nbsp;</p>
+<p align="justify">В условиях растущих рисков ухудшения качества активов и снижения прибыльности финансовым организациям необходимо использовать запас капитала для покрытия данных рисков и кредитования экономики.</p>
+<p align="justify">В этой связи, финансовый регулятор рекомендовал банкам и страховым организациям не распределять накопленную чистую прибыль для выплаты дивидендов в текущем году и не осуществлять обратный выкуп акций.</p>
+</body>
+</html>0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","nav",null,{"className":"breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Главная"}]," / ",["$","$L2",null,{"href":"/media/news","children":"Новости"}]," / Новость"]}],["$","h1",null,{"className":"page-title","children":"Финансовый регулятор рекомендует банкам второго уровня и страховым организациям не распределять накопленную чистую прибыль для выплаты дивидендов в текущем году и не осуществлять обратный выкуп акций"}],["$","time",null,{"dateTime":"2020-04-20T17:58:00Z","children":"20 апреля 2020 г."}],null,["$","$L3",null,{"html":"$4"}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zM9lERO3SlzCY7qBjKejW"}
+7:null

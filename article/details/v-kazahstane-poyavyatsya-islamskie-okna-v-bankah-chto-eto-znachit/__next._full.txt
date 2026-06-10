@@ -1,0 +1,99 @@
+1:"$Sreact.fragment"
+2:I[50612,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"ShellWrapper"]
+3:I[39756,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"default"]
+4:I[37457,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"default"]
+9:I[68027,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"default",1]
+:HL["/_next/static/chunks/0rgbmrr6_b96m.css","style"]
+:HL["/_next/static/chunks/0t1-qk9~.xa44.css","style"]
+:HL["https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap","style"]
+0:{"P":null,"c":["","article","details","v-kazahstane-poyavyatsya-islamskie-okna-v-bankah-chto-eto-znachit",""],"q":"","i":false,"f":[[["",{"children":[["slug","article/details/v-kazahstane-poyavyatsya-islamskie-okna-v-bankah-chto-eto-znachit","oc",null],{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0rgbmrr6_b96m.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/0t1-qk9~.xa44.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0w5bf6qo2zbxc.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/0_t29vi~hh.tn.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ru","className":"notranslate","children":[["$","head",null,{"children":[["$","link",null,{"rel":"icon","href":"/favicon.ico"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap","rel":"stylesheet"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"GovernmentOrganization\",\"name\":\"Агентство Республики Казахстан по регулированию и развитию финансового рынка\",\"alternateName\":\"АРРФР\",\"description\":\"Агентство Республики Казахстан по регулированию и развитию финансового рынка — государственный орган, осуществляющий регулирование и надзор на финансовом рынке\",\"url\":\"https://govkz.online\",\"address\":{\"@type\":\"PostalAddress\",\"addressCountry\":\"KZ\",\"addressLocality\":\"Астана\",\"streetAddress\":\"проспект Мәңгілік Ел, 20а\",\"postalCode\":\"010000\"},\"telephone\":\"+7-7172-79-00-00\",\"image\":\"https://govkz.online/images/og-image.jpg\",\"knowsAbout\":[\"Регулирование финансового рынка\",\"Банковский надзор\",\"Страховой надзор\",\"Рынок ценных бумаг\",\"Микрофинансовые организации\",\"Защита прав потребителей финансовых услуг\"],\"parentOrganization\":{\"@type\":\"GovernmentOrganization\",\"name\":\"Правительство Республики Казахстан\"}}"}}]]}],["$","body",null,{"children":["$","$L2",null,{"meta":{"syncedAt":"2026-05-29T09:02:13.563Z","source":"https://www.gov.kz/memleket/entities/ardfm","entityTitle":"Агентство Республики Казахстан по регулированию и развитию финансового рынка","entityShort":"АРРФР","contacts":{"telegram":{"username":"finance_regulator_bot","handle":"@finance_regulator_bot","url":"https://t.me/finance_regulator_bot"}}},"children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":"$L5","templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["$L6",{},null,false,null]},null,false,"$@7"]},null,false,null],"$L8",false]],"m":"$undefined","G":["$9",["$La","$Lb"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"zM9lERO3SlzCY7qBjKejW"}
+d:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+e:"$Sreact.suspense"
+11:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"ViewportBoundary"]
+13:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"MetadataBoundary"]
+5:["$","$L4",null,{}]
+6:["$","$1","c",{"children":["$Lc",[["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true,"nonce":"$undefined"}]],["$","$Ld",null,{"children":["$","$e",null,{"name":"Next.MetadataOutlet","children":"$@f"}]}]]}]
+10:[]
+7:"$W10"
+8:["$","$1","h",{"children":[null,["$","$L11",null,{"children":"$L12"}],["$","div",null,{"hidden":true,"children":["$","$L13",null,{"children":["$","$e",null,{"name":"Next.Metadata","children":"$L14"}]}]}],null]}]
+a:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0rgbmrr6_b96m.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+b:["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/0t1-qk9~.xa44.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+15:I[22016,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],""]
+16:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
+17:T27cd,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<p>В Казахстане планируют дать возможность местным банкам оказывать услуги казахстанцам по принципам исламского финансирования, передаёт корреспондент&nbsp;<a href="https://tengrinews.kz/" target="_blank" rel="noopener">Tengrinews.kz</a>.</p>
+<div class="content_main_share" data-id="582306" data-type="news"><span style="color: #3b4256; font-size: 20px;">То есть любой казахстанский банк сможет открыть депозит, дать финансирование или другую услугу через так называемые "исламские окна". Для этого ему не надо будет получать отдельную лицензию, а просто открыть внутри своего бизнеса специализированный отдел.</span></div>
+<div class="content_main_text">
+<div class="tn_info_material tn_info_material--no-icon"><strong>Справка.</strong>&nbsp;В настоящее время исламские операции в стране разрешены только через создание отдельного исламского банка. Так, в республике сейчас работают две такие финорганизации - иностранный банк "Коммерческий банк Абу-Даби" и казахстанский банк "Заман Банк". При этом их совокупная доля составляет менее 0,5 процента активов всей банковской системы Казахстана.</div>
+<h2>Чем отличается от обычных услуг в банках?</h2>
+<p>Это направление в банке отличается тем, что операции будут проводится по принципам исламского финансирования.</p>
+<div class="content_main_share" data-id="582306" data-type="news"><span style="color: #3b4256; font-size: 20px;">То есть любой казахстанский банк сможет открыть депозит, дать финансирование или другую услугу через так называемые "исламские окна". Для этого ему не надо будет получать отдельную лицензию, а просто открыть внутри своего бизнеса специализированный отдел.</span></div>
+<div class="content_main_text">
+<div class="tn_info_material tn_info_material--no-icon"><strong>Справка.</strong>&nbsp;В настоящее время исламские операции в стране разрешены только через создание отдельного исламского банка. Так, в республике сейчас работают две такие финорганизации - иностранный банк "Коммерческий банк Абу-Даби" и казахстанский банк "Заман Банк". При этом их совокупная доля составляет менее 0,5 процента активов всей банковской системы Казахстана.</div>
+<h2>Чем отличается от обычных услуг в банках?</h2>
+<p>Это направление в банке отличается тем, что операции будут проводится по принципам исламского финансирования.</p>
+<div class="tn-inpage">
+<div id="adfox_160136414229977809">
+<div id="yandex_rtb_874475611" class="UZznxc yandex_rtb_R-A-2448216-14">
+<div>
+<div data-name="shadow-root-inner">
+<div class="ue0c72965 vfc0cde64 pb05f2e67" data-animation-state="idle">
+<div class="oc3f760b0 he1116d8d i3d466e66 l267adb61 adfbfa58d" data-root="" data-name="visibility-slot" data-headersize="none" data-theme="light" data-ecomdata="">
+<div class="q2c7bc2dc o19fd1e65">
+<div class="eb67d7dd9 w88a9b60 mbcdceb63">
+<div class="p2fa47471" data-name="background-slot">
+<div>&nbsp;</div>
+</div>
+</div>
+<div class="l8f619075 s54bac83 h8a86fe4c" data-name="disclaimer">ЕСТЬ ПРОТИВОПОКАЗАНИЯ. ПОСОВЕТУЙТЕСЬ С ВРАЧОМ</div>
+<div class="fd64104f2 p8e18e3c0 raa4eefa">&nbsp;</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p>Главное отличие исламских банковских услуг в Казахстане заключается в том, что вместо кредитов под проценты используются договоры купли-продажи, аренды или партнерства.</p>
+<p>Прибыль банка формируется за счёт наценки или доли в совместной деятельности, а не процентов. Клиент и банк делят риски и прибыль, при этом исключаются сделки с неопределёнными условиями и спекулятивный доход. Например, при покупке автомобиля банк сам приобретает его и передает клиенту в рассрочку без начисления процентов.</p>
+<h3>Примеры исламских услуг, которые разрешены в Казахстане:</h3>
+<ul>
+<li>Депозиты без процентов (вклады до востребования, инвестиционные депозиты &ndash; мудараба);</li>
+<li><a href="https://nationalbank.kz/ru/page/zakonodatelnaya-baza?utm_source=chatgpt.com" rel="nofollow">Заемные операции без процентов</a>&nbsp;(кард аль-хасан);</li>
+<li>Мурабаха &ndash; торговое финансирование (банк покупает товар и продает клиенту с наценкой, но без процентов);</li>
+<li>Мушарака &ndash; финансирование на условиях партнерства (совместное участие банка и клиента в бизнесе);</li>
+<li>Иджара &ndash; аренда/лизинг;</li>
+<li>Вакала &ndash; агентские услуги.</li>
+</ul>
+<p>Такие подразделения будут организационно обособлены от основной деятельности банка:</p>
+<ul>
+<li>активы и обязательства будут учитываться отдельно;</li>
+<li>формы отчётности будут адаптированы под исламские операции;</li>
+<li>раздельный финансовый учет;</li>
+<li>персонал пройдёт подготовку по исламским продуктам;</li>
+<li>продукты будут утверждаться специальным советом по соответствию шариату, который также будет проводить аудит.</li>
+</ul>
+<h2>Зачем это нужно?</h2>
+<p>Как сообщил заместитель председателя АРРФР Даурен Салимбаев, запуск "исламских окон" создаст конкуренцию на рынке и расширит доступ казахстанцев и бизнеса к исламским продуктам.</p>
+<p>Он отметил, что для Казахстана выбрана гибкая модель регулирования, как в Малайзии и Пакистане.</p>
+<blockquote>
+<p>"Гибкое регулирование создает условия для гармоничного сочетания традиционного и исламского банковского бизнеса, что позволит использовать синергию между ними, повысить эффективность финансового посредничества и укрепить устойчивость системы. В перспективе это не только укрепит позиции Казахстана как ведущего финансового хаба Центральной Азии, но и повысит доверие к финансовому рынку, ускорит его интеграцию в глобальную экономику и откроет новые возможности для привлечения капитала", - подчеркнул Салимбаев.</p>
+</blockquote>
+<p>При этом особое внимание регулятор уделяет риску несоответствия шариату: нарушение этих принципов может привести не только к финансовым потерям, но и к репутационным издержкам для банков.</p>
+<div class="tn_info_material tn_info_material--no-icon"><strong>Справка.</strong>&nbsp;Правовую базу для исламского финансирования в Казахстане заложили в 2009 году. Тогда, 12 февраля, был принят закон "О внесении изменений и дополнений в некоторые законодательные акты Республики Казахстан по вопросам организации и деятельности исламских банков и организации исламского финансирования".</div>
+<p>Вместе с тем планируется, что проект нового закона "О банках и банковской деятельности" будет принят до конца текущего года.</p>
+<p>&nbsp;</p>
+<p>Источник: Tengrinews.kz</p>
+</div>
+</div>
+</body>
+</html>c:["$","article",null,{"children":[["$","nav",null,{"className":"breadcrumb","children":[["$","$L15",null,{"href":"/","children":"Главная"}]," / ",["$","$L15",null,{"href":"/articles","children":"Статьи"}]," /"," ","В Казахстане появятся “исламские окна“ в банках: ч","…"]}],["$","h1",null,{"className":"page-title","children":"В Казахстане появятся “исламские окна“ в банках: что это значит"}],["$","time",null,{"dateTime":"2025-10-03","children":"3 октября 2025 г."}],["$","$L16",null,{"html":"$17"}]]}]
+12:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+18:I[27201,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"IconMark"]
+f:null
+14:[["$","title","0",{"children":"В Казахстане появятся “исламские окна“ в банках: что это значит | АРРФР"}],["$","meta","1",{"name":"description","content":"Агентство Республики Казахстан по регулированию и развитию финансового рынка (АРРФР): новости, документы, реестры лицензий и защита прав потребителей финансовых услуг"}],["$","link","2",{"rel":"manifest","href":"/manifest.json","crossOrigin":"$undefined"}],["$","meta","3",{"name":"keywords","content":"АРРФР,финансовый регулятор Казахстан,лицензии финансовых организаций,защита прав потребителей финансовых услуг,Агентство финансового рынка"}],["$","meta","4",{"name":"google-site-verification","content":"google-site-verification-code"}],["$","meta","5",{"name":"yandex-verification","content":"yandex-verification-code"}],["$","meta","6",{"property":"og:title","content":"Агентство Республики Казахстан по регулированию и развитию финансового рынка"}],["$","meta","7",{"property":"og:description","content":"Агентство Республики Казахстан по регулированию и развитию финансового рынка"}],["$","meta","8",{"property":"og:site_name","content":"АРРФР"}],["$","meta","9",{"property":"og:locale","content":"ru_RU"}],["$","meta","10",{"property":"og:type","content":"website"}],["$","meta","11",{"name":"twitter:card","content":"summary"}],["$","meta","12",{"name":"twitter:title","content":"Агентство Республики Казахстан по регулированию и развитию финансового рынка"}],["$","meta","13",{"name":"twitter:description","content":"Агентство Республики Казахстан по регулированию и развитию финансового рынка"}],["$","link","14",{"rel":"icon","href":"/favicon.ico?favicon.0x3dzn~oxb6tn.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","15",{"rel":"icon","href":"/favicon.ico"}],["$","link","16",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png"}],["$","$L18","17",{}]]

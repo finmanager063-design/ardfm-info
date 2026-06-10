@@ -1,0 +1,83 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],""]
+3:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
+9:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+a:"$Sreact.suspense"
+4:T14c3,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<table width="688">
+<tbody>
+<tr>
+<td width="262">
+<p><strong>&laquo;ҚАЗАҚСТАН РЕСПУБЛИКАСЫНЫҢ</strong></p>
+<p><strong>ҚАРЖЫ НАРЫҒЫН РЕТТЕУ ЖӘНЕ ДАМЫТУ АГЕНТТІГІ&raquo;</strong></p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>РЕСПУБЛИКАЛЫҚ МЕМЛЕКЕТТІК МЕКЕМЕСІ</strong></p>
+</td>
+<td width="142">&nbsp;</td>
+<td width="284">
+<p><strong>РЕСПУБЛИКАНСКОЕ ГОСУДАРСТВЕННОЕ УЧРЕЖДЕНИЕ</strong></p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>&laquo;АГЕНТСТВО РЕСПУБЛИКИ</strong></p>
+<p><strong>КАЗАХСТАН ПО РЕГУЛИРОВАНИЮ</strong></p>
+<p><strong>И РАЗВИТИЮ ФИНАНСОВОГО РЫНКА&raquo;</strong></p>
+</td>
+</tr>
+<tr>
+<td width="262">
+<p><strong>&nbsp;</strong></p>
+<p><strong>БАСҚАРМАСЫНЫҢ</strong></p>
+<p><strong>ҚАУЛЫСЫ</strong></p>
+</td>
+<td width="142">
+<p><strong>&nbsp;</strong></p>
+</td>
+<td width="284">
+<p><strong>&nbsp;</strong></p>
+<p><strong>ПОСТАНОВЛЕНИЕ </strong></p>
+<p><strong>ПРАВЛЕНИЯ</strong></p>
+<p><strong>&nbsp;</strong></p>
+</td>
+</tr>
+<tr>
+<td width="262">
+<p>№</p>
+</td>
+<td width="142">
+<p>&nbsp;</p>
+</td>
+<td width="284">
+<p>__.__.2026г.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>&nbsp;</strong></p>
+<p><strong>Об утверждении Порядка заключения сделок с лицами, связанными с банком особыми отношениями</strong></p>
+<p>&nbsp;</p>
+<p>В соответствии с пунктом 7 статьи 50 Закона Республики Казахстан "О банках и банковской деятельности в Республике Казахстан" Правление Агентства Республики Казахстан по регулированию и надзору финансового рынка и финансовых организаций (далее - Агентство) <strong>ПОСТАНОВЛЯЕТ</strong>:</p>
+<ol>
+<li>Утвердить прилагаемые Правила заключения сделок с лицами, связанными с банком особыми отношениями.</li>
+<li>Признать утратившими силу нормативные правовые акты Республики Казахстан, а также структурные элементы некоторых нормативных правовых актов Республики Казахстан по перечню согласно приложению 2 к настоящему постановлению.</li>
+<li>Департаменту методологии и пруденциального регулирования финансовых организаций в установленном законодательством Республики Казахстан порядке обеспечить:</li>
+</ol>
+<p>1) совместно с Юридическим департаментом государственную регистрацию настоящего постановления в Министерстве юстиции Республики Казахстан;</p>
+<p>2) размещение настоящего постановления на официальном интернет-ресурсе Агентства Республики Казахстан по регулированию и развитию финансового рынка после его официального опубликования;</p>
+<p>3) в течение десяти рабочих дней после государственной регистрации настоящего постановления представление в Юридический департамент сведений об исполнении мероприятия, предусмотренного подпунктом 2) настоящего пункта.</p>
+<ol start="4">
+<li>Контроль за исполнением настоящего постановления возложить на курирующего заместителя Председателя Агентства Республики Казахстан по регулированию и развитию финансового рынка.</li>
+<li>Настоящее постановление вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования.</li>
+</ol>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><strong>Должность &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ФИО</strong></p>
+</body>
+</html>0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","nav",null,{"className":"breadcrumb","children":[["$","$L2",null,{"href":"/documents/1","children":"Документы"}]," / ","Проект постановления Правления Агентства","…"]}],["$","h1",null,{"className":"page-title","children":"Проект постановления Правления Агентства Республики Казахстан по регулированию и развитию финансового рынка «Об утверждении Порядка заключения сделок с лицами, связанными с банком особыми отношениями»"}],["$","time",null,{"children":"22 января 2026 г."}],["$","$L3",null,{"html":"$4"}]]}],["$L5","$L6","$L7"],"$L8"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zM9lERO3SlzCY7qBjKejW"}
+5:["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true}]
+6:["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true}]
+7:["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true}]
+8:["$","$L9",null,{"children":["$","$a",null,{"name":"Next.MetadataOutlet","children":"$@b"}]}]
+b:null

@@ -1,0 +1,45 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],""]
+3:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
+5:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+4:Tccd,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<p><strong>О внесении изменений в некоторые нормативные правовые акты Республики Казахстан по вопросам регулирования банковской деятельности</strong></p>
+<p><strong>&nbsp;</strong></p>
+<p>Правление Агентства Республики Казахстан по регулированию и развитию финансового рынка <strong>ПОСТАНОВЛЯЕТ</strong>:</p>
+<ol>
+<li>Утвердить Перечень нормативных правовых актов Республики Казахстан по вопросам регулирования банковской деятельности, в которые вносятся изменения, согласно приложению к настоящему постановлению.</li>
+<li>Департаменту методологии и пруденциального регулирования финансовых организаций в установленном законодательством Республики Казахстан порядке обеспечить:</li>
+</ol>
+<p>1) совместно с Юридическим департаментом государственную регистрацию настоящего постановления в Министерстве юстиции Республики Казахстан;</p>
+<p>2) размещение настоящего постановления на официальном интернет-ресурсе Агентства Республики Казахстан по регулированию и развитию финансового рынка после его официального опубликования;</p>
+<p>3) в течение десяти рабочих дней после государственной регистрации настоящего постановления представление в Юридический департамент сведений об исполнении мероприятия, предусмотренного подпунктом 2) настоящего пункта.</p>
+<ol start="3">
+<li>Контроль за исполнением настоящего постановления возложить на курирующего заместителя Председателя Агентства Республики Казахстан по регулированию и развитию финансового рынка.</li>
+<li>Настоящее постановление вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования.</li>
+</ol>
+<p>&nbsp;</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>&nbsp;</p>
+<table width="595">
+<tbody>
+<tr>
+<td width="243">
+<p><strong>Должность</strong></p>
+</td>
+<td width="142">
+<p><strong>&nbsp;</strong></p>
+</td>
+<td width="210">
+<p><strong>ФИО</strong></p>
+</td>
+</tr>
+</tbody>
+</table>
+</body>
+</html>0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","nav",null,{"className":"breadcrumb","children":[["$","$L2",null,{"href":"/documents/1","children":"Документы"}]," / ","Проект постановления \"О внесении изменен","…"]}],["$","h1",null,{"className":"page-title","children":"Проект постановления \"О внесении изменений в некоторые нормативные правовые акты Республики Казахстан по вопросам регулирования банковской деятельности\""}],["$","time",null,{"children":"1 декабря 2025 г."}],["$","$L3",null,{"html":"$4"}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zM9lERO3SlzCY7qBjKejW"}
+7:null

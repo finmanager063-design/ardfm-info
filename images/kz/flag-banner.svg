@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 280" role="img" aria-label="Kazakhstan flag banner">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#00AFCA"/>
+      <stop offset="100%" stop-color="#0092A8"/>
+    </linearGradient>
+    <radialGradient id="sun" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#FFE566"/>
+      <stop offset="100%" stop-color="#FEC50C"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="280" fill="url(#sky)"/>
+  <g opacity="0.15" fill="#fff">
+    <path d="M0 40h1200M0 120h1200M0 200h1200"/>
+  </g>
+  <circle cx="600" cy="140" r="72" fill="url(#sun)" opacity="0.95"/>
+  <g fill="#FEC50C" opacity="0.85">
+    <path d="M600 58l8 24h26l-21 16 8 24-21-16-21 16 8-24-21-16h26z"/>
+    <path d="M720 140l-8 24h-26l21 16-8 24 21-16 21 16-8-24 21-16h-26z" transform="rotate(36 600 140)"/>
+    <path d="M720 140l-8 24h-26l21 16-8 24 21-16 21 16-8-24 21-16h-26z" transform="rotate(72 600 140)"/>
+    <path d="M720 140l-8 24h-26l21 16-8 24 21-16 21 16-8-24 21-16h-26z" transform="rotate(108 600 140)"/>
+    <path d="M720 140l-8 24h-26l21 16-8 24 21-16 21 16-8-24 21-16h-26z" transform="rotate(144 600 140)"/>
+  </g>
+  <text x="600" y="248" text-anchor="middle" fill="#fff" font-family="system-ui,sans-serif" font-size="28" font-weight="700">ARRFR · Financial market of Kazakhstan</text>
+</svg>

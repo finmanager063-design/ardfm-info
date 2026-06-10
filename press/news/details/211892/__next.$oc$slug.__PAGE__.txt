@@ -1,0 +1,26 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],""]
+3:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
+5:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+4:T7bc,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<p><strong>Агентством Республики Казахстан по регулированию и развитию финансового рынка были согласованы следующие руководящие работники банков второго уровня:</strong></p>
+<p><strong>&nbsp;</strong></p>
+<p>&nbsp;</p>
+<ol>
+<li>Степаненко А.С. &ndash; Заместитель Председателя Правления &ndash; Член Правления АО &laquo;Capital Bank Kazakhstan&raquo; (протокол № 32/БВУ/Т от 26.04.2021г.);</li>
+<li>Ким Ю.Л. - Заместитель Председателя Правления &ndash; Член Правления<br />АО &laquo;Capital Bank Kazakhstan&raquo; (протокол № 33/БВУ/Т от 28.04.2021г.);</li>
+<li>Юн М.В. - Председатель Правления АО &laquo;Capital Bank Kazakhstan&raquo; (протокол № 34/БВУ/Т от 30.04.2021г.);</li>
+<li>Сейдахметов О.А. - Заместитель Председателя Правления &ndash; Член Правления АО &laquo;Capital Bank Kazakhstan&raquo; (протокол № 35/БВУ/Т от 19.05.2021г.);</li>
+<li>Альмамбетов А.А. - Заместитель Председателя Правления &ndash; Член Правления АО &laquo;Jusan Bank&raquo; (протокол № 37/БВУ/Т от 24.05.2021г.);</li>
+<li>Кусаинов Н.Ж. &ndash; член Совета директоров &ndash; независимый директор АО ДБ &laquo;Альфа-Банк&raquo; (протокол № 38/БВУ/П от 25.05.2021г.);</li>
+<li>Ким Хен Хван &ndash; Председатель Совета директоров АО &laquo;Шинхан Банк Казахстан&raquo; (39/БВУ/П от 25.05.2021г.).</li>
+</ol>
+<p>&nbsp;</p>
+</body>
+</html>0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","nav",null,{"className":"breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Главная"}]," / ",["$","$L2",null,{"href":"/media/news","children":"Новости"}]," / Новость"]}],["$","h1",null,{"className":"page-title","children":"Агентством согласованы руководящие работники банков второго уровня"}],["$","time",null,{"dateTime":"2021-06-03T23:22:00Z","children":"4 июня 2021 г."}],null,["$","$L3",null,{"html":"$4"}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zM9lERO3SlzCY7qBjKejW"}
+7:null

@@ -1,0 +1,18 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],""]
+3:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
+5:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+4:Tb28,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<p><strong>В период с 12 по 14 октября 2023 года делегация Агентства РК по регулированию и развитию финансового рынка (АРРФР) во главе с председателем Мадиной Абылкасымовой приняла участие в ежегодных встречах Международного валютного фонда и Всемирного банка. Об этом сообщила пресс-служба регулятора.</strong></p>
+<p>В рамках мероприятия проведены встречи с руководством и сотрудниками Международного валютного фонда (МВФ), Всемирного банка, Международной финансовой корпорации (IFC), рейтинговых агентств S&amp;P, Fitch и Moody&rsquo;s.</p>
+<p>&laquo;В ходе встреч с МВФ и Всемирным банком обсуждены итоги Программы оценки финансового сектора (FSAP) по обеспечению стабильности и развитию финансового сектора. Кроме того, были обсуждены меры агентства по реализации рекомендаций Программы FSAP, в том числе разрабатываемый агентством законопроект по урегулированию неплатежеспособных банков, а также реализуемые агентством меры по усилению консолидированного надзора, ужесточению сделок со связанными сторонами и приведению пруденциальных нормативов в соответствие с Базельскими стандартами&raquo;, - сообщается в релизе АРРФР.</p>
+<p>Также принято участие в запуске новой инициативы по финансированию женщин-предпринимателей &laquo;Women Entrepreneurs Finance Initiative/We-FI Code&raquo; Европейского банка реконструкции и развития (ЕБРР). Данный пилотный проект предусматривает поддержку женщин-предпринимательниц, увеличивая доступ к финансовым продуктам и услугам для развития их бизнеса. Казахстан стал одной из 13 пилотных стран-участниц инициативы We-Fi Code.</p>
+<p>Источник: Prodengi.kz</p>
+</body>
+</html>0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","nav",null,{"className":"breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Главная"}]," / ",["$","$L2",null,{"href":"/articles","children":"Статьи"}]," /"," ","Мадина Абылкасымова встретилась с представителями ","…"]}],["$","h1",null,{"className":"page-title","children":"Мадина Абылкасымова встретилась с представителями ВБ и МВФ"}],["$","time",null,{"dateTime":"2023-10-17","children":"17 октября 2023 г."}],["$","$L3",null,{"html":"$4"}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zM9lERO3SlzCY7qBjKejW"}
+7:null

@@ -1,0 +1,24 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],""]
+3:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
+5:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+4:T1053,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<p align="justify">В отдельных регионах Казахстана осуществляют &nbsp;деятельность организации, имеющее признаки финансовой (инвестиционной) пирамиды, такие как ТОО &laquo;Гарант 24 Ломбард&raquo;, ТОО &laquo;Estate Ломбард&raquo;, ТОО &laquo;Gold&raquo;, ТОО &laquo;Выгодный депозит&raquo; и другие.</p>
+<p align="justify">В частности, ТОО &laquo;Гарант 24 Ломбард&raquo;, зарегистрированный в г. Нур-Султан 21 июня 2018 года (перерегистрация от 2 сентября 2019 года), имеет 8 филиалов по Республике Казахстан. Первый филиал зарегистрирован в Алматы 23 декабря 2019 года, а последний &ndash; в Шымкенте 6 февраля 2020 года.</p>
+<p align="justify">Руководство ломбарда реализовывало программы для привлечения клиентов, имеющие признаки мошенничества и финансовой пирамиды. Так, ломбард привлекал вкладчиков, обещая им годовое вознаграждение в размере 480%. Вкладчики в свою очередь оформляли в залог движимое и недвижимое имущество, оформляли кредиты, вкладывая все средства в ломбард взамен на обещания высокого вознаграждения. Мошеннические операции совершались исключительно в наличной форме, т.е. деньги вносились непосредственно в кассу ТОО &laquo;Гарант 24 Ломбард&raquo; и заключались договора с подставными лицами. От мошеннической схемы ломбарда пострадало свыше 2 тыс человек. В отношении данного ломбарда возбуждено уголовное дело, проводятся следственные мероприятия.</p>
+<p align="justify">В декабре 2019 года Кызылординским филиалом Национального Банка Казахстана в адрес Департамента государственных доходов Кызылординской области направлена информация о незаконной банковской деятельности ТОО &laquo;Гарант 24 Ломбард&raquo;.</p>
+<p align="justify">В январе-феврале 2020 года Управлением региональных представителей в г. Актобе Агентства РК по регулированию и развитию финансового рынка в правоохранительные органы направлены заявления граждан о незаконной деятельности ТОО &laquo;Gold&raquo; и ТОО &laquo;Гарант 24 Ломбард&raquo;, по результатам которых деятельность ТОО &laquo;Gold&raquo; была прекращена, по ТОО &laquo;Гарант 24 Ломбард&raquo; следственные мероприятия продолжились.</p>
+<p align="justify">Пострадавщим от незаконной деятельности данных организаций рекомендуем незамедлительно обратиться в правохранительные органы.</p>
+<p>&nbsp;</p>
+<p>Более подробную информацию можно получить по телефону:</p>
+<p>+7 (727) 2788 121</p>
+<p>e-mail: Fingramota@<a href="http://finreg.kz/">finreg.kz</a></p>
+<p>www.<a href="http://finreg.kz/">finreg.kz</a></p>
+</body>
+</html>0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","nav",null,{"className":"breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Главная"}]," / ",["$","$L2",null,{"href":"/media/news","children":"Новости"}]," / Новость"]}],["$","h1",null,{"className":"page-title","children":"Касательно незаконной деятельности ТОО «Гарант 24 Ломбард»"}],["$","time",null,{"dateTime":"2020-02-22T00:00:00Z","children":"22 февраля 2020 г."}],null,["$","$L3",null,{"html":"$4"}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zM9lERO3SlzCY7qBjKejW"}
+7:null

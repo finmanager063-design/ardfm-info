@@ -1,0 +1,38 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],""]
+3:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
+9:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+a:"$Sreact.suspense"
+4:T14ec,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<p align="center"><strong>СОВМЕСТНОЕ ПОСТАНОВЛЕНИЕ </strong></p>
+<p><strong>&nbsp;</strong></p>
+<p align="center"><strong>&nbsp;</strong><strong>Об утверждении Правил совершения банком с универсальной банковской лицензией, исламским банком сделок с цифровыми финансовыми активами</strong></p>
+<p>&nbsp;</p>
+<p>В соответствии с пунктом 4 статьи 23 Закона Республики Казахстан <br />&laquo;О банках и банковской деятельности в Республике Казахстан&raquo; Правление Агентства Республики Казахстан по регулированию и развитию финансового рынка и Правление Национального Банка Республики Казахстан <strong>ПОСТАНОВЛЯЮТ</strong>:</p>
+<ol>
+<li>Утвердить прилагаемые Правила совершения банком с универсальной банковской лицензией, исламским банком сделок с цифровыми финансовыми активами, согласно приложению к настоящему постановлению.</li>
+<li>Департаменту методологии и пруденциального регулирования финансовых организаций Агентства Республики Казахстан по регулированию и развитию финансового рынка в установленном законодательством Республики Казахстан порядке обеспечить:</li>
+</ol>
+<p>1) совместно с Юридическим департаментом Агентства Республики Казахстан по регулированию и развитию финансового рынка государственную регистрацию настоящего совместного постановления в Министерстве юстиции Республики Казахстан;</p>
+<p>2) размещение настоящего совместного постановления на официальном интернет-ресурсе Агентства Республики Казахстан по регулированию и развитию финансового рынка после его официального опубликования;</p>
+<p>3) в течение десяти рабочих дней после государственной регистрации настоящего совместного постановления представление в Юридический департамент Агентства Республики Казахстан по регулированию и развитию финансового рынка сведений об исполнении мероприятия, предусмотренного подпунктом 2) настоящего пункта.</p>
+<ol start="3">
+<li>Контроль за исполнением настоящего совместного постановления возложить на курирующих заместителя Председателя Агентства Республики Казахстан по регулированию и развитию финансового рынка и заместителя Председателя Национального Банка Республики Казахстан.</li>
+<li>Настоящее совместное постановление вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования.</li>
+</ol>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Должность&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong><strong>ФИО</strong></p>
+<p>&nbsp;</p>
+<p align="left"><strong>&nbsp; &nbsp; &nbsp; &nbsp; Должность&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong><strong>ФИО</strong></p>
+</body>
+</html>0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","nav",null,{"className":"breadcrumb","children":[["$","$L2",null,{"href":"/documents/1","children":"Документы"}]," / ","Об утверждении Правил совершения банком ","…"]}],["$","h1",null,{"className":"page-title","children":"Об утверждении Правил совершения банком с универсальной банковской лицензией, исламским банком сделок с цифровыми финансовыми активами"}],["$","time",null,{"children":"29 января 2026 г."}],["$","$L3",null,{"html":"$4"}]]}],["$L5","$L6","$L7"],"$L8"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zM9lERO3SlzCY7qBjKejW"}
+5:["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true}]
+6:["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true}]
+7:["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true}]
+8:["$","$L9",null,{"children":["$","$a",null,{"name":"Next.MetadataOutlet","children":"$@b"}]}]
+b:null

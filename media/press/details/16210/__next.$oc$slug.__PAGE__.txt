@@ -1,0 +1,21 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],""]
+3:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
+5:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+4:T969,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<p><strong>О п</strong><strong>орядк</strong><strong>е</strong><strong> заключения сделок с лицами, связанными с банком особыми отношениями</strong></p>
+<p>&nbsp;</p>
+<p>Агентством по регулированию и развитию финансового рынка во в целях исполнения пункта 7 статьи 50 Закона РК &laquo;О банках и банковской деятельности в Республике Казахстан&raquo; разработан проект постановления Правления Агентства <strong>&laquo;Об утверждении Порядка заключения сделок с лицами, связанными с банком особыми отношениями&raquo;</strong>,</p>
+<p>Проект постановления направлен на установление порядка заключения банками сделок с лицами, связанными с банком особыми отношениями, и предусматривает определение условий и видов таких сделок, требований к обеспечению и финансовому состоянию контрагентов, предельных размеров банковских займов и гарантий, ограничений по бланковым займам, лимитов по сделкам с членами совета директоров и крупными участниками, а также ограничений по стоимости сделок и дополнительных критериев отнесения сделок к льготным.</p>
+<p>С текстом проекта постановления можно ознакомиться на портале &laquo;Открытые НПА&raquo; и на <a href="https://www.gov.kz/memleket/entities/ardfm/documents/details/957479?lang=ru">интернет-ресурсе Агентства</a>.</p>
+<p><strong>&nbsp;</strong><strong>&nbsp;</strong></p>
+<p><strong>Управление внешних коммуникаций Агентства</strong></p>
+<p><a href="mailto:press@finreg.kz"><strong>press@finreg.kz</strong></a></p>
+</body>
+</html>0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","nav",null,{"className":"breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Главная"}]," / ",["$","$L2",null,{"href":"/media/press","children":"Пресс-релизы"}]]}],["$","h1",null,{"className":"page-title","children":"Проект постановления Правления Агентства Республики Казахстан по регулированию и развитию финансового рынка «Об утверждении Порядка заключения сделок с лицами, связанными с банком особыми отношениями»"}],["$","time",null,{"children":"22 января 2026 г."}],"$undefined",["$","$L3",null,{"html":"$4"}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zM9lERO3SlzCY7qBjKejW"}
+7:null

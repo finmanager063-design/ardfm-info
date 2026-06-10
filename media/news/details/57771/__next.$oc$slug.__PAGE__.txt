@@ -1,0 +1,27 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],""]
+3:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
+5:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+4:T1025,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<p align="justify">В связи с временными трудностями с ликвидностью, ограничением своевременного исполнения обязательств перед клиентами, а также оттоком клиентских платежей, Агентство РК по регулированию и развитию финансового рынка осуществляет надзор за деятельностью АО &laquo;Tengri Bank&raquo; в усиленном режиме.</p>
+<p align="justify">Агентством начата и проводится внеплановая проверка по вопросам поступающих обращений от клиентов банка.</p>
+<p align="justify">Согласно банковскому законодательству Казахстана, обязательства по поддержанию финансовой стабильности банков возложены на крупных участников-акционеров банка.</p>
+<p align="justify">В этой связи, Агентство направило соответствующее требование в адрес крупного акционера банка, которым является Punjab National Bank (PNB), по капитализации Tengri Bank в срок до 30 апреля т.г. Согласно требованию, крупному участнику необходимо обеспечить капитализацию в объемах, достаточных для соблюдения пруденциальных нормативов, бесперебойного исполнения платежей и осуществления переводов денежных средств клиентов. Также проводится работа с другими акционерами банка.</p>
+<p align="justify">АО &laquo;Tengri Bank&raquo; является участником системы обязательного гарантирования депозитов. Вклады физических лиц в тенге и иностранной валюте, в том числе деньги на платежных карточках и банковских счетах защищены гарантией Казахстанского фонда гарантирования депозитов в рамках утвержденных лимитов.</p>
+<p align="justify">&nbsp;</p>
+<p align="justify">Для справки: <em>Punjab</em> <em>National</em> <em>Bank</em><em> (</em><em>PNB</em><em>) - крупнейший акционер АО &laquo;</em><em>Tengri</em> <em>Bank</em><em>&raquo; владеющий 41,64% акций банка. Это второй по размеру активов государственный банк в Индии, основанный в 1895 году и обслуживающий более 110 миллионов клиентов через более чем 11 000 филиалов и офисов. Сумма активов составляет порядка 290 млрд долларов США. Доля государства составляет 75,41%. </em></p>
+<p><em>&nbsp;</em></p>
+<p><em>&nbsp;</em><em>По вопросам защиты прав потребителй финансовых услуг </em><em>обращайтесь на телефоны горячей линии:</em></p>
+<p><em>&nbsp;+7 (727) 2788 144 и +7 (727) 2788 122 </em></p>
+<p><em>(время работы: понедельник-пятница с 9.00 до 17.00 часов, </em></p>
+<p><em>суббота &ndash; с 9.00 до 14.00, воскресенье &ndash; выходной)</em></p>
+<p><em>e-mail: </em><a href="mailto:Fingramota@finreg.kz"><em>Fingramota@finreg.kz</em></a><em>, </em><a href="mailto:TAL@finreg.kz"><em>TAL@finreg.kz</em></a></p>
+<p><em>&nbsp;</em><a href="http://www.finreg.kz"><em>www.finreg.kz</em></a></p>
+</body>
+</html>0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","nav",null,{"className":"breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Главная"}]," / ",["$","$L2",null,{"href":"/media/news","children":"Новости"}]," / Новость"]}],["$","h1",null,{"className":"page-title","children":"О текущей ситуации в АО «Tengri Bank»"}],["$","time",null,{"dateTime":"2020-04-22T18:16:00Z","children":"22 апреля 2020 г."}],null,["$","$L3",null,{"html":"$4"}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zM9lERO3SlzCY7qBjKejW"}
+7:null

@@ -1,0 +1,19 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],""]
+3:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
+5:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+4:T9a4,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<p>По случаю празднования Дня финансиста Агентство РК по регулированию и развитию финансового рынка отметило персональный вклад отдельных сотрудников финансовых организаций за тесное сотрудничество с регулятором и Национальным банком в реализации совместных проектов и инициатив в этом году:</p>
+<p>- 11 сотрудников коммерческих банков отмечены благодарностью Агентства &laquo;За значительный вклад в развитие и повышение устойчивости финансового сектора страны&raquo;;</p>
+<p>- 17 сотрудников банков второго уровня получат благодарность Агентства &laquo;За участие в оценке качества активов банков, которая в дальнейшем будет способствовать значительному повышению прозрачности банковского сектора Казахстана&raquo;;</p>
+<p>- 7 сотрудников страховых компаний отмечены &laquo;За вклад в разработку законопроекта о развитии страхового рынка, который повысит сберегательные инвестиционные возможности для населения&raquo;;</p>
+<p>- 4 сотрудника фондового рынка получат благодарность Агентства &laquo;За вклад в разработку законопроектов о развитии рынка ценных бумаг, который будет способствовать привлечению инвестиций в реальный сектор экономики&raquo;;</p>
+<p>- 8 сотрудников Ассоциации финансистов Казахстана отмечены Агентством за активное взаимодействие и координацию при реализации антикризисных мер поддержки населения и бизнеса.</p>
+</body>
+</html>0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","nav",null,{"className":"breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Главная"}]," / ",["$","$L2",null,{"href":"/media/news","children":"Новости"}]," / Новость"]}],["$","h1",null,{"className":"page-title","children":"В преддверии Дня национальной валюты АРРФР отметило сотрудников финсектора"}],["$","time",null,{"dateTime":"2020-11-12T15:18:00Z","children":"12 ноября 2020 г."}],null,["$","$L3",null,{"html":"$4"}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zM9lERO3SlzCY7qBjKejW"}
+7:null

@@ -1,0 +1,19 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],""]
+3:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
+5:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+4:Ta1c,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<p align="justify">Президент Касым-Жомарт Токаев заслушал информацию о состоянии финансового рынка в текущем году и исполнении поручений Главы государства по обеспечению стабильности финансового сектора, принятых регуляторных мерах по стимулированию кредитования экономики и недопущению чрезмерного роста потребительских займов.</p>
+<p align="justify">Как сообщила Мадина Абылкасымова, в рамках реализации Послания Главы государства Агентством совместно с Правительством будет обеспечена поддержка субъектов малого и среднего предпринимательства в пострадавших секторах экономики путем субсидирования процентных ставок до 6 % годовых для конечного заемщика по условиям Дорожной карты бизнеса &ndash; 2025.</p>
+<p align="justify">Председатель Агентства также доложила Президенту о подготовке законодательных инициатив, направленных на совершенствование страхового и фондового рынков. В рамках законопроекта по совершенствованию страхового рынка будет расширен доступ населения к пенсионным и инвестиционным страховым продуктам, которые обеспечат рост сбережений граждан. Кроме того, будут приняты меры по расширению доступа предпринимателей к фондированию на рынке ценных бумаг.</p>
+<p align="justify">Касым-Жомарт Токаев, положительно оценив деятельность Агентства, поставил ряд конкретных задач по дальнейшему развитию финансового рынка.</p>
+<p align="justify"><em>&nbsp;</em></p>
+<p align="justify"><em>&nbsp;Источник: www.akorda.kz</em></p>
+</body>
+</html>0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","nav",null,{"className":"breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Главная"}]," / ",["$","$L2",null,{"href":"/media/news","children":"Новости"}]," / Новость"]}],["$","h1",null,{"className":"page-title","children":"Глава государства заслушал отчет Председателя Агентства по регулированию и развитию финансового рынка Мадины Абылкасымовой"}],["$","time",null,{"dateTime":"2020-09-03T18:56:00Z","children":"3 сентября 2020 г."}],null,["$","$L3",null,{"html":"$4"}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zM9lERO3SlzCY7qBjKejW"}
+7:null

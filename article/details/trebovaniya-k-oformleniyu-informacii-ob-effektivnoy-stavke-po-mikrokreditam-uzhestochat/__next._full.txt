@@ -1,0 +1,80 @@
+1:"$Sreact.fragment"
+2:I[50612,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"ShellWrapper"]
+3:I[39756,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"default"]
+4:I[37457,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"default"]
+9:I[68027,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"default",1]
+:HL["/_next/static/chunks/0rgbmrr6_b96m.css","style"]
+:HL["/_next/static/chunks/0t1-qk9~.xa44.css","style"]
+:HL["https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap","style"]
+0:{"P":null,"c":["","article","details","trebovaniya-k-oformleniyu-informacii-ob-effektivnoy-stavke-po-mikrokreditam-uzhestochat",""],"q":"","i":false,"f":[[["",{"children":[["slug","article/details/trebovaniya-k-oformleniyu-informacii-ob-effektivnoy-stavke-po-mikrokreditam-uzhestochat","oc",null],{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0rgbmrr6_b96m.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/0t1-qk9~.xa44.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0w5bf6qo2zbxc.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/0_t29vi~hh.tn.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ru","className":"notranslate","children":[["$","head",null,{"children":[["$","link",null,{"rel":"icon","href":"/favicon.ico"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap","rel":"stylesheet"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"GovernmentOrganization\",\"name\":\"Агентство Республики Казахстан по регулированию и развитию финансового рынка\",\"alternateName\":\"АРРФР\",\"description\":\"Агентство Республики Казахстан по регулированию и развитию финансового рынка — государственный орган, осуществляющий регулирование и надзор на финансовом рынке\",\"url\":\"https://govkz.online\",\"address\":{\"@type\":\"PostalAddress\",\"addressCountry\":\"KZ\",\"addressLocality\":\"Астана\",\"streetAddress\":\"проспект Мәңгілік Ел, 20а\",\"postalCode\":\"010000\"},\"telephone\":\"+7-7172-79-00-00\",\"image\":\"https://govkz.online/images/og-image.jpg\",\"knowsAbout\":[\"Регулирование финансового рынка\",\"Банковский надзор\",\"Страховой надзор\",\"Рынок ценных бумаг\",\"Микрофинансовые организации\",\"Защита прав потребителей финансовых услуг\"],\"parentOrganization\":{\"@type\":\"GovernmentOrganization\",\"name\":\"Правительство Республики Казахстан\"}}"}}]]}],["$","body",null,{"children":["$","$L2",null,{"meta":{"syncedAt":"2026-05-29T09:02:13.563Z","source":"https://www.gov.kz/memleket/entities/ardfm","entityTitle":"Агентство Республики Казахстан по регулированию и развитию финансового рынка","entityShort":"АРРФР","contacts":{"telegram":{"username":"finance_regulator_bot","handle":"@finance_regulator_bot","url":"https://t.me/finance_regulator_bot"}}},"children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":"$L5","templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["$L6",{},null,false,null]},null,false,"$@7"]},null,false,null],"$L8",false]],"m":"$undefined","G":["$9",["$La","$Lb"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"zM9lERO3SlzCY7qBjKejW"}
+d:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+e:"$Sreact.suspense"
+11:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"ViewportBoundary"]
+13:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"MetadataBoundary"]
+5:["$","$L4",null,{}]
+6:["$","$1","c",{"children":["$Lc",[["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true,"nonce":"$undefined"}]],["$","$Ld",null,{"children":["$","$e",null,{"name":"Next.MetadataOutlet","children":"$@f"}]}]]}]
+10:[]
+7:"$W10"
+8:["$","$1","h",{"children":[null,["$","$L11",null,{"children":"$L12"}],["$","div",null,{"hidden":true,"children":["$","$L13",null,{"children":["$","$e",null,{"name":"Next.Metadata","children":"$L14"}]}]}],null]}]
+a:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0rgbmrr6_b96m.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+b:["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/0t1-qk9~.xa44.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+15:I[22016,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],""]
+16:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
+17:T259f,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<p>Ее размер МКО должны будут прописывать одинаково по стилю и форме с другими ставками вознаграждения<br /><br /></p>
+<div class="row">
+<p>Обязать микрокредитные организации прописывать годовую эффективную ставку вознаграждения по микрозаймам в одинаковом стиле и форме с другими ставками как в договоре с потребителем, так и в рекламе&nbsp;предлагает Агентство РК по регулированию и развитию финансового рынка. Соответствующую норму ведомство вынесло на обсуждение на портале &laquo;Открытые НПА&raquo;, передает <a href="https://kapital.kz/">центр деловой информации Kapital.kz</a>.</p>
+</div>
+<div class="row">
+<p>Поправки планируется внести проектом постановления правления АРРФР РК &laquo;О внесении изменения в постановление правления Национального банка РК от 26 ноября 2019 года № 208 &laquo;Об утверждении Правил расчета годовой эффективной ставки вознаграждения по предоставляемым микрокредитам&raquo;.</p>
+</div>
+<div class="row">
+<p>&laquo;В целях усиления защиты прав заемщиков и правильного восприятия и понимания потребителями финансовых услуг информации о полной и достоверной стоимости предлагаемых услуг/продуктов предлагается указывать ГЭСВ одинаково по величине и стилю оформления с иными ставками вознаграждения как в договорах о предоставлении услуг, так и в рекламе&raquo;, - поясняют в Агентстве норму.</p>
+</div>
+<div class="row">
+<p>В частности, пункт 2 Правил расчета годовой эффективной ставки вознаграждения по предоставляемым микрокредитам предлагается в такой редакции:</p>
+</div>
+<div class="row">
+<p><i>&laquo;Микрофинансовые организации указывают годовую эффективную ставку вознаграждения в цифровом выражении, в одинаковой по размеру и стилю оформления шрифтов (курсив, полужирный, выделение цветом) форме с другими ставками вознаграждения:</i></p>
+</div>
+<div class="row">
+<p><b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b> <i>1) при распространении информации о величинах вознаграждения по микрокредитам, в том числе ее публикации;</i></p>
+</div>
+<div class="row">
+<p><b>&nbsp;&nbsp;&nbsp;</b>&nbsp;&nbsp; <i>2) в договоре о предоставлении микрокредита, заключаемом с клиентом.</i></p>
+</div>
+<div class="row">
+<p><i>В договоре о предоставлении микрокредита, заключаемом с клиентом, годовая эффективная ставка вознаграждения печатается при помощи устройств компьютерной техники в одном предложении с другими ставками вознаграждения. Если общие условия отражаются в договоре о предоставлении микрокредита в виде таблицы, годовая эффективная ставка вознаграждения указывается в отдельной строке (столбце), следующей после указания других ставок&raquo;.</i></p>
+</div>
+<div class="row">
+<p>Напомним, ранее АРРФР РК было принято постановление правления № 115 &laquo;О внесении изменений и дополнения в некоторые нормативные правовые акты Республики Казахстан по вопросам микрофинансовой и коллекторской деятельности&raquo;. Документ направлен на защиту прав заемщиков и снижение рисков в сегменте беззалогового потребительского микрокредитования посредством ограничения роста объема выданных потребительских микрокредитов и долговой нагрузки заемщиков.&nbsp;Постановлением предусматриваются следующие основные изменения и дополнения:</p>
+</div>
+<div class="row">
+<p>- ужесточение требований по соблюдению коэффициента достаточности собственного капитала&nbsp;k1&nbsp;посредством увеличения в&nbsp;2,5&nbsp;раза минимального размера собственного по беззалоговым потребительским микрокредитам до 45 дней до 50 МРП;</p>
+</div>
+<div class="row">
+<p>- введение максимального лимита по доле микрокредитов с просрочкой свыше 90 дней, равного&nbsp;20%&nbsp;от объема всех микрокредитов, включая микрокредиты на балансе и вне баланса микрофинансовой организации. Превышение лимита приравнено к нарушению пруденциального норматива достаточности собственного капитала&nbsp;k1;</p>
+</div>
+<div class="row">
+<p>- распространение требований по расчету коэффициента долговой нагрузки заемщика на все микрокредиты, в том числе менее одной минимальной заработной платы, а также исключение возможности использования микрофинансовой организацией собственной методики расчета долговой нагрузки заемщика;</p>
+</div>
+<div class="row">
+<p>- снижение предельного размера вознаграждения по краткосрочным микрокредитам до 45 дней до 50 МРП с 25% до&nbsp;20%&nbsp;(с начала 2022 года снижение с 30% до 20%) с введением предельного размера ежедневной ставки на уровне менее&nbsp;1%&nbsp;в день. В случае пролонгации микрокредита на срок свыше 45 дней предельный размер ежедневной ставки снижается до менее&nbsp;0,35%&nbsp;в день.</p>
+</div>
+<div class="row">
+<p>Как мера ужесточения регулирования коллекторской деятельности постановлением повышается минимальный размер уставного капитала для коллекторских агентств, осуществляющих выкуп кредитов/микрокредитов, в два раза - с 50 млн тенге до&nbsp;100 млн тенге. Коллекторские агентства, прошедшие учетную регистрацию до введения в действие постановления и приобретающие права (требования) по договорам банковского займа и (или) договорам о предоставлении микрокредита, обязаны привести минимальный размер уставного капитала в соответствие с постановлением&nbsp;к 1 января 2024 года.</p>
+</div>
+<div class="row">
+<p>Указанные изменения должны обеспечить проведение микрофинансовыми организациями качественной оценки кредитоспособности заемщиков, снизить размер переплаты по микрокредитам и уменьшить уровень потребительских микрокредитов на просрочке. Кроме того, введение повышенных требований по капиталу приведет к уходу с рынка коллекторских услуг бездействующих субъектов.</p>
+</div>
+<p><br />Источник: Kapital.kz</p>
+</body>
+</html>c:["$","article",null,{"children":[["$","nav",null,{"className":"breadcrumb","children":[["$","$L15",null,{"href":"/","children":"Главная"}]," / ",["$","$L15",null,{"href":"/articles","children":"Статьи"}]," /"," ","Требования к оформлению информации об эффективной ","…"]}],["$","h1",null,{"className":"page-title","children":"Требования к оформлению информации об эффективной ставке по микрокредитам ужесточат"}],["$","time",null,{"dateTime":"2023-02-23","children":"23 февраля 2023 г."}],["$","$L16",null,{"html":"$17"}]]}]
+12:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+18:I[27201,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"IconMark"]
+f:null
+14:[["$","title","0",{"children":"Требования к оформлению информации об эффективной ставке по микрокредитам ужесточат | АРРФР"}],["$","meta","1",{"name":"description","content":"Агентство Республики Казахстан по регулированию и развитию финансового рынка (АРРФР): новости, документы, реестры лицензий и защита прав потребителей финансовых услуг"}],["$","link","2",{"rel":"manifest","href":"/manifest.json","crossOrigin":"$undefined"}],["$","meta","3",{"name":"keywords","content":"АРРФР,финансовый регулятор Казахстан,лицензии финансовых организаций,защита прав потребителей финансовых услуг,Агентство финансового рынка"}],["$","meta","4",{"name":"google-site-verification","content":"google-site-verification-code"}],["$","meta","5",{"name":"yandex-verification","content":"yandex-verification-code"}],["$","meta","6",{"property":"og:title","content":"Агентство Республики Казахстан по регулированию и развитию финансового рынка"}],["$","meta","7",{"property":"og:description","content":"Агентство Республики Казахстан по регулированию и развитию финансового рынка"}],["$","meta","8",{"property":"og:site_name","content":"АРРФР"}],["$","meta","9",{"property":"og:locale","content":"ru_RU"}],["$","meta","10",{"property":"og:type","content":"website"}],["$","meta","11",{"name":"twitter:card","content":"summary"}],["$","meta","12",{"name":"twitter:title","content":"Агентство Республики Казахстан по регулированию и развитию финансового рынка"}],["$","meta","13",{"name":"twitter:description","content":"Агентство Республики Казахстан по регулированию и развитию финансового рынка"}],["$","link","14",{"rel":"icon","href":"/favicon.ico?favicon.0x3dzn~oxb6tn.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","15",{"rel":"icon","href":"/favicon.ico"}],["$","link","16",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png"}],["$","$L18","17",{}]]

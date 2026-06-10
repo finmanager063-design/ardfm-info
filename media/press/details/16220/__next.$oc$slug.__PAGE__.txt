@@ -1,0 +1,18 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],""]
+3:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
+5:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+4:T812,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<p>Агентство Республики Казахстан по регулированию и развитию финансового рынка информирует о разработке проекта постановления Правления Агентства Республики Казахстан по регулированию и развитию финансового рынка <strong>&laquo;Об установлении пруденциальных нормативов для банковских конгломератов, их предельных значений и методик расчетов&raquo; </strong>(далее &ndash; Проект).</p>
+<p>Проект разработан в реализацию пунктов 2 и 3 статьи 72 Закона Республики Казахстан &laquo;О банках и банковской деятельности в Республике Казахстан&raquo; и статьи 5 Закона Республики Казахстан &laquo;О государственном регулировании, контроле и надзоре финансового рынка и финансовых организаций&raquo;.</p>
+<p>Проектом предусматривается установление пруденциальных нормативов для банковских конгломератов, их предельных значений, методик расчетов, размер капитала и лимитов.</p>
+<p>Правовых последствий с принятием Проекта не предполагается.</p>
+<p>С полным текстом Проекта можно ознакомиться на интернет-портале открытых нормативных правовых актов и на <a href="https://www.gov.kz/memleket/entities/ardfm/documents/details/956938?lang=ru">интернет-ресурсе Агентства.</a></p>
+</body>
+</html>0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","nav",null,{"className":"breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Главная"}]," / ",["$","$L2",null,{"href":"/media/press","children":"Пресс-релизы"}]]}],["$","h1",null,{"className":"page-title","children":"Об установлении пруденциальных нормативов для банковских конгломератов, их предельных значений и методик расчетов"}],["$","time",null,{"children":"22 января 2026 г."}],"$undefined",["$","$L3",null,{"html":"$4"}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zM9lERO3SlzCY7qBjKejW"}
+7:null

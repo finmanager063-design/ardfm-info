@@ -1,0 +1,25 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],""]
+3:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
+5:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+4:T9c9,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<p>Председатель Агентства по&nbsp;регулированию и&nbsp;развитию финансового рынка Мадина Абылкасымова прокомментировала обсуждения о&nbsp;том, что ипотека на&nbsp;вторичном рынке может стать доступной только заемщикам со&nbsp;средним доходом, передает корреспондент агентства Kazinform.</p>
+<p>По ее словам, прямых ограничений по зарплате вводить не планируют. Решения будут принимать через систему управления рисками.</p>
+<blockquote>
+<p>&mdash;&nbsp;Речь не&nbsp;идет о&nbsp;каком-то конкретном количественном ограничении, которое будет прямо установлено в&nbsp;постановлении. Это будет реализовываться через систему управления рисками: банки должны оценивать риск-профиль заемщика, уровень его доходов и&nbsp;уже в&nbsp;зависимости от&nbsp;этого принимать решение,&nbsp;&mdash; отметила Абылкасымова.</p>
+</blockquote>
+<p>Она добавила, что регулятор фиксирует рост просроченной задолженности по&nbsp;ипотеке после 2020 года, когда увеличились процентные ставки.</p>
+<blockquote>
+<p>&mdash;&nbsp;Поэтому банкам в&nbsp;рамках системы управления рисками прямо указывается, что они обязаны не&nbsp;допускать выдачи кредитов заемщикам с&nbsp;высоким риском выхода в&nbsp;просрочку,&nbsp;&mdash; пояснила она.</p>
+</blockquote>
+<p>Ранее&nbsp;<a href="https://www.inform.kz/ru/otbasi-bank-privlechet-90mlrd-tenge-otabr-naipotechnie-programmi-db7d66" target="_blank" rel="noopener">сообщалось</a>, что Отбасы банк привлечет 90 млрд тенге от АБР на ипотечные программы.&nbsp;</p>
+<p>&nbsp;</p>
+<p>Источник: Казинформ</p>
+</body>
+</html>0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","nav",null,{"className":"breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Главная"}]," / ",["$","$L2",null,{"href":"/articles","children":"Статьи"}]," /"," ","Могут ли ограничить ипотеку казахстанцам с низкими","…"]}],["$","h1",null,{"className":"page-title","children":"Могут ли ограничить ипотеку казахстанцам с низкими доходами, ответили в АРРФР"}],["$","time",null,{"dateTime":"2026-04-15","children":"15 апреля 2026 г."}],["$","$L3",null,{"html":"$4"}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zM9lERO3SlzCY7qBjKejW"}
+7:null

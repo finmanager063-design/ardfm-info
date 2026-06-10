@@ -1,0 +1,22 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],""]
+3:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
+5:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+4:Ta67,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<p>На площадке Казахстанской фондовой биржи (KASE) состоялась встреча депутатов Комитета по финансам и бюджету Сената Парламента Республики Казахстан с представителями Агентства Республики Казахстан по регулированию и развитию финансового рынка (далее - Агентство), Национального Банка Республики Казахстан и рынка ценных бумаг.</p>
+<p>Депутаты и профессиональные участники рынка ценных бумаг поделились мнением о текущем состоянии и дельнейшем функционировании фондового рынка.</p>
+<div class="google-auto-placed ap_container"><ins class="adsbygoogle adsbygoogle-noablate" data-ad-format="auto" data-ad-client="ca-pub-1322872985143034" data-adsbygoogle-status="done" data-ad-status="unfilled">
+<div id="aswift_3_host" tabindex="0" title="Advertisement" aria-label="Advertisement"><span style="color: #3b4256; font-size: 20px;">В своем выступлении Заместитель Председателя Агентства Мария Хаджиева рассказала о ключевых мерах регулятора по развитию рынка ценных бумаг в Казахстане.</span></div>
+</ins></div>
+<p>В целях развития фондового рынка Агентством принят комплекс регуляторных мер, направленных на создание условий для выхода новых эмитентов и появление новых инвесторов, а также на стимулирование спроса и повышение ликвидности фондового рынков.</p>
+<p>&laquo;Дальнейшие меры по регулированию и развитию фондового рынка будут направлены на инфраструктурные преобразования, повышение его прозрачности, а также внедрение новых финансовых инструментов и расширение инвестиционных возможностей институциональных инвесторов&raquo;, - отметила Мария Хаджиева.</p>
+<p>&nbsp;</p>
+<p>Источник: Gur.kz</p>
+</body>
+</html>0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","nav",null,{"className":"breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Главная"}]," / ",["$","$L2",null,{"href":"/articles","children":"Статьи"}]," /"," ","Касательно встречи с депутатами Комитета по финанс","…"]}],["$","h1",null,{"className":"page-title","children":"Касательно встречи с депутатами Комитета по финансам и бюджету Сената Парламента РК на площадке KASE"}],["$","time",null,{"dateTime":"2023-10-11","children":"11 октября 2023 г."}],["$","$L3",null,{"html":"$4"}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zM9lERO3SlzCY7qBjKejW"}
+7:null

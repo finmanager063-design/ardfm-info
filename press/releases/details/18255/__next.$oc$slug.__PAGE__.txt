@@ -1,0 +1,20 @@
+1:"$Sreact.fragment"
+2:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
+4:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+3:Ta80,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<p>Правлением Агентства по регулированию и развитию финансового рынка принято постановление от 20 апреля 2026 года №77 <strong>&laquo;</strong><strong>Об утверждении Перечня (видов) имущества, которое может выступать базовым активом цифровых финансовых активов, Требований к организациям, которые вправе выступать в качестве организации по хранению базового актива цифрового финансового актива в отношении цифровых финансовых активов, а также правил учета и хранения базового актива по таким цифровым финансовым активам</strong><strong>&raquo;</strong>.</p>
+<p>Постановление разработано в реализацию Закона РК &laquo;О внесении изменений и дополнений в некоторые законодательные акты Республики Казахстан по вопросам регулирования и развития финансового рынка, связи и банкротства&raquo;.</p>
+<p>Предусматривается <strong>утверждение перечня имущества, которое может выступать базовым активом цифровых финансовых активов</strong>, правил его учета и хранения, а также требований к организациям, которые вправе выступать в качестве организации по хранению базового актива цифрового финансового актива.</p>
+<p>Постановление направлено на правовое регулирование деятельности по хранению базового актива цифровых финансовых активов и защиту прав инвесторов.</p>
+<p>С текстом документа можно ознакомиться <a href="https://www.gov.kz/memleket/entities/ardfm/documents/details/1014636?lang=ru">на сайте Агентства</a>.</p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>Управление внешних коммуникаций</strong></p>
+<p><a href="mailto:press@finreg.kz"><strong>press@finreg.kz</strong></a></p>
+</body>
+</html>0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","h1",null,{"className":"page-title","children":"О порядке определения, учета и хранения базового актива ЦФА и требованиях к организациям по его хранению"}],["$","time",null,{"children":"20 мая 2026 г."}],["$","$L2",null,{"html":"$3"}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zM9lERO3SlzCY7qBjKejW"}
+6:null

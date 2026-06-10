@@ -1,0 +1,19 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],""]
+3:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
+5:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+4:Tcb8,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<p align="center"><strong>О проекте постановления Правления Агентства Республики Казахстан по регулированию и развитию финансового рынка &laquo;</strong><strong>Об утверждении Правил выдачи разрешения на </strong><strong>добровольное прекращение деятельности филиала банка-нерезидента Республики Казахстан, </strong><strong>а также возврата депозитов физических лиц, их перевода в банк </strong><strong>или филиал банка-нерезидента Республики Казахстан, являющиеся участниками системы обязательного гарантирования депозитов</strong><strong>&raquo;</strong></p>
+<p align="center">&nbsp;</p>
+<p>Агентство Республики Казахстан по регулированию и развитию финансового рынка информирует о разработке проекта постановления Правления &laquo;Об утверждении Правил выдачи разрешения на добровольное прекращение деятельности филиала банка-нерезидента Республики Казахстан, а также возврата депозитов физических лиц, их перевода в банк или филиал банка-нерезидента Республики Казахстан, являющиеся участниками системы обязательного гарантирования депозитов&raquo; (далее &ndash; Проект).</p>
+<p>Проект разработан в реализацию проекта Закона Республики Казахстан &laquo;О внесении изменений и дополнений в некоторые законодательные акты Республики Казахстан по вопросам восстановления экономического роста&raquo; &nbsp;(далее &ndash; проект Закона).</p>
+<p>Проектом Закона предусматривается процедура добровольного прекращения деятельности филиала банка-нерезидента Республики Казахстан на финансовом рынке.</p>
+<p>С полным текстом Проекта можно ознакомиться на интернет-портале открытых нормативных правовых актов: <a href="https://legalacts.egov.kz/npa/view?id=4643387">https://legalacts.egov.kz/npa/view?id=4643387</a> и на официальном интернет-ресурсе Агентства Республики Казахстан по регулированию и развитию финансового рынка в разделе &laquo;Нормативная правовая база&raquo;.</p>
+</body>
+</html>0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","nav",null,{"className":"breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Главная"}]," / ",["$","$L2",null,{"href":"/media/news","children":"Новости"}]," / Новость"]}],["$","h1",null,{"className":"page-title","children":"Проект постановления о добровольном прекращении деятельности филиала банка-нерезидента РК на финрынке"}],["$","time",null,{"dateTime":"2020-11-18T11:05:00Z","children":"18 ноября 2020 г."}],null,["$","$L3",null,{"html":"$4"}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zM9lERO3SlzCY7qBjKejW"}
+7:null

@@ -1,0 +1,16 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],""]
+3:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
+5:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+4:T819,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<p>Агентством Республики Казахстан по регулированию и развитию финансового рынка разработан проект постановления Правления Агентства <strong>&laquo;Об установлении Минимальных требований к обеспечению информационной безопасности на финансовом рынке&raquo;</strong>.</p>
+<p>Проектом Постановления устанавливаются минимальные организационные и технические требования к обеспечению информационной безопасности финансовых организаций. В их числе порядок формирования политики информационной безопасности, требования к обучению работников, контролю доступа третьих лиц, обеспечению физической безопасности телекоммуникационной инфраструктуры и кибербезопасности, функционированию периметра защиты, шифрованию внешних соединений, ведению и хранению аудиторского следа, резервному копированию, а также правила идентификации и аутентификации пользователей и клиентов, включая биометрическую проверку личности.</p>
+<p>Проект постановления опубликован на портале &laquo;Открытые НПА&raquo;. С полным текстом документа можно ознакомиться на официальном интернет-ресурсе Агентства в разделе &laquo;документы&raquo;.</p>
+</body>
+</html>0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","nav",null,{"className":"breadcrumb","children":[["$","$L2",null,{"href":"/documents/1","children":"Документы"}]," / ","Об установлении минимальных требований к","…"]}],["$","h1",null,{"className":"page-title","children":"Об установлении минимальных требований к обеспечению информационной безопасности на финансовом рынке"}],["$","time",null,{"children":"5 декабря 2025 г."}],["$","$L3",null,{"html":"$4"}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zM9lERO3SlzCY7qBjKejW"}
+7:null

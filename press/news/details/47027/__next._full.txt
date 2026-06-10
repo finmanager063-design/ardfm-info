@@ -1,0 +1,310 @@
+1:"$Sreact.fragment"
+2:I[50612,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"ShellWrapper"]
+3:I[39756,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"default"]
+4:I[37457,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"default"]
+b:I[68027,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"default",1]
+:HL["/_next/static/chunks/0rgbmrr6_b96m.css","style"]
+:HL["/_next/static/chunks/0t1-qk9~.xa44.css","style"]
+:HL["https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap","style"]
+0:{"P":null,"c":["","press","news","details","47027",""],"q":"","i":false,"f":[[["",{"children":[["slug","press/news/details/47027","oc",null],{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0rgbmrr6_b96m.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/0t1-qk9~.xa44.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0w5bf6qo2zbxc.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/0_t29vi~hh.tn.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ru","className":"notranslate","children":[["$","head",null,{"children":[["$","link",null,{"rel":"icon","href":"/favicon.ico"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap","rel":"stylesheet"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"GovernmentOrganization\",\"name\":\"Агентство Республики Казахстан по регулированию и развитию финансового рынка\",\"alternateName\":\"АРРФР\",\"description\":\"Агентство Республики Казахстан по регулированию и развитию финансового рынка — государственный орган, осуществляющий регулирование и надзор на финансовом рынке\",\"url\":\"https://govkz.online\",\"address\":{\"@type\":\"PostalAddress\",\"addressCountry\":\"KZ\",\"addressLocality\":\"Астана\",\"streetAddress\":\"проспект Мәңгілік Ел, 20а\",\"postalCode\":\"010000\"},\"telephone\":\"+7-7172-79-00-00\",\"image\":\"https://govkz.online/images/og-image.jpg\",\"knowsAbout\":[\"Регулирование финансового рынка\",\"Банковский надзор\",\"Страховой надзор\",\"Рынок ценных бумаг\",\"Микрофинансовые организации\",\"Защита прав потребителей финансовых услуг\"],\"parentOrganization\":{\"@type\":\"GovernmentOrganization\",\"name\":\"Правительство Республики Казахстан\"}}"}}]]}],["$","body",null,{"children":["$","$L2",null,{"meta":{"syncedAt":"2026-05-29T09:02:13.563Z","source":"https://www.gov.kz/memleket/entities/ardfm","entityTitle":"Агентство Республики Казахстан по регулированию и развитию финансового рынка","entityShort":"АРРФР","contacts":{"telegram":{"username":"finance_regulator_bot","handle":"@finance_regulator_bot","url":"https://t.me/finance_regulator_bot"}}},"children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L5",[["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true,"nonce":"$undefined"}],"$L6","$L7"],"$L8"]}],{},null,false,null]},null,false,"$@9"]},null,false,null],"$La",false]],"m":"$undefined","G":["$b",["$Lc","$Ld"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"zM9lERO3SlzCY7qBjKejW"}
+e:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+f:"$Sreact.suspense"
+12:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"ViewportBoundary"]
+14:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"MetadataBoundary"]
+6:["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true,"nonce":"$undefined"}]
+7:["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true,"nonce":"$undefined"}]
+8:["$","$Le",null,{"children":["$","$f",null,{"name":"Next.MetadataOutlet","children":"$@10"}]}]
+11:[]
+9:"$W11"
+a:["$","$1","h",{"children":[null,["$","$L12",null,{"children":"$L13"}],["$","div",null,{"hidden":true,"children":["$","$L14",null,{"children":["$","$f",null,{"name":"Next.Metadata","children":"$L15"}]}]}],null]}]
+c:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0rgbmrr6_b96m.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+d:["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/0t1-qk9~.xa44.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+16:I[22016,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],""]
+17:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
+18:T3104,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<p align="justify"><strong>В случае нарушения ваших прав вы вправе обратиться в Агентство Республики Казахстан по регулированию и развитию финансового рынка (далее &ndash; Агентство):</strong></p>
+<p align="justify">&nbsp;- с письменными обращениями, которые могут быть переданы заявителями лично, по почте или доставлены курьером. В случае передачи обращений лично заявителями или доставки курьером обращения опускаются в почтовый ящик для приема корреспонденции Агентства&nbsp;в подъезде №1 здания Агентства, находящегося по адресу: А15С9Т5, г. Алматы, микрорайон Коктем-3, д.21, либо принимаются работником уполномоченного подразделения с выдачей заявителю или курьеру талона, &nbsp;контактный телефон: +7 (727) 2619 200;</p>
+<p align="justify">&nbsp;- в Общественную приемную за получением правовой помощи по адресу: г. Алматы, ул. Коктем-3, д.21, телефон для справок +7 (727) 2788 104 (вн.5571, 5573);</p>
+<p align="justify">- к директору Департамента защиты прав потребителей финансовых услуг Агентства Александру Терентьеву для получения необходимой оперативной информации по вопросам защиты прав потребителей финансовых услуг по телефону +77011110471 или посредством электронной почты <span>TAL</span><a href="mailto:tal@finreg.kz">@finreg.kz</a>. Личный прием граждан, в том числе граждан категории &laquo;социально-уязвимые слои населения&raquo; и получателей адресной социальной помощи, проводится по четвергам. Записаться на прием можно по телефонам: +7 727 2788 135, 2788 008;</p>
+<p align="justify">&nbsp;</p>
+<p align="justify">- по вопросам защиты прав и интересов потребителей финансовых услуг посредством WhatsApp &laquo;горячей линии&raquo; по номеру +77089332780, посредством электронной почты&nbsp;<span><a href="mailto:Fingramota@nationalbank.kz">Fingramota@finreg.kz</a></span>, а также посредством электронной формы раздела &laquo;Обратная связь&raquo; на сайтах <span><a href="http://www.finreg.kz">www.finreg.kz</a></span>&nbsp; и <span><a href="http://www.fingramota.kz">www.fingramota.kz</a></span>;</p>
+<p align="justify">&nbsp;</p>
+<p align="justify">- по вопросам Программы рефинансирования ипотечных жилищных займов (ипотечных займов) посредством соответствующей рубрики в разделе &laquo;Кредиты&raquo; (подраздел &laquo;Программа рефинансирования ипотечных жилищных займов (ипотечных займов)&raquo;) на сайте <a href="http://www.fingramota.kz">www.fingramota.kz</a>;</p>
+<p align="justify">&nbsp;</p>
+<p align="justify">&nbsp;- в Управления региональных представителей &ndash; по территориальной принадлежности.</p>
+<p align="justify">&nbsp;</p>
+<p align="justify">&nbsp;</p>
+<p align="justify"><strong>Управления региональных представителей&nbsp;Агентства Республики Казахстан по регулированию и развитию финансового рынка&nbsp;</strong></p>
+<table align="justify">
+<tbody>
+<tr>
+<td width="38">
+<p><strong>п/п</strong></p>
+</td>
+<td width="237">
+<p><strong>Наименование управлений</strong></p>
+</td>
+<td width="195">
+<p><strong>Адрес</strong></p>
+</td>
+<td width="158">
+<p><strong>Телефон</strong></p>
+</td>
+</tr>
+<tr>
+<td width="38">
+<p>1.</p>
+</td>
+<td width="237">
+<p>Управление региональных представителей г. Нур-Султан</p>
+</td>
+<td width="195">
+<p>010000, г. Нур-Султан, ул. Бейбитшилик, 21</p>
+</td>
+<td width="158">
+<p>8 (717) 2703333 приемная</p>
+</td>
+</tr>
+<tr>
+<td width="38">
+<p>2.</p>
+</td>
+<td width="237">
+<p>Управление региональных представителей г. Кокшетау</p>
+</td>
+<td width="195">
+<p>020000, г. Кокшетау, ул. Ауэзова, 214</p>
+</td>
+<td width="158">
+<p>8 (7162) 551806 приемная</p>
+</td>
+</tr>
+<tr>
+<td width="38">
+<p>3.</p>
+</td>
+<td width="237">
+<p>Управление региональных представителей г. Актобе</p>
+</td>
+<td width="195">
+<p>030000, г. Актобе, ул.Асау Барака, 45</p>
+</td>
+<td width="158">
+<p>8 (7132) 703916 приемная</p>
+</td>
+</tr>
+<tr>
+<td width="38">
+<p>4.</p>
+</td>
+<td width="237">
+<p>Управление региональных представителей г. Алматы</p>
+</td>
+<td width="195">
+<p>050000, г. Алматы, ул. Панфилова, 98</p>
+</td>
+<td width="158">
+<p>8 (727) 3302967 приемная</p>
+</td>
+</tr>
+<tr>
+<td width="38">
+<p>5.</p>
+</td>
+<td width="237">
+<p>Управление региональных представителей г. Талдыкорган</p>
+</td>
+<td width="195">
+<p>040008, г. Талдыкорган, ул.Толебаева, 58/64</p>
+</td>
+<td width="158">
+<p>8 (7282) 559505 приемная</p>
+</td>
+</tr>
+<tr>
+<td width="38">
+<p>6.</p>
+</td>
+<td width="237">
+<p>Управление региональных представителей г. Атырау</p>
+</td>
+<td width="195">
+<p>060002, г. Атырау, ул. Валиханова, 2а</p>
+</td>
+<td width="158">
+<p>8 (7122) 556517 приемная</p>
+</td>
+</tr>
+<tr>
+<td width="38">
+<p>7.</p>
+</td>
+<td width="237">
+<p>Управление региональных представителей г. Усть-Каменогорск</p>
+</td>
+<td width="195">
+<p>070004, г. Усть-Каменогорск, ул. Казахстан, 3</p>
+</td>
+<td width="158">
+<p>8 (7232) 560671</p>
+<p>приемная</p>
+</td>
+</tr>
+<tr>
+<td width="38">
+<p>8.</p>
+</td>
+<td width="237">
+<p>Управление региональных представителей г. Тараз</p>
+</td>
+<td width="195">
+<p>080000, г. Тараз, ул. Казыбек би, 137</p>
+</td>
+<td width="158">
+<p>8 (7262) 999350 приемная</p>
+</td>
+</tr>
+<tr>
+<td width="38">
+<p>9.</p>
+</td>
+<td width="237">
+<p>Управление региональных представителей г. Уральск</p>
+</td>
+<td width="195">
+<p>090000, г. Уральск, ул. Досмухамедова, 16/1</p>
+</td>
+<td width="158">
+<p>8 (7112) 509328 приемная</p>
+</td>
+</tr>
+<tr>
+<td width="38">
+<p>10.</p>
+</td>
+<td width="237">
+<p>Управление региональных представителей г. Караганда</p>
+</td>
+<td width="195">
+<p>100000, г. Караганда, пр. Бухар жырау, 19</p>
+</td>
+<td width="158">
+<p>8 (7212) 559335 приемная</p>
+</td>
+</tr>
+<tr>
+<td width="38">
+<p>11.</p>
+</td>
+<td width="237">
+<p>Управление региональных представителей г. Костанай</p>
+</td>
+<td width="195">
+<p>110000, г. Костанай, ул. Баймагамбетова,195</p>
+</td>
+<td width="158">
+<p>8 (7142) 990919 приемная</p>
+</td>
+</tr>
+<tr>
+<td width="38">
+<p>12.</p>
+</td>
+<td width="237">
+<p>Управление региональных представителей г. Кызылорда</p>
+</td>
+<td width="195">
+<p>120015, г. Кызылорда, ул. Б. Аскар, 30</p>
+</td>
+<td width="158">
+<p>8 (7242) 551525 приемная</p>
+</td>
+</tr>
+<tr>
+<td width="38">
+<p>13.</p>
+</td>
+<td width="237">
+<p>Управление региональных представителей г. Актау</p>
+</td>
+<td width="195">
+<p>130000, г. Актау, 23 микрорайон</p>
+</td>
+<td width="158">
+<p>8 (7292) 701508 приемная</p>
+</td>
+</tr>
+<tr>
+<td width="38">
+<p>14.</p>
+</td>
+<td width="237">
+<p>Управление региональных представителей г. Павлодар</p>
+</td>
+<td width="195">
+<p>140000, г. Павлодар, ул. Ак. Сатпаева, 44</p>
+</td>
+<td width="158">
+<p>8 (7182) 704440</p>
+<p>8 (7182) 704422 приемная</p>
+</td>
+</tr>
+<tr>
+<td width="38">
+<p>15.</p>
+</td>
+<td width="237">
+<p>Управление региональных представителей г. Петропавловск</p>
+</td>
+<td width="195">
+<p>150000, г. Петропавловск, ул. Конституции Казахстана, 6</p>
+</td>
+<td width="158">
+<p>8&nbsp;(7152) 551535 приемная</p>
+</td>
+</tr>
+<tr>
+<td width="38">
+<p>16.</p>
+</td>
+<td width="237">
+<p>Управление региональных представителей г. Шымкент</p>
+</td>
+<td width="195">
+<p>160012, г. Шымкент, ул. Торекулова, 2</p>
+</td>
+<td width="158">
+<p>8 (7252) 997922</p>
+<p>8 (7252) 997923 приемная</p>
+</td>
+</tr>
+<tr>
+<td width="38">
+<p>17.</p>
+</td>
+<td width="237">
+<p>Управление региональных представителей г. Туркестан</p>
+</td>
+<td width="195">
+<p>161200, г. Туркестан, пр. Тауке хана, 371</p>
+</td>
+<td width="158">
+<p>8 (72533) 59965 приемная</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p align="justify">&nbsp;</p>
+<p align="justify">Кроме того, потребители финансовых услуг могут обратиться к банковскому омбудсману, осуществляющему урегулирование разногласий, возникающих из договора ипотечного займа, между банком и заемщиком - физическим лицом с целью достижения согласия об удовлетворении прав и охраняемых законом интересов заемщика и банка, организации, осуществляющей отдельные виды банковских операций. Реквизиты банковского омбудсмана:&nbsp; А15GП8Е2, г. Алматы, пр. Н. Назарбаева, д.175 офис 302., тел.:&nbsp; +7 (727) 2612 216, +7 708 983 30 16, е-mail: <a href="mailto:office@bank-ombudsman.kz">office@bank-ombudsman.kz</a>, <a href="http://www.bank-ombudsman.kz/">www.bank-ombudsman.kz</a>.</p>
+<p align="justify">По вопросам урегулирования взаимоотношений между страхователями (выгодоприобретателями) и страховщиками, возникающих из договоров обязательного страхования ответственности владельцев транспортных средств, можно обратиться к страховому омбудсману, независимому в своей деятельности физическому лицу, осуществляющему свою деятельность на безвозмездной основе.</p>
+<p align="justify">Реквизиты страхового омбудсмана: 050042, Республика Казахстан,&nbsp;г.Алматы, ул. Рыскулбекова, 28/7, 2 этаж (в здании АО &laquo;ФГСВ&raquo;), e-mail: <a href="mailto:office@mail.ru">office@omb.kz</a>, <a href="http://www.insurance-ombudsman.kz">www.insurance-ombudsman.kz</a>, тел/факс +7 (727) 3824 174, +7 708 151 5235.</p>
+</body>
+</html>5:["$","article",null,{"children":[["$","nav",null,{"className":"breadcrumb","children":[["$","$L16",null,{"href":"/","children":"Главная"}]," / ",["$","$L16",null,{"href":"/media/news","children":"Новости"}]," / Новость"]}],["$","h1",null,{"className":"page-title","children":"Вниманию потребителей финансовых услуг!"}],["$","time",null,{"dateTime":"2020-03-05T00:00:00Z","children":"5 марта 2020 г."}],null,["$","$L17",null,{"html":"$18"}]]}]
+13:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+19:I[27201,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"IconMark"]
+10:null
+15:[["$","title","0",{"children":"Вниманию потребителей финансовых услуг! | АРРФР"}],["$","meta","1",{"name":"description","content":"Агентство Республики Казахстан по регулированию и развитию финансового рынка (АРРФР): новости, документы, реестры лицензий и защита прав потребителей финансовых услуг"}],["$","link","2",{"rel":"manifest","href":"/manifest.json","crossOrigin":"$undefined"}],["$","meta","3",{"name":"keywords","content":"АРРФР,финансовый регулятор Казахстан,лицензии финансовых организаций,защита прав потребителей финансовых услуг,Агентство финансового рынка"}],["$","meta","4",{"name":"google-site-verification","content":"google-site-verification-code"}],["$","meta","5",{"name":"yandex-verification","content":"yandex-verification-code"}],["$","meta","6",{"property":"og:title","content":"Агентство Республики Казахстан по регулированию и развитию финансового рынка"}],["$","meta","7",{"property":"og:description","content":"Агентство Республики Казахстан по регулированию и развитию финансового рынка"}],["$","meta","8",{"property":"og:site_name","content":"АРРФР"}],["$","meta","9",{"property":"og:locale","content":"ru_RU"}],["$","meta","10",{"property":"og:type","content":"website"}],["$","meta","11",{"name":"twitter:card","content":"summary"}],["$","meta","12",{"name":"twitter:title","content":"Агентство Республики Казахстан по регулированию и развитию финансового рынка"}],["$","meta","13",{"name":"twitter:description","content":"Агентство Республики Казахстан по регулированию и развитию финансового рынка"}],["$","link","14",{"rel":"icon","href":"/favicon.ico?favicon.0x3dzn~oxb6tn.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","15",{"rel":"icon","href":"/favicon.ico"}],["$","link","16",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png"}],["$","$L19","17",{}]]

@@ -1,0 +1,78 @@
+1:"$Sreact.fragment"
+2:I[50612,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"ShellWrapper"]
+3:I[39756,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"default"]
+4:I[37457,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"default"]
+9:I[68027,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"default",1]
+:HL["/_next/static/chunks/0rgbmrr6_b96m.css","style"]
+:HL["/_next/static/chunks/0t1-qk9~.xa44.css","style"]
+:HL["https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap","style"]
+0:{"P":null,"c":["","article","details","chto-zapreshcheno-kollektoram-perechen-deystviy-kotorye-narushayut-zakon",""],"q":"","i":false,"f":[[["",{"children":[["slug","article/details/chto-zapreshcheno-kollektoram-perechen-deystviy-kotorye-narushayut-zakon","oc",null],{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0rgbmrr6_b96m.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/0t1-qk9~.xa44.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0w5bf6qo2zbxc.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/0_t29vi~hh.tn.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ru","className":"notranslate","children":[["$","head",null,{"children":[["$","link",null,{"rel":"icon","href":"/favicon.ico"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap","rel":"stylesheet"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"GovernmentOrganization\",\"name\":\"Агентство Республики Казахстан по регулированию и развитию финансового рынка\",\"alternateName\":\"АРРФР\",\"description\":\"Агентство Республики Казахстан по регулированию и развитию финансового рынка — государственный орган, осуществляющий регулирование и надзор на финансовом рынке\",\"url\":\"https://govkz.online\",\"address\":{\"@type\":\"PostalAddress\",\"addressCountry\":\"KZ\",\"addressLocality\":\"Астана\",\"streetAddress\":\"проспект Мәңгілік Ел, 20а\",\"postalCode\":\"010000\"},\"telephone\":\"+7-7172-79-00-00\",\"image\":\"https://govkz.online/images/og-image.jpg\",\"knowsAbout\":[\"Регулирование финансового рынка\",\"Банковский надзор\",\"Страховой надзор\",\"Рынок ценных бумаг\",\"Микрофинансовые организации\",\"Защита прав потребителей финансовых услуг\"],\"parentOrganization\":{\"@type\":\"GovernmentOrganization\",\"name\":\"Правительство Республики Казахстан\"}}"}}]]}],["$","body",null,{"children":["$","$L2",null,{"meta":{"syncedAt":"2026-05-29T09:02:13.563Z","source":"https://www.gov.kz/memleket/entities/ardfm","entityTitle":"Агентство Республики Казахстан по регулированию и развитию финансового рынка","entityShort":"АРРФР","contacts":{"telegram":{"username":"finance_regulator_bot","handle":"@finance_regulator_bot","url":"https://t.me/finance_regulator_bot"}}},"children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":"$L5","templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["$L6",{},null,false,null]},null,false,"$@7"]},null,false,null],"$L8",false]],"m":"$undefined","G":["$9",["$La","$Lb"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"zM9lERO3SlzCY7qBjKejW"}
+d:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+e:"$Sreact.suspense"
+11:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"ViewportBoundary"]
+13:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"MetadataBoundary"]
+5:["$","$L4",null,{}]
+6:["$","$1","c",{"children":["$Lc",[["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true,"nonce":"$undefined"}]],["$","$Ld",null,{"children":["$","$e",null,{"name":"Next.MetadataOutlet","children":"$@f"}]}]]}]
+10:[]
+7:"$W10"
+8:["$","$1","h",{"children":[null,["$","$L11",null,{"children":"$L12"}],["$","div",null,{"hidden":true,"children":["$","$L13",null,{"children":["$","$e",null,{"name":"Next.Metadata","children":"$L14"}]}]}],null]}]
+a:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0rgbmrr6_b96m.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+b:["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/0t1-qk9~.xa44.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+15:I[22016,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],""]
+16:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
+17:T1ffe,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<p>Что важно учитывать при взаимодействии с коллекторами?</p>
+<p>Деятельность коллекторских агентств в Казахстане регулируется Законом &laquo;О коллекторской деятельности&raquo; и осуществляется в рамках установленных правил,&nbsp;передает&nbsp;<a href="https://dknews.kz/" target="_blank" rel="noopener">DKNews.kz</a>.</p>
+<p><strong>Когда кредитор передает долг коллекторам?</strong></p>
+<p>Банки и микрофинансовые организации уведомляют заемщика о возникновении просрочки и предлагают реструктуризацию.</p>
+<p>Если задолженность не урегулирована, и просрочка превысила 90 дней, кредитор вправе продать долг (уступить права (требования) или передать его на досудебное взыскание коллекторскому агентству.</p>
+<p>Однако с&nbsp;<strong>1 июля 2024 года</strong>&nbsp;введен&nbsp;<strong>двухлетний мораторий&nbsp;</strong>на уступку прав (требований) по кредитам граждан коллекторским агентствам, который будет действовать до&nbsp;<strong>1 мая 2026 года</strong>. Рассматривается также возможность продления моратория до 1 мая 2027 года.</p>
+<p>В этот период продажа долгов граждан коллекторам запрещена, и урегулирование возможно только через реструктуризацию, прощение штрафов, пеней и комиссий либо передачу задолженности на досудебное взыскание без перехода права требования. После окончания моратория уступка долга будет разрешена лишь при просрочке&nbsp;<strong>свыше 24 месяцев</strong>&nbsp;и проведении кредитором процедур урегулирования с обязательным прощением пени.</p>
+<p><strong>Какими правами и обязанности обладает должник?</strong></p>
+<p>&nbsp;Должник вправе:</p>
+<ul>
+<li>получать у коллекторского агентства сведения о коллекторском агентстве, размере и структуре задолженности;</li>
+<li>оспаривать требования коллекторского агентства в суде;</li>
+<li>урегулировать задолженность в порядке, предусмотренном законом о коллекторской деятельности;</li>
+<li>выбрать удобный способ и период взаимодействия с коллектором, самостоятельно фиксировать процесс взаимодействия с коллектором;</li>
+<li>обращаться в Агентство по регулированию и развитию финансового рынка с жалобой на действия (бездействие) коллекторского агентства.</li>
+</ul>
+<p>Должник обязан:</p>
+<ul>
+<li>сообщать коллекторскому агентству об изменении места жительства, номера телефона и данные документов, удостоверяющих личность;</li>
+<li>взаимодействовать с коллекторским агентством с целью урегулирования задолженности.</li>
+</ul>
+<p><strong>Как должны работать коллекторы?</strong></p>
+<p>Коллекторы вправе:</p>
+<ul>
+<li>звонить в будние дни с 08:00 до 21:00 часов не более трех раз в неделю;</li>
+<li>встречаться с должником не более трех раз в неделю и не более одного раза в период с 8.00 до 21.00 часов в будние дни;</li>
+<li>направлять письменные уведомления, текстовые или голосовые сообщения по сотовой связи.</li>
+</ul>
+<p>Коллекторское агентство обязано при каждом контакте с должником информировать о наименовании коллекторского агентства, месте нахождения, сообщать ФИО и должности лица, которое осуществляет взаимодействие, наименовании кредитора.</p>
+<p><strong>Что запрещено коллекторам?</strong></p>
+<ul>
+<li>вводить должника в заблуждение относительно размера, характера и оснований возникновения задолженности;</li>
+<li>сообщать недостоверные ФИО, а также сведения о месте работы и (или) должности работника коллекторского агентства, не соответствующие действительности;</li>
+<li>распространять сведения, порочащие честь, достоинство и деловую репутацию должника, либо разглашать сведения, которые могут причинить имущественный вред интересам должника;</li>
+<li>совершать противоправные действия, посягающие на права и свободы должника, ставящие под угрозу его жизнь и здоровье, а также повлекшие причинение ему имущественного и иного вреда;</li>
+<li>оказывать давление путем угрозы применения насилия либо уничтожения или повреждения имущества должника, оскорбления, мошенничества, подлога документов, шантажа.</li>
+</ul>
+<p>При осуществлении коллекторской деятельности коллекторскому агентству запрещается:</p>
+<ul>
+<li>принимать деньги (в наличной или безналичной форме), а также иное имущество в счет погашения задолженности;</li>
+<li>требовать погашения задолженности иным имуществом, кроме денег.</li>
+</ul>
+<p><strong>Что делать, если ваши права нарушены?</strong></p>
+<p>При неправомерных действиях коллекторов граждане могут направить жалобу в Агентство по регулированию и развитию финансового рынка. В случае подтверждения нарушений к коллекторскому агентству будут приняты соответствующие меры.</p>
+<p>Актуальный реестр коллекторских агентств, имеющих право осуществлять деятельность на территории Казахстана, размещен на официальном сайте Агентства.<br /><br />Источник: Dknews.kz</p>
+</body>
+</html>c:["$","article",null,{"children":[["$","nav",null,{"className":"breadcrumb","children":[["$","$L15",null,{"href":"/","children":"Главная"}]," / ",["$","$L15",null,{"href":"/articles","children":"Статьи"}]," /"," ","Что запрещено коллекторам: перечень действий, кото","…"]}],["$","h1",null,{"className":"page-title","children":"Что запрещено коллекторам: перечень действий, которые нарушают закон"}],["$","time",null,{"dateTime":"2025-12-03","children":"3 декабря 2025 г."}],["$","$L16",null,{"html":"$17"}]]}]
+12:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+18:I[27201,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"IconMark"]
+f:null
+14:[["$","title","0",{"children":"Что запрещено коллекторам: перечень действий, которые нарушают закон | АРРФР"}],["$","meta","1",{"name":"description","content":"Агентство Республики Казахстан по регулированию и развитию финансового рынка (АРРФР): новости, документы, реестры лицензий и защита прав потребителей финансовых услуг"}],["$","link","2",{"rel":"manifest","href":"/manifest.json","crossOrigin":"$undefined"}],["$","meta","3",{"name":"keywords","content":"АРРФР,финансовый регулятор Казахстан,лицензии финансовых организаций,защита прав потребителей финансовых услуг,Агентство финансового рынка"}],["$","meta","4",{"name":"google-site-verification","content":"google-site-verification-code"}],["$","meta","5",{"name":"yandex-verification","content":"yandex-verification-code"}],["$","meta","6",{"property":"og:title","content":"Агентство Республики Казахстан по регулированию и развитию финансового рынка"}],["$","meta","7",{"property":"og:description","content":"Агентство Республики Казахстан по регулированию и развитию финансового рынка"}],["$","meta","8",{"property":"og:site_name","content":"АРРФР"}],["$","meta","9",{"property":"og:locale","content":"ru_RU"}],["$","meta","10",{"property":"og:type","content":"website"}],["$","meta","11",{"name":"twitter:card","content":"summary"}],["$","meta","12",{"name":"twitter:title","content":"Агентство Республики Казахстан по регулированию и развитию финансового рынка"}],["$","meta","13",{"name":"twitter:description","content":"Агентство Республики Казахстан по регулированию и развитию финансового рынка"}],["$","link","14",{"rel":"icon","href":"/favicon.ico?favicon.0x3dzn~oxb6tn.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","15",{"rel":"icon","href":"/favicon.ico"}],["$","link","16",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png"}],["$","$L18","17",{}]]

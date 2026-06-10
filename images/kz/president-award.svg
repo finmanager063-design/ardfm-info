@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 500" role="img" aria-label="Presidential award certificate">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#003366"/>
+      <stop offset="50%" stop-color="#00AFCA"/>
+      <stop offset="100%" stop-color="#004d66"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="500" fill="url(#bg)"/>
+  <rect x="40" y="40" width="820" height="420" rx="12" fill="none" stroke="#FEC50C" stroke-width="4"/>
+  <circle cx="450" cy="160" r="56" fill="#FEC50C" opacity="0.9"/>
+  <path d="M450 118l10 30h32l-26 19 10 30-26-19-26 19 10-30-26-19h32z" fill="#003366"/>
+  <text x="450" y="250" text-anchor="middle" fill="#fff" font-family="Georgia,serif" font-size="32" font-weight="700">Gratitude</text>
+  <text x="450" y="290" text-anchor="middle" fill="#FEC50C" font-family="system-ui" font-size="24" font-weight="600">President of the Republic of Kazakhstan</text>
+  <text x="450" y="340" text-anchor="middle" fill="#e8f4ff" font-family="system-ui" font-size="18">For contribution to consumer protection</text>
+  <text x="450" y="400" text-anchor="middle" fill="#fff" font-family="system-ui" font-size="22" font-weight="600">Sergei Makarov · 2025</text>
+</svg>

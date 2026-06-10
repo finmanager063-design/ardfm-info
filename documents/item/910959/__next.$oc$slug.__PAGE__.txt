@@ -1,0 +1,42 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],""]
+3:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
+5:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+4:T90f,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<p><strong>Список кандидатов, зачисленных в кадровый резерв Агентства Республики Казахстан по регулированию и развитию финансового рынка:</strong></p>
+<ol>
+<li><strong>Абдугапар Шахрух Парухович</strong></li>
+<li><strong>Айтов Аслан Нұрланұлы</strong></li>
+<li><strong>Анарбай Асылбек Куатбекулы </strong></li>
+<li><strong>Атабаев Санжар Маратбекович </strong></li>
+<li><strong>Бекеева Айгуль Акилжановна</strong></li>
+<li><strong>Дуйсенбек Мади Пернебекулы</strong></li>
+<li><strong>Епихин Иван Сергеевич</strong></li>
+<li><strong>Есимбек Ғалымжан Булатұлы</strong></li>
+<li><strong>Жанадил Ерке Мейрамбековна</strong></li>
+<li><strong>Жумабек Амирхан Кайратович</strong></li>
+<li><strong>Итаков Рустам Ахметжанович</strong></li>
+<li><strong>Каипова Аружан Даниярқызы </strong></li>
+<li><strong>Манарбекқызы Дильназ </strong></li>
+<li><strong>Маркс Анель Нурлановна</strong></li>
+<li><strong>Мырзахмет Болат Күмісбекұлы</strong></li>
+<li><strong>Өтебек Бекзат Нұрғалиұлы</strong></li>
+<li><strong>Ренге Андрей Владимирович </strong></li>
+<li><strong>Саденова Назерке Ғалымжанқызы</strong></li>
+<li><strong>Сейдахметов Санжар Аскарович</strong></li>
+<li><strong>Сейтбаев Райымбек Абилкаирулы</strong></li>
+<li><strong>Серикбосынова Ажар Куатовна</strong></li>
+<li><strong>Серикова Аяна Акимжановна</strong></li>
+<li><strong>Темирбаева Адиля Сериковна</strong></li>
+<li><strong>Темірбек Астанхан Темірбекұлы</strong></li>
+<li><strong>Уралбаев Ильяс Маратович </strong></li>
+<li><strong>Шигабутдинов Ренат Русланович</strong></li>
+</ol>
+</body>
+</html>0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","nav",null,{"className":"breadcrumb","children":[["$","$L2",null,{"href":"/documents/1","children":"Документы"}]," / ","Список кандидатов, зачисленных в кадровы","…"]}],["$","h1",null,{"className":"page-title","children":"Список кандидатов, зачисленных в кадровый резерв Агентства Республики Казахстан по регулированию и развитию финансового рынка"}],["$","time",null,{"children":"15 октября 2025 г."}],["$","$L3",null,{"html":"$4"}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zM9lERO3SlzCY7qBjKejW"}
+7:null

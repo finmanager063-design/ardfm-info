@@ -1,0 +1,20 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],""]
+3:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
+5:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+4:Tdaf,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<p>Правлением Агентством по регулированию и развитию финансового рынка 16 апреля 2026 года принято постановление № 68 <strong>&laquo;</strong><strong>Об утверждении </strong><strong>Правил выбора банка с универсальной банковской лицензией, осуществляющего исламские банковские операции, исламского банка и передачи ему имущества, приобретенного за счет денег, привлеченных по договору об инвестиционном депозите, и обязательств по инвестиционным депозитам ликвидируемого банка с универсальной банковской лицензией, осуществляющего исламские банковские операции, исламского банка, а также выбора банка, филиала банка &ndash; нерезидента Республики Казахстан, осуществляющих исламские банковские операции, филиала банка-нерезидента Республики Казахстан с универсальной банковской лицензией, осуществляющего исламские банковские операции, и передачи им имущества, приобретенного за счет денег, привлеченных по договору об инвестиционном депозите, и обязательств по инвестиционным депозитам принудительно прекращающего деятельность филиала исламского банка-нерезидента Республики Казахстан, филиала банка-нерезидента Республики Казахстан с универсальной банковской лицензией, осуществляющего исламские банковские операции&raquo;</strong><strong>.</strong></p>
+<p>Постановление принято в целях реализации пункта 3 статьи 116 и пункта 3 статьи 128 Закона Республики Казахстан &laquo;О банках и банковской деятельности в Республике Казахстан&raquo;.</p>
+<p>Постановлением устанавливается порядок передачи имущества и обязательств ликвидируемого исламского банка, прекращающего деятельность филиала банка &ndash; нерезидента Республики Казахстана, другому исламскому банку.</p>
+<p>С полным текстом постановления можно ознакомиться на <a href="https://www.gov.kz/memleket/entities/ardfm/documents/details/999250?lang=ru">официальном интернет-ресурсе</a> Агентства.</p>
+<p>&nbsp;</p>
+<p><strong>Управление внешних коммуникаций </strong></p>
+<p><a href="mailto:press@finreg.kz"><strong>press@finreg.kz</strong></a></p>
+</body>
+</html>0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","nav",null,{"className":"breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Главная"}]," / ",["$","$L2",null,{"href":"/media/press","children":"Пресс-релизы"}]]}],["$","h1",null,{"className":"page-title","children":"О правилах передачи имущества и обязательств, ликвидируемого и прекращающего деятельность исламского банка"}],["$","time",null,{"children":"21 апреля 2026 г."}],"$undefined",["$","$L3",null,{"html":"$4"}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zM9lERO3SlzCY7qBjKejW"}
+7:null

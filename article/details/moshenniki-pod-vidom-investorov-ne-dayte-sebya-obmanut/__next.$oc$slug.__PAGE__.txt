@@ -1,0 +1,33 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],""]
+3:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
+5:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+4:Td6d,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<p>С развитием цифровых технологий инвестирование доступно каждому, передает&nbsp;<a href="https://dknews.kz/" target="_blank" rel="noopener">DKnews.kz</a>.</p>
+<p>Наряду с ростом интереса к инвестициям наблюдается активность мошенников, маскирующихся под финансовых экспертов. Особенно активно они действуют через социальные сети.</p>
+<p>Один из распространенных сценариев &ndash; фейковая инвестиционная платформа. Злоумышленники создают сайты, визуально копирующие известные компании или якобы представляющие крупные банки.</p>
+<p>Через активную рекламу в социальных сетях такие &laquo;проекты&raquo; обещают высокую доходность за короткий срок, иногда с минимальными вложениями. Часто под постами публикуются фальшивые отзывы &laquo;довольных инвесторов&raquo;. В роликах используются образы известных личностей, созданные с помощью нейросетей.</p>
+<p>Главная цель &ndash; вызвать доверие и убедить вложить деньги в фейковую инвестиционную платформу.</p>
+<p><strong>Признаки фейковой платформы:</strong></p>
+<ul>
+<li>реклама с неофициальных аккаунтов;</li>
+<li>ссылка ведет не на официальный сайт, а на сторонний ресурс;</li>
+<li>обещание &laquo;гарантированного&raquo; высокого дохода;</li>
+<li>призыв действовать срочно;</li>
+<li>необходимость скачать приложение не через AppStore или GooglePlay.</li>
+</ul>
+<p><strong>Рекомендации:</strong></p>
+<ol>
+<li>Проверяйте лицензии финансовых организаций на&nbsp;<a href="https://www.gov.kz/memleket/entities/ardfm/permissions-notifications/section/1/subsection/3/registry/29?lang=ru" target="_blank" rel="noopener" data-cke-saved-href="https://www.gov.kz/memleket/entities/ardfm/permissions-notifications/section/1/subsection/3/registry/29?lang=ru">сайте</a>&nbsp;Агентства РК по регулированию и развитию финансового рынка.</li>
+<li>Не доверяйте рекламе без подтверждения на официальных сайтах банков и компаний.</li>
+<li>Не отправляйте личные данные или деньги до полной проверки платформы.</li>
+</ol>
+<p>Больше полезных материалов доступно на сайте&nbsp;<a href="https://www.fingramota.kz/ru" target="_blank" rel="noopener" data-cke-saved-href="https://www.fingramota.kz/ru"><strong>Fingramota.kz</strong>.</a><br /><br />Источник: Dknews.kz</p>
+</body>
+</html>0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","nav",null,{"className":"breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Главная"}]," / ",["$","$L2",null,{"href":"/articles","children":"Статьи"}]," /"," ","Мошенники под видом инвесторов: не дайте себя обма","…"]}],["$","h1",null,{"className":"page-title","children":"Мошенники под видом инвесторов: не дайте себя обмануть"}],["$","time",null,{"dateTime":"2025-05-15","children":"15 мая 2025 г."}],["$","$L3",null,{"html":"$4"}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zM9lERO3SlzCY7qBjKejW"}
+7:null

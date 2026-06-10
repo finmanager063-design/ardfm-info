@@ -1,0 +1,105 @@
+1:"$Sreact.fragment"
+2:I[50612,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"ShellWrapper"]
+3:I[39756,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"default"]
+4:I[37457,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"default"]
+9:I[68027,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"default",1]
+:HL["/_next/static/chunks/0rgbmrr6_b96m.css","style"]
+:HL["/_next/static/chunks/0t1-qk9~.xa44.css","style"]
+:HL["https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap","style"]
+0:{"P":null,"c":["","article","details","kakuyu-otchetnost-obyazany-predstavlyat-finorganizacii-ob-obrashcheniyah-potrebiteley",""],"q":"","i":false,"f":[[["",{"children":[["slug","article/details/kakuyu-otchetnost-obyazany-predstavlyat-finorganizacii-ob-obrashcheniyah-potrebiteley","oc",null],{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0rgbmrr6_b96m.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/0t1-qk9~.xa44.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0w5bf6qo2zbxc.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/0_t29vi~hh.tn.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ru","className":"notranslate","children":[["$","head",null,{"children":[["$","link",null,{"rel":"icon","href":"/favicon.ico"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap","rel":"stylesheet"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"GovernmentOrganization\",\"name\":\"Агентство Республики Казахстан по регулированию и развитию финансового рынка\",\"alternateName\":\"АРРФР\",\"description\":\"Агентство Республики Казахстан по регулированию и развитию финансового рынка — государственный орган, осуществляющий регулирование и надзор на финансовом рынке\",\"url\":\"https://govkz.online\",\"address\":{\"@type\":\"PostalAddress\",\"addressCountry\":\"KZ\",\"addressLocality\":\"Астана\",\"streetAddress\":\"проспект Мәңгілік Ел, 20а\",\"postalCode\":\"010000\"},\"telephone\":\"+7-7172-79-00-00\",\"image\":\"https://govkz.online/images/og-image.jpg\",\"knowsAbout\":[\"Регулирование финансового рынка\",\"Банковский надзор\",\"Страховой надзор\",\"Рынок ценных бумаг\",\"Микрофинансовые организации\",\"Защита прав потребителей финансовых услуг\"],\"parentOrganization\":{\"@type\":\"GovernmentOrganization\",\"name\":\"Правительство Республики Казахстан\"}}"}}]]}],["$","body",null,{"children":["$","$L2",null,{"meta":{"syncedAt":"2026-05-29T09:02:13.563Z","source":"https://www.gov.kz/memleket/entities/ardfm","entityTitle":"Агентство Республики Казахстан по регулированию и развитию финансового рынка","entityShort":"АРРФР","contacts":{"telegram":{"username":"finance_regulator_bot","handle":"@finance_regulator_bot","url":"https://t.me/finance_regulator_bot"}}},"children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":"$L5","templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["$L6",{},null,false,null]},null,false,"$@7"]},null,false,null],"$L8",false]],"m":"$undefined","G":["$9",["$La","$Lb"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"zM9lERO3SlzCY7qBjKejW"}
+d:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+e:"$Sreact.suspense"
+11:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"ViewportBoundary"]
+13:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"MetadataBoundary"]
+5:["$","$L4",null,{}]
+6:["$","$1","c",{"children":["$Lc",[["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true,"nonce":"$undefined"}]],["$","$Ld",null,{"children":["$","$e",null,{"name":"Next.MetadataOutlet","children":"$@f"}]}]]}]
+10:[]
+7:"$W10"
+8:["$","$1","h",{"children":[null,["$","$L11",null,{"children":"$L12"}],["$","div",null,{"hidden":true,"children":["$","$L13",null,{"children":["$","$e",null,{"name":"Next.Metadata","children":"$L14"}]}]}],null]}]
+a:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0rgbmrr6_b96m.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+b:["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/0t1-qk9~.xa44.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+15:I[22016,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],""]
+16:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
+17:T3fe7,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<div class="description">АРРФР РК постановлением от 20 апреля 2026 года утвердило Правила представления банками, страховыми организациями, организациями, осуществляющими брокерскую деятельность на рынке ценных бумаг, МФО отчетности по поступившим обращениям физических и юридических лиц, сообщает Zakon.kz.</div>
+<div class="content">
+<p>Документ утверждает:</p>
+<ul>
+<li><a title="Постановление Правления Агентства Республики Казахстан по регулированию и развитию финансового рынка от 20 апреля 2026 года № 80 " href="https://prg.kz/lawyer/document/?doc_id=38955812#sub_id=1" target="_blank" rel="nofollow noopener">перечень</a>&nbsp;отчетности по поступившим обращениям физических и юридических лиц (потребители финансовых услуг) банков, филиалов банков &ndash; нерезидентов РК, организаций, осуществляющих отдельные виды банковских операций, страховых организаций, филиалов страховых организаций &ndash; нерезидентов РК, организаций, осуществляющих брокерскую деятельность на рынке ценных бумаг, микрофинансовых организаций (финансовые организации);</li>
+<li><a title="Постановление Правления Агентства Республики Казахстан по регулированию и развитию финансового рынка от 20 апреля 2026 года № 80 " href="https://prg.kz/lawyer/document/?doc_id=38955812#sub_id=2" target="_blank" rel="nofollow noopener">форму</a>&nbsp;отчета об обращениях потребителей финансовых услуг (агрегированные данные);</li>
+<li><a href="https://prg.kz/lawyer/document/?doc_id=38955812#sub_id=3" target="_blank" rel="nofollow noopener">форму</a>&nbsp;отчета о финансовых последствиях для потребителей финансовых услуг по результатам рассмотрения обращений;</li>
+<li><a title="Постановление Правления Агентства Республики Казахстан по регулированию и развитию финансового рынка от 20 апреля 2026 года № 80 " href="https://prg.kz/lawyer/document/?doc_id=38955812#sub_id=100" target="_blank" rel="nofollow noopener">Правила</a>&nbsp;представления финансовыми организациями отчетности по поступившим обращениям потребителей финансовых услуг.</li>
+</ul>
+<p><b>Отчетность по поступившим обращениям потребителей финансовых услуг включает:</b></p>
+<ul>
+<li>отчет об обращениях потребителей финансовых услуг (агрегированные данные);</li>
+<li>отчет о финансовых последствиях для потребителей финансовых услуг по результатам рассмотрения обращений.</li>
+</ul>
+<p>Отчеты предоставляются в Агентство РК по регулированию и развитию финансового рынка раз в полугодие, в срок&nbsp;<b>до 15 числа</b>&nbsp;второго месяца, следующего за отчетным периодом включительно.</p>
+<p>Полнота и достоверность данных в отчетности обеспечивается руководителем финансовой организации или лицом, на которое возложена функция по подписанию отчетности.</p>
+<p>Отчетность, подписанная руководителем финансовой организации или лицом, на которое возложена функция по подписанию отчета, и исполнителем посредством ЭЦП, хранится в электронном формате в финансовой организации&nbsp;<b>не менее пяти лет</b>&nbsp;со дня истечения срока ее представления.</p>
+<p>Отчетность представляется в уполномоченный орган в электронном формате в консолидированном виде по Республике Казахстан.</p>
+<p><b>Отражение обращений в отчетности осуществляется по следующим правилам:</b></p>
+<ul>
+<li>обращения, поступившие и рассмотренные в отчетном периоде, учитываются по дате поступления;</li>
+<li>обращения, поступившие в предыдущих отчетных периодах и рассмотренные в отчетном периоде, учитываются по дате завершения рассмотрения.</li>
+<li>
+<p>Указывается, что обращение считается рассмотренным после того, как финансовая организация предоставила заявителю ответ о полном или частичном удовлетворении требования (приняла меры по урегулированию обращения), либо об отказе в удовлетворении требования.</p>
+<p><b>В отчетность не включаются обращения, не относящиеся к оказанию финансовых услуг, в том числе:</b></p>
+<ul>
+<li>обращения работников финансовой организации к финансовой организации как работодателю, связанные с трудовыми и социальными отношениями (прием на работу, перевод, увольнение, оплата труда, условия труда, дисциплинарные взыскания, охрана труда и иные кадровые вопросы).</li>
+</ul>
+<p>Данное исключение не распространяется на случаи, когда работник финансовой организации одновременно является потребителем финансовых услуг (клиентом) и обращается по вопросам, касающимся оказания ему финансовых услуг;</p>
+<ul>
+<li>корпоративные конфликты и споры между акционерами (участниками), членами органов управления, бенефициарами и самой финансовой организацией, не связанные с оказанием финансовых услуг потребителям (в том числе споры по вопросам корпоративного управления, распределения прибыли, дивидендной политики, эмиссии и размещения ценных бумаг);</li>
+<li>обращения контрагентов финансовой организации, не являющихся потребителями финансовых услуг, по договорам, не относящимся к оказанию финансовых услуг (договоры аренды, поставки, подряда, аутсорсинга, ИТ-сопровождения и иные хозяйственные договоры);</li>
+<li>обращения, представляющие собой запросы информации, разъяснений законодательства либо условий продуктов и услуг и не содержащие выражения неудовлетворенности действиями (бездействием) финансовой организации либо условиями оказания финансовых услуг;</li>
+<li>обращения, связанные с исполнением финансовой организацией публично-правовых обязанностей (налоговая отчетность, валютный контроль, финансовый мониторинг, статистическая отчетность и иные обязанности перед государственными органами), если такие обращения не затрагивают права и интересы конкретного потребителя финансовых услуг;</li>
+<li>обращения, содержащие сообщения о предполагаемых нарушениях законодательства, коррупции, злоупотреблениях, а также иных нарушениях без указания на нарушение прав конкретного потребителя финансовых услуг;</li>
+<li>обращения средств массовой информации, профессиональных и общественных объединений и иных организаций, не являющихся потребителями финансовых услуг по конкретному договору (сделке), за исключением обращений, поданных в интересах конкретного потребителя финансовых услуг с прямым указанием на это в обращении;</li>
+<li>переписка с государственными органами РК и иными организациями по вопросам надзорного, контрольного и правоприменительного взаимодействия, не содержащая самостоятельных обращений потребителей финансовых услуг;</li>
+<li>обращения, не поддающиеся прочтению, содержащие бессвязный или неинформативный текст, либо являющиеся массовыми автоматизированными рассылками и не позволяющие установить содержание требований заявителя;</li>
+<li>анонимные обращения, по которым невозможно установить заявителя;</li>
+<li>заявления, уведомления и иные документы, оформляемые по установленным в финансовой организации стандартным формам в рамках исполнения договоров о предоставлении финансовых продуктов и не содержащие признаков обращения потребителя финансовых услуг.</li>
+</ul>
+<p>Классификатор видов финансовых продуктов, тематик и причин обращений потребителей финансовых услуг определяет коды, наименования и определения, используемые при формировании отчетности по поступившим обращениям потребителей финансовых услуг в разрезе финансовых продуктов, тематик и причин обращений.</p>
+<p><b>В частности, классификация тематики обращений физических лиц включает в себя:</b></p>
+<ul>
+<li>Условия и оформление кредита &ndash; условия договора, отказ в выдаче, сумма, срок, ставка, изменение условий</li>
+<li>Урегулирование задолженности &ndash; реструктуризация, графики платежей, отсрочки, рассмотрение заявлений</li>
+<li>Взыскание задолженности &ndash; способы и порядок взыскания, списания, передача долга третьим лицам</li>
+<li>Платежи и переводы &ndash; ошибочные, задержанные, неисполненные или двойные операции</li>
+<li>Счета и карты &ndash; открытие, ведение, закрытие счетов и карт</li>
+<li>Комиссии и списания &ndash; размер, правомерность и порядок взимания комиссий и удержаний</li>
+<li>Блокировка операций &ndash; ограничение операций по счетам и картам (антифрод, ПОД/ФТ)</li>
+<li>Мошеннические операции &ndash; несанкционированные операции, кредиты или списания без согласия клиента</li>
+<li>Реакция банка при мошенничестве &ndash; действия или бездействие банка при рассмотрении мошеннических операций</li>
+<li>Кредитная история &ndash; ошибки, несвоевременная передача данных, отказ в исправлении</li>
+<li>Раскрытие информации &ndash; неполная, недостоверная или несвоевременная информация</li>
+<li>Навязывание услуг &ndash; подключение дополнительных платных услуг без добровольного согласия</li>
+<li>Вводящая в заблуждение реклама &ndash; реклама, создающая искаженное представление об условиях продукта</li>
+<li>Качество обслуживания &ndash; действия или бездействие работников банка, сроки, формальные ответы</li>
+<li>Иное &ndash; используется только при невозможности классификации по вышеизложенным тематикам.</li>
+</ul>
+<p><b>Также документ содержит:</b></p>
+<ul>
+<li>Классификацию причин обращений физических лиц;</li>
+<li>Классификацию видов финансовых продуктов юридических лиц;</li>
+<li>Классификацию тематики обращений юридических лиц;</li>
+<li>Классификацию причин обращений юридических лиц;</li>
+<li>Классификацию видов финансовых продуктов для организаций, филиалов страховой организации &ndash; нерезидента РК) и др.</li>
+</ul>
+<p><a href="https://prg.kz/lawyer/document/?doc_id=38955812" target="_blank" rel="nofollow noopener">Постановление</a>&nbsp;вводится в действие с 27 июня.</p>
+Источник: Zakon.kz</li>
+</ul>
+</div>
+</body>
+</html>c:["$","article",null,{"children":[["$","nav",null,{"className":"breadcrumb","children":[["$","$L15",null,{"href":"/","children":"Главная"}]," / ",["$","$L15",null,{"href":"/articles","children":"Статьи"}]," /"," ","Какую отчетность обязаны представлять финорганизац","…"]}],["$","h1",null,{"className":"page-title","children":"Какую отчетность обязаны представлять финорганизации об обращениях потребителей"}],["$","time",null,{"dateTime":"2026-04-28","children":"28 апреля 2026 г."}],["$","$L16",null,{"html":"$17"}]]}]
+12:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+18:I[27201,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"IconMark"]
+f:null
+14:[["$","title","0",{"children":"Какую отчетность обязаны представлять финорганизации об обращениях потребителей | АРРФР"}],["$","meta","1",{"name":"description","content":"Агентство Республики Казахстан по регулированию и развитию финансового рынка (АРРФР): новости, документы, реестры лицензий и защита прав потребителей финансовых услуг"}],["$","link","2",{"rel":"manifest","href":"/manifest.json","crossOrigin":"$undefined"}],["$","meta","3",{"name":"keywords","content":"АРРФР,финансовый регулятор Казахстан,лицензии финансовых организаций,защита прав потребителей финансовых услуг,Агентство финансового рынка"}],["$","meta","4",{"name":"google-site-verification","content":"google-site-verification-code"}],["$","meta","5",{"name":"yandex-verification","content":"yandex-verification-code"}],["$","meta","6",{"property":"og:title","content":"Агентство Республики Казахстан по регулированию и развитию финансового рынка"}],["$","meta","7",{"property":"og:description","content":"Агентство Республики Казахстан по регулированию и развитию финансового рынка"}],["$","meta","8",{"property":"og:site_name","content":"АРРФР"}],["$","meta","9",{"property":"og:locale","content":"ru_RU"}],["$","meta","10",{"property":"og:type","content":"website"}],["$","meta","11",{"name":"twitter:card","content":"summary"}],["$","meta","12",{"name":"twitter:title","content":"Агентство Республики Казахстан по регулированию и развитию финансового рынка"}],["$","meta","13",{"name":"twitter:description","content":"Агентство Республики Казахстан по регулированию и развитию финансового рынка"}],["$","link","14",{"rel":"icon","href":"/favicon.ico?favicon.0x3dzn~oxb6tn.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","15",{"rel":"icon","href":"/favicon.ico"}],["$","link","16",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png"}],["$","$L18","17",{}]]

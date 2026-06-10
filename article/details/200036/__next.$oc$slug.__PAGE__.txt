@@ -1,0 +1,45 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],""]
+3:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
+9:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+a:"$Sreact.suspense"
+4:T1a22,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<p>7 апреля 2025 года в Казахстане заработали&nbsp;<a href="https://www.gov.kz/memleket/entities/ardfm/press/news/details/912066?lang=ru&amp;utm_source=in_materials" target="_blank" rel="noreferrer noopener">правила</a>&nbsp;расчета коэффициентов обязательной страховки авто. Изменения затронули новичков, водителей с нарушениями и иностранцев. Для одних стоимость полиса значительно выросла, для других &mdash; снизилась.</p>
+<h3 id="h-как-изменились-тарифы-осгпо" class="wp-block-heading"><strong>Как изменились тарифы ОСГПО</strong></h3>
+<p>Агентство по регулированию и развитию финансового рынка (АРРФР) обновило шкалу страховых коэффициентов по системе &laquo;бонус-малус&raquo;. Самый высокий, 13-й класс, останется самым выгодным и обеспечит минимальную стоимость полиса. При этом появился и новый минимальный класс М2, который увеличит цену автостраховки в 7 раз.</p>
+<h2 id="h-кому-придется-платить-больше" class="wp-block-heading"><strong>Кому придется платить больше</strong></h2>
+<p><strong>Новички</strong>. Те, кто впервые оформляет обязательную автостраховку, получат класс A с коэффициентом 1,8 (ранее был 3-й класс с коэффициентом 1,0). Это почти двукратное удорожание полиса.</p>
+<p><strong>Нарушители</strong>. При грубых нарушениях ПДД водители автоматически попадают в класс М2, что значительно увеличивает стоимость страховки.</p>
+<p>К серьезным нарушениям относятся:</p>
+<ul class="wp-block-list">
+<li>Вождение в нетрезвом виде или передача авто пьяному водителю.</li>
+<li>ДТП с пострадавшими или погибшими по вине пьяного водителя.</li>
+<li>Превышение скорости более чем на 40 км/ч или повторное нарушение в течение года.</li>
+<li>Выезд на встречную полосу при запрете ПДД.</li>
+<li>Проезд на красный свет или игнорирование сигналов регулировщика.</li>
+<li>Нарушение приоритета пешеходов и создание аварийной ситуации.</li>
+<li>Управление машиной с неисправной тормозной системой или рулевым управлением.</li>
+<li>ДТП с крупным материальным ущербом.</li>
+</ul>
+<p>Также ужесточаются правила для водителей, оформивших страховку в одном регионе, но попавших в ДТП в другом. Если коэффициент территории, где случилась авария, выше, чем по месту регистрации, стоимость полиса может вырасти.</p>
+<h2 id="h-кому-стало-дешевле" class="wp-block-heading"><strong>Кому стало дешевле</strong></h2>
+<p><strong>Иностранцы</strong>. Временно въезжающие в Казахстан водители сразу получают 13-й класс, что позволят снизить стоимость полиса.</p>
+<p><strong>Аккуратные водители</strong>. Для тех, кто находится в 13-м классе более 5 лет, страховщики могут устанавливать пониженные коэффициенты. Однако детали программы пока не раскрыты.</p>
+<h2 id="h-как-избежать-переплаты" class="wp-block-heading"><strong>Как избежать переплаты</strong></h2>
+<p>Регулярное соблюдение ПДД позволит ежегодно повышать страховой класс и снижать цену полиса. Чем дольше водитель не получает штрафы и остается безаварийным, тем выгоднее условия автострахования.</p>
+<p>Новые правила обязательной страховки авто направлены на повышение безопасности на дорогах и поощрение ответственного вождения. Подробную таблицу с коэффициентами можно посмотреть&nbsp;<a href="https://kz.kursiv.media/2025-02-07/kmlz-strahovanieavto-rascheta/?utm_source=in_materials" target="_blank" rel="noreferrer noopener">здесь</a>.</p>
+<p>Ранее глава компании Freedom Insurance&nbsp;<strong>Азамат</strong>&nbsp;<strong>Керимбаев</strong>&nbsp;<a href="https://kz.kursiv.media/2025-02-24/kmlz-avtostrahovka/?utm_source=in_materials" target="_blank" rel="noreferrer noopener">заявлял</a>, что водители с безаварийным стажем свыше 15 лет смогут купить страховку на авто в Казахстане всего за 10 тенге (вместо 15 тыс.).</p>
+<p>Также накануне заработали&nbsp;<a href="https://kz.kursiv.media/2025-04-05/kmlz-shtrafy-voditelyam-mopedov/?utm_source=kursiv&amp;utm_campaign=read_more&amp;utm_source=in_materials" target="_blank" rel="noreferrer noopener">новые требования</a>&nbsp;к водителям мопедов, которым теперь тоже необходимо оформлять полисы ОСГПО. Нарушителей, управляющих двухколесным транспортом без госномеров и водительских прав, полиция обещает штрафовать, а скутеры &mdash; изымать.</p>
+<p>Источник: Kz.kursiv.media</p>
+<p>&nbsp;</p>
+</body>
+</html>0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","nav",null,{"className":"breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Главная"}]," / ",["$","$L2",null,{"href":"/articles","children":"Статьи"}]," /"," ","В Казахстане вступили в силу новые правила обязате","…"]}],["$","h1",null,{"className":"page-title","children":"В Казахстане вступили в силу новые правила обязательного автострахования"}],["$","time",null,{"dateTime":"2025-04-07","children":"7 апреля 2025 г."}],["$","$L3",null,{"html":"$4"}]]}],["$L5","$L6","$L7"],"$L8"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zM9lERO3SlzCY7qBjKejW"}
+5:["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true}]
+6:["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true}]
+7:["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true}]
+8:["$","$L9",null,{"children":["$","$a",null,{"name":"Next.MetadataOutlet","children":"$@b"}]}]
+b:null

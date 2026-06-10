@@ -1,0 +1,19 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],""]
+3:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
+5:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+4:T844,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<p><strong>Агентство по регулированию и развитию финансового рынка напомнило, что все банки и финансовые организации Казахстана обязаны обеспечивать максимальную защиту данных клиентов при внедрении новых цифровых сервисов, включая биометрические технологии, &nbsp;сообщает&nbsp;<a href="https://cmn.kz/">CMN.KZ</a></strong></p>
+<p>В ведомстве отметили, что&nbsp;каждая информационная система проходит обязательное тестирование&nbsp;&ndash; проверяется исходный код, используемые компоненты и библиотеки. Все данные шифруются с помощью протокола&nbsp;TLS не ниже версии 1.2, а конфиденциальная информация хранится&nbsp;в защищённых контейнерах и системных хранилищах.</p>
+<p>Такие меры позволяют предотвратить внедрение вредоносного кода и обеспечить надёжную защиту персональных данных и банковской тайны.</p>
+<p>Финрегулятор подчеркнул, что&nbsp;ведёт постоянный мониторинг уровня кибербезопасности&nbsp;и принимает меры для его повышения.</p>
+<p>Напомним, ранее мы писали, что в АРРФР&nbsp;<a href="https://cmn.kz/arrfr-proverit-bezopasnost-oplaty-po-ladoni/">заявили</a>: технология оплаты по ладони Kaspi Alaqan пока не прошла полную проверку безопасности и находится под угрозой запрета.</p>
+<p>Источник: CMN.kz</p>
+</body>
+</html>0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","nav",null,{"className":"breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Главная"}]," / ",["$","$L2",null,{"href":"/articles","children":"Статьи"}]," /"," ","Банки Казахстана обязали соблюдать строгие стандар","…"]}],["$","h1",null,{"className":"page-title","children":"Банки Казахстана обязали соблюдать строгие стандарты кибербезопасности"}],["$","time",null,{"dateTime":"2025-11-13","children":"13 ноября 2025 г."}],["$","$L3",null,{"html":"$4"}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zM9lERO3SlzCY7qBjKejW"}
+7:null

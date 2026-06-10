@@ -1,0 +1,25 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],""]
+3:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
+5:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+4:Tc56,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<p>23 декабря 2025 года Правлением Агентства по регулированию и развитию финансового рынка принято постановление <strong>&laquo;О внесении изменений и дополнений в некоторые нормативные правовые акты Республики Казахстан по вопросам совершенствования страховой деятельности&raquo;</strong>, предусматривающее внесение изменений и дополнений в восемь нормативных правовых актов.</p>
+<p>Ключевые изменения и дополнения касаются следующих вопросов:</p>
+<p>- снижения стоимости обязательного автострахования для водителей, впервые заключающих договор страхования (владельцев мототранспорта и автотранспорта);</p>
+<p>- установление ответственности страховщика за достоверность информации, передаваемой в Единую страховую базу данных;</p>
+<p>- уточнение порядка расчета коэффициентов по системе &laquo;бонус-малус&raquo;, в том числе в случаях ограниченного доступа к государственным базам данных;</p>
+<p>- расширение инвестиционных возможностей Фонда гарантирования страховых выплат;</p>
+<p>- раскрытие информации о деятельности страховых брокеров, в том числе о минимальных и максимальных размерах их комиссионного вознаграждения;</p>
+<p>- установление требований к оформлению страхового полиса, а также техническому функционированию сайта страховщика.</p>
+<p>Постановление зарегистрировано в Министерстве Юстиции Республики Казахстан 26 декабря 2025 года за № 37693 и будет введено в действие по истечении 10 календарных дней после дня его первого официального опубликования, за исключением положений предусматривающих вопросы технического функционирования сайтов страховщиков, которые вводятся в действие с 1 февраля 2026 года.</p>
+<p>&nbsp;</p>
+<p><strong>Управление внешних коммуникаций </strong></p>
+<p><a href="mailto:press@finreg.kz"><strong>press@finreg.kz</strong></a></p>
+</body>
+</html>0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","nav",null,{"className":"breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Главная"}]," / ",["$","$L2",null,{"href":"/media/press","children":"Пресс-релизы"}]]}],["$","h1",null,{"className":"page-title","children":"О совершенствовании страховой деятельности"}],["$","time",null,{"children":"29 декабря 2025 г."}],"$undefined",["$","$L3",null,{"html":"$4"}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zM9lERO3SlzCY7qBjKejW"}
+7:null

@@ -1,0 +1,20 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],""]
+3:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
+5:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+4:T796,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<p><span>Агентство по&nbsp;регулированию и&nbsp;развитию финансового рынка РК&nbsp;принимает меры по&nbsp;отсрочке выплат по&nbsp;кредитам более 7 тысячам человек, пострадавшим от&nbsp;паводков в&nbsp;Западно-Казахстанской области, передает корреспондент агентства Kazinform.</span></p>
+<p>Как сообщил на брифинге заместитель акима ЗКО Тлепберген Каюпов, около 4 тысяч из них &mdash; жители дачных массивов.<br />По&nbsp;его словам, выплаты по&nbsp;кредитам пострадавшим от&nbsp;паводков будут перенесены на&nbsp;3 месяца с&nbsp;1&nbsp;апреля до&nbsp;30&nbsp;июня 2024 года. За&nbsp;это время штрафы и&nbsp;пени не&nbsp;будут начисляться за&nbsp;просрочку платежей.</p>
+<blockquote>
+<p>&mdash; В регионе начаты работы по ликвидации последствий первого и второго этапов паводков. Сегодня комиссии по возмещению ущерба, причиненного жителям города Уральска, Каратобинского, Сырымского, Байтерекского, Бурлинского и Теректинского районов продолжают свою работу. Проводятся технические проверки, где это представляется возможным, &mdash; заявил заместитель акима области.</p>
+<p>&nbsp;</p>
+<p>Источник: Inform.kz&nbsp;</p>
+</blockquote>
+</body>
+</html>0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","nav",null,{"className":"breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Главная"}]," / ",["$","$L2",null,{"href":"/articles","children":"Статьи"}]," /"," ","1 893 семьи получили социальную помощь на сумму 68","…"]}],["$","h1",null,{"className":"page-title","children":"1 893 семьи получили социальную помощь на сумму 688,3 млн тенге в ЗКО"}],["$","time",null,{"dateTime":"2024-05-04","children":"4 мая 2024 г."}],["$","$L3",null,{"html":"$4"}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zM9lERO3SlzCY7qBjKejW"}
+7:null

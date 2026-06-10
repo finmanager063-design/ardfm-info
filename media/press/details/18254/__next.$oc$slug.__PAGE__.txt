@@ -1,0 +1,17 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],""]
+3:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
+5:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+4:T7f3,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<p>Агентством по регулированию и развитию финансового рынка разработан проект постановления Правления Агентства <strong>&laquo;Об установлении предельного значения совокупного объема активов банка с базовой банковской лицензией и размеров депозитов физических лиц, принимаемых банком с базовой банковской лицензией&raquo;</strong>.</p>
+<p>Проект постановления разработан в реализацию нового Закона Республики Казахстан от 16 января 2026 года № 258-VIII &laquo;О банках и банковской деятельности в Республике Казахстан&raquo;.</p>
+<p>Документом предусматривается установление предельного значения совокупного объема активов банка с базовой банковской лицензией, а также размеров депозитов физических лиц, принимаемых банком с базовой банковской лицензией в соответствии с пунктом 1 статьи 21 и частью второй пункта 2 статьи 22 Закона Республики Казахстан &laquo;О банках и банковской деятельности в Республике Казахстан&raquo;.</p>
+<p>С полным текстом проекта постановления можно ознакомиться на интернет-портале &laquo;Открытые НПА&raquo; &nbsp;и на <a href="https://www.gov.kz/memleket/entities/ardfm/documents/details/1013984?lang=ru">сайте Агентства</a>.</p>
+</body>
+</html>0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","nav",null,{"className":"breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Главная"}]," / ",["$","$L2",null,{"href":"/media/press","children":"Пресс-релизы"}]]}],["$","h1",null,{"className":"page-title","children":"О предельном объеме активов и размерах депозитов физических лиц для банков с базовой лицензией"}],["$","time",null,{"children":"20 мая 2026 г."}],"$undefined",["$","$L3",null,{"html":"$4"}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zM9lERO3SlzCY7qBjKejW"}
+7:null

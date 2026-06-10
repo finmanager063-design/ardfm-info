@@ -1,0 +1,21 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],""]
+3:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
+5:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+4:T71f,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<ol>
+<li align="justify">Чокин Т.К. - член Совета директоров АО Страховая компания &laquo;Basel&raquo; (протокол №75/СО/Т от 26.03.2021г.)</li>
+<li align="justify">Алькенова Ж.М. - главный бухгалтер АО &laquo;Страховая Компания &laquo;Коммеск-Өмір&raquo; (протокол №76/СО/Т от 06.04.2021г.)</li>
+<li align="justify">Жунусова А.А. - член Совета директоров-независимый директор АО &laquo;Компания по страхованию жизни &laquo;Государственная аннуитетная компания&raquo; (протокол №77/СО/Т от 08.04.2021г.)</li>
+<li align="justify">Килыбаев Д.А.- член Совета директоров-независимый директор АО &laquo;Компания по страхованию жизни &laquo;Государственная аннуитетная компания&raquo; (протокол №78/СО/Т от 08.04.2021г.)</li>
+<li align="justify">Машабаев А.Е. - член Совета директоров-независимый директор АО &laquo;Компания по страхованию жизни &laquo;Государственная аннуитетная компания&raquo; (протокол №80/СО/Т от 12.04.2021г.)</li>
+<li align="justify">Аукенов Е.М. - Председатель Совета директоров АО &laquo;Компания по страхованию жизни &laquo;Государственная аннуитетная компания&raquo; (протокол №81/СО от 13.04.2021г.)</li>
+</ol>
+</body>
+</html>0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","nav",null,{"className":"breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Главная"}]," / ",["$","$L2",null,{"href":"/media/news","children":"Новости"}]," / Новость"]}],["$","h1",null,{"className":"page-title","children":"Агентством согласованы руководящие работники  страхового рынка"}],["$","time",null,{"dateTime":"2021-04-16T12:20:00Z","children":"16 апреля 2021 г."}],null,["$","$L3",null,{"html":"$4"}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zM9lERO3SlzCY7qBjKejW"}
+7:null

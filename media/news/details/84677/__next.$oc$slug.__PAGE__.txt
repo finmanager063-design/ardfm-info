@@ -1,0 +1,22 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],""]
+3:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
+5:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+4:T72b,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<p><strong>Агентством Республики Казахстан по регулированию и развитию финансового рынка были согласованы следующие руководящие работники банков второго уровня:</strong></p>
+<ol>
+<li>Елемесов А.Р. &ndash; Член совета директоров &ndash; независимый директор ДБ АО &laquo;Сбербанк&raquo; (протокол № 32/БВУ/П от 02.07.2020г.);</li>
+<li>Пирматов Б.О. &ndash; Заместитель Председателя Правления &ndash; член Правления АО &laquo;ForteBank&raquo; (протокол № 34/БВУ/П от 21.07.2020г.);</li>
+<li>Юджин Белин &ndash; Председатель совета директоров АО &laquo;Ситибанк Казахстана&raquo; (протокол № 35/БВУ/П от 22.07.2020г.);</li>
+<li>Наумов А.В. - Заместитель Председателя Правления &ndash; член Правления АО &laquo;Евразийский банк&raquo; (протокол № 33/БВУ/Т от 15.07.2020г.);</li>
+<li>Бенли Вахит Ферхан &ndash; Член совета директоров &ndash; независимый директор АО ДБ &laquo;Казахстан &ndash; Зираат Интернешнл Банк&raquo; (протокол № 36/БВУ/П от 23.07.2020г.);</li>
+<li>Романовски П. &ndash; Член совета директоров &ndash; независимый директор АО &laquo;Народный Банк Казахстана&raquo; (протокол № 37/БВУ/П от 27.07.2020г.).</li>
+</ol>
+</body>
+</html>0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","nav",null,{"className":"breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Главная"}]," / ",["$","$L2",null,{"href":"/media/news","children":"Новости"}]," / Новость"]}],["$","h1",null,{"className":"page-title","children":"Агентством согласованы руководящие работники банков второго уровня"}],["$","time",null,{"dateTime":"2020-08-03T11:43:00Z","children":"3 августа 2020 г."}],null,["$","$L3",null,{"html":"$4"}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zM9lERO3SlzCY7qBjKejW"}
+7:null

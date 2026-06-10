@@ -1,0 +1,23 @@
+1:"$Sreact.fragment"
+2:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
+4:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+3:Tc60,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<p>Агентство Республики Казахстан по регулированию и развитию финансового рынка (далее &ndash; Агентство) информирует о разработке проекта постановления Правления Агентства &laquo;О внесении изменений и дополнений в некоторые нормативные правовые акты Республики Казахстан по вопросам совершенствования страхового рынка&raquo; (далее &ndash; Проект).</p>
+<p>Проект направлен на повышение устойчивости и прозрачности страхового сектора, развитие цифровизации и защиту прав страхователей.</p>
+<p>Основные меры включают стимулирование участия страховых организаций в страховых пулах и ограничение расходов при ценообразовании страховых продуктов, в том числе участие страховых компаний в капитале IT и финтех-компаний для поддержки инноваций в отрасли.</p>
+<p>Проект также направлен на реализацию рекомендаций Всемирного Банка по приведению страхового законодательства в соответствие с основным принципам страхования Международной Ассоциации Страховых Надзоров &ndash; Insurance core principles (ICP) International Association of Insurance Supervisors (IAIS), включая требования по аутсорсингу, борьбе с мошенничеством и защите прав страхователей.</p>
+<p>Устанавливается требование по созданию независимого подразделения в страховой организации, ответственного за соблюдение прав клиентов и предотвращение недобросовестных практик.</p>
+<p>Расширяется перечень образовательных программ, признаваемых для получения лицензии &laquo;Актуария&raquo;, включая онлайн-обучение на платформе Enbek.kz.</p>
+<p>С полным текстом Проекта можно ознакомиться на официальном интернет-ресурсе Агентства</p>
+<p><a href="https://www.gov.kz/memleket/entities/ardfm/documents/details/918785?lang=ru">https://www.gov.kz/memleket/entities/ardfm/documents/details/918785?lang=ru</a></p>
+<p>&nbsp;</p>
+<p>Управление внешних коммуникаций</p>
+<p><a href="mailto:press@finreg.kz">press@finreg.kz</a></p>
+</body>
+</html>0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","h1",null,{"className":"page-title","children":"О вопросах совершенствования страхового рынка"}],["$","time",null,{"children":"5 ноября 2025 г."}],["$","$L2",null,{"html":"$3"}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zM9lERO3SlzCY7qBjKejW"}
+6:null

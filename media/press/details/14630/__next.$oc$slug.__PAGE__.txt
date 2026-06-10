@@ -1,0 +1,17 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],""]
+3:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
+5:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+4:Tb3a,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<p>Агентство Республики Казахстан по регулированию и развитию финансового рынка (далее &ndash; Агентство) информирует о разработке проекта постановления Правления Агентства &laquo;Об утверждении размеров поправочных коэффициентов, используемых для расчета страховой премии по обязательному страхованию гражданско-правовой ответственности владельцев транспортных средств в соответствии с Законом Республики Казахстан &laquo;Об обязательном страховании гражданско-правовой ответственности владельцев транспортных средств&raquo;, на 2026 год&raquo; (далее &ndash; Проект).</p>
+<p>Проект разработан в соответствии с пунктом 3-1 статьи 19 Закона Республики Казахстан &laquo;Об обязательном страховании гражданско-правовой ответственности владельцев транспортных средств&raquo; и требованиями Постановления Правления Агентства от 7 июня 2023 года № 46 &laquo;Об утверждении Правил расчета поправочных коэффициентов к коэффициентам по территории регистрации транспортного средства для расчета страховой премии по обязательному страхованию гражданско-правовой ответственности владельцев транспортных средств&raquo;.</p>
+<p>Проектом утверждаются размеры поправочных коэффициентов, используемых для расчета страховой премии по обязательному страхованию гражданско-правовой ответственности владельцев транспортных средств, на 2026 год.</p>
+<p>С полным текстом Проекта можно ознакомиться на официальном интернет-ресурсе Агентства в разделе &laquo;Нормативная правовая база&raquo;: <a href="https://www.gov.kz/memleket/entities/ardfm/documents/details/912906?lang=ru">https://www.gov.kz/memleket/entities/ardfm/documents/details/912906?lang=ru</a>.</p>
+</body>
+</html>0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","nav",null,{"className":"breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Главная"}]," / ",["$","$L2",null,{"href":"/media/press","children":"Пресс-релизы"}]]}],["$","h1",null,{"className":"page-title","children":"Разработан проект НПА об утверждении размеров поправочных коэффициентов на 2026 год для расчета страховой премии по обязательному страхованию гражданско-правовой ответственности владельцев транспортных средств"}],["$","time",null,{"children":"23 октября 2025 г."}],"$undefined",["$","$L3",null,{"html":"$4"}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zM9lERO3SlzCY7qBjKejW"}
+7:null

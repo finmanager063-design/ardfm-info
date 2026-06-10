@@ -1,0 +1,961 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],""]
+3:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
+9:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+a:"$Sreact.suspense"
+4:Te8a7,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<p align="center"><em><img src="/uploads/2021/7/30/a61495295e0599091c9bb1899e7c0078_original.127673.png" width="230" height="221" /></em></p>
+<p><a href="https://www.climatebonds.net/certification/approved-verifiers"><font size="2"><em>(Information as of July 2021)</em></font></a></p>
+<p><a href="https://www.climatebonds.net/certification/approved-verifiers"><font size="2">Источник: https://www.climatebonds.net/certification/approved-verifiers</font></a></p>
+<table class="table table-bordered" style="width: 100%;" border="1" width="100%">
+<tbody>
+<tr>
+<td>
+<p><font size="2"><strong>Verifier Name</strong></font></p>
+</td>
+<td>
+<p><font size="2"><strong>Overview</strong></font></p>
+</td>
+<td>
+<p><font size="2"><strong>Region/</strong></font></p>
+<p><font size="2"><strong>Geographic Scope</strong></font></p>
+</td>
+<td>
+<p><font size="2"><strong>Sector Criteria</strong></font></p>
+</td>
+<td>
+<p><font size="2"><strong>Contact/URL</strong></font></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><font size="2"><a href="http://www.aeclu.com/">AECLU Edificaciones y Sostenibilidad SL<br /></a></font></p>
+</td>
+<td>
+<p><font size="2">AECLU is entity for certification, inspection and verification for green finance, focused in Building Sector in Spain, with over 11 years&rsquo; experience in the issuance of urbanism licenses and conformity certificates for more than 5.000 buildings, new and renovation, destined for multiple activities. We are committed to quality, customer service with expertise, independence and confidentiality, and the transition to a low-carbon economy.</font></p>
+</td>
+<td>
+<p><font size="2">Spain</font></p>
+</td>
+<td>
+<p><font size="2">Low Carbon Buildings</font></p>
+</td>
+<td>
+<p><font size="2"><a href="mailto:maria@aeclu.com">Maria Barreiro(link sends e-mail)</a></font></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><font size="2"><a href="https://buildamerica.com/">BAM<br /></a></font></p>
+</td>
+<td>
+<p><font size="2">Build America Mutual (BAM)&nbsp;is a mutual bond insurance company operated for the benefit of its members &ndash; the cities, states and other municipal entities that use BAM&rsquo;s financial guaranty to lower their cost of borrowing. BAM is the National League of Cities&rsquo; preferred provider of bond insurance. BAM&nbsp;is licensed in all 50 states and helps make essential public infrastructure &ndash; including water and sewer utilities, schools, roads, and government buildings &ndash; more affordable.</font></p>
+</td>
+<td>
+<p><font size="2">United States</font></p>
+</td>
+<td>
+<p><font size="2">Water Infrastructure</font><br /><font size="2">Low Carbon Buildings (Commercial)</font><br /><font size="2">Low Carbon Transport</font></p>
+</td>
+<td>
+<p><font size="2"><a href="mailto:mstanton@buildamerica.com">Michael Stanton(link sends e-mail)</a></font><br /><font size="2">Head of Corporate Strategy &amp; Communications</font><br /><font size="2">+1 212-235-2575</font></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><font size="2"><a href="http://enrccef.cufe.edu.cn/">Beijing Zhongcai Green Financing Consultants Ltd<br /></a></font></p>
+</td>
+<td>
+<p><font size="2">Beijing Zhongcai Green Financing Consultants Ltd has emerged as the commercial arm of the International Institute of Green Finance (IIGF), Central University of Finance and Economics (CUFE) in Beijing. They have significant experience in the Chinese green bond market and policy research.</font></p>
+</td>
+<td>
+<p><font size="2">China</font></p>
+</td>
+<td>
+<p><font size="2">Solar</font><br /><font size="2">Wind</font><br /><font size="2">Low Carbon Buildings</font><br /><font size="2">Low Carbon Transport</font><br /><font size="2">Marine Renewable</font></p>
+</td>
+<td>
+<p><font size="2"><a href="mailto:yingcui@rccef.com.cn">Ms Ying CUI(link sends e-mail)</a></font></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><font size="2"><a href="http://www.blockc.com.br/">BlockC<br /></a></font></p>
+</td>
+<td>
+<p><font size="2">BlockC is part of group of companies with more than two decades of experience in the development of renewable projects and carbon finance. BlockC's proprietary platform combines our expertise in climate change with disruptive technologies in order to verify adherence of financial instruments to CBI standards.</font></p>
+</td>
+<td>
+<p><font size="2">Brazil</font></p>
+</td>
+<td>
+<p><font size="2">Agriculture</font><br /><font size="2">Buildings</font><br /><font size="2">Bioenergy</font><br /><font size="2">Geothermal</font><br /><font size="2">Solar</font><br /><font size="2">Wind</font><br /><font size="2">Transport</font><br /><font size="2">Waste</font></p>
+</td>
+<td>
+<p><font size="2"><a href="mailto:melissa.hirschheimer@blockc.com.br">Melissa Hirschheimer (link sends e-mail)</a></font></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><font size="2"><a href="https://www.bluesnow.com/">Blue Snow Consulting<br /></a></font></p>
+</td>
+<td>
+<p><font size="2">Blue Snow was set up in 2005 to provide boutique engineering and building technology services to the building and infrastructure sector. The focus was to assemble a team of industry professionals to assist developers, owners and design teams to enhance the performance of buildings in its design stage and buildings that are already in operation. As the company progressed, clients were increasingly asking for total solutions as opposed to just analysis. This drove Blue Snow to develop its own solutions as well as partner with other solution providers to provide services ranging from audit, design, analysis, solution implementation, commissioning, maintenance and now finance. As of today,Blue Snow has worked on more than fifty LEED and other green building certifications and numerous audit and improvement projects within ASEAN.</font></p>
+</td>
+<td>
+<p><font size="2">Malaysia UK and ASEAN region</font></p>
+</td>
+<td>
+<p><font size="2">Low Carbon Buildings</font><br /><font size="2">Solar</font><br /><font size="2">Wind</font></p>
+</td>
+<td>
+<p><font size="2"><a href="mailto:bernard@bluesnow.com">Bernard Sagaiyaraj (link sends e-mail)</a></font></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><font size="2"><a href="http://www.bureauveritas.com/wps/wcm/connect/bv_com/group">Bureau Veritas (Brazil)<br /></a></font></p>
+</td>
+<td>
+<p><font size="2">Created in 1828, Bureau Veritas is a global leader in Testing, Inspection and Certification (TIC), delivering high quality services to help clients meet the growing challenges of quality, safety, environmental protection and social responsibility.</font></p>
+</td>
+<td>
+<p><font size="2">Brazil</font></p>
+</td>
+<td>
+<p><font size="2">Solar</font><br /><font size="2">Wind</font><br /><font size="2">Geothermal</font><br /><font size="2">Marine Renewables</font><br /><font size="2">Bioenergy</font><br /><font size="2">Low Carbon Buildings</font><br /><font size="2">Forestry</font></p>
+</td>
+<td>
+<p><font size="2"><a href="mailto:lucas.engelbrecht.ext@bureauveritas.com">Lucas Engelbrecht (Brazil Sustainability Market Leader) (link sends e-mail)</a></font></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><font size="2"><a href="http://www.bureauveritas.com/wps/wcm/connect/bv_com/group">Bureau Veritas (UK)<br /></a></font></p>
+</td>
+<td>
+<p><font size="2">Created in 1828, Bureau Veritas is a global leader in Testing, Inspection and Certification (TIC), delivering high quality services to help clients meet the growing challenges of quality, safety, environmental protection and social responsibility.</font></p>
+</td>
+<td>
+<p><font size="2">Worldwide</font></p>
+</td>
+<td>
+<p><font size="2">Solar</font><br /><font size="2">Wind</font><br /><font size="2">Water Infrastructure</font><br /><font size="2">Low Carbon Buildings</font><br /><font size="2">Low Carbon Transport</font><br /><font size="2">Marine Renewable</font></p>
+</td>
+<td>
+<p><font size="2"><a href="mailto:vishal.goel@uk.bureauveritas.com">Vishal Goel (link sends e-mail)</a></font><br /><font size="2"><a href="mailto:sustainability@uk.bureauveritas.com">Sustainability Services Team (link sends e-mail)</a></font></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><font size="2"><a href="http://www.carboncareasia.com/eng/">Carbon Care Asia Limited (CCA)<br /></a></font></p>
+</td>
+<td>
+<p><font size="2">Carbon Care Asia Limited (CCA) is a leading provider of services on carbon strategy, greenhouse gas reduction, climate change policy advice, and environmental, social and governance reporting in East and Southeast Asia. Headquartered in Hong Kong, CCA was founded by top environmental and social development professionals. Operating as a professional social business, CCA stands uniquely in the middle of the spectrum between NGOs and purely commercial consultancies.</font></p>
+</td>
+<td>
+<p><font size="2">Asia</font></p>
+</td>
+<td>
+<p><font size="2">Solar</font><br /><font size="2">Wind</font><br /><font size="2">Geothermal</font><br /><font size="2">Low Carbon Buildings</font><br /><font size="2">Water Infrastructure</font></p>
+</td>
+<td>
+<p><font size="2"><a href="mailto:john.sayer@carboncareasia.com">John Sayer (link sends e-mail)</a>, Director</font><br /><font size="2">(+852 2541 5020)</font></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><font size="2"><a href="https://www.carbontrust.com/home/">Carbon Trust<br /></a></font></p>
+</td>
+<td>
+<p><font size="2">Carbon Trust&lsquo;s certification arm works with hundreds of organisations around the world, helping them to better understand their environmental impacts and robustly demonstrate sustainability achievements. Their certifications focus on reductions in carbon emissions and improving resource efficiency, including water use and waste output.</font></p>
+</td>
+<td>
+<p><font size="2">Worldwide</font></p>
+</td>
+<td>
+<p><font size="2">Solar</font><br /><font size="2">Wind</font><br /><font size="2">Low Carbon Buildings</font><br /><font size="2">Low Carbon Transport</font><br /><font size="2">Water Infrastructure</font></p>
+</td>
+<td>
+<p><font size="2"><a href="mailto:Morgan.Jones@carbontrust.com">Morgan Jones(link sends e-mail)</a></font><br /><font size="2"><a href="mailto:Nick.Harris@carbontrust.com">Nick Harris(link sends e-mail)</a></font></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><font size="2">CECEP</font></p>
+</td>
+<td>
+<p><font size="2">CECEP Hundred Technical Service (Beijing) Co.,Ltd. is a wholly-owned subsidiary of CECEP Consulting Co., Ltd. CECEP Consulting was established in 1995. The company has over 80 employees with expertise in a wide range of environmental and engineering fields and also access to a network of over 2000 experts in different organisations. CECEP Consulting works closely with government departments in conservation and environmental protection policy research and planning. The company has provided consulting services for over 5000 projects with total investment volume exceeding one trillion. CECEP Consulting has a high reputation in China's conservation and environmental protection industry, known as the "think tank."</font></p>
+</td>
+<td>
+<p><font size="2">China</font></p>
+</td>
+<td>
+<p><font size="2">Wind</font><br /><font size="2">Solar</font><br /><font size="2">Low Carbon Transport</font><br /><font size="2">Water Infrastructure</font></p>
+</td>
+<td>
+<p><font size="2"><a href="mailto:xccheng1230@163.com">Chengcheng Xiong (link sends e-mail)</a></font></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><font size="2"><a href="http://www.ccx.com.cn/">China Chengxin Green Finance Technology (Beijing) Ltd.<br /></a></font></p>
+</td>
+<td>
+<p><font size="2">China Chengxin Green Finance Technology (Beijing) Ltd. (CCXGF) is the pioneering credit rating agency in China with a leading market position since its establishment in 1992. CCX was the first Chinese credit rating agency to publish a green bond assessment method, and was also the first as a CBI approved verifier in the industry in China. CCX is committed to providing independent, professional certification, assurance, assessment and consulting services related to green bond and other fields of sustainable finance.</font></p>
+</td>
+<td>
+<p><font size="2">China</font></p>
+</td>
+<td>
+<p><font size="2">Solar</font><br /><font size="2">Wind</font><br /><font size="2">Low Carbon Transport</font><br /><font size="2">Low Carbon Buildings</font><br /><font size="2">Water Infrastructure</font></p>
+</td>
+<td>
+<p><font size="2"><a href="mailto:cuizixiao@ccx.cn">Alex Cui(link sends e-mail)</a></font></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><font size="2"><a href="http://www.lhcis.com/">China Lianhe EIA<br /></a></font></p>
+</td>
+<td>
+<p><font size="2">Lianhe EIA is committed to providing professional consulting, certification, research services related to sustainable finance and environmental protection. It has particular experience in financial analysis, environmental impact assessment, sustainable development consulting and environmental engineering technology.</font></p>
+</td>
+<td>
+<p><font size="2">China</font></p>
+</td>
+<td>
+<p><font size="2">Solar</font><br /><font size="2">Wind</font><br /><font size="2">Low Carbon Buildings</font><br /><font size="2">Low Carbon Transport</font><br /><font size="2">Water Infrastructure</font></p>
+</td>
+<td>
+<p><font size="2"><a href="mailto:liujy@lhcis.com">LIU Jingyun(link sends e-mail)</a></font></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><font size="2"><a href="http://www.cqc.com.cn/www/english/">China Quality Certification Centre (CQC)<br /></a></font></p>
+</td>
+<td>
+<p><font size="2">China Quality Certification Centre (CQC) is a professional certification body and its core business involves product certificaiton, including China Compulsory Certification (CCC), voluntary certification, management system and training services certfication. CQC is also a state-authorised third party certification body for saving, water, environmental friendly products, IECEE CB systems as well as being an official member of IQNet, IFOAM, ANF and CITA. It has established coorperative relations with 27 certification bodies in 19 countries.</font></p>
+</td>
+<td>
+<p><font size="2">China</font></p>
+</td>
+<td>
+<p><font size="2">All sectors</font></p>
+</td>
+<td>
+<p><font size="2"><a href="mailto:%20zhuhailei@cqc.com.cn">ZHU Hailei(link sends e-mail)</a></font><br /><font size="2"><a href="mailto:zengan@cqc.com.cn">ZENG An(link sends e-mail)</a></font></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><font size="2">Deloitte</font></p>
+</td>
+<td>
+<p><font size="2">Deloitte China, Italy, and Spain are member firms of Deloitte Touche Tohmatsu Limited, limited by guarantee (&ldquo;DTTL&rdquo;). Over 900 Deloitte member firm partners and professionals deliver sustainability-related services to clients in more than 50 countries. These professionals collaborate across the Deloitte network&rsquo;s business lines &ndash; Risk Advisory, Audit, Tax &amp; Legal, Consulting, and Financial Advisory &ndash; to help clients transition to sustainable business models and practices that will deliver top and bottom line growth for the long term.</font></p>
+</td>
+<td>
+<p><font size="2">Individual member firms are the Verifier. Subject to issuer&rsquo;s location, the issuer may be referred to the appropriate individual firm to provide Verification service</font></p>
+</td>
+<td>
+<p><font size="2">All sectors</font></p>
+</td>
+<td>
+<p><font size="2"><a href="mailto:jrivals@deloitte.fr">Julien Rivals (link sends e-mail)</a></font><br /><font size="2"><a href="https://www2.deloitte.com/fr/fr.html">(France)(link is external)</a></font><br /><font size="2"><a href="mailto:fmessini@deloitte.lu">Francesca Messini (link sends e-mail)</a></font><br /><font size="2"><a href="https://www2.deloitte.com/lu/en.html">(Luxembourg)(link is external)</a></font><br /><font size="2"><a href="mailto:jmartingonzalez@deloitte.es">Javier Martin-Gonzalez (link sends e-mail)</a></font><br /><font size="2"><a href="https://www2.deloitte.com/es/es.html">(Spain)(link is external)</a></font><br /><font size="2"><a href="mailto:ligu@deloitte.com.cn">Gu, Jolin Ling (link sends e-mail)</a></font><br /><font size="2"><a href="https://www2.deloitte.com/cn/zh.html">(China)(link is external)</a></font><br /><font size="2"><a href="mailto:pvonwebsky@deloitte.de">Philipp von Websky (link sends e-mail)</a></font><br /><font size="2"><a href="mailto:aflunker@deloitte.de">Andrea Flunker (link sends e-mail)</a></font><br /><font size="2"><a href="https://www2.deloitte.com/de/de.html">(Germany)(link is external)</a></font><br /><font size="2"><a href="https://www.climatebonds.net/certification/mpalumbo@deloitte.it">Monica Palumbo</a></font><br /><font size="2"><a href="https://www2.deloitte.com/it/it.html">(Italy)(link is external)</a></font></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><font size="2"><a href="https://www.dnvgl.com/">DNV.GL<br /></a></font></p>
+</td>
+<td>
+<p><font size="2">DNV-GL is the world's leading ship and offshore classification society, the leading technical advisor to the global oil and gas industry, and a leading expert for the value chain including renewables and efficiency. We&rsquo;ve also taken a position as one of the top three certification bodies in the world.</font></p>
+</td>
+<td>
+<p><font size="2">Worldwide</font></p>
+</td>
+<td>
+<p><font size="2">All sectors</font></p>
+</td>
+<td>
+<p><font size="2"><a href="mailto:m.robinson@dnvgl.com">Mark Robinson (link sends e-mail)</a></font><br /><font size="2"><a href="mailto:Douglas.Farquhar@dnvgl.com">Douglas Farquhar (link sends e-mail)</a></font></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><font size="2"><a href="https://dqs-cfs.com/">DQS CFS<br /></a></font></p>
+</td>
+<td>
+<p><font size="2">All members of the DQS Group strive towards one common goal: to contribute to the sustainable success of our clients. Within the Group, DQS CFS is the branch that focuses on audit and assessment services related to sustainability and consumer safety. This not only includes certification of quality and product safety management systems, but also supplier audits, inspection, product certification and external assurance on sustainability reports and data.</font></p>
+</td>
+<td>
+<p><font size="2">Worldwide</font></p>
+</td>
+<td>
+<p><font size="2">All sectors</font></p>
+</td>
+<td>
+<p><font size="2"><a href="mailto:info@dqs-cfs.com">info@dqs-cfs.com (link sends e-mail)</a></font></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><font size="2"><a href="http://www.emergent-ventures.com/">Emergent Ventures India (EVI)<br /></a></font></p>
+</td>
+<td>
+<p><font size="2">Emergent Ventures India (EVI) provides public and private sector consulting and assurance services across the spectrum of sustainable development issues in India and Southeast Asia.</font></p>
+</td>
+<td>
+<p><font size="2">Worldwide</font></p>
+</td>
+<td>
+<p><font size="2">Solar</font><br /><font size="2">Wind</font><br /><font size="2">Low Carbon Transport</font><br /><font size="2">Forestry</font><br /><font size="2">Low Carbon Buildings</font><br /><font size="2">Bioenergy</font></p>
+</td>
+<td>
+<p><font size="2"><a href="mailto:atul.sanghal@emergent-ventures.com">Atul Sanghal (link sends e-mail)</a></font></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><font size="2"><a href="http://epicsustainability.com/">EPIC Sustainability<br /></a></font></p>
+</td>
+<td>
+<p><font size="2">EPIC Sustainability is a leading independent greenhouse gas verifier, sustainability assurance provider and third party auditor operating globally. EPIC is a two time International Award Winning Organization within two years of commencing operations, first in the history of environmental markets business.</font></p>
+</td>
+<td>
+<p><font size="2">Worldwide</font></p>
+</td>
+<td>
+<p><font size="2">All sectors</font></p>
+</td>
+<td>
+<p><font size="2"><a href="mailto:vishnu@epicsustainability.com">Dr. Vishnu(link sends e-mail)</a></font></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><font size="2"><a href="https://eqa.es/">EQA Spain<br /></a></font></p>
+</td>
+<td>
+<p><font size="2">EQA Spain is a certification, inspection and verification body conducting thousands of audits per year in quality and SGE&nbsp;standards. Third party SGE evaluations assignments include sustainability reports, Green House Gas verifications, and audits related to governance like antibribery, money laundry prevention, tax assurance systems and other schemes related to compliance in general. Our values are strong technical competence, independence and confidentiality.</font></p>
+</td>
+<td>
+<p><font size="2">Worldwide excl US, Canada</font></p>
+</td>
+<td>
+<p><font size="2">All sectors</font></p>
+</td>
+<td>
+<p><font size="2"><a href="mailto:Gustavo.horn@eqa.es">Gustavo Horn(link sends e-mail)</a></font></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><font size="2"><a href="http://www.ermcvs.com/">ERM CVS<br /></a></font></p>
+</td>
+<td>
+<p><font size="2">ERM Certification and Verification Services (ERM CVS) is a wholly owned subsidiary of the ERM Group, a global market leader in sustainability services. Operating in more than 50 countries, we deliver independent, accredited, performance-focused certification, verification and assurance services. Our team brings together expertise in climate-related project validation and verification, data verification, financial accounting and assurance; with deep technical experience across the range of the sectors included within the Climate Bonds Initiative.</font></p>
+</td>
+<td>
+<p><font size="2">Worldwide</font></p>
+</td>
+<td>
+<p><font size="2">Solar</font><br /><font size="2">Wind</font><br /><font size="2">Geothermal</font><br /><font size="2">Marine Renewable</font><br /><font size="2">Low Carbon Buildings</font><br /><font size="2">Low Carbon Transport</font><br /><font size="2">Water Infrastructure</font></p>
+</td>
+<td>
+<p><font size="2"><a href="mailto:michael.anderson@ermcvs.com">Michael Anderson(link sends e-mail)</a></font></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><font size="2"><a href="https://www.climatebonds.net/%20https%3A/www.ey.com/en_gl">EY<br /></a></font></p>
+</td>
+<td>
+<p><font size="2">EY is a global leader in assurance, tax, transaction and advisory services. EY refers to the global organization, and may refer to one or more, of the member firms of Ernst &amp; Young Global Limited, a UK company limited by guarantee, each of which is a separate legal entity. There are 231,000 EY people globally and EY offices in more than 150 countries.</font></p>
+</td>
+<td>
+<p><font size="2">Individual member firms are the Verifier. Subject to issuer&rsquo;s location, the issuer may be referred to the appropriate individual firm to provide Verification services</font></p>
+</td>
+<td>
+<p><font size="2">All sectors</font></p>
+</td>
+<td>
+<p><font size="2"><a href="mailto:Judy-LJ.Li@cn.ey.com">Judy Li (link sends e-mail)</a>&nbsp;(China)</font><br /><font size="2"><a href="http://www.ey.com/cn/en/home">EY China (link is external)</a></font><br /><font size="2"><a href="mailto:pip.best@au.ey.com">Pip Best (link sends e-mail)</a>&nbsp;(Asia Pacific)</font><br /><font size="2"><a href="mailto:mfisher@uk.ey.com">Mark Fisher (link sends e-mail)</a>(Europe)</font><br /><font size="2"><a href="mailto:john.derose@ey.com">John DeRose (link sends e-mail)</a>&nbsp;(Americas)</font><br /><font size="2"><a href="mailto:Artem.A.Larin@ru.ey.com">Artem Larin (link sends e-mail)</a>&nbsp;(Central, Eastern and South Europe)</font><br /><font size="2"><a href="mailto:felipe.janica@co.ey.com">Felipe Janica (link sends e-mail)</a>&nbsp;(Latin America)</font><br /><font size="2"><a href="mailto:leonardo.dutra@br.ey.com">Leonardo Dutra (link sends e-mail)</a>&nbsp;(Brazil)</font><br /><font size="2"><a href="mailto:veli.ivanova@ey.com">Velislava Ivanova (link sends e-mail)</a>&nbsp;(North America)</font><br /><font size="2"><a href="http://www.ey.com/gl/en/home">EY Global (link is external)</a></font></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><font size="2"><a href="http://www.firstenvironment.com/">First Environment<br /></a></font></p>
+</td>
+<td>
+<p><font size="2">First Environment is a U.S.-based environmental consulting company that provides environmental verification and product certification services as well as site remediation, regulatory compliance, environmental management system, climate change adaptation, and litigation support services. The firm is an American National Standards Institute (ANSI) accredited greenhouse gas verification body and has received past recognition by Environmental Finance as the Best Verification Company for both voluntary and mandatory markets in North America.</font></p>
+</td>
+<td>
+<p><font size="2">Worldwide</font></p>
+</td>
+<td>
+<p><font size="2">All sectors</font></p>
+</td>
+<td>
+<p><font size="2"><a href="mailto:pludvigsen@firstenvironment.com">Phil Ludvigsen(link sends e-mail)</a></font></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><font size="2">Golden Credit Service Co. Ltd.</font></p>
+</td>
+<td>
+<p><font size="2">Golden Credit Service is a leading credit consulting company in China. The company is committed to providing objective and independent verification &amp; certification services related to green bond, green enterprise, and environmental protection. In addition, it provides consulting services of ESG risk management and sustainable &amp; responsible development. Golden Credit Service is entitled to qualified credit investigation institution of The People&rsquo;s Bank of China (PBoC), a credit system cooperative institution of National Development and Reform Commission (NDRC), as well as member of National Association of Financial Market Institutional Investors (NAFMII)</font></p>
+</td>
+<td>
+<p><font size="2">China</font></p>
+</td>
+<td>
+<p><font size="2">Solar</font><br /><font size="2">Wind</font><br /><font size="2">Geothermal</font><br /><font size="2">Marine Renewable</font><br /><font size="2">Low Carbon Buildings</font><br /><font size="2">Low Carbon Transport</font><br /><font size="2">Water Infrastructure</font></p>
+</td>
+<td>
+<p><font size="2"><a href="mailto:changzheng-dfjc@coamc.com.cn">Stella Chang(link sends e-mail)</a></font><br /><font size="2">Head of International Business</font><br /><font size="2"><a href="mailto:fangyixiang@coamc.com.cn">Yixiang Fang(link sends e-mail)</a></font><br /><font size="2">Head of Green Bond Dept</font></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><font size="2"><a href="https://greensolver.net/en/">Greensolver<br /></a></font></p>
+</td>
+<td>
+<p><font size="2">Created in 2008, Greensolver is an independent technical expert dedicated to wind and solar assets. From construction &amp; operations (TCM) to advisory services we are dedicated to creating value and delivering high value services to our customers. We have offices in Paris, London &amp; Groningen and are certified with ISO 9001, ISO 14001, ISO 55001 and OHSAS 18001</font></p>
+</td>
+<td>
+<p><font size="2">Worldwide</font></p>
+</td>
+<td>
+<p><font size="2">Solar</font><br /><font size="2">Wind</font></p>
+</td>
+<td>
+<p><font size="2"><a href="mailto:maxime.harroy@greensolver.net">Maxime Harroy (link sends e-mail)</a></font><br /><font size="2">+33 (0)6 37 02 94 41</font></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><font size="2"><a href="http://www.hkqaa.org/en_index.php">HKQAA<br /></a></font></p>
+</td>
+<td>
+<p><font size="2">Established by Hong Kong Government in 1989, Hong Kong Quality Assurance Agency (HKQAA) is a non-profit public organization that for several decades has been committed to introducing international management standards, promoting good management practices and sustainability in Greater China. As one of the leading conformity assessment organisations in the region, HKQAA developed diverse services and obtained ample experience in the field of social responsibility, environmental protection, sustainability and responsible investment. These services include Green Finance Certification Scheme, CSR Index Series, assessment and rating services for the Hang Seng Corporate Sustainability Index Series, as well as Validation and Verification for Clean Development Mechanism projects.</font></p>
+</td>
+<td>
+<p><font size="2">Worldwide except United States and Canada</font></p>
+</td>
+<td>
+<p><font size="2">Solar</font><br /><font size="2">Wind</font><br /><font size="2">Low Carbon Buildings</font><br /><font size="2">Water Infrastructure</font></p>
+</td>
+<td>
+<p><font size="2"><a href="mailto:pc.chan@hkqaa.org">P C Chan (link sends e-mail)</a>&nbsp;Chief Operating Officer</font></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><font size="2"><a href="https://www.hrratings.com/">HR Ratings<br /></a></font></p>
+</td>
+<td>
+<p><font size="2">Since 2007, HR Ratings has conducted ratings assigned to debt issuances in Mexico with a value totaling approximately US$35 billion. These ratings include analysis of governmental entities, corporates, financial institutions, infrastructure and asset backed securities in Mexico. HR Ratings has since expanded internationally, to become the first Latin American credit rating agency and one of only ten companies worldwide which is registered with the US Securities and Exchange Commission (SEC) as a Nationally Recognized Statistical Rating Organization (NRSRO) ) for issuers of government securities. It is the first Latin American Credit Rating Agency (CRA) to be certified by the European Securities and Markets Authority (ESMA) and the third overall Credit Rating Agency to be certified by this institution.</font></p>
+</td>
+<td>
+<p><font size="2">Worldwide</font></p>
+</td>
+<td>
+<p><font size="2">All sectors</font></p>
+</td>
+<td>
+<p><font size="2"><a href="mailto:raul.medina@hrratings.com">Raul Medina (link sends e-mail)</a>, Business Development Manager</font></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><font size="2"><a href="https://ibisconsulting.com/">IBIS ESG Consulting<br /></a></font></p>
+</td>
+<td>
+<p><font size="2">IBIS is a premier emerging market sustainability consultancy that helps companies unlock value by improving their environmental and social performance. We combine technical engineering skills with business knowledge to offer tailored solutions that will drive change in a carbon-constrained economy. We support Corporates, Financial Institutions and Funds on all aspects of carbon management, including CBI verification services.</font></p>
+</td>
+<td>
+<p><font size="2">Africa, Asia</font></p>
+</td>
+<td>
+<p><font size="2">Solar</font><br /><font size="2">Wind</font><br /><font size="2">Agriculture</font><br /><font size="2">Water</font><br /><font size="2">Waste management</font><br /><font size="2">Transport</font><br /><font size="2">Low carbon buildings</font></p>
+</td>
+<td>
+<p><font size="2"><a href="mailto:petrus@ibisconsulting.com">Africa: Petrus Gildenhuys +27 82 788 4169 (link sends e-mail)</a></font></p>
+<p><font size="2"><a href="mailto:oliver@ibisconsulting.com">Asia: Oliver Warner +65 9665 3136 (link sends e-mail)</a></font></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><font size="2"><a href="https://www.iene.eu/">IENE<br /></a></font></p>
+</td>
+<td>
+<p><font size="2">IENE is registered in Greece and currently operates across southeast Europe, ie the Balkans, Greece, Hungary, Romania, Bulgaria, Israel and Turkey. It is a research non profit organisation, which primarily focuses on research, information sharing and education activities on the energy industry in the region. Revenue for 2019 was EUR 450,000 (USD 550,000) and the company has 8 full time staff with several consultants. The organisation was founded in 2003.</font></p>
+</td>
+<td>
+<p><font size="2">Southeast Europe</font></p>
+</td>
+<td>
+<p><font size="2">Solar, Wind, Geothermal, Marine Renewables, Low Carbon Buildings, Bioenergy</font></p>
+</td>
+<td>
+<p><font size="2"><a href="mailto:cstambolia@iene.gr">cstambolia@iene.gr (link sends e-mail)</a></font></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><font size="2"><a href="http://www.igreenbank.cn/">iGreenBank<br /></a></font></p>
+</td>
+<td>
+<p><font size="2">The iGreenBank is a leading green fintech player in green finance market. The key business of the iGreenBank is enhancing the credibility of green finance products based on an AI engine called EnRobot and a database named Green Recording System(GRS). The iGreenBank provides services including green bonds assessment, environmental risk management, big data mining and ESG.</font></p>
+</td>
+<td>
+<p><font size="2">China (not include Hong Kong, Macau)</font></p>
+</td>
+<td>
+<p><font size="2">Solar</font><br /><font size="2">Wind</font><br /><font size="2">Geothermal</font><br /><font size="2">Marine Renewable</font><br /><font size="2">Low Carbon Buildings</font><br /><font size="2">Low Carbon Transport</font><br /><font size="2">Water Infrastructure</font></p>
+</td>
+<td>
+<p><font size="2"><a href="mailto:zhanghan@igreenbank.cn">Mr. Zhang Han (link sends e-mail)</a></font><br /><font size="2">+86 13501358579</font></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><font size="2"><a href="https://induforgroup.com/">Indufor Oy<br /></a></font></p>
+</td>
+<td>
+<p><font size="2">Indufor Oy is an independent international consulting company providing world class advisory services to a wide range of public and private sector clients around the world in natural resources management, investment advisory, and strategic industrial development. Indufor has completed over 900 consulting assignments in more than 100 countries worldwide since 1980.</font></p>
+</td>
+<td>
+<p><font size="2">Worldwide</font></p>
+</td>
+<td>
+<p><font size="2">Forestry</font></p>
+</td>
+<td>
+<p><font size="2"><a href="mailto:stanislav.sokolov@induforgroup.com">Stanislav Sokolov (link sends e-mail)</a></font></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><font size="2"><a href="http://www.issgovernance.com/esg">ISS<br /></a></font></p>
+</td>
+<td>
+<p><font size="2">ISS ESG is the responsible investment arm of Institutional Shareholder Services Inc., the world&rsquo;s leading provider of environmental, social, and governance solutions for asset owners, asset managers, hedge funds, and asset servicing providers. Under the ISS ESG umbrella are three discrete units that draw on deep historical and industry expertise, including: ISS-ethix, ISS-climate, and ISS-oekom. ISS ESG clients rely on the expertise of all three to help them integrate responsible investing policies and practices into their strategy and shareholder voting decisions.</font></p>
+</td>
+<td>
+<p><font size="2">Worldwide</font></p>
+</td>
+<td>
+<p><font size="2">Solar</font><br /><font size="2">Wind</font><br /><font size="2">Marine Renewable</font><br /><font size="2">Geothermal</font><br /><font size="2">Low Carbon Buildings</font><br /><font size="2">Low Carbon Transport</font><br /><font size="2">Water Infrastructure</font></p>
+</td>
+<td>
+<p><font size="2"><a href="mailto:SPO@isscorporatesolutions.com">(link sends e-mail) </a><a href="mailto:SPO@isscorporatesolutions.com">SPO@isscorporatesolutions.com (link sends e-mail)</a></font><br /><font size="2"><a href="mailto:Stephen.James@isscorporateservices.com">Stephen James (link sends e-mail)</a></font></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><font size="2"><a href="http://www.jcr.co.jp/">Japan Credit Rating Agency<br /></a></font></p>
+</td>
+<td>
+<p><font size="2">Founded in 1985, Japan Credit Rating Agency, Ltd. (JCR) is one of the major credit rating agencies in Japan. Not only in Japan, it is the only Japanese credit rating agency registered in the United States and is a certified CRA in EU. In terms of sustainable finance market, JCR provides an independent evaluation (Rating/Scoring) and verification with its long experience in Japanese debt capital market, together with the Japanese environmental engineering firm, E&amp;E Solutions.</font></p>
+</td>
+<td>
+<p><font size="2">Japan</font></p>
+</td>
+<td>
+<p><font size="2">All sectors</font></p>
+</td>
+<td>
+<p><font size="2"><a href="mailto:kajiwara@jcra.com">Atsuko Kajiwara (link sends e-mail)</a></font></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><font size="2"><a href="http://www.kestrelverifiers.com/">Kestrel Verifiers<br /></a></font></p>
+</td>
+<td>
+<p><font size="2">Kestrel Verifiers is an American company with deep experience in the water, and land use sectors. We support green finance with professional verification services. We are committed to quality, customer service and the transition to a low-carbon economy, and while we work world-wide, we are US public finance specialists.</font></p>
+</td>
+<td>
+<p><font size="2">United States and worldwide</font></p>
+</td>
+<td>
+<p><font size="2">Solar</font><br /><font size="2">Wind</font><br /><font size="2">Marine Renewable</font><br /><font size="2">Geothermal</font><br /><font size="2">Low Carbon Transport</font><br /><font size="2">Water Infrastructure</font><br /><font size="2">Low Carbon Buildings</font><br /><font size="2">Forestry</font></p>
+</td>
+<td>
+<p><font size="2"><a href="mailto:monica@kestrel-inc.com">Monica Reid (link sends e-mail)</a></font></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><font size="2"><a href="https://home.kpmg.com/xx/en/home.html">KPMG<br /></a></font></p>
+</td>
+<td>
+<p><font size="2">KPMG Australia, India, France, Luxembourg, New Zealand, and Singapore operate as parts of a network of independent member firms offering audit, tax and advisory services. It operates in 155 countries and employ more than 155,000 people across a range of disciplines. KPMG's clients include business corporations, governments and public sector agencies and not-for-profit organizations.</font></p>
+</td>
+<td>
+<p><font size="2">Individual independent member firms are the Verifier. Subject to issuer&rsquo;s location, the issuer may be referred to the appropriate individual firm to provide Verification services. Member firms active are Australia, India, France, New Zealand</font></p>
+</td>
+<td>
+<p><font size="2">All sectors</font></p>
+</td>
+<td>
+<p><font size="2"><a href="mailto:manpreetsingh@kpmg.com">Manpreet Singh (link sends e-mail)</a></font><br /><font size="2"><a href="https://home.kpmg.com/in/en/home.html">(India)(link is external)</a></font><br /><font size="2"><a href="mailto:julien.ganter@kpmg.lu">Julien Ganter (link sends e-mail)</a></font><br /><font size="2"><a href="https://home.kpmg.com/lu/en/home.html">(Luxembourg)(link is external)</a></font><br /><font size="2"><a href="mailto:cherinefok@kpmg.com.sg">Cherine Fok (link sends e-mail)</a></font><br /><font size="2"><a href="https://home.kpmg/sg/en/home.html">(Singapore)(link is external)</a></font><br /><font size="2"><a href="mailto:cehrhart@kpmg.co.nz">Dr Charles Ehrhart (link sends e-mail)</a></font><br /><font size="2"><a href="https://home.kpmg/nz/en/home.html">(New Zealand)(link is external)</a></font><br /><font size="2"><a href="mailto:markspicer@kpmg.com.au">Mark Spicer (link sends e-mail)</a></font><br /><font size="2"><a href="https://home.kpmg/au/en/home.html">(Australia)(link is external)</a></font><br /><font size="2"><a href="mailto:agarans@kpmg.fr">Anne Garans (link sends e-mail)</a></font><br /><font size="2"><a href="https://home.kpmg/fr/fr/home.html">(France)(link is external)</a></font></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><font size="2"><a href="https://www.multiconsultgroup.com/">Multiconsult ASA<br /></a></font></p>
+</td>
+<td>
+<p><font size="2">Multiconsult ASA is Norway&rsquo;s leading engineering consultancy, with global knowledge and local experience across multiple markets in Europe, Africa and Asia. Multiconsult provides technical and commercial advisory services within the whole renewable value chain from production, transmission and distribution, to consumption and efficiency/building technologies. We can verify green bonds focused on investments in solar and wind power and Bioenergymass; off-grids, mini-grids and grid-connected solutions up to 600 kV; we also work with battery storage, -efficient buildings as well as electric transportation.</font></p>
+</td>
+<td>
+<p><font size="2">Worldwide except United States</font></p>
+</td>
+<td>
+<p><font size="2">Solar</font><br /><font size="2">Wind</font><br /><font size="2">Low Carbon Buildings</font><br /><font size="2">Low Carbon Transport</font></p>
+</td>
+<td>
+<p><font size="2"><a href="mailto:energi@multiconsult.no">Multiconsult Sales Team (link sends e-mail)</a></font></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><font size="2"><a href="http://www.nsf.org/about-nsf/">NSF Certification, LLC<br /></a></font></p>
+</td>
+<td>
+<p><font size="2">NSF Certification, LLC is a USA-based not-for-profit organization respected for its scientific and technical expertise. Our worldwide offices provide product and management system certification and climate services. We are accredited by the American National Standards Institute (ANSI) as a greenhouse gas validation and verification body.</font></p>
+</td>
+<td>
+<p><font size="2">Worldwide</font></p>
+</td>
+<td>
+<p><font size="2">Solar</font><br /><font size="2">Wind</font><br /><font size="2">Low Carbon Buildings</font><br /><font size="2">Low Carbon Transport</font><br /><font size="2">Water Infrastructure</font></p>
+</td>
+<td>
+<p><font size="2"><a href="mailto:smack@nsf.org">Stacey L Mack (link sends e-mail)</a></font></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><font size="2"><a href="https://www.ratingspcr.com/">Pacific Credit Rating<br /></a></font></p>
+</td>
+<td>
+<p><font size="2">We are a credit rating company with 27 years of experience on our field, operating across 11 countries throughout Latin America and the Caribbean. Our sister company, Pacific Corporate Sustainability (PCS) provides advice on sustainable finance, corporate sustainability and corporate governance. With the support of PCS, we are active promoters of responsible investments in the region.</font></p>
+</td>
+<td>
+<p><font size="2">Latin America Caribbean</font></p>
+</td>
+<td>
+<p><font size="2">Low Carbon Transport</font><br /><font size="2">Water Infrastructure</font><br /><font size="2">Marine Renewable</font><br /><font size="2">Solar</font><br /><font size="2">Wind</font><br /><font size="2">Geothermal</font><br /><font size="2">Waste Management</font><br /><font size="2">Low Carbon Buildings</font></p>
+</td>
+<td>
+<p><font size="2"><a href="https://www.climatebonds.net/certification/contacto@pcslatam.com">contacto@pcslatam.com</a></font><br /><font size="2"><a href="https://www.climatebonds.net/certification/scarrillo@pcslatam.com">Sandra Carrillo, PCS General Manager</a></font></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><font size="2"><a href="https://pointadvisory.com/">Point Advisory<br /></a></font></p>
+</td>
+<td>
+<p><font size="2">Point Advisory is a leading sustainability services firm that partners with governments and business to tackle some of the most important sustainability challenges and develop innovative solutions. Its team of engineers, scientists, entrepreneurs, economists and consultants combine technical knowledge and expertise with strong international networks. Point Advisory provides strategic advisory and assurance services across various sustainability fields such as climate change, energy management and human rights.</font></p>
+</td>
+<td>
+<p><font size="2">Asia Pacific</font></p>
+</td>
+<td>
+<p><font size="2">All sectors</font></p>
+</td>
+<td>
+<p><font size="2"><a href="mailto:ester.adler@pointadvisory.com">Ester Adler (link sends e-mail)</a></font><br /><font size="2"><a href="mailto:nina.haysler@pointadvisory.com">Nina Haysler (link sends e-mail)</a></font><br /><font size="2"><a href="mailto:alan.dayeh@pointadvisory.com">Alan Dayeh (link sends e-mail)</a></font></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><font size="2"><a href="http://www.pwc.co.uk/services/sustainability-climate-change/green-bonds.html">PwC<br /></a></font></p>
+</td>
+<td>
+<p><font size="2">PwC's purpose is to build trust in society and solve important problems. It is a network of firms in 157 countries with more than 223,000 people who are committed to delivering quality in assurance, advisory and tax services.</font></p>
+</td>
+<td>
+<p><font size="2">Individual network member firms are the Verifier. Subject to issuer&rsquo;s location, the issuer may be referred to the appropriate individual firm to provide Verification service</font></p>
+</td>
+<td>
+<p><font size="2">All sectors</font></p>
+</td>
+<td>
+<p><font size="2"><a href="mailto:oladotun.o.ogunyemi@pwc.com">Ola Ogunyemi (link sends e-mail)</a></font><br /><font size="2"><a href="mailto:stacey.w.kwok@cn.pwc.com">Stacey Kwok, PwC China(link sends e-mail)</a></font><br /><font size="2"><a href="mailto:nicolette.behncke@pwc.com">Nicolette Behncke, PwC Germany (link sends e-mail)</a></font><br /><font size="2"><a href="https://www.pwc.com/gx/en.html">PwC Global (link is external)</a></font></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><font size="2"><a href="https://www.r-i.co.jp/en/index.html/">R&amp;I<br /></a></font></p>
+</td>
+<td>
+<p><font size="2">Rating and Investment Information, Inc. (R&amp;I) is the largest credit rating agency in Japan with the longest history dating back to 1975. As a member of the NIKKEI Group, the leading economic media in Japan, it has contributed to the financial market by providing various financial information including structured finance, project finance, investment funds evaluation and pension funds consulting. Since the assessment of the first green bond issue in Japan in 2016, R&amp;I has engaged in various ESG evaluations covering green finance, sustainability finance and social finance. For science and technical expertise in climate change and environmental areas, R&amp;I may obtain advice from Green Pacific Co., Ltd. (GP), a consulting firm whose members have extensive experiences in these fields for over 30 years.</font></p>
+</td>
+<td>
+<p><font size="2">Japan</font></p>
+</td>
+<td>
+<p><font size="2">All sectors</font></p>
+</td>
+<td>
+<p><font size="2"><a href="mailto:skobayashi@r-i.co.jp">Shigeru Kobayashi (link sends e-mail)</a></font></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><font size="2"><a href="http://www.decarbonfund.com/">Raising Clean-tech Investment Consulting Co., Ltd.<br /></a></font></p>
+</td>
+<td>
+<p><font size="2">Raising Clean-tech Investment Consulting Co., Ltd. provides independent green finance services in China. With a deep understanding of Chinese policy and abundant experience, the company helps governments, enterprises and financial institutions find sustainable business models and green finance solutions. As an independent verifier, it can provide external assurance for green bonds issuance under the required standard.</font></p>
+</td>
+<td>
+<p><font size="2">China</font></p>
+</td>
+<td>
+<p><font size="2">Solar</font><br /><font size="2">Wind</font><br /><font size="2">Low Carbon Buildings</font></p>
+</td>
+<td>
+<p><font size="2"><a href="mailto:lujia@decarbonfund.com">Leo LU(link sends e-mail)</a></font></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><font size="2"><a href="https://www.ram.com.my/sustainability">RAM Sustainability<br /></a></font></p>
+</td>
+<td>
+<p><font size="2">RAM Sustainability is a provider of sustainability services and ESG analytics. Incorporated on 31 May 2000, it is a wholly owned subsidiary of RAM Holdings Berhad, a group with 30 years&rsquo; expertise in credit rating, risk management, economics research and training. RAM Sustainability is a pioneer ASEAN-based provider of sustainability ratings and green bond opinions; we also have the distinction of being the first Registered Observer of the ICMA Green Bond Principles, Social Bond Principles and Sustainability Bond Guidelines in ASEAN. We have vast experience in reviewing green bonds/sukuk in Malaysia since 2017.</font></p>
+</td>
+<td>
+<p><font size="2">Worldwide</font></p>
+</td>
+<td>
+<p><font size="2">Solar</font><br /><font size="2">Wind</font><br /><font size="2">Marine Renewable</font><br /><font size="2">Low Carbon Transport</font></p>
+</td>
+<td>
+<p><font size="2"><a href="mailto:gladys@ram.com.my">Gladys Chua (link sends e-mail)</a></font></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><font size="2"><a href="https://www.rsm.global/australia/">RSM Australia<br /></a></font></p>
+</td>
+<td>
+<p><font size="2">Having grown into one of Australia&rsquo;s leading professional services firms over the last ninety five years with 30&nbsp;offices across Australia, RSM Australia is committed to enabling clients through a greater understanding of what matters most to their business. RSM Australia is part of the world&rsquo;s sixth largest audit, tax and consulting network, the RSM global nexus of member firms draws on more than 41,000 people in 750 offices, across 116 countries - including the world&rsquo;s top 40 major business centres - to help guide clients through business challenges, both locally and seamlessly across borders.</font></p>
+</td>
+<td>
+<p><font size="2">Australia</font></p>
+</td>
+<td>
+<p><font size="2">All sectors</font></p>
+</td>
+<td>
+<p><font size="2"><a href="mailto:tim.pittaway@rsm.com.au">Tim Pittaway (link sends e-mail)</a></font></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><font size="2"><a href="https://www.rubicola.co/">Rubicola Consulting<br /></a></font></p>
+</td>
+<td>
+<p><font size="2">Rubicola&rsquo;s purpose is to create a sustainable world. We provide advisory and assurance services for the mobilisation of finance towards a low carbon economy. Our consultants have extensive capital market experience - including assisting the Federal Government of Nigeria with the issuance of the first Sovereign Green Bond (a first from any emerging market). From our offices in Nigeria and Australia, we act as trusted advisors on climate-related risks and green finance by leveraging our extensive market insights on Africa and Asia Pacific.</font></p>
+</td>
+<td>
+<p><font size="2">Africa Asia Pacific</font></p>
+</td>
+<td>
+<p><font size="2">Solar</font><br /><font size="2">Wind</font><br /><font size="2">Transport</font><br /><font size="2">Marine Renewable</font><br /><font size="2">Waste Management</font><br /><font size="2">Forestry</font></p>
+</td>
+<td>
+<p><font size="2"><a href="mailto:jowolabi@rubicola.co">Joseph Owolabi (link sends e-mail)</a></font></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><font size="2"><a href="https://scopegroup.com/">Scope Group<br /></a></font></p>
+</td>
+<td>
+<p><font size="2">Scope Group was founded in 2002. The company has become the leading European provider of independent credit ratings, ESG analyses, fund analyses creating a greater diversity of opinion for institutional investors. Scope also offer bespoke solutions for assessing and monitoring risk. Scope has 250 employees across offices in Berlin, Paris, London, Milan, Madrid, Oslo and Frankfurt. The growth strategy is focused on ensuring institutional investors have fast and easy access to accurate, comprehensive and timely financial and non-financial analysis through innovative platforms and products.</font></p>
+</td>
+<td>
+<p><font size="2">Europe</font></p>
+</td>
+<td>
+<p><font size="2">Solar</font><br /><font size="2">Wind</font><br /><font size="2">Geothermal</font><br /><font size="2">Marine Renewables</font><br /><font size="2">Low Carbon Buildings</font><br /><font size="2">Low Carbon Transport</font><br /><font size="2">Bioenergy</font></p>
+</td>
+<td>
+<p><font size="2"><a href="mailto:d.menville@scopegroup.com">Diane Menville +33 1 82 88 23 68 (link sends e-mail)</a></font></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><font size="2"><a href="https://www.sgsgroup.com.hk/">SGS Hong Kong<br /></a></font></p>
+</td>
+<td>
+<p><font size="2">Established in 1878, SGS is one of the world leaders in assessment, certification, testing and inspection industries. With more than 94,000 employees, SGS operates a network of more than 2,600 offices and laboratories globally. SGS has been delivering business enhancement solutions to business partners in different sectors for over decades. In the aspect of climate change, SGS provides customized solutions including environmental management system certification, audit, supplier audit, carbon verification, etc. SGS also launches various sustainability partnership schemes so as to promote environmental, social and governance (ESG) culture in the industries.</font></p>
+</td>
+<td>
+<p><font size="2">Worldwide</font></p>
+</td>
+<td>
+<p><font size="2">Low Carbon Buildings</font><br /><font size="2">Low Carbon Transport</font><br /><font size="2">Solar</font><br /><font size="2">Wind</font><br /><font size="2">Water Infrastructure</font><br /><font size="2">Forestry</font><br /><font size="2">Waste Management</font><br /><font size="2">Geothermal</font></p>
+</td>
+<td>
+<p><font size="2"><a href="mailto:miranda.kwan@sgs.com">Miranda Kwan, Director, Certification &amp; Business Enhancement (link sends e-mail)</a></font><br /><font size="2"><a href="mailto:zonta.yung@sgs.com">Zonta Yung, Assistant Manager, Business Development (link sends e-mail)</a></font></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><font size="2"><a href="http://en.sino-carbon.cn/">SinoCarbon<br /></a></font></p>
+</td>
+<td>
+<p><font size="2">SinoCarbon Innovation &amp; Investment Co., Ltd. (SinoCarbon) is an innovative think tank, state-authorized certification body focusing on , climate change, environmental protection, green development and other fields. SinoCarbon is committed to developing into a leading green and low-carbon comprehensive service, to promotes green development and ecological civilization construction through innovative practice.</font></p>
+</td>
+<td>
+<p><font size="2">China</font></p>
+</td>
+<td>
+<p><font size="2">All sectors</font></p>
+</td>
+<td>
+<p><font size="2"><a href="mailto:chenzhibin@sino-carbon.cn">Mr. Zhibin CHEN +86-01084186703 (link sends e-mail)</a></font></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><font size="2"><a href="https://www.sitawi.net/">SITAWI&nbsp; &nbsp;<br /></a></font></p>
+</td>
+<td>
+<p><font size="2">Founded in 2008, SITAWI operates the largest sustainable finance practice in Latin America, with 45+ dedicated professionals and 150+ clients served. It is a pioneer in the green and thematic securities market, providing second party opinion to 40+ issuances in Brazil and Latin America (November 2020). SITAWI has also promoted educational and outreach activities for green finance in the region since 2014, when it held the first event on green bonds in Brazil and was a technical partner in the writing of the Green Bond Guide for Brazilian Issuers (Febraban, CEBDS, 2016), authored the first green bond taxonomy for Brazil (The Coolest Bonds, 2018) and coordinated the Brazilian monitoring committee of the ISO 14.030 standard on Green Bonds (2018 - 2020).</font></p>
+</td>
+<td>
+<p><font size="2">Latin America</font></p>
+</td>
+<td>
+<p><font size="2">All sectors</font></p>
+</td>
+<td>
+<p><font size="2"><a href="mailto:fmalta@sitawi.net">Fernando Malta, Head of Sales (link sends e-mail)</a></font></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><font size="2"><a href="http://www.sustainadvisory.it/">SustainAdvisory<br /></a></font></p>
+</td>
+<td>
+<p><font size="2">SustainAdvisory is an ESG solutions provider, created by independent professionals with expertise in finance, credit, risk management and the capital markets with a focus on Sustainable Finance and ESG analytical and advisory solutions. We support Companies, Banks, Insurance Companies, Funds and Investors in identifying and executing sustainable growth opportunities through ESG data analytics solutions, ESG verification and reporting services and ESG rating and debt advisory services.</font></p>
+</td>
+<td>
+<p><font size="2">Europe</font></p>
+</td>
+<td>
+<p><font size="2">Solar</font><br /><font size="2">Wind</font><br /><font size="2">Geothermal</font><br /><font size="2">Marine Renewables Low Carbon Buildings</font><br /><font size="2">Low Carbon Transport</font><br /><font size="2">Water</font></p>
+</td>
+<td>
+<p><font size="2"><a href="mailto:ffraulo@sustainadvisory.it">Francesca Fraulo (link sends e-mail)</a></font><br /><font size="2"><a href="mailto:mcavarai@sustainadvisory.it">Maurizio Cavarai (link sends e-mail)</a></font></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><font size="2"><a href="http://www.sustainalytics.com/">Sustainalytics<br /></a></font></p>
+</td>
+<td>
+<p><font size="2">Sustainalytics is a global environmental, social and governance (ESG) and corporate governance research and analysis firm. It helps clients turn vast quantities of environmental, social and governance information into insightful, value-added analysis to enable more informed investment decisions.</font></p>
+</td>
+<td>
+<p><font size="2">Worldwide</font></p>
+</td>
+<td>
+<p><font size="2">All sectors</font></p>
+</td>
+<td>
+<p><font size="2"><a href="mailto:ian.howard@sustainalytics.com">Ian Howard (link sends e-mail)</a>&nbsp;(worldwide)</font><br /><font size="2"><a href="mailto:susfinance.americas@sustainalytics.com">North and South America (link sends e-mail)</a></font><br /><font size="2"><a href="mailto:susfinance.emea@sustainalytics.com">Europe and Middle East (link sends e-mail)</a></font><br /><font size="2"><a href="mailto:susfinance.apac@sustainalytics.com">Asia Pacific (link sends e-mail)</a></font></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><font size="2"><a href="http://www.syntaogf.com/index_EN.asp">SynTao Green Finance<br /></a></font></p>
+</td>
+<td>
+<p><font size="2">SynTao Green Finance is an independent consultancy promoting sustainable finance in China. With a global vision and rich local practice, they provide consulting, research and training services in ESG risk management, green finance product innovation and verification, and other sustainable finance perspectives.</font></p>
+</td>
+<td>
+<p><font size="2">China</font></p>
+</td>
+<td>
+<p><font size="2">Solar</font><br /><font size="2">Wind</font></p>
+</td>
+<td>
+<p><font size="2"><a href="mailto:wuyanjing@syntaogf.com">Valentina Wu (link sends e-mail)</a></font></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><font size="2"><a href="https://www.trisrating.com/">TRIS Rating<br /></a></font></p>
+</td>
+<td>
+<p><font size="2">TRIS Rating is the first and largest credit rating agency in Thailand with more than 25 years of rating experience. As of July 2020, TRIS Rating had rated more than 500 entities, and debt issues worth in aggregate equivalent to more than USD 200 billion. TRIS Rating is a 51%-owned subsidiary of TRIS Corporation, and a strategic partner of S&amp;P Global Ratings who holds 49% interest in TRIS Rating. TRIS Rating is committed to provide independent professional opinions on green bond issues in Thailand with respect to their conformance with CBI&rsquo;s Climate Bonds Standard.</font></p>
+</td>
+<td>
+<p><font size="2">Thailand</font></p>
+</td>
+<td>
+<p><font size="2">Solar</font><br /><font size="2">Wind</font><br /><font size="2">Low Carbon Transport</font></p>
+</td>
+<td>
+<p><font size="2"><a href="mailto:kornkamol@trisrating.com">Kornkamol Thavisin (Kip)<br />SVP, Business Development<br />+6681 833-4242 / +662 098 3035 (link sends e-mail)</a></font></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><font size="2"><a href="https://www.tuv-nord.com/en">T&uuml;v Nord<br /></a></font></p>
+</td>
+<td>
+<p><font size="2">T&Uuml;V NORD CERT is a service-provider for comprehensive testing and certification on the basis of national and international specifications and standards for products, services and management systems.</font></p>
+</td>
+<td>
+<p><font size="2">Worldwide</font></p>
+</td>
+<td>
+<p><font size="2">All sectors</font></p>
+</td>
+<td>
+<p><font size="2"><a href="mailto:info.tncert@tuev-nord.de">For enquiries (link sends e-mail)</a></font></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><font size="2"><a href="http://www.vigeo-eiris.com/">Vigeo Eiris<br /></a></font></p>
+</td>
+<td>
+<p><font size="2">Vigeo Eiris is a global independent provider of ESG research and services for investors, public and private organisations and NGOs.</font></p>
+</td>
+<td>
+<p><font size="2">Worldwide</font></p>
+</td>
+<td>
+<p><font size="2">All sectors</font></p>
+</td>
+<td>
+<p><font size="2"><a href="mailto:VEsustainablefinance@vigeo-eiris.com">VE Sustainable Finance (link sends e-mail)</a></font></p>
+</td>
+</tr>
+</tbody>
+</table>
+</body>
+</html>0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","nav",null,{"className":"breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Главная"}]," / ",["$","$L2",null,{"href":"/articles","children":"Статьи"}]," /"," ","Верификаторы, утвержденные в соответствии со Станд","…"]}],["$","h1",null,{"className":"page-title","children":"Верификаторы, утвержденные в соответствии со Стандартом климатических облигаций (Approved Verifiers under the Climate Bonds Standard)"}],["$","time",null,{"dateTime":"2021-07-30","children":"30 июля 2021 г."}],["$","$L3",null,{"html":"$4"}]]}],["$L5","$L6","$L7"],"$L8"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zM9lERO3SlzCY7qBjKejW"}
+5:["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true}]
+6:["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true}]
+7:["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true}]
+8:["$","$L9",null,{"children":["$","$a",null,{"name":"Next.MetadataOutlet","children":"$@b"}]}]
+b:null

@@ -1,0 +1,21 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],""]
+3:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
+5:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+4:Tf28,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<p>Агентство РК по регулированию и развитию финансового рынка по итогам октября текущего года вынесло <strong>29 штрафов и 59 письменных предписаний</strong> в отношении микрофинансовых организаций, включая ломбарды.</p>
+<p>За превышение размера годовой эффективной ставки вознаграждения было вынесено <strong>46 письменных предписаний</strong> таким организациям, осуществляющим микрофинансовую деятельность, (далее &ndash; ООМФД), как "Ломбард"Экпрессъ", &laquo;Элит-Ломбард KZ&raquo;, ТОО &laquo;Тех.ломбард&raquo;, &laquo;Деньги населению&raquo;, &laquo;Goldmine Ломбард&raquo;, &laquo;Тез Ломбард&raquo;, &laquo;Пайда-финанс&raquo;, &laquo;АвтоCash&raquo; и прочим.</p>
+<p>В отношении &laquo;Ломбард Lux Kostanay&raquo;, &laquo;Ломбард &laquo;Несібе&raquo;, "Астана Профит Ломбард", &laquo;Goldmine Ломбард&raquo;, &laquo;АСТ &ndash; Ломбард 777&raquo; и других вынесено <strong>13 письменных предписаний</strong> за несоответствие типовых договоров о предоставлении микрокредита требованиям законодательства РК.</p>
+<p>Также в отношении ООМФД наложено <strong>27 административных взысканий</strong> в виде штрафов за не указание или недостоверное указание годовой эффективной ставки вознаграждения.</p>
+<p>Еще две МФО &laquo;ОнлайнКазФинанс&raquo; и &laquo;Creditum&raquo; оштрафованы за то, что размещали рекламу в СМИ, предлагающую микрокредиты на условиях, не соответствующих законодательству РК.</p>
+<p>На 1 ноября этого года микрофинансовый сектор представлен <b>1103</b><strong>&nbsp;ООМФД</strong>. Остальные субъекты микрокредитования или являются бездействующими, или не имеют капитала и планируют прекратить деятельность. Организации, не прошедшие учетную регистрацию подлежат принудительной ликвидации.</p>
+<p>В октябре 2020 года Агентством продолжилась работа по передаче исковых заявлений о принудительной ликвидации ООМФД, не прошедших учетную регистрацию.</p>
+<p>Для защиты граждан и снижения рисков мошенничества на рынке микрокредитования с 1 января 2021 года будет введено лицензирование. Оно предусматривает полный перечень пруденциальных стандартов по капиталу и ликвидности, установление квалификационных требований к деловой репутации руководящих работников и акционеров, а также требования к аудиту и предоставлению отчетности.</p>
+</body>
+</html>0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","nav",null,{"className":"breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Главная"}]," / ",["$","$L2",null,{"href":"/media/news","children":"Новости"}]," / Новость"]}],["$","h1",null,{"className":"page-title","children":"Финрегулятор применил меры к ряду микрофинансовых организаций"}],["$","time",null,{"dateTime":"2020-11-30T17:22:00Z","children":"30 ноября 2020 г."}],null,["$","$L3",null,{"html":"$4"}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zM9lERO3SlzCY7qBjKejW"}
+7:null

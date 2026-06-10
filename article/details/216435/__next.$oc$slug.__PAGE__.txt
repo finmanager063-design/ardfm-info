@@ -1,0 +1,25 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],""]
+3:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
+5:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+4:T1031,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<div class="description">АРРФР сообщило о подготовке совместного постановления с Нацбанком, предусматривающего продление до 1 июля 2026 года действия нормы о сохранении предельной годовой эффективной ставки вознаграждения по ипотекам на уровне 25%, передает Zakon.kz.</div>
+<div class="content">
+<p>Как уточнили в пресс-службе агентства, решение о приостановлении ранее утвержденного снижения предельной ГЭСВ до 20% принято с целью обеспечения сбалансированного подхода к регулированию стоимости ипотечных кредитов с учетом текущих макроэкономических условий и необходимости поддержания устойчивости банковского сектора.</p>
+<div class="selection">
+<p>В АРРФР отметили, что уровень базовой ставки Национального банка на данный момент составляет 18%, и ее сохранение на высоком уровне обусловлено мерами по сдерживанию инфляции. При этом снижение предельной ГЭСВ в условиях текущей стоимости денег в экономике, по оценке регуляторов, могло бы привести к сокращению рыночных ипотечных программ.</p>
+</div>
+<p>Кроме того, агентство и Нацбанк ведут работу над новой методикой расчета ГЭСВ, которая будет учитывать ключевой параметр &ndash; коэффициент покрытия залоговым обеспечением (Loan-to-Value, LTV). Такой подход позволит дифференцировать ставки в зависимости от уровня риска и доли собственного участия заемщика.</p>
+<p>Также, по информации ведомства, прорабатываются меры по расширению возможностей банков второго уровня в части внедрения новых ипотечных продуктов и стимулирования конкуренции на рынке жилищных займов.</p>
+<blockquote>"Приостановление нормы о снижении предельной ГЭСВ является временной мерой, направленной на обеспечение устойчивости ипотечного кредитования и плавный переход к риск-ориентированной методике расчета ставок", &ndash; отметили в агентстве.</blockquote>
+<p>С полным текстом проекта можно ознакомиться на интернет-портале открытых нормативных правовых актов и на&nbsp;<a href="https://www.gov.kz/memleket/entities/ardfm/documents/details/914332?lang=ru" target="_blank" rel="nofollow noopener">сайте</a>&nbsp;АРРФР.</p>
+<p>10 октября 2025 года председатель Национального банка РК Тимур Сулейменов&nbsp;<a href="https://www.zakon.kz/finansy/6493831-zapret-na-vydachu-ipoteki-bankami-pod-svyshe-chem-20-godovykh-prokommentiroval-suleymenov.html" target="_blank" rel="noopener">прокомментировал</a>&nbsp;введение возможного запрета на выдачу ипотек с процентными ставками свыше 20% годовых.<br /><br />Источник: Zakon.kz</p>
+</div>
+</body>
+</html>0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","nav",null,{"className":"breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Главная"}]," / ",["$","$L2",null,{"href":"/articles","children":"Статьи"}]," /"," ","АРРФР сделало важное заявление касательно ипотечны","…"]}],["$","h1",null,{"className":"page-title","children":"АРРФР сделало важное заявление касательно ипотечных займов"}],["$","time",null,{"dateTime":"2025-10-24","children":"24 октября 2025 г."}],["$","$L3",null,{"html":"$4"}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zM9lERO3SlzCY7qBjKejW"}
+7:null

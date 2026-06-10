@@ -1,0 +1,16 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],""]
+3:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
+5:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+4:T8bb,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<p align="justify">В 2019 году Национальный Банк Республики Казахстан (НБК) провёл оценку качества активов (ОКА) 14 крупнейших банков, которые были выбраны с точки зрения их экономической значимости для банковской системы Казахстана. Банки были ранжированы по общему объёму активов и объёму кредитного портфеля относительно соответствующих показателей всего банковского сектора в целом, чтобы обеспечить репрезентативность рассматриваемых банков &ndash; на долю выбранных банков приходилось 87% от общего объёма банковских активов страны и 90% от общего ссудного портфеля банков.</p>
+<p align="justify">Оценка качества активов (ОКА) &ndash; это подход, базирующийся на международных стандартах финансовой отчётности и пруденциального регулирования, при этом отражающий пруденциальный взгляд финансового регулятора на действующую практику финансового учёта и оценки рисков. Целью проверки, которую удалось достичь, было обеспечение объективного и справедливого взгляда на банковские активы, а также достоверной и справедливой оценки достаточности капитала рассматриваемых банков.</p>
+<p>Подробнее: <a href="https://beta.egov.kz/memleket/entities/ardfm/documents/details/21208?lang=ru" target="_blank" rel="noopener">https://beta.egov.kz/memleket/entities/ardfm/documents/details/21208?lang=ru</a></p>
+</body>
+</html>0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","nav",null,{"className":"breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Главная"}]," / ",["$","$L2",null,{"href":"/media/news","children":"Новости"}]," / Новость"]}],["$","h1",null,{"className":"page-title","children":"Итоговый отчёт по результатам оценки качества активов банков второго уровня Республики Казахстан"}],["$","time",null,{"dateTime":"2020-02-28T00:00:00Z","children":"28 февраля 2020 г."}],null,["$","$L3",null,{"html":"$4"}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zM9lERO3SlzCY7qBjKejW"}
+7:null

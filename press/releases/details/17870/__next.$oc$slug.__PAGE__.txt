@@ -1,0 +1,19 @@
+1:"$Sreact.fragment"
+2:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
+4:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+3:Tb63,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<p>Правлением Агентства по регулированию и развитию финансового рынка 20 апреля 2026 года принято постановление № 73 <strong>&laquo;Об установлении пруденциальных нормативов и лимитов для филиалов банков-нерезидентов Республики Казахстан, их предельных значений и методик расчетов, включая порядок формирования активов филиалов банков-нерезидентов Республики Казахстан, принимаемых в качестве резерва, и их минимальный размер&raquo;</strong><strong>.</strong></p>
+<p>Постановление разработано в соответствии с частью третьей пункта 4 статьи 72 Закона РК &laquo;О банках и банковской деятельности в Республике Казахстан&raquo; и в реализацию пункта 39 перечня правовых актов к распоряжению Премьер-Министра РК №18-р от 16 февраля 2026 года &laquo;О мерах по реализации законов Республики Казахстан от &laquo;16&raquo; января 2026 года &laquo;О банках и банковской деятельности в Республике Казахстан&raquo; и &laquo;О внесении изменений и дополнений в некоторые законодательные акты Республики Казахстан по вопросам регулирования и развития финансового рынка, связи и банкротства&raquo;.</p>
+<p>Постановлением устанавливаются экономические ограничения для филиалов банков-нерезидентов в целях обеспечения их финансовой устойчивости с учетом сохранения действующего пруденциального регулирования, интеграции мер раннего реагирования и развития цифровых финансовых активов.</p>
+<p>С полным текстом документа можно ознакомиться <a href="https://www.gov.kz/memleket/entities/ardfm/documents/details/1001703?lang=ru">на интернет-ресурсе Агентства</a>.</p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>Управление внешних коммуникаций</strong></p>
+<p><a href="mailto:press@finreg.kz"><strong>press@finreg.kz</strong></a></p>
+</body>
+</html>0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","h1",null,{"className":"page-title","children":"Об установлении пруденциальных нормативов и лимитов для филиалов банков-нерезидентов Республики Казахстан"}],["$","time",null,{"children":"24 апреля 2026 г."}],["$","$L2",null,{"html":"$3"}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zM9lERO3SlzCY7qBjKejW"}
+6:null

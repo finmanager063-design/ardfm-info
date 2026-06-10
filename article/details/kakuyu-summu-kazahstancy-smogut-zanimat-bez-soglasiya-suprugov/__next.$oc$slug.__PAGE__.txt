@@ -1,0 +1,21 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],""]
+3:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
+5:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+4:Te1a,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<p>С 1 сентября при получении кредита в размере 1000 МРП или больше (3,69 млн тенге в 2024 году) нужно будет предоставлять согласие супруга. Это прописано в новом<span>&nbsp;</span><a href="https://www.gov.kz/memleket/entities/ardfm/press/news/details/830408?lang=ru">постановлении</a>, которое Агентство по регулированию и развитию финансового рынка приняло 20 августа.&nbsp;</p>
+<p>Согласно постановлению, перед подписанием договора банковского займа или микрокредита банк или микрофинансовая организация должны будут проверить информацию о наличии зарегистрированного брака у клиента посредством информационной системы Минюста.&nbsp;</p>
+<p>Если клиент состоит в браке и его сумма кредита превышает 1000 МРП, то кредитор обязан получить согласие его супруга (супруги) на получение займа. Это согласие может быть оформлено в произвольной форме на бумажном носителе в отделении банка или МФО, либо в электронной форме.&nbsp;</p>
+<p>Если супруг заемщика также является клиентом кредитора, то согласие можно будет оформить через мобильное приложение банка или МФО, в иных случаях &ndash; через веб-портал электронного правительства (egov.kz) при условии прохождения биометрической идентификации.&nbsp;Если банк или МФО выдали кредит без согласия супруга заемщика, то они должны списать заем.&nbsp;</p>
+<p>Данная норма прописана в законе &laquo;По вопросам минимизации рисков при кредитовании&raquo;, подписанном президентом<span>&nbsp;</span><strong>Касым-Жомартом Токаевым</strong><span>&nbsp;</span>19 июня. АРРФР должно было определить правила получения согласия, а также минимальный размер кредита, по которому это согласие необходимо.</p>
+<p>Также АРРФР приняло<span>&nbsp;</span><a href="https://www.gov.kz/memleket/entities/ardfm/press/news/details/830343?lang=ru">постановление</a>, согласно которому с 1 октября 2024 года коллекторские агентства будут обязаны проводить процедуры урегулирования задолженности граждан. Ранее &laquo;Курсив&raquo; подробно<span>&nbsp;</span><a href="https://kz.kursiv.media/2024-07-19/zhzh-collector/">писал</a>, как договориться с коллекторами об изменении условий по кредиту.</p>
+<p>&nbsp;</p>
+<p>Источник: Kz.kursiv.media</p>
+</body>
+</html>0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","nav",null,{"className":"breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Главная"}]," / ",["$","$L2",null,{"href":"/articles","children":"Статьи"}]," /"," ","Какую сумму казахстанцы смогут занимать без соглас","…"]}],["$","h1",null,{"className":"page-title","children":"Какую сумму казахстанцы смогут занимать без согласия супругов"}],["$","time",null,{"dateTime":"2024-08-21","children":"21 августа 2024 г."}],["$","$L3",null,{"html":"$4"}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zM9lERO3SlzCY7qBjKejW"}
+7:null

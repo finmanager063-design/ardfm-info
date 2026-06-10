@@ -1,0 +1,19 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],""]
+3:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
+5:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+4:T9d6,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<p>В Казахстане стрессовые активы оценивается в 6% от активов банков или Т2,5 трлн, сообщило агентство по регулированию и развитию финансового рынка (АРРФР).</p>
+<p>&laquo;На сегодня объем стрессовых активов оценивается в 6% от активов банковского сектора &ndash; Т2,5 трлн, что является привлекательным для вхождения на рынок новых потенциальных инвесторов&raquo;, - говорится в сообщении, распространенном АРРФР в понедельник.</p>
+<p>Согласно информации, объем стрессовых активов не угрожает финансовой стабильности банков. Для вовлечения стрессовых активов в экономический оборот, АРРФР установило предельные сроки нахождения стрессовых активов на балансах банков &ndash; не более трех лет и их &laquo;дочек&raquo; по управлению стрессовыми активами &ndash; не более пяти лет, создало благоприятный налоговый режим для покупателей проблемных кредитов. В июле 2022 года принят закон, предусматривающий расширение списка покупателей стрессовых активов путем включения частных инвесторов, в том числе нерезидентов.</p>
+<p>Дополнительно требуется формирование полноценной инфраструктуры для рынка стрессовых активов: построение площадки для их свободной купли-продажи и обеспечение прозрачности информации для всех участников рынка, поэтому АРРФР прорабатывает вопрос создания единой цифровой платформы купли-продажи стрессовых активов.</p>
+<p>Источник: КазТАГ</p>
+<p>&nbsp;</p>
+</body>
+</html>0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","nav",null,{"className":"breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Главная"}]," / ",["$","$L2",null,{"href":"/articles","children":"Статьи"}]," /"," ","В Т2,5 трлн оценили размеры стрессовых активов в К","…"]}],["$","h1",null,{"className":"page-title","children":"В Т2,5 трлн оценили размеры стрессовых активов в Казахстане"}],["$","time",null,{"dateTime":"2022-10-10","children":"10 октября 2022 г."}],["$","$L3",null,{"html":"$4"}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zM9lERO3SlzCY7qBjKejW"}
+7:null

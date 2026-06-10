@@ -1,0 +1,17 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],""]
+3:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
+5:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+4:T762,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<p align="justify"><strong>О вступлении в законную силу решения суда о принудительной ликвидации деятельности&nbsp; АО &laquo;Страховая компания &laquo;</strong><strong>Kompetenz&raquo;&nbsp;и назначении ликвидационной комиссии</strong></p>
+<p align="justify">Агентство Республики Казахстан по регулированию и развитию финансового рынка&nbsp; (далее &ndash; Агентство) информирует о том, что 15.01.2020 года вступило в законную силу решение Специализированного межрайонного экономического суда г. Алматы от 17.10.2019 года о принудительном прекращении (ликвидации) деятельности АО &laquo;Страховая компания &laquo;Kompetenz&raquo; (далее &ndash; Страховая компания).</p>
+<p align="justify">Приказом Агентства № 42 от 15.01.2020 года назначены Председатель и члены&nbsp; ликвидационной комиссии Страховой Компании.&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p align="justify">Получить информацию по вопросам ликвидационного производства Страховой компании можно обратившись к Председателю ликвидационной комиссии Страховой компании &ndash; Алыбаеву Е.Ж., рабочий телефон 8 (727) 227-31-61 (вн. номер: 1101), электронная почта: Erzhan.Alibayev@kompetenz.kz</p>
+</body>
+</html>0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","nav",null,{"className":"breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Главная"}]," / ",["$","$L2",null,{"href":"/media/news","children":"Новости"}]," / Новость"]}],["$","h1",null,{"className":"page-title","children":"О вступлении в законную силу решения суда о принудительной ликвидации деятельности АО «Страховая компания «Kompetenz» и назначении ликвидационной комиссии"}],["$","time",null,{"dateTime":"2020-01-15T18:20:00Z","children":"15 января 2020 г."}],null,["$","$L3",null,{"html":"$4"}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zM9lERO3SlzCY7qBjKejW"}
+7:null

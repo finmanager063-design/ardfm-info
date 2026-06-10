@@ -1,0 +1,128 @@
+1:"$Sreact.fragment"
+2:I[50612,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"ShellWrapper"]
+3:I[39756,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"default"]
+4:I[37457,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"default"]
+b:I[68027,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"default",1]
+:HL["/_next/static/chunks/0rgbmrr6_b96m.css","style"]
+:HL["/_next/static/chunks/0t1-qk9~.xa44.css","style"]
+:HL["https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap","style"]
+0:{"P":null,"c":["","documents","item","996531",""],"q":"","i":false,"f":[[["",{"children":[["slug","documents/item/996531","oc",null],{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0rgbmrr6_b96m.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/0t1-qk9~.xa44.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0w5bf6qo2zbxc.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/0_t29vi~hh.tn.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ru","className":"notranslate","children":[["$","head",null,{"children":[["$","link",null,{"rel":"icon","href":"/favicon.ico"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap","rel":"stylesheet"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"GovernmentOrganization\",\"name\":\"Агентство Республики Казахстан по регулированию и развитию финансового рынка\",\"alternateName\":\"АРРФР\",\"description\":\"Агентство Республики Казахстан по регулированию и развитию финансового рынка — государственный орган, осуществляющий регулирование и надзор на финансовом рынке\",\"url\":\"https://govkz.online\",\"address\":{\"@type\":\"PostalAddress\",\"addressCountry\":\"KZ\",\"addressLocality\":\"Астана\",\"streetAddress\":\"проспект Мәңгілік Ел, 20а\",\"postalCode\":\"010000\"},\"telephone\":\"+7-7172-79-00-00\",\"image\":\"https://govkz.online/images/og-image.jpg\",\"knowsAbout\":[\"Регулирование финансового рынка\",\"Банковский надзор\",\"Страховой надзор\",\"Рынок ценных бумаг\",\"Микрофинансовые организации\",\"Защита прав потребителей финансовых услуг\"],\"parentOrganization\":{\"@type\":\"GovernmentOrganization\",\"name\":\"Правительство Республики Казахстан\"}}"}}]]}],["$","body",null,{"children":["$","$L2",null,{"meta":{"syncedAt":"2026-05-29T09:02:13.563Z","source":"https://www.gov.kz/memleket/entities/ardfm","entityTitle":"Агентство Республики Казахстан по регулированию и развитию финансового рынка","entityShort":"АРРФР","contacts":{"telegram":{"username":"finance_regulator_bot","handle":"@finance_regulator_bot","url":"https://t.me/finance_regulator_bot"}}},"children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L5",[["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true,"nonce":"$undefined"}],"$L6","$L7"],"$L8"]}],{},null,false,null]},null,false,"$@9"]},null,false,null],"$La",false]],"m":"$undefined","G":["$b",["$Lc","$Ld"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"zM9lERO3SlzCY7qBjKejW"}
+e:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+f:"$Sreact.suspense"
+12:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"ViewportBoundary"]
+14:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"MetadataBoundary"]
+6:["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true,"nonce":"$undefined"}]
+7:["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true,"nonce":"$undefined"}]
+8:["$","$Le",null,{"children":["$","$f",null,{"name":"Next.MetadataOutlet","children":"$@10"}]}]
+11:[]
+9:"$W11"
+a:["$","$1","h",{"children":[null,["$","$L12",null,{"children":"$L13"}],["$","div",null,{"hidden":true,"children":["$","$L14",null,{"children":["$","$f",null,{"name":"Next.Metadata","children":"$L15"}]}]}],null]}]
+c:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0rgbmrr6_b96m.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+d:["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/0t1-qk9~.xa44.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+16:I[22016,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],""]
+17:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
+18:T4091,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<p><strong>Об утверждении Требований к непрерывности работы информационно-коммуникационной инфраструктуры банков, филиалов банков-нерезидентов Республики Казахстан и организаций, осуществляющих отдельные виды банковских операций</strong></p>
+<p>&nbsp;</p>
+<p>В соответствии с пунктами 9 и 10 статьи 55 Закона Республики Казахстан &laquo;О банках и банковской деятельности в Республике Казахстан&raquo; Правление Агентства Республики Казахстан по регулированию и развитию финансового рынка <strong>ПОСТАНОВЛЯЕТ</strong>:</p>
+<ol>
+<li>Утвердить прилагаемые Требования к непрерывности работы информационно-коммуникационной инфраструктуры банков, филиалов банков-нерезидентов Республики Казахстан и организаций, осуществляющих отдельные виды банковских операций.</li>
+<li>Департаменту информационной и кибербезопасности в установленном законодательством Республики Казахстан порядке обеспечить:</li>
+</ol>
+<ul>
+<li>совместно с Юридическим департаментом государственную регистрацию настоящего постановления в Министерстве юстиции Республики Казахстан;</li>
+<li>размещение настоящего постановления на официальном интернет-ресурсе Агентства Республики Казахстан по регулированию и развитию финансового рынка после его официального опубликования;</li>
+<li>в течение десяти рабочих дней после государственной регистрации настоящего постановления представление в Юридический департамент сведений об исполнении мероприятия, предусмотренного подпунктом 2) настоящего пункта.</li>
+</ul>
+<ol start="3">
+<li>Контроль за исполнением настоящего постановления возложить на курирующего заместителя Председателя Агентства Республики Казахстан по регулированию и развитию финансового рынка.</li>
+<li>Настоящее постановление вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования.</li>
+</ol>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><strong>Председатель Агентства <br /></strong><strong>Республики Казахстан</strong><strong> <br />по регулированию и развитию <br />финансового рынка &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;М. Абылкасымова</strong></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<table width="265">
+<tbody>
+<tr>
+<td width="265">
+<p>Утверждены</p>
+<p>постановлением Правления</p>
+<p>Агентства Республики</p>
+<p>Казахстан по регулированию и</p>
+<p>развитию финансового рынка</p>
+<p>от 31 марта 2026 года № 36</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>&nbsp;</strong></p>
+<p><strong>&nbsp;</strong><strong>Требования к непрерывности работы информационно-коммуникационной инфраструктуры банков, филиалов банков-нерезидентов Республики Казахстан и организаций, осуществляющих отдельные виды </strong></p>
+<p><strong>банковских операций</strong></p>
+<p><strong>&nbsp;</strong></p>
+<ol>
+<li>Настоящие Требования к непрерывности работы информационно-коммуникационной инфраструктуры банков, филиалов банков-нерезидентов Республики Казахстан и организаций, осуществляющих отдельные виды банковских операций, разработаны в соответствии с пунктами 9 и 10 статьи 55 Закона Республики Казахстан &laquo;О банках и банковской деятельности в Республике Казахстан&raquo; и определяют требования к непрерывности работы информационно-коммуникационной инфраструктуры банков, филиалов банков-нерезидентов Республики Казахстан и организаций, осуществляющих отдельные виды банковских операций (далее &ndash; банк).</li>
+<li>В Требованиях используются следующие термины и определения:</li>
+</ol>
+<ul>
+<li>информационный актив &ndash; совокупность информации и объекта информационно-коммуникационной инфраструктуры, используемого для ее хранения и (или) обработки. Информационный актив подразделяется на критичный и не критичный и определяется банком на основании уровня убытков от нарушения их конфиденциальности, целостности, доступности;</li>
+<li>информационно-коммуникационная инфраструктура &ndash; совокупность объектов информационно-коммуникационной инфраструктуры, предназначенных для обеспечения функционирования технологической среды в целях формирования электронных информационных ресурсов и предоставления доступа к ним;</li>
+<li>основной центр (далее &ndash; основной центр) &ndash; совокупность программно-технических средств и обслуживающего персонала, обеспечивающих оказание банковских услуг в штатном (повседневном) режиме;</li>
+<li>резервный центр (далее &ndash; резервный центр) &ndash; совокупность программно-технических средств и обслуживающего персонала, обеспечивающих оказание банковских услуг при возникновении нестандартных ситуаций или проведении плановых технических работ в основном центре;</li>
+<li>уполномоченный орган &ndash; уполномоченный орган по регулированию, контролю и надзору финансового рынка и финансовых организаций;</li>
+<li>электронные информационные ресурсы &ndash; данные в электронно-цифровой форме, содержащиеся на электронном носителе и в объектах информатизации.</li>
+</ul>
+<ol start="3">
+<li>В целях обеспечения непрерывности информационно-коммуникационной инфраструктуры банки определяют во внутренних документах план восстановления, порядок его пересмотра и тестирования.</li>
+<li>Разработка плана восстановления осуществляется с учетом следующих факторов:</li>
+</ol>
+<ul>
+<li>виды и характер нестандартных ситуаций, их степень воздействия на деятельность банка;</li>
+<li>перечень критичных информационных активов с указанием приоритетности их восстановления;</li>
+<li>ущерб, возникающий при остановке работы критичных информационных активов, и затраты для восстановления их работы.</li>
+</ul>
+<ol start="5">
+<li>При указании критичных информационных активов определяются сроки их восстановления.</li>
+<li>Банк обеспечивает наличие не менее одного резервного центра, находящегося в ином населенном пункте (столице, городе республиканского значения, городе областного значения, городе районного значения), чем основной центр.</li>
+</ol>
+<p>Основной и резервный центры банка размещаются на территории Республики Казахстан.</p>
+<ol start="7">
+<li>Банк обеспечивает каждый центр (основной и резервный) двумя выделенными каналами связи от разных поставщиков (провайдеров) услуг связи.</li>
+<li>План восстановления содержит следующие условия:</li>
+</ol>
+<ul>
+<li>наличие и место нахождения резервного центра;</li>
+<li>перечень бизнес&ndash;процессов, критичных информационных активов, технических, программных или других средств, обеспечивающих работу критичных информационных активов, восстановление которых требуется в резервном центре;</li>
+<li>порядок проведения, периодичность и сценарии тестирования функционирования резервного центра информационной системы;</li>
+<li>порядок восстановления нарушенных критичных информационных активов после ликвидации последствий нестандартных ситуаций, критерии, позволяющие принять решение о завершении работы в нестандартном режиме, и порядок принятия такого решения, а также порядок возврата в штатный режим функционирования.</li>
+</ul>
+<ol start="9">
+<li>В целях проверки готовности работы резервного центра и резервных каналов связи для восстановления деятельности критичных информационных активов банк не менее одного раза в год проводит тестирование функционирования резервного центра и резервных каналов связи в соответствии с планом восстановления (далее &ndash; тестирование Плана).</li>
+<li>Тестирование Плана проводится по разработанной и утвержденной банком программе, предусматривающей описание сценария возникновения нестандартной ситуации, восстанавливаемых рабочих процессов и критичных информационных активов, действий команды восстановления, требований по срокам и месту проведения работ.</li>
+<li>По итогам тестирования Плана банком подготавливается документ о результатах тестирования (протокол) с указанием:</li>
+</ol>
+<ul>
+<li>перечня критичных информационных активов, по которым проведено тестирование, а также места нахождения основного и резервного центров;</li>
+<li>времени, затраченного на восстановление работы критичных информационных активов;</li>
+<li>выявленных уязвимостей и предложений по их устранению.</li>
+</ul>
+<p>Сведения о результатах тестирования представляются банком в уполномоченный орган в течение пятнадцати рабочих дней после утверждения документа о результатах тестирования уполномоченным органом банка.</p>
+<ol start="12">
+<li>При возникновении сбоя (простоя) в работе критичных информационных активов банк обеспечивает восстановление работы основного центра.</li>
+</ol>
+<p>При отсутствии возможности восстановления работы основного центра в период минимально допустимого срока восстановления осуществляется перевод критичных информационных активов на работу резервного центра.</p>
+<p>Стандартный норматив времени по переводу критичных информационных активов на резервный центр составляет не более четырех часов с момента возникновения сбоя (простоя).</p>
+<ol start="13">
+<li>В целях организации возобновления доступа клиентов банк предоставляет в уполномоченный орган по защищенным каналам связи перечень актуальных уникальных числовых идентификаторов (IP-адресов) критичных информационных активов, находящихся как в основном, так и в резервном центре. В случае изменения уникальных числовых идентификаторов (IP-адресов) критичных информационных активов, находящихся как в основном, так и в резервном центре, банк информирует уполномоченный орган по защищенным каналам связи.</li>
+</ol>
+</body>
+</html>5:["$","article",null,{"children":[["$","nav",null,{"className":"breadcrumb","children":[["$","$L16",null,{"href":"/documents/1","children":"Документы"}]," / ","Об утверждении Требований к непрерывност","…"]}],["$","h1",null,{"className":"page-title","children":"Об утверждении Требований к непрерывности работы информационно-коммуникационной инфраструктуры банков, филиалов банков-нерезидентов Республики Казахстан и организаций, осуществляющих отдельные виды банковских операций"}],["$","time",null,{"children":"14 апреля 2026 г."}],["$","$L17",null,{"html":"$18"}]]}]
+13:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+19:I[27201,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"IconMark"]
+10:null
+15:[["$","title","0",{"children":"Агентство Республики Казахстан по регулированию и развитию финансового рынка"}],["$","meta","1",{"name":"description","content":"Агентство Республики Казахстан по регулированию и развитию финансового рынка (АРРФР): новости, документы, реестры лицензий и защита прав потребителей финансовых услуг"}],["$","link","2",{"rel":"manifest","href":"/manifest.json","crossOrigin":"$undefined"}],["$","meta","3",{"name":"keywords","content":"АРРФР,финансовый регулятор Казахстан,лицензии финансовых организаций,защита прав потребителей финансовых услуг,Агентство финансового рынка"}],["$","meta","4",{"name":"google-site-verification","content":"google-site-verification-code"}],["$","meta","5",{"name":"yandex-verification","content":"yandex-verification-code"}],["$","meta","6",{"property":"og:title","content":"Агентство Республики Казахстан по регулированию и развитию финансового рынка"}],["$","meta","7",{"property":"og:description","content":"Агентство Республики Казахстан по регулированию и развитию финансового рынка"}],["$","meta","8",{"property":"og:site_name","content":"АРРФР"}],["$","meta","9",{"property":"og:locale","content":"ru_RU"}],["$","meta","10",{"property":"og:type","content":"website"}],["$","meta","11",{"name":"twitter:card","content":"summary"}],["$","meta","12",{"name":"twitter:title","content":"Агентство Республики Казахстан по регулированию и развитию финансового рынка"}],["$","meta","13",{"name":"twitter:description","content":"Агентство Республики Казахстан по регулированию и развитию финансового рынка"}],["$","link","14",{"rel":"icon","href":"/favicon.ico?favicon.0x3dzn~oxb6tn.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","15",{"rel":"icon","href":"/favicon.ico"}],["$","link","16",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png"}],["$","$L19","17",{}]]

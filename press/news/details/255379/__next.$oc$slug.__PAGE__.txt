@@ -1,0 +1,20 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],""]
+3:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
+5:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+4:T619,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<p><i><strong>14 октября 2021 года состоится публичное обсуждение отчета о деятельности Агентства Республики Казахстан по регулированию и развитию финансового рынка по вопросам оказания государственных услуг за 2020 год.</strong></i></p>
+<p>Отчет размещен на <a href="https://www.gov.kz/memleket/entities/ardfm/documents/details/212385?lang=ru">интернет-ресурсе Агентства </a>и <a href="https://egov.kz/cms/ru/articles/state_service/-otchety-go">на портале &laquo;Электронное правительство&raquo;</a>.</p>
+<p>Обсуждение состоится в онлайн-формате на платформе Cisco Webex.</p>
+<p>Заявка на участие в публичном обсуждении (в свободной форме с указанием электронного адреса) принимаются до 13 октября на электронную почту <a href="mailto:arman.assylbekov@finreg.kz">arman.assylbekov@finreg.kz</a>.</p>
+<p>&nbsp;</p>
+<p><em>Обсуждение отчета реализуется в соответствии с пунктом 6 статьи 23 Закона Республики Казахстан </em><em>&laquo;О государственных услугах</em><em>&raquo;</em></p>
+<p>&nbsp;</p>
+</body>
+</html>0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","nav",null,{"className":"breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Главная"}]," / ",["$","$L2",null,{"href":"/media/news","children":"Новости"}]," / Новость"]}],["$","h1",null,{"className":"page-title","children":"Публичное обсуждение отчета Агентства по вопросам оказания государственных услуг за 2020 год"}],["$","time",null,{"dateTime":"2021-09-14T18:28:00Z","children":"14 сентября 2021 г."}],null,["$","$L3",null,{"html":"$4"}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zM9lERO3SlzCY7qBjKejW"}
+7:null

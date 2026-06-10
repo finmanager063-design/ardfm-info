@@ -1,0 +1,23 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],""]
+3:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
+5:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+4:T6de,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<p><strong>Агентством &nbsp;Республики Казахстан по регулированию и развитию финансового рынка были согласованы следующие руководящие работники банков второго уровня:</strong></p>
+<ol>
+<li>Ким Йосеп &ndash; член Правления АО &laquo;Шинхан Банк Казахстан&raquo; (протокол № 16/БВУ/Т от 24.04.2020г.);</li>
+<li>Козинцев Т.О. &ndash; Председатель Совета директоров ДБ АО &laquo;Сбербанк&raquo; (протокол № 19/БВУ/П от 19.05.2020г.);</li>
+<li>Аринов Д.С. &ndash; и.о. Председателя Правления АО &laquo;AsiaCredit Bank&raquo; (протокол № 20/БВУ/Т от 19.05.2020г.);</li>
+<li>Бармамбеков Б.А. &ndash; Член Совета директоров АО &laquo;AsiaCredit Bank&raquo; (протокол № 21/БВУ/Т от 20.05.2020г.);</li>
+<li>Байниетова Д. &ndash; Заместитель Председателя Правления &ndash; член Правления АО &laquo;AsiaCredit Bank&raquo; (протокол № 22/БВУ/П от 20.05.2020г.);</li>
+<li>Мунсузбаев Ж.Т. &ndash; Заместитель Председателя Правления &ndash; член Правления АО &laquo;AsiaCredit Bank&raquo; (протокол № 23/БВУ/П от 20.05.2020г.);</li>
+<li>Аринов Д.С. &ndash; член Правления АО &laquo;Capital Bank Kazakhstan&raquo; (протокол № 24/БВУ/П от 25.05.2020г.).</li>
+</ol>
+</body>
+</html>0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","nav",null,{"className":"breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Главная"}]," / ",["$","$L2",null,{"href":"/media/news","children":"Новости"}]," / Новость"]}],["$","h1",null,{"className":"page-title","children":"Агентством  Республики Казахстан по регулированию и развитию финансового рынка согласованы руководящие работники банков второго уровня"}],["$","time",null,{"dateTime":"2020-06-02T11:35:00Z","children":"2 июня 2020 г."}],null,["$","$L3",null,{"html":"$4"}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zM9lERO3SlzCY7qBjKejW"}
+7:null

@@ -1,0 +1,19 @@
+1:"$Sreact.fragment"
+2:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
+4:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+3:T100c,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<p style="margin-top: 0cm; text-align: justify; text-indent: 35.4pt; background: white;"><span style="font-family: 'Arial',sans-serif; color: #1f1f1f;">В соответствии с приказом начальника Управления региональных представителей Агентства по регулированию и развитию финансового рынка (далее &ndash; Агентство) в городе Алматы от 29.09.2025 года №64 приостановлено сроком на 2 месяца действие лицензии на осуществление микрофинансовой деятельности ТОО &laquo;МФО &laquo;Робокэш.кз&raquo;.</span></p>
+<p style="margin-top: 0cm; text-align: justify; text-indent: 35.4pt; background: white;"><span style="font-family: 'Arial',sans-serif; color: #1f1f1f;">Основанием для приостановления действия лицензии в соответствии с подпунктом 5 пункта 1 статьи 16 Закона &laquo;О микрофинансовой деятельности&raquo; явилось невыполнение письменного предписания уполномоченного органа.</span></p>
+<p style="margin-top: 0cm; text-align: justify; text-indent: 35.4pt; background: white;"><span style="font-family: 'Arial',sans-serif; color: #1f1f1f;">В соответствии с требованиями пункта 7 статьи 16 Закона &laquo;О микрофинансовой деятельности&raquo; приостановление действия лицензии на осуществление микрофинансовой деятельности влечет запрет на заключение микрофинансовой организацией новых договоров о предоставлении микрокредита, в том числе на продление срока действия действующих договоров о предоставлении микрокредита и их изменение, предусматривающее увеличение обязательств и ответственности микрофинансовой организации, а также обязательств и ответственности заемщика. </span></p>
+<p style="margin-top: 0cm; text-align: justify; text-indent: 35.4pt; background: white;"><span style="font-family: 'Arial',sans-serif; color: #1f1f1f;">Микрофинансовая организация, действие лицензии на осуществление микрофинансовой деятельности которой приостановлено, обязана выполнить принятые на себя обязательства по ранее заключенным договорам о предоставлении микрокредита.</span></p>
+<p style="margin-top: 0cm; text-align: justify; text-indent: 35.4pt; background: white;"><span style="font-family: 'Arial',sans-serif; color: #1f1f1f;">Клиенты МФО, имеющие неисполненные обязательства по договорам о предоставлении микрокредита, несут ответственность за нарушение исполнения обязательства перед МФО в соответствии с условиями заключенных договоров о предоставлении микрокредита.</span></p>
+<p style="margin-top: 0cm; text-align: justify; background: white;">&nbsp;</p>
+<p style="margin-top: 0cm; text-align: justify; background: white;"><strong><span style="font-family: 'Arial',sans-serif; color: #1f1f1f; background: white;">Контактная информация:&nbsp;+7 (727) 237-1412,&nbsp;вн.: 6316, +7 (727) 237-11-11 вн. 6492</span></strong><b></b></p>
+</body>
+</html>0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","h1",null,{"className":"page-title","children":"О приостановлении действия лицензии ТОО «МФО «Робокэш.кз»"}],["$","time",null,{"children":"29 сентября 2025 г."}],["$","$L2",null,{"html":"$3"}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zM9lERO3SlzCY7qBjKejW"}
+6:null

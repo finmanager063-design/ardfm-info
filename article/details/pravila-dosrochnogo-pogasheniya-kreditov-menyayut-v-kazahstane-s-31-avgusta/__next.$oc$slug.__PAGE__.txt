@@ -1,0 +1,36 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],""]
+3:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
+9:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+a:"$Sreact.suspense"
+4:T1330,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<div class="description">Казахстанцам напомнили об изменениях в правилах досрочного погашения кредитов: они начнут действовать с 31 августа 2025 года. Об этом говорится в заявлении Агентства по регулированию и развитию финансового рынка (АРРФР), сообщает Zakon.kz.</div>
+<div class="content">
+<p>Так, специалисты&nbsp;<a href="https://www.gov.kz/memleket/entities/ardfm/press/news/details/1058319?lang=ru" target="_blank" rel="nofollow noopener">подчеркивают</a>, что досрочное погашение позволяет заемщику сократить переплату по процентам и ускорить исполнение долговых обязательств.</p>
+<div class="selection">
+<p>Оно может быть полным &ndash; с погашением всей задолженности, либо частичным &ndash; с внесением суммы сверх установленного графика. При частичном досрочном погашении кредита возможно уменьшить срок кредита при сохранении размера ежемесячного платежа либо снизить суммы ежемесячного платежа при сохранении срока займа.</p>
+</div>
+<p>Также известно, что финансовые организации вправе определять порядок досрочного погашения в рамках законодательства:</p>
+<ul>
+<li>устанавливать минимальные суммы, сроки подачи заявлений и расчетные даты.</li>
+</ul>
+<blockquote>"Заемщикам рекомендуется заранее согласовать с банком выбранный способ перерасчета, а также уточнить порядок списания средств, особенности возврата страховых премий и снятия обременения по ипотеке".Пресс-служба АРРФР</blockquote>
+<p>До вступления изменений в силу банки вправе применять штрафные санкции за досрочное погашение: в течение первых шести месяцев &ndash; по займам сроком до одного года, и в течение первого года &ndash; по займам сроком более одного года.</p>
+<p>Теперь же в целях усиления защиты прав потребителей финансовых услуг<i><b>&nbsp;с 31 августа 2025 года вступает в силу норма, согласно которой штрафные санкции за досрочное погашение будут применяться только к юридическим лицам.</b></i></p>
+<blockquote>"Физические лица смогут погашать кредиты досрочно в любое время без уплаты неустоек. Эта норма распространяется на все договоры, включая ранее заключенные. Однако обращаем внимание на то, что штрафы и неустойки, уплаченные до вступления изменений в силу, перерасчету или возврату не подлежат".Пресс-служба АРРФР</blockquote>
+<p>В заключительной части в агентстве также дали важную рекомендацию казахстанцам:</p>
+<blockquote>"Перед принятием решения о досрочном погашении рекомендуется оценить наличие финансового резерва и возможные альтернативы использования свободных средств".</blockquote>
+<blockquote>Немного ранее стало известно, что в Казахстане обновят правила снятия наличных денег предпринимателями с банковских счетов. Подробнее об этом можно прочитать по этой&nbsp;<a href="https://www.zakon.kz/finansy/6488735-v-kazakhstane-obnovyat-pravila-snyatiya-nalichnykh-deneg-predprinimatelyami-s-bankovskikh-schetov.html" target="_blank" rel="noopener">ссылке</a>.</blockquote>
+<blockquote>Источник: Zakon.kz</blockquote>
+</div>
+</body>
+</html>0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","nav",null,{"className":"breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Главная"}]," / ",["$","$L2",null,{"href":"/articles","children":"Статьи"}]," /"," ","Правила досрочного погашения кредитов меняют в Каз","…"]}],["$","h1",null,{"className":"page-title","children":"Правила досрочного погашения кредитов меняют в Казахстане с 31 августа"}],["$","time",null,{"dateTime":"2025-08-29","children":"29 августа 2025 г."}],["$","$L3",null,{"html":"$4"}]]}],["$L5","$L6","$L7"],"$L8"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zM9lERO3SlzCY7qBjKejW"}
+5:["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true}]
+6:["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true}]
+7:["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true}]
+8:["$","$L9",null,{"children":["$","$a",null,{"name":"Next.MetadataOutlet","children":"$@b"}]}]
+b:null

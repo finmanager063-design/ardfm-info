@@ -1,0 +1,17 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],""]
+3:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
+5:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+4:T8a6,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<p>Агентством по регулированию и развитию финансового рынка разработан проект Совместного постановления Правления Агентства и Правления Национального Банка <strong>&laquo;Об утверждении Правил, размеров и сроков внесения банками и филиалами банков-нерезидентов Республики Казахстан обязательных денежных взносов для возмещения (покрытия) убытков (средств), возникших (использованных) в результате урегулирования системно значимого банка&raquo;.</strong> Документ разработан в реализацию статьи 100 Закона &laquo;О банках и банковской деятельности в Республике Казахстан&raquo;.</p>
+<p>Проектом постановления устанавливаются правила, размеры и сроки внесения банками и филиалами банков-нерезидентов РК обязательных денежных взносов для возмещения убытков, понесенных в результате урегулирования системно значимого банка.</p>
+<p>Документ направлен на обеспечение правового регулирования порядка уплаты банками и филиалами банков-нерезидентов Республики Казахстан обязательных денежных взносов в целях возмещения убытков, возникших при урегулировании банка.</p>
+<p>С текстом проекта постановления можно ознакомиться&nbsp;<a href="https://www.gov.kz/memleket/entities/ardfm/documents/details/1016361?lang=ru">на сайте Агентства</a>.</p>
+</body>
+</html>0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","nav",null,{"className":"breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Главная"}]," / ",["$","$L2",null,{"href":"/media/press","children":"Пресс-релизы"}]]}],["$","h1",null,{"className":"page-title","children":"Об отдельных вопросах урегулирования системно значимого банка"}],["$","time",null,{"children":"22 мая 2026 г."}],"$undefined",["$","$L3",null,{"html":"$4"}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zM9lERO3SlzCY7qBjKejW"}
+7:null

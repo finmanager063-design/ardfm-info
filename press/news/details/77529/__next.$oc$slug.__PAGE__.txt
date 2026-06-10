@@ -1,0 +1,47 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],""]
+3:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
+9:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+a:"$Sreact.suspense"
+4:T165b,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<p align="justify">В рамках реализации Плана мероприятий по Концепции повышения финансовой грамотности на 2020-2024 годы, утвержденной Постановлением Правительства Республики Казахстан от 30.05.2020 года №338, Агентство РК по регулированию и развитию финансового рынка запустило мобильное приложение &laquo;Fingramota Online&raquo;.</p>
+<p align="justify">Таким образом, Агентство намерено взаимодействовать с населением и бизнесом по вопросам деятельности финрегулятора, защиты прав и интересов потребителей финансовых услуг, повышения финансовой грамотности.</p>
+<p align="justify">Посредством мессенджера пользователи в режиме 24/7 могут задать вопросы, касающиеся нарушения их прав как потребителей финансовых услуг, условий использования финансовых продуктов, а также взаимодействия с финансовыми организациями, сообщать о случаях финансового мошенничества и сомнительных организациях, в чьей деятельности усматриваются признаки финансовых пирамид.</p>
+<p align="justify">Для удобства в мобильном приложении &laquo;Fingramota Online&raquo; представлено 12 основных тематических разделов:</p>
+<ul align="justify">
+<li>защита прав потребителей финансовых услуг;</li>
+<li>обслуживание в банках;</li>
+<li>ипотечные кредиты;</li>
+<li>потребительские кредиты;</li>
+<li>гарантия по депозитам;</li>
+<li>страхование;</li>
+<li>организации, осуществляющие микрофинансовую деятельность;</li>
+<li>деятельность коллекторских агентств;</li>
+<li>пенсионная система;</li>
+<li>платежи и переводы;</li>
+<li>трудоустройство;</li>
+<li>иное.</li>
+</ul>
+<p align="justify">Процесс регистрации простой и занимает до 2 минут, удобный и понятный интерфейс позволяет пользователям легко управлять мобильным приложением, а также видеть историю своих обращений.</p>
+<p align="justify">В приложение также включена лента новостей, которая будет обновляться ежедневно. Таким образом, пользователям &laquo;Fingramota Online&raquo; одним из первых будет доступна оперативная информация о деятельности финрегулятора, о ситуации на финансовом рынке, законодательных инициативах и изменении в финансовом законодательстве Казахстана.</p>
+<p align="justify">Приложение уже доступно для скачивания на государственном и русском языках по ссылкам:</p>
+<p align="justify">в App Store: <a href="https://apps.apple.com/kz/app/fingramota-online/id1134502211">https://apps.apple.com/kz/app/fingramota-online/id1134502211</a></p>
+<p align="justify">в Play Market: <a href="https://play.google.com/store/apps/details?id=kz.nationalbank.appeals">https://play.google.com/store/apps/details?id=kz.nationalbank.appeals</a></p>
+<p align="justify">Также доступна web-версия &laquo;Fingramota Online&raquo;, куда можно будет также направлять вопросы и получать ответы с помощью персонального компьютера, а не смартфона. Также в web-версии для пользователей будет доступен раздел часто задаваемых вопросов, в котором они смогут найти необходимую информацию, не прибегая к отправке обращения.</p>
+<p align="justify">Отметим, что направляемые ответы несут информационно-разъяснительный характер и не являются официальными ответами финансового регулятора. При необходимости получения официального ответа пользователям необходимо обратиться в Агентство в соответствии с Законом РК &laquo;О порядке рассмотрения обращений физических и юридических лиц&raquo;.</p>
+<p align="justify">&nbsp;</p>
+<p>Более подробную информацию можно получить по телефону:</p>
+<p>+7 (727) 2&nbsp;788 121</p>
+<p>e-mail: <a href="mailto:Fingramota@finreg.kz">Fingramota@finreg.kz</a></p>
+<p>www.finreg.kz</p>
+</body>
+</html>0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","nav",null,{"className":"breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Главная"}]," / ",["$","$L2",null,{"href":"/media/news","children":"Новости"}]," / Новость"]}],["$","h1",null,{"className":"page-title","children":"Агентство запустило мобильное приложение «Fingramota Online»"}],["$","time",null,{"dateTime":"2020-06-25T16:45:00Z","children":"25 июня 2020 г."}],null,["$","$L3",null,{"html":"$4"}]]}],["$L5","$L6","$L7"],"$L8"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zM9lERO3SlzCY7qBjKejW"}
+5:["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true}]
+6:["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true}]
+7:["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true}]
+8:["$","$L9",null,{"children":["$","$a",null,{"name":"Next.MetadataOutlet","children":"$@b"}]}]
+b:null

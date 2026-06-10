@@ -1,0 +1,25 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],""]
+3:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
+5:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+4:T96d,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<ol>
+<li>Мухамеджанов А.Н. <span>&ndash; Заместитель Председателя Правления АО &laquo;Казахстанская фондовая биржа&raquo; (протокол № 28/РЦБ от 02.10.2020г.);</span></li>
+<li>Алпысбаев К.К. &ndash; Председателя Правления &ndash; член Совета директоров АО &laquo;Казпочта&raquo; (протокол № 30/РЦБ от 09.10.2020г.);</li>
+<li>Ким В.А. &ndash; Заместитель <font size="1" face="andale mono,monospace">Председателя</font> Правления - член Правления АО &laquo;First Heartland Jysan Invest&raquo; (протокол № 31/РЦБ от 13.10.2020г.);</li>
+<li>Батыршаева Г.Б. &ndash; Главный бухгалтер АО &laquo;Tengri Partners Investment Banking (Kazakhstan)&raquo; (протокол № 32/РЦБ от 13.10.2020г.);</li>
+<li>Андроникашвили Г. &ndash; Председатель Совета директоров АО &laquo;ForteFinance&raquo; (протокол № 33/РЦБ от 20.10.2020г.);</li>
+<li>Сатыбалдиев А.И. &ndash; член Совета директоров &ndash; независимый директор АО &laquo;ForteFinance&raquo; (протокол № 34/РЦБ от 20.10.2020г.);</li>
+<li>Сундетова З.С. - Заместитель Председателя Правления - член Правления АО &laquo;ForteFinance&raquo; (протокол № 35/РЦБ от 20.10.2020г.);</li>
+<li>Даутбаев А.Б. - Председателя Правления &ndash; член Совета директоров АО &laquo;ForteFinance&raquo; (протокол № 36/РЦБ/Т от 20.10.2020г.);</li>
+<li>Левин С.В. - Заместитель Председателя Правления - член Правления &ndash; Главный бухгалтер АО &laquo;ForteFinance&raquo; (протокол № 37/РЦБ/Т от 20.10.2020г.);</li>
+<li>Бхамре Прасад - член Совета директоров &ndash; независимый директор АО &laquo;Единый накопительный пенсионный фонд&raquo; (протокол № 38/РЦБ от 27.10.2020г.).</li>
+</ol>
+</body>
+</html>0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","nav",null,{"className":"breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Главная"}]," / ",["$","$L2",null,{"href":"/media/news","children":"Новости"}]," / Новость"]}],["$","h1",null,{"className":"page-title","children":"Агентством Республики Казахстан по регулированию и развитию финансового рынка согласованы руководящие работники рынка ценных бумаг и пенсионного сектора"}],["$","time",null,{"dateTime":"2020-10-30T17:56:00Z","children":"30 октября 2020 г."}],null,["$","$L3",null,{"html":"$4"}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zM9lERO3SlzCY7qBjKejW"}
+7:null

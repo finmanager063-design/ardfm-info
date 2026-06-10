@@ -1,0 +1,24 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],""]
+3:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
+5:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+4:T888,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<p><strong>Новые меры по защите заемщиков вступают в силу 20 августа,&nbsp;передает&nbsp;<a href="https://dknews.kz/" target="_blank" rel="noopener">DKnews.kz</a>.</strong></p>
+<div class="text">
+<p>С 20 августа 2024 года вступают в силу некоторые нормы закона, направленного на недопущение долговой нагрузки населения:</p>
+<ul>
+<li>&nbsp;финансовым организациям запрещено выдавать электронные займы и онлайн микрокредиты без проведения биометрической идентификации клиента</li>
+<li>&nbsp;банки и МФО не могут начислять вознаграждение после 90 дней просрочки по всем действующим (непогашенным) потребительским кредитам;</li>
+<li>&nbsp;гражданам, призванным на срочную воинскую службу, будет предоставляться отсрочка по банковским займам и микрокредитам в автоматическом режиме на срок службы и 60 дней после демобилизации без начисления вознаграждения.&nbsp;</li>
+</ul>
+<p>Напомним, 1 сентября 2023 года в Послании народу Казахстана Глава государства Касым-Жомарт Токаев подчеркнул необходимость снижения закредитованности населения и повышения финансовой грамотности. &nbsp;19 июня 2024 года Главой государства подписан закон по вопросам минимизации рисков при кредитовании и защиты прав заемщиков.</p>
+</div>
+<div class="subscribe-dk"><font size="4">Источник: Dknews.kz</font></div>
+</body>
+</html>0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","nav",null,{"className":"breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Главная"}]," / ",["$","$L2",null,{"href":"/articles","children":"Статьи"}]," /"," ","Вступили в силу новые правила для кредитов и займо","…"]}],["$","h1",null,{"className":"page-title","children":"Вступили в силу новые правила для кредитов и займов"}],["$","time",null,{"dateTime":"2024-08-21","children":"21 августа 2024 г."}],["$","$L3",null,{"html":"$4"}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zM9lERO3SlzCY7qBjKejW"}
+7:null

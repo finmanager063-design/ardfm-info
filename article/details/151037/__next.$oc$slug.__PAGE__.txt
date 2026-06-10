@@ -1,0 +1,73 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],""]
+3:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
+5:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+4:Ta70,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<table style="width: 624px;">
+<tbody>
+<tr>
+<td style="width: 208px;">
+<p><a href="https://www.gov.kz/memleket/entities/ardfm/documents/1?activities=44298&amp;created_date=2024-01-01%20-%202024-01-31&amp;lang=ru">Январь</a></p>
+<p>&nbsp;</p>
+</td>
+<td style="width: 208px;">
+<p><a href="https://www.gov.kz/memleket/entities/ardfm/documents/1?activities=44298&amp;created_date=2024-02-01%20-%202024-02-29&amp;lang=ru">Февраль</a></p>
+<p>&nbsp;</p>
+</td>
+<td style="width: 208px;">
+<p><a href="https://www.gov.kz/memleket/entities/ardfm/documents/1?activities=44298&amp;created_date=2024-03-01%20-%202024-03-31&amp;lang=ru">Март</a></p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td style="width: 208px;">
+<p><a href="https://www.gov.kz/memleket/entities/ardfm/documents/1?activities=44298&amp;created_date=2024-04-01%20-%202024-04-30&amp;lang=ru">Апрель</a></p>
+<p>&nbsp;</p>
+</td>
+<td style="width: 208px;">
+<p><a href="https://www.gov.kz/memleket/entities/ardfm/documents/1?activities=44298&amp;created_date=2024-05-01%20-%202024-05-31&amp;lang=ru">Май</a></p>
+<p>&nbsp;</p>
+</td>
+<td style="width: 208px;">
+<p><a href="https://www.gov.kz/memleket/entities/ardfm/documents/1?activities=44298&amp;created_date=2024-06-01%20-%202024-06-30&amp;lang=ru">Июнь</a></p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td style="width: 208px;">
+<p><a href="https://www.gov.kz/memleket/entities/ardfm/documents/1?activities=44298&amp;created_date=2024-07-01%20-%202024-07-31&amp;lang=ru">Июль</a></p>
+<p>&nbsp;</p>
+</td>
+<td style="width: 208px;">
+<p><a href="https://www.gov.kz/memleket/entities/ardfm/documents/1?activities=44298&amp;created_date=2024-08-01%20-%202024-08-31&amp;lang=ru">Август</a></p>
+<p>&nbsp;</p>
+</td>
+<td style="width: 208px;">
+<p><a href="https://www.gov.kz/memleket/entities/ardfm/documents/1?activities=44298&amp;created_date=2024-09-01%20-%202024-09-30&amp;lang=ru">Сентябрь</a></p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td style="width: 208px;">
+<p><a href="https://www.gov.kz/memleket/entities/ardfm/documents/1?activities=44298&amp;created_date=2024-10-01%20-%202024-10-31&amp;lang=ru">Октябрь</a></p>
+<p>&nbsp;</p>
+</td>
+<td style="width: 208px;">
+<p><a href="https://www.gov.kz/memleket/entities/ardfm/documents/1?activities=44298&amp;created_date=2024-11-01%20-%202024-11-30&amp;lang=ru">Ноябрь</a></p>
+<p>&nbsp;</p>
+</td>
+<td style="width: 208px;">
+<p><a href="https://www.gov.kz/memleket/entities/ardfm/documents/1?activities=44298&amp;created_date=2024-12-01%20-%202024-12-31&amp;lang=ru">Декабрь</a></p>
+<p>&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+</body>
+</html>0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","nav",null,{"className":"breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Главная"}]," / ",["$","$L2",null,{"href":"/articles","children":"Статьи"}]," /"," ","Информация о реализации принятых законодательных а","…"]}],["$","h1",null,{"className":"page-title","children":"Информация о реализации принятых законодательных актов за 2024 год"}],["$","time",null,{"dateTime":"2024-01-30","children":"30 января 2024 г."}],["$","$L3",null,{"html":"$4"}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zM9lERO3SlzCY7qBjKejW"}
+7:null

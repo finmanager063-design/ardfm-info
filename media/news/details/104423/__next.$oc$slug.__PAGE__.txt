@@ -1,0 +1,44 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],""]
+3:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
+5:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+4:T100d,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<table width="682" align="justify">
+<tbody>
+<tr>
+<td style="width: 269px;" align="center">
+<p><b>Приказ НБРК от 19 мая 2020 года № 134</b></p>
+</td>
+<td style="width: 124px;" align="center">
+<p>&nbsp;</p>
+</td>
+<td style="width: 267px;" align="center">
+<p><b>Приказ АРРФР от 19 мая 2020 года №219</b></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p align="justify"><strong>&nbsp;</strong></p>
+<p align="center"><strong>СОВМЕСТНЫЙ ПРИКАЗ</strong></p>
+<p align="center"><strong>&nbsp;</strong><strong>О внесении изменения </strong><strong>в совместный приказ Национального Банка Республики Казахстан и Агентства Республики Казахстан по регулированию и развитию финансового рынка от 18 мая 2020 года № 132 и № 218 </strong><strong>&laquo;О режиме работы субъектов финансового рынка&raquo;</strong></p>
+<p align="justify">В соответствии с Указом Президента Республики Казахстан от 16 марта 2020 года № 286 &laquo;О мерах по обеспечению социально-экономической стабильности&raquo;, в целях защиты жизни и здоровья граждан, недопущения распространения коронавирусной инфекции (COVID-19) <strong>ПРИКАЗЫВАЕМ:</strong></p>
+<ol align="justify">
+<li>Внести в совместный приказ Национального Банка Республики Казахстан и Агентства Республики Казахстан по регулированию и развитию финансового рынка от 18 мая 2020 года № 132 и № 218 <br />&laquo;О режиме работы субъектов финансового рынка&raquo; следующее изменение:</li>
+</ol>
+<p align="justify">приложение дополнить пунктом 8 следующего содержания:</p>
+<p align="justify">&laquo;8. Коллекторские агентства&raquo;.</p>
+<ol start="2">
+<li align="justify">Настоящий совместный приказ вступает в силу с 20 мая 2020 года.</li>
+<li align="justify">Департаменту наличного денежного обращения <br />(Кажмуратову Ж.Т.) и Департаменту платежных систем <br />(Ашыкбекову Е.Т.) Национального Банка Республики Казахстан и Департаменту банковского регулирования (Кизатову О.Т.), Департаменту рынка ценных бумаг (Медеу Е.А.), Департаменту защиты прав потребителей финансовых услуг (Терентьев А.Л.) и Департаменту страхового рынка и актуарных расчетов (Шайкакова Г.Ж.) Агентства Республики Казахстан по регулированию и развитию финансового рынка довести настоящий совместный приказ до сведения субъектов финансового рынка.</li>
+<li align="justify">Контроль за исполнением настоящего совместного приказа возложить на заместителя Председателя Национального Банка Республики Казахстан Галиеву Д.Т. и Первого заместителя Председателя Агентства Республики Казахстан по регулированию и развитию финансового рынка Смолякова О.А.</li>
+</ol>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</body>
+</html>0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","nav",null,{"className":"breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Главная"}]," / ",["$","$L2",null,{"href":"/media/news","children":"Новости"}]," / Новость"]}],["$","h1",null,{"className":"page-title","children":"О режиме работы субъектов финансового рынка"}],["$","time",null,{"dateTime":"2020-05-19T10:41:00Z","children":"19 мая 2020 г."}],null,["$","$L3",null,{"html":"$4"}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zM9lERO3SlzCY7qBjKejW"}
+7:null

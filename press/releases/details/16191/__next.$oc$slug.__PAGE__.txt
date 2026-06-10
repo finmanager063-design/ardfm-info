@@ -1,0 +1,20 @@
+1:"$Sreact.fragment"
+2:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
+4:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+3:Tad1,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<p>Агентство Республики Казахстан по регулированию и развитию финансового рынка информирует о разработке проекта постановления Правления Агентства Республики Казахстан по регулированию и развитию финансового рынка &laquo;Об установлении Требований к внутренней политике по оплате труда, начислению денежных вознаграждений, а также других видов материального поощрения руководящих работников банка, страховой (перестраховочной) организации, страхового брокера, филиала банка-нерезидента Республики Казахстан, филиала страховой (перестраховочной) организации-нерезидента Республики Казахстан, филиала страхового брокера-нерезидента Республики Казахстан&raquo; (далее &ndash; Проект).</p>
+<p>Проект разработан в реализацию пункта 1 статьи 47 Закона Республики Казахстан &laquo;О банках и банковской деятельности в Республике Казахстан&raquo;, частью 2 пункта 4 статьи 2 и пунктом 8 статьи 34 Закона Республики Казахстан &laquo;О страховой деятельности&raquo;.</p>
+<p>Проектом предусматривается установление единых требований к внутренней политике финансовых организаций по оплате труда и материальному поощрению руководящих работников.</p>
+<p>Правовых последствий с принятием Проекта не предполагается.</p>
+<p>С полным текстом Проекта можно ознакомиться на интернет-портале открытых нормативных правовых актов и на <a href="https://www.gov.kz/memleket/entities/ardfm/documents/details/956149?lang=ru">интернет-ресурсе Агентства</a>.</p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>Управление внешних коммуникаций</strong></p>
+<p><a href="mailto:press@finreg.kz"><strong>press@finreg.kz</strong></a></p>
+</body>
+</html>0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","h1",null,{"className":"page-title","children":"О требованиях к политике оплаты труда руководящих работников финансовых организаций"}],["$","time",null,{"children":"21 января 2026 г."}],["$","$L2",null,{"html":"$3"}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zM9lERO3SlzCY7qBjKejW"}
+6:null

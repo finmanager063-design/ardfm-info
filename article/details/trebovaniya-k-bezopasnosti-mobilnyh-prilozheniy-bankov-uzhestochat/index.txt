@@ -1,0 +1,78 @@
+1:"$Sreact.fragment"
+2:I[50612,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"ShellWrapper"]
+3:I[39756,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"default"]
+4:I[37457,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"default"]
+9:I[68027,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"default",1]
+:HL["/_next/static/chunks/0rgbmrr6_b96m.css","style"]
+:HL["/_next/static/chunks/0t1-qk9~.xa44.css","style"]
+:HL["https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap","style"]
+0:{"P":null,"c":["","article","details","trebovaniya-k-bezopasnosti-mobilnyh-prilozheniy-bankov-uzhestochat",""],"q":"","i":false,"f":[[["",{"children":[["slug","article/details/trebovaniya-k-bezopasnosti-mobilnyh-prilozheniy-bankov-uzhestochat","oc",null],{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0rgbmrr6_b96m.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/0t1-qk9~.xa44.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0w5bf6qo2zbxc.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/0_t29vi~hh.tn.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ru","className":"notranslate","children":[["$","head",null,{"children":[["$","link",null,{"rel":"icon","href":"/favicon.ico"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap","rel":"stylesheet"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"GovernmentOrganization\",\"name\":\"Агентство Республики Казахстан по регулированию и развитию финансового рынка\",\"alternateName\":\"АРРФР\",\"description\":\"Агентство Республики Казахстан по регулированию и развитию финансового рынка — государственный орган, осуществляющий регулирование и надзор на финансовом рынке\",\"url\":\"https://govkz.online\",\"address\":{\"@type\":\"PostalAddress\",\"addressCountry\":\"KZ\",\"addressLocality\":\"Астана\",\"streetAddress\":\"проспект Мәңгілік Ел, 20а\",\"postalCode\":\"010000\"},\"telephone\":\"+7-7172-79-00-00\",\"image\":\"https://govkz.online/images/og-image.jpg\",\"knowsAbout\":[\"Регулирование финансового рынка\",\"Банковский надзор\",\"Страховой надзор\",\"Рынок ценных бумаг\",\"Микрофинансовые организации\",\"Защита прав потребителей финансовых услуг\"],\"parentOrganization\":{\"@type\":\"GovernmentOrganization\",\"name\":\"Правительство Республики Казахстан\"}}"}}]]}],["$","body",null,{"children":["$","$L2",null,{"meta":{"syncedAt":"2026-05-29T09:02:13.563Z","source":"https://www.gov.kz/memleket/entities/ardfm","entityTitle":"Агентство Республики Казахстан по регулированию и развитию финансового рынка","entityShort":"АРРФР","contacts":{"telegram":{"username":"finance_regulator_bot","handle":"@finance_regulator_bot","url":"https://t.me/finance_regulator_bot"}}},"children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":"$L5","templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["$L6",{},null,false,null]},null,false,"$@7"]},null,false,null],"$L8",false]],"m":"$undefined","G":["$9",["$La","$Lb"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"zM9lERO3SlzCY7qBjKejW"}
+d:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+e:"$Sreact.suspense"
+11:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"ViewportBoundary"]
+13:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"MetadataBoundary"]
+5:["$","$L4",null,{}]
+6:["$","$1","c",{"children":["$Lc",[["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true,"nonce":"$undefined"}]],["$","$Ld",null,{"children":["$","$e",null,{"name":"Next.MetadataOutlet","children":"$@f"}]}]]}]
+10:[]
+7:"$W10"
+8:["$","$1","h",{"children":[null,["$","$L11",null,{"children":"$L12"}],["$","div",null,{"hidden":true,"children":["$","$L13",null,{"children":["$","$e",null,{"name":"Next.Metadata","children":"$L14"}]}]}],null]}]
+a:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0rgbmrr6_b96m.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+b:["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/0t1-qk9~.xa44.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+15:I[22016,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],""]
+16:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
+17:T2744,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<p>Разработаны и утверждены соответствующие поправки в НПА<br /><br /></p>
+<div class="row">
+<p>Безопасность функционирования мобильных приложений банков выведена на иной уровень. Новые требования регулятора позволят клиентам банков получать дистанционные финансовые услуги в более защищенном формате.</p>
+</div>
+<div class="row">
+<p>В рамках соблюдения информационной и кибербезопасности Агентством по регулированию и развитию финансового рынка установлены отдельные требования к обеспечению информационной безопасности как для банков, так и для микрофинансовых организаций. В НПА агентства определены требования к защите информации в информационных системах, на интернет-ресурсах и в мобильных приложениях финансовых организаций, которые не позволяют мошенникам снять деньги или оформить кредит на клиента без непосредственного участия самого клиента.</p>
+</div>
+<div class="row">
+<p>На регулярной основе агентством осуществляется мониторинг состояния информбезопасности на финансовом рынке c использованием автоматизированной системы Qainar. В текущем году система Qainar прошла испытания на соответствие требованиям информбезопасности.</p>
+</div>
+<div class="row">
+<p>Организована работа по координации противодействия кибератакам (<i>73 участника из субъектов финансового рынка и госорганов</i>). С сентября и до конца 2022 года, с момента введения требования о подключении к Qainar, финансовыми организациями отражено около <strong>2,8</strong> <strong>млн</strong> потенциально опасных событий, иначе говоря, кибератак. В текущем году &ndash; около <strong>22</strong> млн.</p>
+</div>
+<div class="row">
+<p>Агентством в рамках информирования субъектов финансового рынка о текущих киберугрозах и возможных уязвимостях в 2023 году:</p>
+</div>
+<div class="row">
+<p>- направлено 91 предупреждение об угрозах и 67 предупреждений об уязвимостях информационной безопасности;<br />- зарегистрированы и обработаны 64 киберинцидента в финансовых организациях, в том числе 42 DDoS-атаки.</p>
+</div>
+<div class="row">
+<p>Также в течение 2023 года в соответствующий уполномоченный орган (Министерство культуры и информации РК) передана информация на блокировку 24 мошеннических интернет-ресурсов, в 2022 году &ndash; <strong>59</strong>.</p>
+</div>
+<div class="row">
+<p>Эффективность информационной защиты казахстанских банков не позволяет злоумышленникам напрямую похищать денежные средства с банковских счетов, без ведома их владельцев. Это привело к росту преступлений посредством мошеннических схем с использованием дистанционных услуг и вовлечением клиентов финансовых организаций. Самым распространенным методом мошенничества является использование социальной инженерии для внедрения вирусов или программ удаленного управления на устройства граждан. Таким образом, мошенники получают возможность выполнять практически любые операции от имени граждан, когда те даже не подозревают о происходящем.</p>
+</div>
+<div class="row">
+<p>В рамках <strong>Дорожной карты* </strong>по реализации механизмов противодействия кредитному мошенничеству, ориентированной на защиту клиентов, агентством усилены требования к <strong>безопасности</strong> применения <strong>программного обеспечения</strong> для оказания дистанционных услуг &ndash; мобильных приложений и сайтов банков и МФО.</p>
+</div>
+<div class="row">
+<p>Для повышения безопасности дистанционных финансовых услуг в октябре 2023 года разработаны и утверждены поправки в НПА по усилению требований к банкам и МФО, оказывающим такие услуги.</p>
+</div>
+<div class="row">
+<p>Все банки и МФО для своих мобильных приложений и сайтов должны осуществить ряд процедур, повышающих их безопасность. Так, до ввода в эксплуатацию программного обеспечения потребуется проведение анализа безопасности его исходного кода и устранение выявленных недостатков. Для критически важных операций, связанных с осуществлением переводов и платежей, введена обязательная биометрическая идентификация клиента. Кроме того, мобильные приложения будут блокировать оказание дистанционных услуг, в случае обнаружения признаков нарушения защитных механизмов операционной системы или обнаружения удаленного управления устройством клиента. Также усилены требования к обратной связи мобильного приложения с клиентом, то есть требуется дополнительное информирование клиента по критичным действиям.&nbsp;</p>
+</div>
+<div class="row">
+<p>Дополнительно, с целью повышения уровня информационной безопасности на финансовом рынке агентство осуществляет регулярные контрольные и надзорные мероприятия. В течение 2023 года им проведены 6 проверок на основе оценки степени риска, 14 документальных проверок в отношении финансовых организаций на предмет соответствия требованиям законодательства РК в области информационной безопасности, рисков информационной безопасности и рисков информационных технологий. По итогам проведенных проверок применены 16 письменных предписаний в отношении субъектов финансового рынка с целью устранения выявленных нарушений.</p>
+</div>
+<div class="row">
+<p>В настоящее время отсутствует достаточный механизм воздействия на финансовые организации в случае несоблюдения требований по кибербезопасности. В этой связи разработан проект внесения поправок в Кодекс об административных правонарушениях РК, предусматривающий штрафные санкции в сфере информационной безопасности по 14 пунктам. Данный проект находится на этапе согласования в государственных органах.</p>
+</div>
+<div>
+<p>Применение административных мер позволит повысить качество соблюдения законодательных требований в части информационной безопасности и обеспечения кибербезопасности физических и юридических лиц при использовании банковских услуг.</p>
+<p>&nbsp;</p>
+</div>
+<p>Источник: Kapital.kz</p>
+</body>
+</html>c:["$","article",null,{"children":[["$","nav",null,{"className":"breadcrumb","children":[["$","$L15",null,{"href":"/","children":"Главная"}]," / ",["$","$L15",null,{"href":"/articles","children":"Статьи"}]," /"," ","Требования к безопасности мобильных приложений бан","…"]}],["$","h1",null,{"className":"page-title","children":"Требования к безопасности мобильных приложений банков ужесточат"}],["$","time",null,{"dateTime":"2023-11-21","children":"21 ноября 2023 г."}],["$","$L16",null,{"html":"$17"}]]}]
+12:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+18:I[27201,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"IconMark"]
+f:null
+14:[["$","title","0",{"children":"Требования к безопасности мобильных приложений банков ужесточат | АРРФР"}],["$","meta","1",{"name":"description","content":"Агентство Республики Казахстан по регулированию и развитию финансового рынка (АРРФР): новости, документы, реестры лицензий и защита прав потребителей финансовых услуг"}],["$","link","2",{"rel":"manifest","href":"/manifest.json","crossOrigin":"$undefined"}],["$","meta","3",{"name":"keywords","content":"АРРФР,финансовый регулятор Казахстан,лицензии финансовых организаций,защита прав потребителей финансовых услуг,Агентство финансового рынка"}],["$","meta","4",{"name":"google-site-verification","content":"google-site-verification-code"}],["$","meta","5",{"name":"yandex-verification","content":"yandex-verification-code"}],["$","meta","6",{"property":"og:title","content":"Агентство Республики Казахстан по регулированию и развитию финансового рынка"}],["$","meta","7",{"property":"og:description","content":"Агентство Республики Казахстан по регулированию и развитию финансового рынка"}],["$","meta","8",{"property":"og:site_name","content":"АРРФР"}],["$","meta","9",{"property":"og:locale","content":"ru_RU"}],["$","meta","10",{"property":"og:type","content":"website"}],["$","meta","11",{"name":"twitter:card","content":"summary"}],["$","meta","12",{"name":"twitter:title","content":"Агентство Республики Казахстан по регулированию и развитию финансового рынка"}],["$","meta","13",{"name":"twitter:description","content":"Агентство Республики Казахстан по регулированию и развитию финансового рынка"}],["$","link","14",{"rel":"icon","href":"/favicon.ico?favicon.0x3dzn~oxb6tn.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","15",{"rel":"icon","href":"/favicon.ico"}],["$","link","16",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png"}],["$","$L18","17",{}]]

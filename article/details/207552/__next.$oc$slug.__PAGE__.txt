@@ -1,0 +1,180 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],""]
+3:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
+9:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+a:"$Sreact.suspense"
+4:T183a,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<p align="center"><strong>ГРАФИК ПРИЕМА&nbsp;</strong></p>
+<p align="center"><strong>руководством Агентства Республики Казахстан </strong></p>
+<p align="center"><strong>по регулированию и развитию финансового рынка </strong><strong>физических лиц и представителей юридических лиц в третьем </strong><strong>квартале 2025 года</strong></p>
+<table style="border-collapse: collapse; width: 113.217%; height: 41px;" border="1">
+<tbody>
+<tr>
+<td style="width: 25%;" align="center"><strong>Ф.И.О. руководства Агентства</strong></td>
+<td style="width: 25%;" align="center"><strong>Должность</strong></td>
+<td style="width: 25%;" align="center"><strong>День приема</strong></td>
+<td style="width: 25%;" align="center"><strong>&nbsp; &nbsp;Время проведения&nbsp; &nbsp; &nbsp;личного приема </strong></td>
+</tr>
+</tbody>
+</table>
+<table style="border-collapse: collapse; width: 113.319%; height: 300px;" border="1">
+<tbody>
+<tr style="height: 61px;">
+<td style="width: 25%; height: 61px;">Абылкасымова М.Е.</td>
+<td style="width: 25%; height: 61px;">Председатель Агентства</td>
+<td style="width: 25%; height: 61px;">
+<table style="border-collapse: collapse; width: 100%; height: 50px;" border="1">
+<tbody>
+<tr style="height: 16px;">
+<td style="width: 100%; height: 16px;">31 июля 2025 года</td>
+</tr>
+<tr style="height: 17px;">
+<td style="width: 100%; height: 17px;">28 августа 2025 года</td>
+</tr>
+<tr style="height: 17px;">
+<td style="width: 100%; height: 17px;">25 сентября 2025 года</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td style="width: 25%; height: 61px;" align="left">
+<table style="border-collapse: collapse; width: 100%; height: 51px;" border="1">
+<tbody>
+<tr style="height: 17px;">
+<td style="width: 100%; height: 17px;">с 15:00 до 17:00 ч.</td>
+</tr>
+<tr style="height: 17px;">
+<td style="width: 100%; height: 17px;">с 15:00 до 17:00 ч.</td>
+</tr>
+<tr style="height: 17px;">
+<td style="width: 100%; height: 17px;">с 15:00 до 17:00 ч.</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr style="height: 61px;">
+<td style="width: 25%; height: 61px;">Абилкасымов Т.Б.</td>
+<td style="width: 25%; height: 61px;">Первый заместитель Председателя Агентства</td>
+<td style="width: 25%; height: 61px;">
+<table style="border-collapse: collapse; width: 100%; height: 52px;" border="1">
+<tbody>
+<tr style="height: 19px;">
+<td style="width: 100%; height: 19px;">24 июля 2025 года</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td style="width: 25%; height: 61px;">
+<table style="border-collapse: collapse; width: 100%; height: 51px;" border="1">
+<tbody>
+<tr style="height: 17px;">
+<td style="width: 100%; height: 17px;">с 10:00 до 12:00 ч.</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr style="height: 61px;">
+<td style="width: 25%; height: 61px;">Кизатов О.Т.</td>
+<td style="width: 25%; height: 61px;">Заместитель Председатель Агентства</td>
+<td style="width: 25%; height: 61px;">
+<table style="border-collapse: collapse; width: 100%; height: 51px;" border="1">
+<tbody>
+<tr style="height: 17px;">
+<td style="width: 100%; height: 17px;">10 июля 2025 года</td>
+</tr>
+<tr style="height: 17px;">
+<td style="width: 100%; height: 17px;">21 августа 2025 года</td>
+</tr>
+<tr style="height: 17px;">
+<td style="width: 100%; height: 17px;">18 сентября 2025 года</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td style="width: 25%; height: 61px;">
+<table style="border-collapse: collapse; width: 100%; height: 51px;" border="1">
+<tbody>
+<tr style="height: 17px;">
+<td style="width: 100%; height: 17px;">с 10:00 до 12:00 ч.</td>
+</tr>
+<tr style="height: 17px;">
+<td style="width: 100%; height: 17px;">с 10:00 до 12:00 ч.</td>
+</tr>
+<tr style="height: 17px;">
+<td style="width: 100%; height: 17px;">с 10:00 до 12:00 ч.</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr style="height: 17px;">
+<td style="width: 25%; height: 17px;">Хаджиева М.Ж.</td>
+<td style="width: 25%; height: 17px;">Заместитель Председатель Агентства</td>
+<td style="width: 25%; height: 17px;">
+<table style="border-collapse: collapse; width: 100%; height: 51px;" border="1">
+<tbody>
+<tr style="height: 17px;">
+<td style="width: 100%; height: 17px;">&nbsp;3 июля 2025 года</td>
+</tr>
+<tr style="height: 17px;">
+<td style="width: 100%; height: 17px;">&nbsp;7 августа 2025 года</td>
+</tr>
+<tr style="height: 17px;">
+<td style="width: 100%; height: 17px;">&nbsp;4 сентября 2025 года</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td style="width: 25%; height: 17px;">
+<table style="border-collapse: collapse; width: 100%; height: 51px;" border="1">
+<tbody>
+<tr style="height: 17px;">
+<td style="width: 100%; height: 17px;">с 15:00 до 17:00 ч.</td>
+</tr>
+<tr style="height: 17px;">
+<td style="width: 100%; height: 17px;">с 10:00 до 12:00 ч.</td>
+</tr>
+<tr style="height: 17px;">
+<td style="width: 100%; height: 17px;">с 10:00 до 12:00 ч.</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr style="height: 17px;">
+<td style="width: 25%; height: 17px;">Исмагулова Ж.Ж.</td>
+<td style="width: 25%; height: 17px;">Руководитель&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Аппарата Агентства&nbsp;</td>
+<td style="width: 25%; height: 17px;">
+<table style="border-collapse: collapse; width: 99.9997%; height: 29px;" border="1">
+<tbody>
+<tr style="height: 29px;">
+<td style="width: 100%; height: 29px;">Первая <strong>пятница</strong> каждого месяца</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td style="width: 25%; height: 17px;">
+<table style="border-collapse: collapse; width: 99.6338%; height: 40px;" border="1">
+<tbody>
+<tr>
+<td style="width: 100%;">с 11:00 до 12:00 ч.</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</body>
+</html>0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","nav",null,{"className":"breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Главная"}]," / ",["$","$L2",null,{"href":"/articles","children":"Статьи"}]," /"," ","График приема граждан","…"]}],["$","h1",null,{"className":"page-title","children":"График приема граждан"}],["$","time",null,{"dateTime":"2025-07-01","children":"1 июля 2025 г."}],["$","$L3",null,{"html":"$4"}]]}],["$L5","$L6","$L7"],"$L8"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zM9lERO3SlzCY7qBjKejW"}
+5:["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true}]
+6:["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true}]
+7:["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true}]
+8:["$","$L9",null,{"children":["$","$a",null,{"name":"Next.MetadataOutlet","children":"$@b"}]}]
+b:null

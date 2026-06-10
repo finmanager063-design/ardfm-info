@@ -1,0 +1,19 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],""]
+3:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
+5:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+4:Tb7e,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<p>Агентство РК по регулированию и развитию финансового рынка в октябре текущего года по результатам проведенного мониторинга рекламных материалов приняло меры в отношении коммерческого банка и инвестиционной компании.</p>
+<p>Проверки проводились в городах <strong>Нур-Султан, Алматы, Шымкент</strong> и областных центрах РК.</p>
+<p>По результатам проведенного мониторинга в отношении<strong> АО &laquo;Банк ВТБ Казахстан&raquo;</strong> применена рекомендательная мера надзорного реагирования за неверное указание в рекламе о своих услугах наименования органа, выдавшего лицензию, а также за отсутствие в публикациях информации о годовой эффективной ставке вознаграждения</p>
+<p>Кроме того, финрегулятор оштрафовал <strong>АО &laquo;</strong><strong>Freedom</strong> <strong>Finance</strong><strong>&raquo; </strong>за административное правонарушение, выразившееся в распространении неполной и вводящей в заблуждение информации о деятельности интервального паевого инвестиционного фонда <strong>Fixed Income</strong>. Ответственность за данное правонарушение предусмотрена частью 2 статьи 265 КоАП.</p>
+<p>К слову, по страховому рынку Казахстана нарушений в рекламных материалах нарушений выявлено не было.&nbsp;</p>
+<p>Агентство проводило мониторинг на основании документов и информации, представленных финансовыми институтами. Также учитывались обращения, поступившие от физических, юридических лиц и государственных органов. Кроме того, проверялись сайты, аккаунты в социальных сетях и мобильные приложения банков, отслеживалась реклама на теле-, радиоканалах, в общественном транспорте, периодических печатных изданиях, а также наружная реклама.</p>
+</body>
+</html>0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","nav",null,{"className":"breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Главная"}]," / ",["$","$L2",null,{"href":"/media/news","children":"Новости"}]," / Новость"]}],["$","h1",null,{"className":"page-title","children":"Финрегулятор выявил нарушения в рекламе «ВТБ Казахстан» и Freedom Finance"}],["$","time",null,{"dateTime":"2020-11-30T17:18:00Z","children":"30 ноября 2020 г."}],null,["$","$L3",null,{"html":"$4"}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zM9lERO3SlzCY7qBjKejW"}
+7:null

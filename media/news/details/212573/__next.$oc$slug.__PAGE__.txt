@@ -1,0 +1,28 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],""]
+3:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
+9:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+a:"$Sreact.suspense"
+4:T198c,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<p align="justify">В адрес Агентства, начиная с 2020 года, поступило более 40 жалоб и обращений по вопросам деятельности нелицензированных компаний, привлекающих деньги клиентов для инвестиционных целей якобы с гарантией высокой доходности.</p>
+<p align="justify">Такого рода компании, чаще всего, зарегистрированы в оффшорных зонах и не обладают лицензией финансового регулятора на осуществление деятельности на финансовом рынке. Они предлагают клиентам консультации и проводят обучение по инвестированию средств через свои сервисы. На территории Республики Казахстан данные компании в основном работают удаленно, через представительства и филиалы, либо представителей по доверенности.</p>
+<p align="justify">Схема работы данных организаций предполагает, что клиенту предоставляется дистанционный доступ к закрытым интернет-сервисам и торговым платформам якобы для совершения операций с иностранной валютой и иными финансовыми инструментами. В своем личном кабинете на таких платформах клиенты могут наблюдать &laquo;увеличение&raquo; своих средств. При попытке клиента изъять &laquo;заработанный&raquo; доход, данные компании уклоняются от возврата клиенту его денег, требуя дополнительного вознаграждения за возврат денег, либо по каким-то причинам необоснованно &laquo;обнуляют&raquo; счета клиентов, что также несет в себе признаки мошеннических действий.</p>
+<p align="justify">Стоить обратить внимание, что подобные компании агрессивно рекламируют свои услуги в основном через социальные сети, обещая высокую прибыльность, в разы превышающую текущие ставки вознаграждения по банковским вкладам.</p>
+<p align="justify">В этой связи, Агентство призывает граждан Республики Казахстан не поддаваться агрессивной рекламе и рекомендует работать с компаниями, обладающих понятным и прозрачным правовым режимом.&nbsp;&nbsp;</p>
+<p align="justify">Список брокерских/дилерских организаций, обладающих лицензиями уполномоченного органа на занятие деятельностью на&nbsp; рынке ценных бумаг РК, <a href="https://www.gov.kz/memleket/entities/ardfm/press/article/details/1847?lang=ru" target="_blank" rel="noopener">размещен на </a><strong><a href="https://www.gov.kz/memleket/entities/ardfm/press/article/details/1847?lang=ru" target="_blank" rel="noopener">официальном сайте Агентства</a></strong>.</p>
+<p align="justify">Деятельность данных компаний строго регламентируются законодательством Республики Казахстан. АРРФР осуществляет контроль и надзор за деятельностью игроков и обеспечивает надлежащий уровень защиты прав потребителей услуг данных компаний и их законных интересов.</p>
+<p align="justify">Для предотвращения рисков граждан, связанных с деятельностью нелицензированных компаний, Агентством <a href="https://www.gov.kz/memleket/entities/ardfm/documents/details/174787?lang=ru" target="_blank" rel="noopener">опубликован <strong>перечень и адреса интернет сайтов </strong></a>компаний, на которые поступили жалобы граждан. Также Агентство рекомендует ознакомиться <strong><a href="https://www.cbr.ru/inside/warning-list/" target="_blank" rel="noopener">со списком компаний с&nbsp;выявленными признаками нелегальной деятельности на&nbsp;финансовом рынке</a></strong> опубликованным Центральным Банком Российской Федерации и с <strong><a href="https://www.gov.kz/memleket/entities/ardfm/press/news/details/184260?lang=ru" target="_blank" rel="noopener">оповещениями и предупреждениями </a>Международной организации комиссий по ценным бумагам</strong> (International Organization of Securities Commissions, IOSCO) IOSCO при вступлении в договорные отношения с организациями, позиционирующими себя в качестве &laquo;инвестиционных компаний&raquo;.</p>
+<p align="justify">Также важно помнить, что торговля финансовыми инструментами сопряжена с различными рыночными, кредитными, валютными рисками. В связи с этим, рекомендуем инвесторам осуществлять инвестиции через лицензируемые казахстанские компании.</p>
+<p align="justify">&nbsp;</p>
+<p align="justify">&nbsp;</p>
+</body>
+</html>0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","nav",null,{"className":"breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Главная"}]," / ",["$","$L2",null,{"href":"/media/news","children":"Новости"}]," / Новость"]}],["$","h1",null,{"className":"page-title","children":"Агентство опубликовало перечень нелицензированных в Казахстане компаний"}],["$","time",null,{"dateTime":"2021-06-04T19:32:00Z","children":"4 июня 2021 г."}],null,["$","$L3",null,{"html":"$4"}]]}],["$L5","$L6","$L7"],"$L8"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zM9lERO3SlzCY7qBjKejW"}
+5:["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true}]
+6:["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true}]
+7:["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true}]
+8:["$","$L9",null,{"children":["$","$a",null,{"name":"Next.MetadataOutlet","children":"$@b"}]}]
+b:null

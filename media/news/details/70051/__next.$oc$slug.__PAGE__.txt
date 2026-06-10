@@ -1,0 +1,25 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],""]
+3:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
+5:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+4:Tf01,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<p align="justify">В рамках исполнения поручений Главы государства Агентством РК по регулированию и развитию финансового рынка <strong>расширен список</strong> видов деятельности субъектов малого и среднего предпринимательства, которые могут претендовать на получение отсрочки по кредитам.</p>
+<p align="justify">Соответствующий <a href="https://finreg.kz/cont/%D0%9F%D1%80%D0%B8%D0%BA%D0%B0%D0%B7%20%E2%84%96%20223_%D0%B8%D0%B7%D0%BC%20%D0%B2%20%E2%84%96%20167%20%D1%80%D1%83%D1%81.pdf">Приказ № 223</a> был принят Агентством 26 мая 2020 года. &nbsp;Приложение к приказу содержит 357 классификаций видов деятельности.</p>
+<p align="justify">Так, в новый перечень вошли отрасли, которые в наибольшей степени пострадали вследствие введения чрезвычайного положения. Это отрасли торговли, обрабатывающей промышленности, транспорта и складирования, проживания и питания, информации и связи, образования и здравоохранения.</p>
+<p align="justify"><a href="https://www.finreg.kz/cont/%D0%98%D0%A1%20%D0%BD%D0%B0%20%D1%80%D1%83%D1%81%D1%81..pdf">Напомним</a>, что 11 мая т.г. на итоговом заседании Государственной комиссии по обеспечению режима чрезвычайного положения в Казахстане Президент Республики Казахстан Токаев К.К. поручил Агентству Республики Казахстан по регулированию и развитию финансового рынка совместно с Правительством Республики Казахстан расширить перечень отраслей для отсрочки платежей по кредитам.</p>
+<p align="justify">&laquo;Еще одной мерой поддержки бизнеса станет расширение перечня отраслей, которым банки и другие финансовые организации предоставляют отсрочку платежей по кредитам. Туда должны быть включены торговля, обрабатывающая промышленность, транспорт и складирование, проживание и питание, информация и связь, образование и здравоохранение&raquo;, - отметил Глава государства.</p>
+<p align="justify">&nbsp;</p>
+<p><i><strong>По вопросам защиты прав потребителей финансовых услуг</strong></i></p>
+<p><i><strong>обращайтесь на телефоны горячей линии:</strong></i></p>
+<p><i><strong>+7 (727) 2788 144 и +7 (727) 2788 122</strong></i></p>
+<p><i><strong>(время работы: понедельник-пятница с 9.00 до 18.30 часов,</strong></i></p>
+<p><i><strong>суббота &ndash; с 9.00 до 14.00, воскресенье &ndash; выходной)</strong></i></p>
+<p><i><strong>e-mail: </strong><a href="mailto:Fingramota@finreg.kz"><strong>Fingramota@finreg.kz</strong></a><strong>, </strong><a href="mailto:TAL@finreg.kz"><strong>TAL@finreg.kz</strong></a></i></p>
+</body>
+</html>0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","nav",null,{"className":"breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Главная"}]," / ",["$","$L2",null,{"href":"/media/news","children":"Новости"}]," / Новость"]}],["$","h1",null,{"className":"page-title","children":"Расширен перечень отраслей, которым предоставляется  отсрочка платежей по кредитам"}],["$","time",null,{"dateTime":"2020-06-05T11:48:00Z","children":"5 июня 2020 г."}],null,["$","$L3",null,{"html":"$4"}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zM9lERO3SlzCY7qBjKejW"}
+7:null

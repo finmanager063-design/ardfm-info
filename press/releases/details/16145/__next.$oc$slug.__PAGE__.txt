@@ -1,0 +1,19 @@
+1:"$Sreact.fragment"
+2:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
+4:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+3:T7c7,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<p>Агентством по регулированию и развитию финансового рынка (далее &ndash; Агентство) разработан проект постановления Правления Агентства <strong>&laquo;Об утверждении Правил проведения торгов на электронной торговой площадке по продаже банковских и микрофинансовых активов, включая раскрытие участниками торгов информации в отношении имущества, выставленного на торги&raquo;</strong>.</p>
+<p>Проект постановления разработан в реализацию Закона Республики Казахстан &laquo;О банках и банковской деятельности&raquo; в целях утверждения требований к организации и проведению торгов на электронной торговой площадке по продаже банковских и микрофинансовых активов.</p>
+<p>Документом предусмотрен порядок регистрации участников, правила проведения и методы проведения торгов банковскими и микрофинансовыми активами на электронной торговой площадке.</p>
+<p>С текстом проекта Постановления можно ознакомиться на <a href="https://www.gov.kz/memleket/entities/ardfm/documents/details/955980?lang=ru">сайте Агентства</a>.</p>
+<p>&nbsp;</p>
+<p><strong>Управление внешних коммуникаций </strong></p>
+<p><a href="mailto:press@finreg.kz"><strong>press@finreg.kz</strong></a></p>
+</body>
+</html>0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","h1",null,{"className":"page-title","children":"Об утверждении правил проведения торгов банковских и микрофинансовых активов на электронной торговой площадке"}],["$","time",null,{"children":"20 января 2026 г."}],["$","$L2",null,{"html":"$3"}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zM9lERO3SlzCY7qBjKejW"}
+6:null

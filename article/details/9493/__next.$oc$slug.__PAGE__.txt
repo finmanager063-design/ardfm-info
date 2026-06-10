@@ -1,0 +1,41 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],""]
+3:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
+9:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+a:"$Sreact.suspense"
+4:T190f,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<p align="justify">Агентство РК по регулированию и развитию финансового рынка продолжает мониторинг исполнения мер по поддержке населения и бизнеса.</p>
+<p align="justify">По состоянию на 14 апреля 2020 г. в банки второго уровня и иные кредитные организации <strong>поступило</strong> <strong>1&nbsp;518&nbsp;071 заявки</strong> на приостановление выплат по займам и микрокредитам. Из них 1&nbsp;505&nbsp;960 физических лиц подали заявки на отсрочку по платежам банковского займа, 12&nbsp;111 субъектов малого и среднего предпринимательства обратились в кредитные организации для подачи заявки на отсрочку по кредитам в период чрезвычайного положения.</p>
+<p align="justify"><strong>Одобрение</strong> на приостановление выплат получили <strong>1&nbsp;350&nbsp;529 заемщиков</strong>, из которых 1&nbsp;340&nbsp;707 &ndash; физические лица, 9&nbsp;822 субъекты МСБ, включая индивидуальных предпринимателей. Остальные заявки находятся на рассмотрении, и в течение 10 рабочих дней по ним будут приняты соответствующие решения.</p>
+<p align="justify">&nbsp;</p>
+<p align="justify"><em>Мониторинг освоения средств в рамках программы льготного кредитования предпринимателей</em></p>
+<p align="justify">Согласно данным, полученным от банков второго уровня, по состоянию на 14 апреля 2020 г. в 12 банков второго уровня от субъектов малого и среднего бизнеса и индивидуальных предпринимателей поступило <strong>634 заявки</strong> на сумму <strong>167 231 млн тенге</strong>, из которых <strong>одобрено 56 займов </strong>на сумму <strong>32&nbsp;632 млн тенге. </strong></p>
+<p align="justify"><strong>&nbsp;</strong></p>
+<p align="justify"><em><u>Для справки:</u></em></p>
+<p align="justify">По поручению Президента Республики Казахстан Токаева К.К. Национальным Банком Казахстана совместно с Агентством Республики Казахстан по регулированию и развитию финансового рынка разработана <strong>Программа льготного кредитования субъектов малого и среднего предпринимательства.</strong> Для реализации данной Программы выделено 600 млрд. тенге субъектам малого, среднего предпринимательства и индивидуальным предпринимателям через размещение обусловленных вкладов в банках второго уровня.</p>
+<p align="justify">Механизм поддержки бизнеса реализуется путем предоставления банками второго уровня льготных кредитов на пополнение оборотного капитала субъектам малого и среднего предпринимательства, индивидуальным предпринимателям, пострадавшим в результате введения чрезвычайного положения, сроком до 12 месяцев по ставке не более 8% годовых. Срок освоения средств банками второго уровня составляет 3 месяца.</p>
+<p align="justify">1) Денежные средства должны быть направлены на выдачу кредитов субъектам МСП.</p>
+<p align="justify">2) Лимит на одного заемщика:</p>
+<p align="justify">для юридических лиц &ndash; субъектов малого и среднего предпринимательства &ndash; не более 3 млрд тенге;</p>
+<p align="justify">для индивидуальных предпринимателей &ndash; не более 50 млн тенге.</p>
+<p align="justify">3) Кредит на пополнение оборотных средств перечисляется на банковский счет заемщика, и заемщик осуществляет платежи в оплату товаров, работ, услуг, налогов и других платежей в бюджет, заработной платы безналичным способом.</p>
+<p><strong><em>По вопросам защиты прав потребителй финансовых услуг</em></strong></p>
+<p><strong><em>обращайтесь на телефоны горячей линии:</em></strong></p>
+<p><strong><em>&nbsp;+7 (727) 2788 144 и +7 (727) 2788 122 </em></strong></p>
+<p><strong><em>(время работы: понедельник-пятница с 9.00 до 17.00 часов, </em></strong></p>
+<p><strong><em>суббота &ndash; с 9.00 до 14.00, воскресенье &ndash; выходной)</em></strong></p>
+<p><strong><em>e-mail: </em></strong><a href="mailto:Fingramota@finreg.kz"><strong><em>Fingramota@finreg.kz</em></strong></a><strong><em>, </em></strong><a href="mailto:TAL@finreg.kz"><strong><em>TAL@finreg.kz</em></strong></a></p>
+<p><strong><em>&nbsp;</em></strong><a href="http://www.finreg.kz"><strong><em>www.finreg.kz</em></strong></a><strong><em>&nbsp;</em></strong></p>
+<p><strong><em>&nbsp;</em></strong></p>
+<p><strong><em>&nbsp;</em></strong></p>
+</body>
+</html>0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","nav",null,{"className":"breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Главная"}]," / ",["$","$L2",null,{"href":"/articles","children":"Статьи"}]," /"," ","Более 1,3 миллионов заемщиков получили отсрочки по","…"]}],["$","h1",null,{"className":"page-title","children":"Более 1,3 миллионов заемщиков получили отсрочки по займам"}],["$","time",null,{"dateTime":"2020-04-15","children":"15 апреля 2020 г."}],["$","$L3",null,{"html":"$4"}]]}],["$L5","$L6","$L7"],"$L8"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zM9lERO3SlzCY7qBjKejW"}
+5:["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true}]
+6:["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true}]
+7:["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true}]
+8:["$","$L9",null,{"children":["$","$a",null,{"name":"Next.MetadataOutlet","children":"$@b"}]}]
+b:null

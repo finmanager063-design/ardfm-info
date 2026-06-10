@@ -1,0 +1,18 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],""]
+3:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
+5:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+4:T980,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<p>Агентство Республики Казахстан по регулированию и развитию финансового рынка информирует о разработке проекта постановления Правления Агентства Республики Казахстан по регулированию и развитию финансового рынка <strong>&laquo;Об утверждении Требований к руководителям и членам совета по принципам исламского финансирования в банке с универсальной банковской лицензией, осуществляющем исламские банковские операции, исламском банке&raquo; </strong>(далее &ndash; Проект).</p>
+<p>Проект разработан в реализацию пункта 3 статьи 36 Закона Республики Казахстан &laquo;О банках и банковской деятельности в Республике Казахстан&raquo;.</p>
+<p>Проектом предусматривается обязанность банка с универсальной банковской лицензией, осуществляющего исламские банковские операции, и исламского банка по созданию и обеспечению деятельности совета по принципам исламского финансирования, а также устанавливаются требования к его статусу, независимости, порядку назначения, численному составу, квалификации, опыту, резидентству членов и отсутствию конфликта интересов.</p>
+<p>Правовых последствий с принятием Проекта не предполагается.</p>
+<p>С полным текстом Проекта можно ознакомиться на интернет-портале открытых нормативных правовых актов и на <a href="https://www.gov.kz/memleket/entities/ardfm/documents/details/959288?lang=ru">интернет-ресурсе Агентства.</a></p>
+</body>
+</html>0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","nav",null,{"className":"breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Главная"}]," / ",["$","$L2",null,{"href":"/media/press","children":"Пресс-релизы"}]]}],["$","h1",null,{"className":"page-title","children":"Проект постановления Правления Агентства Республики Казахстан по регулированию и развитию финансового рынка «Об утверждении Требований к руководителям и членам совета по принципам исламского финансирования в банке с универсальной банковской лицензией, осуществляющем исламские банковские операции, исламском банке»"}],["$","time",null,{"children":"26 января 2026 г."}],"$undefined",["$","$L3",null,{"html":"$4"}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zM9lERO3SlzCY7qBjKejW"}
+7:null

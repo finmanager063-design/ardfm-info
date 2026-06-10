@@ -1,0 +1,39 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],""]
+3:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
+9:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+a:"$Sreact.suspense"
+4:T1d66,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<p>Қазақстанда сақтандыру компаниялары мен брокерлерге клиенттермен байланыс үшін отандық<strong>&nbsp;Aitu қолданбасын&nbsp;</strong>пайдалану ұсынылған. Қаржы нарығын реттеу және дамыту агенттігінің<a title=" мәліметінше" href="https://t.me/finregkz/2253" data-href="https://t.me/finregkz/2253?utm_source=in_materials">&nbsp;мәліметінше</a>, бұл бастама қазір нарық қатысушыларымен талқыланып жатыр.</p>
+<h2 class="wp-block-heading">Неге Aitu қолданбасын ұсынып отыр</h2>
+<p>Мемлекеттің негізгі уәжі &ndash;&nbsp;<strong>қауіпсіздік.</strong>&nbsp;Қазір қаржы саласында алаяқтық көбейгендіктен, реттеуші орган барлық байланысты бір арнаға жинап, бақылауды күшейтпек. Агенттіктің пайымдауынша, Aitu-дың серверлері Қазақстанда орналасқандықтан, деректер шетелдік хакерлерге немесе компанияларға берілмейді.</p>
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p>&laquo;Әрбір транзакцияның қауіпсіздігі шифрлаудың (end-to-end) әдісін қолдану арқылы қамтамасыз етіледі, мұнда қол жеткізу кілттері тек пайдаланушылардың құрылғыларында сақталады, бұл сервер немесе провайдер тарапынан хат алмасуды оқуды мүмкін емес етеді&raquo;, &ndash; делінген хабарламада.</p>
+</blockquote>
+<p>Сондай-ақ қолданба ішінде адамның<strong>&nbsp;бет-әлпетін тану (биометрия)</strong>&nbsp;жүйесі бар, бұл &laquo;басқа біреудің атынан хат жазу&raquo; қаупін азайтады.</p>
+<p>Ашық интерфейс пен бизнес-кабинет тіпті шағын қаржы ұйымдарына да өз жүйесін дайын ұлттық инфрақұрылымға аз шығынмен біріктіруге жол ашпақ.</p>
+<h2 class="wp-block-heading">Қаржы ұйымдары Aitu-ға көшсе, клиент үшін не өзгереді?</h2>
+<p>Егер сақтандыру полисін рәсімдеп немесе брокер арқылы акция сатып алсаңыз, менеджермен үйреншікті WhatsApp арқылы емес, отандық Aitu мессенджері арқылы сөйлесуіңіз мүмкін.</p>
+<p>WhatsApp-та кез келген адам менеджердің суретін қойып алып жаза алады. Ал Aitu-да биометрия (бет-әлпетті тану) және<strong>&nbsp;Aitu Passport жүйесі</strong>&nbsp;жұмыс істейді. Сондықтан нақты сол компания қызметкерімен сөйлесіп жатқаныңызға сенімді боласыз. Бұл алаяқтардың сіздің атыңыздан немесе сізге жалған хат жазу мүмкіндігін жоюға тиіс.</p>
+<h2 class="wp-block-heading">Нарық неге алаңдайды?</h2>
+<p>Бұған дейін Bloomberg агенттігі<a title=" жазғандай, " href="https://www.bloomberg.com/news/articles/2026-04-07/kazakh-financial-watchdog-pushes-firms-to-use-local-messenger?embedded-checkout=true" data-href="https://www.bloomberg.com/news/articles/2026-04-07/kazakh-financial-watchdog-pushes-firms-to-use-local-messenger?embedded-checkout=true&amp;utm_source=in_materials">&nbsp;жазғандай,&nbsp;</a>сақтандыру компаниялары мен брокерлер жаңалықты аса үлкен қуанышпен қабылдаған жоқ. Олардың айтатын бірнеше себебі бар. Біріншіден, халықтың көбі әлі де WhatsApp немесе Telegram қолданады. Клиенттерді басқа мессенджерге ауыстыру қиынға соғуы мүмкін.</p>
+<p>Екіншіден, жаңа жүйені енгізу үшін компанияларға қосымша ақша мен уақыт керек. Оған қоса кейбір сарапшылар барлық жеке ақпараттың бір жерге жиналуы мемлекетке азаматтардың қаржы ақпаратын бақылауға мүмкіндік береді деп есептейді.</p>
+<p>Бұл бастама Президенттің тапсырмасы негізінде дайындалған. Әзірге банктерге бұл талап қойылған жоқ, олар өз қосымшаларын қолдана береді.</p>
+<p>Aitu мессенджерін BTS Digital компаниясы әзірлеген. Ашық дереккөзде компанияның иесі ретінде Phoenix Fund Limited Partnership қоры көрсетілген.</p>
+<p>Аталған қордың негізін қалаған үш құрылтайшы бар. Олар: &laquo;Қазақтелеком&raquo; АҚ, Олжас Өкеновке тиесілі Digital Opportunities I Limited пен Erg Investments Projects B.V. компаниялары.</p>
+<h2 class="wp-block-heading">Президент сыны</h2>
+<p>Үкіметтің 10 ақпандағы кеңейтілген отырысында&nbsp;<strong>Aitu</strong>&nbsp;мессенджері сөз болған. Жасанды интеллект және цифрлық даму министрі&nbsp;<strong>Жаслан</strong>&nbsp;<strong>Мәдиев</strong>&nbsp;отандық өнімді&nbsp;700 мың&nbsp;адам пайдаланады десе, оған күмәнданған президент&nbsp;<strong>Қасым-Жомарт Тоқаев</strong>&nbsp;мәліметтің дәлдігін тексеруді&nbsp;<a href="https://kz.kursiv.media/kk/2026-02-10/toqaev-ministr-maedievti-suraqtyng-astyna-aldy/" data-href="https://kz.kursiv.media/kk/2026-02-10/toqaev-ministr-maedievti-suraqtyng-astyna-aldy/?utm_source=in_materials">тапсырды</a>.</p>
+<p>Үкіметте көтерілген мәселе әлеуметтік желілерде талқыланып, министр Мәдиев мәліметі бірден әшкере болып қалды. Мәселен, бизнес сарапшы&nbsp;<strong>Алмас Қасымжанов&nbsp;</strong>App Store-да Aitu қосымшасы бір айда шамамен 10 мың, ал Google Play-де 5 мың рет&nbsp;<a title="жүктелгенін анықтады." href="https://kz.kursiv.media/kk/2026-02-11/aitu-messendzheri-toengireginde-ajnalghan-aqsha-kim-qansha-pajda-tauyp-otyr/" data-href="https://kz.kursiv.media/kk/2026-02-11/aitu-messendzheri-toengireginde-ajnalghan-aqsha-kim-qansha-pajda-tauyp-otyr/?utm_source=in_materials">жүктелгенін анықтады.</a></p>
+<p>&nbsp;</p>
+<p>Источник: kz.kursiv.media</p>
+</body>
+</html>0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","nav",null,{"className":"breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Главная"}]," / ",["$","$L2",null,{"href":"/articles","children":"Статьи"}]," /"," ","Қаржы ұйымдарына президент сынына ұшыраған Aitu-ды","…"]}],["$","h1",null,{"className":"page-title","children":"Қаржы ұйымдарына президент сынына ұшыраған Aitu-ды пайдалану міндеттеліп отыр ма"}],["$","time",null,{"dateTime":"2026-04-09","children":"9 апреля 2026 г."}],["$","$L3",null,{"html":"$4"}]]}],["$L5","$L6","$L7"],"$L8"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zM9lERO3SlzCY7qBjKejW"}
+5:["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true}]
+6:["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true}]
+7:["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true}]
+8:["$","$L9",null,{"children":["$","$a",null,{"name":"Next.MetadataOutlet","children":"$@b"}]}]
+b:null

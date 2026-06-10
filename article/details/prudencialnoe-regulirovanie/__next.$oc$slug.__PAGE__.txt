@@ -1,0 +1,55 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],""]
+3:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
+9:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+a:"$Sreact.suspense"
+4:T127d,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<div class="mce-toc">
+<ul>
+<li><a href="#mcetoc_1fnb9fpv11m">БАНКОВСКИЙ СЕКТОР</a></li>
+<li><a href="#mcetoc_1fnb9fpv11n">СТРАХОВОЙ СЕКТОР</a></li>
+<li><a href="#mcetoc_1fnb9fpv11o">РЫНОК ЦЕННЫХ БУМАГ</a></li>
+<li><a href="#mcetoc_1fnb9fpv11p">ОРГАНИЗАЦИИ ОСУЩЕСТВЛЯЮЩИЕ МИКРОФИНАНСОВУЮ ДЕЯТЕЛЬНОСТЬ</a></li>
+<li><a href="#mcetoc_1fnb9fpv11q">ПРОЧИЕ УЧАСТНИКИ ФИНАНСОВОГО РЫНКА</a></li>
+<li><a href="#mcetoc_1fnb9fpv11r">ДОКУМЕНТЫ МЕЖДУНАРОДНЫХ ОРГАНИЗАЦИЙ</a></li>
+</ul>
+</div>
+<p>Пруденциальными нормативами являются экономические ограничения, устанавливаемые Агентством Республики Казахстан по регулированию и развитию финансового рынка для финансовых организаций, филиалов банков-нерезидентов Республики Казахстан, филиалов страховых (перестраховочных) организаций-нерезидентов Республики Казахстан, филиалов страховых брокеров-нерезидентов Республики Казахстан в целях обеспечения их финансовой устойчивости и защиты интересов потребителей финансовых услуг.</p>
+<p>Подходы к пруденциальному регулированию определяются с учетом международных стандартов Базельского комитета по банковскому надзору, Международной ассоциации страховых надзоров, Международной организации пенсионных надзоров, Международной организации комиссий по ценным бумагам, Европейского Союза, Совета по исламским финансовым услугам.</p>
+<h3 id="mcetoc_1fnb9fpv11m">БАНКОВСКИЙ СЕКТОР</h3>
+<ul>
+<li><a href="https://www.gov.kz/memleket/entities/ardfm/press/article/details/22468?lang=ru">Пруденциальные нормативы банковского сектора</a></li>
+<li><a href="https://www.gov.kz/memleket/entities/ardfm/documents/1?activities=19996&amp;lang=ru">Документы по банковскому сектору</a></li>
+</ul>
+<h3 id="mcetoc_1fnb9fpv11n">СТРАХОВОЙ СЕКТОР</h3>
+<ul>
+<li><a href="https://www.gov.kz/memleket/entities/ardfm/press/article/details/22473?lang=ru">Пруденциальные нормативы страхового сектора</a></li>
+<li><a href="https://www.gov.kz/memleket/entities/ardfm/documents/1?activities=20006&amp;lang=ru">Документы по страховому сектору</a></li>
+</ul>
+<h3 id="mcetoc_1fnb9fpv11o">РЫНОК ЦЕННЫХ БУМАГ</h3>
+<ul>
+<li><a href="https://www.gov.kz/memleket/entities/ardfm/press/article/details/70663?lang=ru">Пруденциальные нормативы рынка ценных бумаг</a></li>
+<li><a href="https://www.gov.kz/memleket/entities/ardfm/documents/1?activities=20007&amp;lang=ru">Документы по сектору рынка ценных бумаг</a></li>
+</ul>
+<h3 id="mcetoc_1fnb9fpv11p">ОРГАНИЗАЦИИ ОСУЩЕСТВЛЯЮЩИЕ МИКРОФИНАНСОВУЮ ДЕЯТЕЛЬНОСТЬ</h3>
+<ul>
+<li><a href="https://www.gov.kz/memleket/entities/ardfm/press/article/details/22481?lang=ru">Пруденциальные нормативы микрофинансовых организаций</a></li>
+<li><a href="https://www.gov.kz/memleket/entities/ardfm/documents/1?activities=20008&amp;lang=ru">Прочие документы</a></li>
+</ul>
+<h3 id="mcetoc_1fnb9fpv11q">ПРОЧИЕ УЧАСТНИКИ ФИНАНСОВОГО РЫНКА</h3>
+<ul>
+<li><a href="https://www.gov.kz/memleket/entities/ardfm/press/article/details/22483?lang=ru">Пруденциальные нормативы прочих участников финансового рынка</a></li>
+<li><a href="https://www.gov.kz/memleket/entities/ardfm/documents/1?activities=20009&amp;lang=ru">Прочие документы</a></li>
+</ul>
+<h3 id="mcetoc_1fnb9fpv11r"><a href="https://www.gov.kz/memleket/entities/ardfm/press/article/1?activities=20010&amp;lang=ru">ДОКУМЕНТЫ МЕЖДУНАРОДНЫХ ОРГАНИЗАЦИЙ</a></h3>
+</body>
+</html>0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","nav",null,{"className":"breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Главная"}]," / ",["$","$L2",null,{"href":"/articles","children":"Статьи"}]," /"," ","Пруденциальное регулирование","…"]}],["$","h1",null,{"className":"page-title","children":"Пруденциальное регулирование"}],["$","time",null,{"dateTime":"2021-12-20","children":"20 декабря 2021 г."}],["$","$L3",null,{"html":"$4"}]]}],["$L5","$L6","$L7"],"$L8"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zM9lERO3SlzCY7qBjKejW"}
+5:["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true}]
+6:["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true}]
+7:["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true}]
+8:["$","$L9",null,{"children":["$","$a",null,{"name":"Next.MetadataOutlet","children":"$@b"}]}]
+b:null

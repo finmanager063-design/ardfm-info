@@ -1,0 +1,23 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],""]
+3:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
+5:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+4:Td7f,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<div class="description">Заместитель председателя Агентства РК по регулированию и развитию финансового рынка Мария Хаджиева на брифинге в СЦК рассказала, кто из казахстанцев и как может приобрести пенсионный аннуитет, сообщает корреспондент Zakon.kz.</div>
+<div>
+<p>Мария Хаджиева напомнила, что 12 июля 2022 года глава государства подписал<span>&nbsp;</span><a href="https://www.zakon.kz/6023236-kakie-izmeneniia-ozhidaiutsia-na-strakhovom-rynke.html" target="_blank" rel="0 noopener">закон<span>&nbsp;</span></a>"О внесении изменений и дополнений в некоторые законодательные акты Республики Казахстан по вопросам рынка ценных бумаг, страхового рынка и банковского сектора".</p>
+<blockquote>Новацией<span>&nbsp;</span><a href="https://online.zakon.kz/Document/?doc_id=38515909" target="_blank" rel="0 noopener">закона<span>&nbsp;</span></a>является внедрение совместного супружеского пенсионного аннуитета, который позволяет объединить пенсионные накопления либо супружеской пары, либо близких родственников и назначить каждому из них пожизненные выплаты по индивидуальному графику. На сегодняшний день порядка одного миллиона человек смогут воспользоваться данной опцией.<span>Зампредседателя Агентства РК по регулированию и развитию финансового рынка Мария Хаджиева</span></blockquote>
+<div>
+<div id="adfox_1658306227190546661981824152" class="mob_hide">&nbsp;</div>
+</div>
+<p>В пример она привела супружескую пару 55 лет, где у мужа накоплено более 11 млн тенге, а у жены &ndash; 5 млн тенге.</p>
+<blockquote>Минимальная стоимость пенсионного аннуитета с ежемесячной выплатой в размере 70% от величины прожиточного минимума для мужа составит 7,4 млн тенге, а для жены &ndash; 9,2 млн тенге. Соответственно, сумма накоплений жены недостаточна для заключения индивидуального договора пенсионного аннуитета. Но если они объединят пенсионные накопления, то каждый из супругов сможет получать пожизненные выплаты по графику. Мы надеемся, что это повысит сберегательные инициативы граждан и обеспечит дополнительные накопления каждому супругу к моменту выхода на пенсию</blockquote>
+</div>
+</body>
+</html>0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","nav",null,{"className":"breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Главная"}]," / ",["$","$L2",null,{"href":"/articles","children":"Статьи"}]," /"," ","Около миллиона казахстанцев смогут приобрести пенс","…"]}],["$","h1",null,{"className":"page-title","children":"Около миллиона казахстанцев смогут приобрести пенсионный аннуитет"}],["$","time",null,{"dateTime":"2022-09-29","children":"29 сентября 2022 г."}],["$","$L3",null,{"html":"$4"}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zM9lERO3SlzCY7qBjKejW"}
+7:null

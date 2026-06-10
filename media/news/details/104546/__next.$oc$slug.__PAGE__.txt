@@ -1,0 +1,44 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],""]
+3:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
+5:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+4:Tfdb,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<table style="height: 200px;" width="798" align="justify">
+<tbody>
+<tr>
+<td style="width: 347px;" align="center">
+<p><b>Приказ НБРК от 11апреля 2020 года № 105</b></p>
+</td>
+<td style="width: 116px;" align="center">
+<p>&nbsp;</p>
+</td>
+<td style="width: 313px;" align="center">
+<p><b>Приказ АРРФР от 11 апреля 2020 года № 183</b></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p align="justify"><strong>&nbsp;</strong></p>
+<p align="center"><strong>СОВМЕСТНЫЙ ПРИКАЗ</strong></p>
+<p align="center"><strong>О внесении изменения в совместный приказ Национального Банка </strong><strong>Республики Казахстан и Агентства Республики Казахстан </strong><strong>по регулированию и развитию финансового рынка </strong><strong>от 6 апреля 2020 года № 98 и №180</strong></p>
+<p align="justify"><strong>&nbsp;</strong></p>
+<p align="justify">В связи с продлением периода усиления режима карантина, введенного решением Государственной комиссии по обеспечению режима чрезвычайного положения при Президенте Республики Казахстан от 27 марта 2020 года, <strong>ПРИКАЗЫВАЕМ:</strong></p>
+<ol align="justify">
+<li>Внести в совместный приказ Национального Банка Республики Казахстан и Агентства Республики Казахстан по регулированию и развитию финансового рынка от 6 апреля 2020 года № 98 и №180 &laquo;О режиме работы субъектов финансового рынка&raquo; (далее &ndash; совместный приказ от 6 апреля <br />2020 года № 98 и №180) следующее изменение:</li>
+</ol>
+<p align="justify">абзац первый пункта 1 изложить в следующей редакции:</p>
+<p align="justify">&laquo;1. В период с 13 апреля по 19 апреля 2020 года в городах <br />Нур-Султане и Алматы:&raquo;.</p>
+<ol start="2">
+<li align="justify">Настоящий совместный приказ вступает в силу со дня его подписания.</li>
+<li align="justify">Департаменту наличного денежного обращения (Кажмуратову Ж.Т.) и Департаменту платежных систем (Ашыкбекову Е.Т.) Национального Банка Республики Казахстан и Департаменту банковского регулирования <br />(Кизатову О.Т.) и Департаменту рынка ценных бумаг Агентства Республики Казахстан по регулированию и развитию финансового рынка (Медеу Е.А.) довести настоящий совместный приказ до сведения субъектов, указанных в приложении 1 к совместному приказу от 6 апреля 2020 года № 98 и №180.</li>
+<li align="justify">Контроль за исполнением настоящего совместного приказа возложить на заместителя Председателя Национального Банка Республики Казахстан Галиеву Д.Т. и Первого заместителя Председателя Агентства Республики Казахстан по регулированию и развитию финансового рынка Смолякова О.А.</li>
+</ol>
+<p><strong>&nbsp;</strong></p>
+</body>
+</html>0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","nav",null,{"className":"breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Главная"}]," / ",["$","$L2",null,{"href":"/media/news","children":"Новости"}]," / Новость"]}],["$","h1",null,{"className":"page-title","children":"О внесении изменения в совместный приказ НБРК и Агентства"}],["$","time",null,{"dateTime":"2020-04-11T12:55:00Z","children":"11 апреля 2020 г."}],null,["$","$L3",null,{"html":"$4"}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zM9lERO3SlzCY7qBjKejW"}
+7:null

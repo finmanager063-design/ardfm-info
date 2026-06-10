@@ -1,0 +1,23 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],""]
+3:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
+5:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+4:Tccc,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<p>20 февраля 2023 года Агентством Республики Казахстан по регулированию и развитию финансового рынка (далее &ndash; Агентство) было принято постановление Правления Агентства &laquo;О внесении изменений в постановление Правления Национального Банка Республики Казахстан от 20 октября 2015 года № 194 &laquo;Об утверждении типового договора пенсионного аннуитета, установлении Методики расчета страховой премии и страховой выплаты из страховой организации по договору пенсионного аннуитета, допустимого уровня расходов страховой организации на ведение дела по заключаемым договорам пенсионного аннуитета, а также ставки индексации страховой выплаты&raquo; (далее &ndash; Постановление).</p>
+<p>Постановление разработано в целях повышения выплаты и снижения стоимости договора пенсионного аннуитета и предусматривает поправки в части:</p>
+<p>1) пересмотра отдельных параметров, используемых в расчетах страховой премии, а именно:</p>
+<p>-<span>&nbsp;</span><strong>повышения</strong><span>&nbsp;</span>минимального размера<span>&nbsp;</span><strong>ставки индексации</strong><span>&nbsp;</span>страховых выплат с<span>&nbsp;</span><strong>5</strong><span>&nbsp;</span>до<span>&nbsp;</span><strong>7%</strong>;</p>
+<p>-<span>&nbsp;</span><strong>повышения</strong><span>&nbsp;</span>максимального размера<span>&nbsp;</span><strong>ставки доходности</strong><span>&nbsp;</span>с<span>&nbsp;</span><strong>6</strong><span>&nbsp;</span>до<span>&nbsp;</span><strong>9%</strong>;&nbsp;</p>
+<p>2) возможности использования<span>&nbsp;</span><strong>отдельной таблицы</strong><span>&nbsp;</span>смертности для лиц с инвалидностью и работающих во вредных и опасных условиях труда.</p>
+<p>Постановление будет введено в действие после регистрации в Министерстве Юстиции Республики Казахстан и по истечении 10 календарных дней после дня его первого официального опубликования.</p>
+<p>&nbsp;</p>
+<p><strong>Управление внешних коммуникаций</strong></p>
+<p><strong>+7 (727) 237 1089,<span>&nbsp;</span></strong><a href="mailto:press@finreg.kz"><strong>press@finreg.kz</strong></a></p>
+</body>
+</html>0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","nav",null,{"className":"breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Главная"}]," / ",["$","$L2",null,{"href":"/articles","children":"Статьи"}]," /"," ","О внесении изменений в типовой договор пенсионного","…"]}],["$","h1",null,{"className":"page-title","children":"О внесении изменений в типовой договор пенсионного аннуитета и методики расчета страховой премии и страховой выплаты из страховой организации"}],["$","time",null,{"dateTime":"2023-02-27","children":"27 февраля 2023 г."}],["$","$L3",null,{"html":"$4"}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zM9lERO3SlzCY7qBjKejW"}
+7:null

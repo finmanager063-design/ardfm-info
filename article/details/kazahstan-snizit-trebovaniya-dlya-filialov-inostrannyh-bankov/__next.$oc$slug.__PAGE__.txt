@@ -1,0 +1,114 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],""]
+3:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
+9:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+a:"$Sreact.suspense"
+4:T2d51,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<div class="article__header">
+<div class="article__announce-text"><font size="3">В Казахстане на сегодня восемь банков с иностранным участием&nbsp;</font></div>
+</div>
+<div class="article__body">
+<div class="article__block" data-type="text">
+<div class="article__text"><font size="3">Мажилис одобрил в первом чтении законодательные поправки по вопросам развития финансового рынка и защиты прав потребителей финансовых услуг.</font></div>
+</div>
+<div class="article__block" data-type="text">
+<div class="article__text"><font size="3">Цель проекта - снижение административных барьеров для инвестиций в банковский сектор. В связи с этим, требования по открытию дочерних иностранных банков и их филиалов подвергнут либерализации. Будет сокращен перечень документов, подлежащих представлению банком-нерезидентом в уполномоченный орган.</font></div>
+</div>
+<div class="article__block" data-type="text">
+<div class="article__text"><font size="3">Кроме того, минимальную сумму совокупных активов иностранного банка планируют снизить с 20 до 10 миллиардов долларов. Решение о повышении порога до 20 миллиардов долларов было принято четыре года назад. Но за эти годы, по словам председателя агентства Республики Казахстан по регулированию и развитию финансового рынка Мадины Абылкасымовой, ни один банк с иностранным участием не открыл филиал в Казахстане.</font></div>
+<div>
+<div class="article__block" data-type="text">
+<div class="article__text"><font size="3">При этом, филиалам иностранных банков разрешат также оказывать услуги по привлечению депозитов физических лиц, выпуску платежных карточек, обменным операциям с иностранной валютой, синдицированному финансированию и другое.</font></div>
+</div>
+<div class="article__block" data-type="text">
+<div class="article__text"><font size="3">Депутат мажилиса Павел Казанцев спросил у Абылкасымовой, не приведут ли новые нормы к тому, что филиалы иностранных банков сконцентрируют свою деятельность на потребительском кредитовании населения, а не бизнеса. На что она ответила:</font></div>
+</div>
+<div class="article__block" data-type="quote">
+<div class="article__quote">
+<div class="article__quote-bg">
+<div class="article__quote-bg-line"><span style="font-size: medium; color: #3b4256;">&ldquo;С приходом иностранных банков мы ожидаем, что повысится конкуренция, предложение кредитных ресурсов и увеличится кредитование прежде всего малого и среднего бизнеса. Это основная задача, которую мы преследуем, привлекая на территорию Казахстана банки с иностранным участием&rdquo;, - ответила Мадина Абылкасымова.</span></div>
+</div>
+<div class="article__quote-info">
+<div class="elem-info">
+<div class="elem-info__share">
+<div class="share m-active" data-id="47866347" data-url="https://ru.sputnik.kz/20241016/trebovaniya-dlya-filialov-inostrannykh-bankov-47866347.html?share-block=47866353" data-title="&ldquo;С приходом иностранных банков мы ожидаем, что повысится конкуренция, предложение кредитных ресурсов и увеличится кредитование прежде всего малого и среднего бизнеса. Это основная задача, которую мы преследуем, привлекая на территорию Казахстана банки с иностранным участием&rdquo;, - ответила Мадина Абылкасымова. "><span style="font-size: medium;">По ее словам, в кредитном портфеле иностранных банков на территории республики порядка 79-80% всех кредитов выдано малому и среднему бизнесу.</span></div>
+<div data-id="47866347" data-url="https://ru.sputnik.kz/20241016/trebovaniya-dlya-filialov-inostrannykh-bankov-47866347.html?share-block=47866353" data-title="&ldquo;С приходом иностранных банков мы ожидаем, что повысится конкуренция, предложение кредитных ресурсов и увеличится кредитование прежде всего малого и среднего бизнеса. Это основная задача, которую мы преследуем, привлекая на территорию Казахстана банки с иностранным участием&rdquo;, - ответила Мадина Абылкасымова. ">&nbsp;</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="article__block" data-type="quote">
+<div class="article__quote">
+<div class="article__quote-bg">
+<div class="article__quote-bg-line"><span style="font-size: medium;">&ldquo;За исключением Home credit банка (Чехия) - бизнес модель данного банка направлена на розничное кредитование&rdquo;, - уточнила спикер.</span></div>
+</div>
+<div class="article__quote-info">
+<div class="elem-info">
+<div class="elem-info__share">
+<div class="share m-active" data-id="47866347" data-url="https://ru.sputnik.kz/20241016/trebovaniya-dlya-filialov-inostrannykh-bankov-47866347.html?share-block=47866355" data-title="&ldquo;За исключением Home credit банка (Чехия) - бизнес модель данного банка направлена на розничное кредитование&rdquo;, - уточнила спикер.  ">&nbsp;</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="article__block" data-type="text">
+<div class="article__text"><font size="3">На сегодня, добавила Абылкасымова, кредитование больших проектов идет напрямую через материнские компании. Это оформляется как внешний долг Казахстана или зарубежный займ.</font></div>
+</div>
+<div class="article__block" data-type="quote">
+<div class="article__quote">
+<div class="article__quote-bg">
+<div class="article__quote-bg-line"><span style="font-size: medium; color: #3b4256;">&ldquo;В связи с этим, Агенство создало условия для того чтобы банки могли кредитовать с баланса тех банков, которые представлены в республике&rdquo;, - сказала Мадина Абылкасымова.</span></div>
+</div>
+<div class="article__quote-info">
+<div class="elem-info">
+<div class="elem-info__share">
+<div class="share m-active" data-id="47866347" data-url="https://ru.sputnik.kz/20241016/trebovaniya-dlya-filialov-inostrannykh-bankov-47866347.html?share-block=47866357" data-title="&ldquo;В связи с этим, Агенство создало условия для того чтобы банки могли кредитовать с баланса тех банков, которые представлены в республике&rdquo;, - сказала мадина Абылкасымова.">&nbsp;</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="article__block" data-type="text">
+<div class="article__text"><font size="3">Ожидается ли дальнейшее снижение процентной ставки по кредитам в связи с приходом банков с иностранным участием и в связи с новыми нормами закона, спросил Казанцев у главы АРРФР РК.</font></div>
+</div>
+<div class="article__block" data-type="text">
+<div class="article__text"><font size="3">Мы рассчитываем на увеличение конкуренции между банками по предложению различных банковских ресурсов, ответила Абылкасымова. При этом, важным вопросом является базовая ставка.</font></div>
+</div>
+<div class="article__block" data-type="quote">
+<div class="article__quote">
+<div class="article__quote-bg">
+<div class="article__quote-bg-line">&nbsp;</div>
+</div>
+<div class="article__quote-text"><font size="3">&ldquo;Если кредиты выдаются в тенге, они будут ориентироваться на базовую ставку Нацбанка. Если кредиты будут выдаваться в другой валюте, то они будут ориентироваться на базовую ставку иностранного государства", - сказала Абылкасымова.</font></div>
+<div class="article__quote-info">
+<div class="elem-info">
+<div class="elem-info__share">
+<div class="share m-active" data-id="47866347" data-url="https://ru.sputnik.kz/20241016/trebovaniya-dlya-filialov-inostrannykh-bankov-47866347.html?share-block=47866360" data-title="&ldquo;Если кредиты выдаются в тенге, они будут ориентироваться на базовую ставку Нацбанка. Если кредиты будут выдаваться в другой валюте, то они будут ориентироваться на базовую ставку иностранного государства&quot;, - сказала Абылкасымова.">&nbsp;</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="article__block" data-type="text">
+<div class="article__text"><font size="3">Таким образом, председатель АРРФР РК ожидает, что определенное снижение ставок будет.</font></div>
+</div>
+<div class="article__block" data-type="text">
+<div class="article__text"><font size="3">На сегодня в Казахстане работает восемь банков с иностранным участием: три банка из Китая, по одному банку из Кореи, ОАЭ, России, Турции,</font> Чехии и США.</div>
+<div>&nbsp;</div>
+<div>Источник: Sputnik Kazakhstan</div>
+</div>
+</div>
+</div>
+</div>
+</body>
+</html>0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","nav",null,{"className":"breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Главная"}]," / ",["$","$L2",null,{"href":"/articles","children":"Статьи"}]," /"," ","Казахстан снизит требования для филиалов иностранн","…"]}],["$","h1",null,{"className":"page-title","children":"Казахстан снизит требования для филиалов иностранных банков"}],["$","time",null,{"dateTime":"2024-10-17","children":"17 октября 2024 г."}],["$","$L3",null,{"html":"$4"}]]}],["$L5","$L6","$L7"],"$L8"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zM9lERO3SlzCY7qBjKejW"}
+5:["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true}]
+6:["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true}]
+7:["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true}]
+8:["$","$L9",null,{"children":["$","$a",null,{"name":"Next.MetadataOutlet","children":"$@b"}]}]
+b:null

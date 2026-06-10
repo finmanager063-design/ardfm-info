@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-label="Consumer protection growth">
+  <rect width="640" height="360" rx="16" fill="#1a2744"/>
+  <text x="32" y="44" fill="#00AFCA" font-family="system-ui" font-size="22" font-weight="700">Consumer rights protection</text>
+  <path d="M40 280 L120 240 L200 200 L280 210 L360 150 L440 120 L520 90 L600 60" fill="none" stroke="#00AFCA" stroke-width="4"/>
+  <path d="M40 280 L120 240 L200 200 L280 210 L360 150 L440 120 L520 90 L600 60 L600 280 L40 280Z" fill="#00AFCA" opacity="0.2"/>
+  <text x="32" y="320" fill="#9aa8c7" font-size="13">2020 – 2025</text>
+</svg>

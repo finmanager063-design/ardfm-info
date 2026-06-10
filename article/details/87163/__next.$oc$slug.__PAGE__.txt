@@ -1,0 +1,80 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],""]
+3:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
+9:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+a:"$Sreact.suspense"
+4:T1544,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<p><strong>Результаты отбора в кадровый резерв</strong></p>
+<p>&nbsp;</p>
+<p>По итогам отбора в кадровый резерв Агентства Республики Казахстан по регулированию и развитию финансового рынка зачислены 52 кандидата.</p>
+<p>На этапе собеседования учитывались такие показатели, как уровень образования, степень готовности претендентов к занятию должности служащего Агентства Республики Казахстан по регулированию и развитию финансового рынка, личные компетенции и достижения участников, выбранное участником направление деятельности.</p>
+<p>&nbsp;</p>
+<p><strong>Список кандидатов, зачисленных в кадровый резерв Агентства Республики Казахстан по регулированию и развитию финансового рынка</strong></p>
+<p><strong>&nbsp;</strong></p>
+<ol>
+<li><strong>Әділбек Елнұр</strong></li>
+<li><strong>Абдрахманова Инкар Елнаровна</strong></li>
+<li><strong>Абилова Әйгерім Нұрланқызы</strong></li>
+<li><strong>Абилкасым Бахтияр Ерланулы</strong></li>
+<li><strong>Абраимов Рустам Александрович</strong></li>
+<li><strong>Аденов Канат Сеиттаевич</strong></li>
+<li><strong>Айтенова Айнажан Сайлауевна</strong></li>
+<li><strong>Акатаев Нурбол Нуртасович</strong></li>
+<li><strong>Акылбеков Ален Асхатулы</strong></li>
+<li><strong>Алдиярова Эльвира Есенгельдиевна</strong></li>
+<li><strong>Алимбекер Аес Хайрханұлы</strong></li>
+<li><strong>Алимова Динара Айтбаевна</strong></li>
+<li><strong>Аскарбек Мади</strong></li>
+<li><strong>Ахмедин Уалихан Нурланович</strong></li>
+<li><strong>Барлыкова Эльдана Абдихановна</strong></li>
+<li><strong>Батырбекова Динара Дархан</strong></li>
+<li><strong>Берекпаева Жанна&nbsp; Куанышбековна</strong></li>
+<li><strong>Бидайбек Мереке Нұрланқызы</strong></li>
+<li><strong>Бимолдан Мағжан Қайратұлы </strong></li>
+<li><strong>Бокашев Данияр Емилбайулы</strong></li>
+<li><strong>Василькова Кристина Викторовна</strong></li>
+<li><strong>Далабаев Ринат Сабырович</strong></li>
+<li><strong>Джатаева Сауле Сатывалдиевна</strong></li>
+<li><strong>Енсепов Адилет Жаилканович</strong></li>
+<li><strong>Жандосова Жанар Шалгинбаевна</strong></li>
+<li><strong>Кабылжанова Диана Калкажановна</strong></li>
+<li><strong>Карев Виктор Васильевич</strong></li>
+<li><strong>Келтай Алмат Болатұлы</strong></li>
+<li><strong>Ким Инна Эдуардовна</strong></li>
+<li><strong>Ким Ольга Георгиевна</strong></li>
+<li><strong>Коспаева Зейнеп Кайпбековна</strong></li>
+<li><strong>Кубашева Анджела Срымовна</strong></li>
+<li><strong>Молдагулова Динагуль Курмантасовна</strong></li>
+<li><strong>Насенов Данияр Сейдуллаевич</strong></li>
+<li><strong>Нуркасымов Дәулет Төлеуғазыұлы</strong></li>
+<li><strong>Оразханов Абылай Айтқалиұлы</strong></li>
+<li><strong>Парибаев Марлен Ахметович</strong></li>
+<li><strong>Рахимов Аскар Гинаятулы</strong></li>
+<li><strong>Саматқызы Мөлдір</strong></li>
+<li><strong>Сапаргалиев Дастан Кажимұханұлы</strong></li>
+<li><strong>Сахидулла Дәурен Маратұлы</strong></li>
+<li><strong>Серғали Шолпан Ержанқызы</strong></li>
+<li><strong>Сибилев Павел Ильич</strong></li>
+<li><strong>Смагулова Алтыншаш Абдыкадыровна</strong></li>
+<li><strong>Таңатаров Алишер Нурланұлы</strong></li>
+<li><strong>Таниртаев Маргулан Нурланович</strong></li>
+<li><strong>Ташенева Айжан Турсыновна</strong></li>
+<li><strong>Токтарбек Даурен</strong></li>
+<li><strong>Турдакынов Ернур Багдатович</strong></li>
+<li><strong>Турекулов Куаныш Махмудович</strong></li>
+<li><strong>Турыпбергенов Нурбек Ермекович</strong></li>
+<li><strong>Утепова Алия Нуржановна</strong></li>
+</ol>
+<p>Информацию по трудоустройству можно получить по телефонам 8 (727) 237-1228, 237-1236, 8 (727) 237-1235.</p>
+<p>&nbsp;</p>
+</body>
+</html>0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","nav",null,{"className":"breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Главная"}]," / ",["$","$L2",null,{"href":"/articles","children":"Статьи"}]," /"," ","Результаты отбора в кадровый резерв","…"]}],["$","h1",null,{"className":"page-title","children":"Результаты отбора в кадровый резерв"}],["$","time",null,{"dateTime":"2022-06-02","children":"2 июня 2022 г."}],["$","$L3",null,{"html":"$4"}]]}],["$L5","$L6","$L7"],"$L8"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zM9lERO3SlzCY7qBjKejW"}
+5:["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true}]
+6:["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true}]
+7:["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true}]
+8:["$","$L9",null,{"children":["$","$a",null,{"name":"Next.MetadataOutlet","children":"$@b"}]}]
+b:null

@@ -1,0 +1,38 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],""]
+3:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
+5:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+4:T988,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<p><strong>Агентством Республики Казахстан по регулированию и развитию финансового рынка были согласованы следующие руководящие работники&nbsp;страхового рынка:</strong></p>
+<p><strong>&nbsp;</strong></p>
+<ol>
+<li><strong>Турлыбекова Д. О. - Главный бухгалтер ТОО &laquo;СНГ Риск Консалтант Компани (страховые брокеры)&raquo; (Протокол №</strong> <strong>83/СО от 04.05.2021г.);</strong></li>
+</ol>
+<p><strong>&nbsp;</strong></p>
+<ol start="2">
+<li><strong>Джексембаев А. З. - Исполняющий обязанности Председателя Правления АО &laquo;Дочерняя компания Народного Банка Казахстана по страхованию жизни &laquo;Халык-Life&raquo; (Протокол № 84/СО от 14.05.2021г.);</strong></li>
+</ol>
+<p><strong>&nbsp;</strong></p>
+<ol start="3">
+<li><strong>Идрисова Н. И. &ndash; Председатель правления АО &laquo;Нефтяная страховая компания&raquo; (Протокол №</strong> <strong>85/СО от 14.05.2021г.);</strong></li>
+</ol>
+<p><strong>&nbsp;</strong></p>
+<ol start="4">
+<li><strong>Бектыбаева А. Е. - Заместитель Председателя Правления, член Правления АО &laquo;Экспортная страховая компания &laquo;KazakhExport&raquo; (Протокол №86/СО/Т от 24.05.2021г.);</strong></li>
+</ol>
+<p><strong>&nbsp;</strong></p>
+<ol start="5">
+<li><strong>Косбасаров Б. Е. - Финансовый директор АО &laquo;Компания по страхованию жизни &laquo;Freedom Finance Life&raquo; (Протокол № 87/СО/Т от 01.06.2021г.);</strong></li>
+</ol>
+<p>&nbsp;</p>
+<ol start="6">
+<li><strong>Беков А.С. - Заместитель Председателя Правления-член Правления АО &laquo;Дочерняя компания Народного Банка Казахстана по страхованию жизни &laquo;Халык-Life&raquo; (Протокол №82/СО/Т от 30.04.2021г.).</strong></li>
+</ol>
+</body>
+</html>0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","nav",null,{"className":"breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Главная"}]," / ",["$","$L2",null,{"href":"/media/news","children":"Новости"}]," / Новость"]}],["$","h1",null,{"className":"page-title","children":"Агентством согласованы руководящие работники страхового рынка"}],["$","time",null,{"dateTime":"2021-06-02T15:45:00Z","children":"2 июня 2021 г."}],null,["$","$L3",null,{"html":"$4"}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zM9lERO3SlzCY7qBjKejW"}
+7:null

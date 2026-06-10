@@ -1,0 +1,17 @@
+1:"$Sreact.fragment"
+2:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
+4:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+3:T967,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<p>Агентство Республики Казахстан по регулированию и развитию финансового рынка сообщает о принятии Правлением Агентства постановления №79 от 23 декабря 2025 года&nbsp;<strong>&laquo;</strong><strong>О введении особого режима регулирования деятельности на рынке ценных бумаг</strong><strong>&raquo;.</strong></p>
+<p>Постановление предусматривает введение особого режима регулирования для включения спотовых ETF (Exchange Traded Funds) на базе цифрового актива в официальный список ценных бумаг АО &laquo;Казахстанская фондовая биржа&raquo;.</p>
+<p>Постановление принято в соответствии со статьей 13-3 Закона Республики Казахстан от 4 июля 2003 года N 474-II &laquo;О государственном регулировании, контроле и надзоре финансового рынка и финансовых организаций&raquo; в целях внедрения новых услуг и развития финансового рынка для повышения степени удовлетворенности и соответствия интересам потребителей, субъектов предпринимательства и государства.</p>
+<p>Основными целевыми инвесторами в рамках особого режима регулирования будут профессиональные участники рынка ценных бумаг, институциональные инвесторы (банки и банковские конгломераты, инвестиционные фонды и т.д.) и квалифицированные частные инвесторы.</p>
+<p>С полным текстом документа можно ознакомиться на <a href="https://www.gov.kz/memleket/entities/ardfm/documents/details/943071?lang=ru">интернет-ресурсе Агентства</a>.</p>
+</body>
+</html>0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","h1",null,{"className":"page-title","children":"О введении особого режима регулирования деятельности на рынке ценных бумаг"}],["$","time",null,{"children":"29 декабря 2025 г."}],["$","$L2",null,{"html":"$3"}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zM9lERO3SlzCY7qBjKejW"}
+6:null

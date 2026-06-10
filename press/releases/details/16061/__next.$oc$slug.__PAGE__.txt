@@ -1,0 +1,18 @@
+1:"$Sreact.fragment"
+2:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
+4:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+3:T9f6,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<p>Агентством в реализацию проекта Закона Республики Казахстан &laquo;О банках и банковской деятельности в Республике Казахстан&raquo; разработан проект постановления Правления Агентства &laquo;Об утверждении Правил выдачи разрешения на добровольную реорганизацию банка (банковского холдинга) либо отказа в выдаче разрешения, в том числе условий добровольного преобразования банка в организацию, осуществляющую отдельные виды банковских операций, выдачи разрешения на конвертацию банка в исламский банк и отказа в выдаче разрешения, выдачи разрешения на добровольную ликвидацию банка, выдачи разрешения на добровольное прекращение деятельности филиала банка-нерезидента Республики Казахстан, а также порядка возврата депозитов физических лиц, их перевода в другой банк или филиал банка-нерезидента Республики Казахстан&raquo;.</p>
+<p>Проектом утверждается порядок выдачи разрешения на добровольную реорганизацию банка (банковского холдинга); добровольную ликвидацию банка; добровольное прекращение деятельности филиала банка-нерезидента Республики Казахстан.</p>
+<p>С полным текстом проекта постановления можно ознакомиться на интернет-портале &laquo;Открытые НПА&raquo; и <a href="https://www.gov.kz/memleket/entities/ardfm/documents/details/952739?lang=ru">на официальном интернет-ресурсе Агентства</a>.</p>
+<p>&nbsp;</p>
+<p><strong>Управление внешних коммуникаций </strong></p>
+<p><a href="mailto:press@finreg.kz"><strong>press@finreg.kz</strong></a></p>
+</body>
+</html>0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","h1",null,{"className":"page-title","children":"О правилах выдачи разрешения на добровольную реорганизацию банка (банковского холдинга), добровольную ликвидацию банка, добровольное прекращение деятельности филиала банка-нерезидента Республики Казахстан"}],["$","time",null,{"children":"15 января 2026 г."}],["$","$L2",null,{"html":"$3"}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zM9lERO3SlzCY7qBjKejW"}
+6:null

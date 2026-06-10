@@ -1,0 +1,21 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],""]
+3:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
+5:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+4:Tcc7,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<p>Правлением Агентства по регулированию и развитию финансового рынка принято постановление №75 от 20.04.2026г. <strong>&laquo;</strong><strong>Об утверждении условий и правил выпуска, размещения, оборота (обращения) и погашения цифровых финансовых активов, базовым активом которых выступают финансовые инструменты (в том числе ценные бумаги, включая производные ценные бумаги, производные финансовые инструменты, другой цифровой финансовый актив), финансовый актив, имущественные права (требования), товары и (или) иное имущество, за исключением денег, а также в виде финансовых инструментов, выпускаемых в электронно-цифровой форме на цифровой платформе оператора платформы цифровых финансовых активов</strong><strong>&raquo;</strong>.</p>
+<p>Проект разработан в рамках реализации подпункта 2) пункта 2 статьи 4 Закона Республики Казахстан &laquo;О цифровых активах в Республике Казахстан&raquo;.</p>
+<p>Проектом определяется порядок регистрации выпуска, размещения, обращения и погашения цифровых финансовых активов (ЦФА) в Республике Казахстан, а также устанавливаются основные положения, регулирующие выпуск ЦФА на платформе оператора.</p>
+<p>В частности, документом предусмотрен порядок регистрации выпуска ЦФА оператором платформы на основании документов эмитента. Кроме того, устанавливаются требования к содержанию условий выпуска в зависимости от формы размещения, включая состав раскрываемой информации об эмитенте и операторе платформы, параметры выпуска, порядок размещения, обращения и погашения ЦФА, права их держателей и основные риски, связанные с выпуском.</p>
+<p>С полным текстом документа можно ознакомиться на <a href="https://www.gov.kz/memleket/entities/ardfm/documents/details/1003922?lang=ru">сайте Агентства</a>.</p>
+<p>&nbsp;</p>
+<p><strong>Управление внешних коммуникаций</strong></p>
+<p><a href="mailto:press@finreg.kz"><strong>press@finreg.kz</strong></a></p>
+</body>
+</html>0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","nav",null,{"className":"breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Главная"}]," / ",["$","$L2",null,{"href":"/media/press","children":"Пресс-релизы"}]]}],["$","h1",null,{"className":"page-title","children":"О порядке выпуска, размещения, обращения и погашения цифровых финансовых активов"}],["$","time",null,{"children":"29 апреля 2026 г."}],"$undefined",["$","$L3",null,{"html":"$4"}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zM9lERO3SlzCY7qBjKejW"}
+7:null

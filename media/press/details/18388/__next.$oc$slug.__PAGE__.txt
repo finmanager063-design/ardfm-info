@@ -1,0 +1,22 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],""]
+3:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
+5:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+4:Tae1,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<p>Агентством по регулированию и развитию финансового рынка разработан проект постановления Правления Агентства <strong>&laquo;О внесении изменений и дополнений в постановления Правления Агентства Республики Казахстан по регулированию и развитию финансового рынка по вопросам регулирования финансового рынка и противодействия легализации (отмыванию) доходов, полученных преступным путем, финансированию терроризма и финансированию распространения оружия массового уничтожения на финансовом рынке&raquo;</strong>.</p>
+<p>Документ разработан <strong>в целях снижения избыточной регуляторной нагрузки на финансовые организации</strong>, а также приведения в соответствие с законодательными актами Республики Казахстан.</p>
+<p>Проект предусматривает применение банками риск-ориентированного подхода при мониторинге, изучении и анализе операций клиентов и оптимизации процедур открытия банковских счетов нерезидентам Республики Казахстан.</p>
+<p>Кроме того, проектом предусмотрены редакционные поправки, которые уточняют отдельные категории клиентов и пересмотр подходов к их оценке с учетом практики применения риск-ориентированного подхода, а также актуализация отдельных процедур, связанных с предоставлением финансовых услуг дистанционным способом.</p>
+<p>С полным текстом документа можно ознакомиться <a href="https://www.gov.kz/memleket/entities/ardfm/documents/details/1018609?lang=ru">на сайте Агентства</a>.</p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>Управление внешних коммуникаций</strong></p>
+<p><a href="mailto:press@finreg.kz"><strong>press@finreg.kz</strong></a></p>
+</body>
+</html>0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","nav",null,{"className":"breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Главная"}]," / ",["$","$L2",null,{"href":"/media/press","children":"Пресс-релизы"}]]}],["$","h1",null,{"className":"page-title","children":"О применении банками риск-ориентированного подхода при изучении операций клиентов и оптимизации процедур открытия банковских счетов нерезидентам"}],["$","time",null,{"children":"29 мая 2026 г."}],"$undefined",["$","$L3",null,{"html":"$4"}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zM9lERO3SlzCY7qBjKejW"}
+7:null

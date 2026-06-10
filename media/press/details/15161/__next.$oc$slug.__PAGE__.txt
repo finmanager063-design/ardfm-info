@@ -1,0 +1,22 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],""]
+3:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/033kw_a-86rax.js"],"GovHtmlContent"]
+5:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+4:Tc7b,<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<p>Агентство Республики Казахстан по регулированию и развитию финансового рынка напоминает заемщикам о порядке досрочного погашения кредитов.</p>
+<p>Досрочное погашение позволяет заемщику сократить переплату по процентам и ускорить исполнение долговых обязательств. Оно может быть <strong>полным</strong> &ndash; с закрытием всей задолженности, либо <strong>частичным</strong> &ndash; путем внесения суммы сверх установленного графика. При частичном погашении заемщики могут выбрать: уменьшение срока кредита при сохранении ежемесячного платежа либо снижение самого платежа при сохранении срока.</p>
+<p>Финансовые организации вправе устанавливать внутренний порядок досрочного погашения в рамках законодательства: минимальные суммы, сроки подачи заявлений и расчетные даты.</p>
+<p>Заемщикам рекомендуется заранее согласовать с банком способ перерасчета, порядок списания средств, особенности возврата страховых премий и процесс снятия обременения по ипотеке.</p>
+<p>Напомним, в целях усиления защиты прав потребителей финансовых услуг 31 августа 2025 года вступила в силу норма, согласно которой штрафные санкции за досрочное погашение будут применяться только к юридическим лицам. Физические лица могут погашать кредиты досрочно в любое время без уплаты неустоек. Эта норма распространяется на все договоры, включая ранее заключенные.</p>
+<p>Досрочные платежи уменьшают долговую нагрузку, укрепляют финансовую устойчивость и положительно отражаются на кредитной истории. Перед принятием решения о досрочном погашении заемщику важно оценить собственный финансовый резерв и возможные альтернативы использования свободных средств.</p>
+<p>&nbsp;</p>
+<p><strong>Управление внешних коммуникаций</strong></p>
+<p><strong><a href="mailto:press@finreg.kz">press@finreg.kz</a></strong></p>
+</body>
+</html>0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","nav",null,{"className":"breadcrumb","children":[["$","$L2",null,{"href":"/","children":"Главная"}]," / ",["$","$L2",null,{"href":"/media/press","children":"Пресс-релизы"}]]}],["$","h1",null,{"className":"page-title","children":"Отмена штрафов за досрочное погашение: что важно знать заемщикам"}],["$","time",null,{"children":"2 декабря 2025 г."}],"$undefined",["$","$L3",null,{"html":"$4"}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/033kw_a-86rax.js","async":true}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zM9lERO3SlzCY7qBjKejW"}
+7:null
