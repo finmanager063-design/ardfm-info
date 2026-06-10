@@ -1,44 +1,35 @@
 import type { Metadata } from "next";
 import { ShellWrapper } from "@/components/ShellWrapper";
 import { basePath } from "@/lib/base-path";
-import { getContent } from "@/lib/content";
 import "./globals.css";
-import "./regylz.css";
 import "./premium.css";
 
-const content = getContent();
-
-const siteUrl = process.env.NEXT_PUBLIC_SITE_URL
-  ?? (process.env.NEXT_PUBLIC_BASE_PATH === "/ardfm-info"
-    ? "https://finmanager063-design.github.io/ardfm-info"
-    : "http://localhost:3000");
+const siteUrl = process.env.NEXT_PUBLIC_SITE_URL ?? "https://payguard.kz";
 
 export const metadata: Metadata = {
   title: {
-    default: content.meta.entityTitle,
-    template: `%s | ${content.meta.entityShort}`,
+    default: "PayGuard — Проверка реквизитов и безопасный перевод",
+    template: "%s | PayGuard",
   },
   description:
-    "Агентство Республики Казахстан по регулированию и развитию финансового рынка (АРРФР): новости, документы, реестры лицензий и защита прав потребителей финансовых услуг",
+    "PayGuard — сервис проверки и безопасного сопровождения финансовых операций в Казахстане. Проверка ИИН, БИН, статуса выплат и верификация получателей.",
   metadataBase: new URL(siteUrl),
   keywords: [
-    "АРРФР",
-    "финансовый регулятор Казахстан",
-    "лицензии финансовых организаций",
-    "защита прав потребителей финансовых услуг",
-    "Агентство финансового рынка",
+    "PayGuard",
+    "проверка реквизитов",
+    "безопасный перевод",
+    "верификация получателя",
+    "проверка ИИН",
+    "проверка БИН",
+    "финансовая безопасность Казахстан",
   ],
   openGraph: {
     type: "website",
     locale: "ru_RU",
-    siteName: content.meta.entityShort,
-    title: content.meta.entityTitle,
+    siteName: "PayGuard",
+    title: "PayGuard — Проверка реквизитов и безопасный перевод",
     description:
-      "Агентство Республики Казахстан по регулированию и развитию финансового рынка",
-  },
-  verification: {
-    google: "google-site-verification-code",
-    yandex: "yandex-verification-code",
+      "Сервис проверки и безопасного сопровождения финансовых операций в Казахстане",
   },
   manifest: `${basePath}/manifest.json`,
   icons: {
@@ -49,33 +40,32 @@ export const metadata: Metadata = {
 
 const jsonLd = {
   "@context": "https://schema.org",
-  "@type": "GovernmentOrganization",
-  name: content.meta.entityTitle,
-  alternateName: content.meta.entityShort,
+  "@type": "Organization",
+  name: "PayGuard",
+  alternateName: "PayGuard.kz",
   description:
-    "Агентство Республики Казахстан по регулированию и развитию финансового рынка — государственный орган, осуществляющий регулирование и надзор на финансовом рынке",
+    "Сервис проверки и безопасного сопровождения финансовых операций в Казахстане",
   url: siteUrl,
   address: {
     "@type": "PostalAddress",
     addressCountry: "KZ",
-    addressLocality: "Астана",
-    streetAddress: "проспект Мәңгілік Ел, 20а",
-    postalCode: "010000",
+    addressLocality: "Алматы",
+    streetAddress: "ул. Жибек Жолы, 135",
+    postalCode: "050000",
   },
-  telephone: "+7-7172-79-00-00",
-  image: `${siteUrl}/images/og-image.jpg`,
+  contactPoint: {
+    "@type": "ContactPoint",
+    contactType: "customer support",
+    url: "https://t.me/payguard_support_bot",
+    availableLanguage: ["Russian", "Kazakh", "English"],
+  },
   knowsAbout: [
-    "Регулирование финансового рынка",
-    "Банковский надзор",
-    "Страховой надзор",
-    "Рынок ценных бумаг",
-    "Микрофинансовые организации",
-    "Защита прав потребителей финансовых услуг",
+    "Проверка реквизитов",
+    "Верификация получателей",
+    "Безопасные переводы",
+    "Проверка ИИН/БИН",
+    "Финансовая безопасность",
   ],
-  parentOrganization: {
-    "@type": "GovernmentOrganization",
-    name: "Правительство Республики Казахстан",
-  },
 };
 
 export default function RootLayout({
@@ -99,7 +89,7 @@ export default function RootLayout({
         />
       </head>
       <body>
-        <ShellWrapper meta={content.meta}>{children}</ShellWrapper>
+        <ShellWrapper>{children}</ShellWrapper>
       </body>
     </html>
   );

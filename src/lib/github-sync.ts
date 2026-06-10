@@ -13,7 +13,7 @@ const CONFIG_KEY = "regylz-github-config";
 
 export const DEFAULT_GITHUB_CONFIG: Omit<GitHubRepoConfig, "token"> = {
   owner: "finmanager063-design",
-  repo: "ardfm-info",
+  repo: "payguard",
   branch: "main",
   path: "public/data.json",
 };

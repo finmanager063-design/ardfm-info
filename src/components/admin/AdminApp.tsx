@@ -60,7 +60,7 @@ export function AdminApp() {
               🔐
             </div>
             <h1 className="text-2xl font-bold text-white">Служебный доступ</h1>
-            <p className="text-white/40 text-sm mt-1">Панель управления АРРФР</p>
+            <p className="text-white/40 text-sm mt-1">Панель управления PayGuard</p>
           </div>
           <form onSubmit={onLogin} className="space-y-4">
             <div>
@@ -92,8 +92,8 @@ export function AdminApp() {
           <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/></svg>
         </button>
         <div className="flex items-center gap-2.5 flex-1">
-          <div className="w-7 h-7 rounded-lg bg-gradient-to-br from-premium-gold to-amber-500 flex items-center justify-center text-premium-navy-900 text-xs font-bold">АР</div>
-          <span className="text-white/80 text-sm font-medium hidden sm:block">АРРФР — Панель управления</span>
+          <div className="w-7 h-7 rounded-lg bg-gradient-to-br from-premium-gold to-amber-500 flex items-center justify-center text-premium-navy-900 text-xs font-bold">PG</div>
+          <span className="text-white/80 text-sm font-medium hidden sm:block">PayGuard — Панель управления</span>
         </div>
         <div className="flex items-center gap-3">
           <Link href="/" className="text-white/40 hover:text-white/70 text-xs transition-colors">На сайт</Link>

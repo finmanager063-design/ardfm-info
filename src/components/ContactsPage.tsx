@@ -1,6 +1,4 @@
-import type { CSSProperties } from "react";
 import Link from "next/link";
-import { KzSiteBanner } from "@/components/KzSiteBanner";
 import { Reveal } from "@/components/motion/Reveal";
 import {
   AGENCY_ADDRESS,
@@ -10,245 +8,145 @@ import {
   CONTACT_STEPS,
   MAP_EMBED,
 } from "@/lib/contacts-data";
-import { getSiteContacts } from "@/lib/contacts";
-import { mediaSrc, KZ_IMAGES } from "@/lib/site-media";
-import { GovImage } from "@/components/GovImage";
+
+function ShieldIcon() {
+  return (
+    <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="#00C853" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round">
+      <path d="M12 2l7 4v5c0 5-3.5 9.7-7 11-3.5-1.3-7-6-7-11V6l7-4z" />
+      <path d="M9 12l2 2 4-4" />
+    </svg>
+  );
+}
 
 export function ContactsPage() {
-  const { telegram } = getSiteContacts();
-
   return (
-    <div className="contacts-page">
-      <KzSiteBanner />
-
-      <nav className="breadcrumb">
-        <Link href="/">Главная</Link> / Контакты
-      </nav>
-
-      <Reveal direction="up">
-      <header className="contacts-hero motion-gradient-bg">
-        <div className="contacts-hero__text">
-          <p className="contacts-hero__badge">Государственные услуги · АРРФР</p>
-          <h1 className="contacts-hero__title">Контакты и обращения</h1>
-          <p className="contacts-hero__lead">
-            Агентство Республики Казахстан по регулированию и развитию финансового рынка.
-            Приём обращений граждан и организаций — через официальный Telegram-бот.
-          </p>
-          <div className="contacts-hero__actions">
-            <a
-              href={telegram.url}
-              className="btn contacts-hero__btn-primary"
-              target="_blank"
-              rel="noreferrer"
-            >
-              Написать в {telegram.handle}
-            </a>
-            <Link href="/about/faq" className="btn btn--outline contacts-hero__btn-secondary">
-              Частые вопросы
-            </Link>
-          </div>
-        </div>
-        <div className="contacts-hero__visual" aria-hidden="true">
-          <GovImage
-            src={mediaSrc(KZ_IMAGES.astanaBanner)}
-            alt=""
-            className="contacts-hero__img"
-            loading="eager"
-          />
-        </div>
-      </header>
-      </Reveal>
-
-      <Reveal direction="up" delay={80}>
-      <section className="contacts-services" aria-label="Виды обращений">
-        <h2 className="contacts-section-title">Электронные услуги и темы обращений</h2>
-        <Reveal stagger className="contacts-services__grid" delay={100}>
-          {CONTACT_SERVICES.map((s, i) => (
-            <article
-              key={s.title}
-              className="contacts-service-card"
-              style={{ "--stagger-i": i } as CSSProperties}
-            >
-              <span className="contacts-service-card__icon" aria-hidden="true">
-                {s.icon}
-              </span>
-              <h3>{s.title}</h3>
-              <p>{s.text}</p>
-              {"internal" in s && s.internal ? (
-                <Link href={s.href} className="contacts-service-card__link">
-                  Перейти →
-                </Link>
-              ) : (
-                <a
-                  href={s.href}
-                  className="contacts-service-card__link"
-                  target="_blank"
-                  rel="noreferrer"
-                >
-                  Через бот →
-                </a>
-              )}
-            </article>
-          ))}
-        </Reveal>
-      </section>
-      </Reveal>
-
-      <Reveal direction="up" delay={100}>
-      <div className="contacts-main-grid">
-        <section className="contacts-panel contacts-panel--primary">
-          <h2 className="contacts-panel__title">Обращения через Telegram</h2>
-          <p className="contacts-panel__subtitle">
-            Единый канал для жалоб и заявлений — бот{" "}
-            <strong>{telegram.handle}</strong>
-          </p>
-          <div className="contacts-bot-card">
-            <div className="contacts-bot-card__icon" aria-hidden="true">
-              <span>Telegram</span>
+    <div>
+      {/* Hero */}
+      <section className="relative bg-premium-navy-900 py-16 sm:py-20 overflow-hidden">
+        <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_top,_rgba(0,200,83,0.06)_0%,_transparent_60%)]" />
+        <div className="premium-container relative text-center">
+          <Reveal direction="up">
+            <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-green-500/10 border border-green-500/20 text-green-400 text-sm mb-4">
+              <span className="w-2 h-2 rounded-full bg-green-400 animate-pulse" />
+              Свяжитесь с нами
             </div>
-            <ul className="contacts-bot-card__features">
-              <li>Приём обращений 24/7</li>
-              <li>Жалобы на банки, страховщиков, МФО</li>
-              <li>Сообщения о мошенничестве</li>
-              <li>Проверка статуса рассмотрения обращения</li>
-            </ul>
-            <a
-              href={telegram.url}
-              className="btn contacts-bot-card__btn"
-              target="_blank"
-              rel="noreferrer"
-            >
-              Открыть {telegram.handle}
-            </a>
-            <p className="contacts-bot-card__url">
-              <a href={telegram.url} target="_blank" rel="noreferrer">
-                {telegram.url}
-              </a>
+            <h1 className="text-3xl sm:text-4xl font-bold text-white mb-3">Контакты</h1>
+            <p className="text-white/60 max-w-lg mx-auto">
+              Мы здесь, чтобы помочь с проверкой реквизитов и безопасным сопровождением ваших финансовых операций
             </p>
-          </div>
-        </section>
+          </Reveal>
+        </div>
+      </section>
 
-        <aside className="contacts-aside">
-          <section className="contacts-panel">
-            <h2 className="contacts-panel__title">Каналы связи</h2>
-            <ul className="contacts-channels">
-              {CONTACT_CHANNELS.map((ch) => (
-                <li
-                  key={ch.id}
-                  className={"primary" in ch && ch.primary ? "contacts-channels__item--primary" : ""}
-                >
-                  <span className="contacts-channels__icon" aria-hidden="true">
-                    {ch.icon}
-                  </span>
+      <div className="premium-container py-10">
+        <Reveal direction="up">
+          <section className="mb-10">
+            <h2 className="text-xl font-bold text-premium-navy-800 mb-4">Электронные услуги</h2>
+            <div className="grid sm:grid-cols-2 gap-4">
+              {CONTACT_SERVICES.map((s, i) => (
+                <div key={s.title} className="premium-card p-5 flex items-start gap-4">
+                  <span className="text-2xl shrink-0">{s.icon}</span>
                   <div>
-                    <span className="contacts-channels__label">{ch.title}</span>
-                    <a
-                      href={ch.href}
-                      className="contacts-channels__value"
-target={ch.id === "telegram" || ch.id === "web" ? "_blank" : undefined}
-              rel={ch.id === "telegram" || ch.id === "web" ? "noreferrer" : undefined}
-                    >
-                      {ch.value}
-                    </a>
-                    <span className="contacts-channels__note">{ch.note}</span>
+                    <h3 className="font-semibold text-premium-navy-800 mb-1">{s.title}</h3>
+                    <p className="text-sm text-premium-text-secondary mb-2">{s.text}</p>
+                    {"internal" in s && s.internal ? (
+                      <Link href={s.href} className="text-green-600 text-sm font-medium hover:underline">Перейти →</Link>
+                    ) : (
+                      <a href={s.href} className="text-green-600 text-sm font-medium hover:underline" target="_blank" rel="noreferrer">Через бот →</a>
+                    )}
                   </div>
+                </div>
+              ))}
+            </div>
+          </section>
+        </Reveal>
+
+        <div className="grid md:grid-cols-2 gap-6 mb-10">
+          <Reveal direction="up">
+            <section className="premium-card p-6">
+              <h2 className="text-xl font-bold text-premium-navy-800 mb-4">Каналы связи</h2>
+              <ul className="space-y-3">
+                {CONTACT_CHANNELS.map((ch) => (
+                  <li key={ch.id} className="flex items-start gap-3">
+                    <span className="text-lg">{ch.icon}</span>
+                    <div>
+                      <div className="font-medium text-premium-navy-800 text-sm">{ch.title}</div>
+                      <a href={ch.href} target={ch.id === "telegram" || ch.id === "email" ? "_blank" : undefined} rel="noreferrer" className="text-green-600 text-sm font-medium hover:underline">
+                        {ch.value}
+                      </a>
+                      <div className="text-xs text-premium-text-secondary">{ch.note}</div>
+                    </div>
+                  </li>
+                ))}
+              </ul>
+            </section>
+          </Reveal>
+
+          <Reveal direction="up" delay={80}>
+            <section className="premium-card p-6">
+              <h2 className="text-xl font-bold text-premium-navy-800 mb-4">Адрес</h2>
+              <address className="not-italic text-sm text-premium-text-secondary mb-4">
+                <strong className="text-premium-navy-800">PayGuard</strong><br />
+                {AGENCY_ADDRESS.zip}, {AGENCY_ADDRESS.city}<br />
+                {AGENCY_ADDRESS.street}<br />
+                {AGENCY_ADDRESS.country}
+              </address>
+              <div className="rounded-xl overflow-hidden border border-premium-border">
+                <iframe
+                  title="Карта — г. Алматы"
+                  src={MAP_EMBED}
+                  width="100%"
+                  height="180"
+                  loading="lazy"
+                  referrerPolicy="no-referrer-when-downgrade"
+                  style={{ border: 0 }}
+                />
+              </div>
+            </section>
+          </Reveal>
+        </div>
+
+        <Reveal direction="up" delay={100}>
+          <section className="premium-card p-6">
+            <h2 className="text-xl font-bold text-premium-navy-800 mb-4">Режим работы</h2>
+            <div className="grid sm:grid-cols-3 gap-4 text-sm">
+              <div>
+                <div className="text-premium-text-secondary">Приём обращений</div>
+                <div className="font-medium text-premium-navy-800">{AGENCY_SCHEDULE.reception}</div>
+              </div>
+              <div>
+                <div className="text-premium-text-secondary">Перерыв</div>
+                <div className="font-medium text-premium-navy-800">{AGENCY_SCHEDULE.break}</div>
+              </div>
+              <div>
+                <div className="text-premium-text-secondary">Telegram-бот</div>
+                <div className="font-medium text-premium-navy-800">
+                  <a href="https://t.me/payguard_support_bot" target="_blank" rel="noreferrer" className="text-green-600 hover:underline">
+                    {AGENCY_SCHEDULE.online}
+                  </a>
+                </div>
+              </div>
+            </div>
+          </section>
+        </Reveal>
+
+        <Reveal direction="up" delay={120}>
+          <section className="mt-10">
+            <h2 className="text-xl font-bold text-premium-navy-800 mb-4">Как направить обращение</h2>
+            <ol className="grid sm:grid-cols-2 lg:grid-cols-4 gap-4">
+              {CONTACT_STEPS.map((step) => (
+                <li key={step.num} className="premium-card p-5">
+                  <span className="w-8 h-8 rounded-full bg-green-500 text-white text-sm font-bold flex items-center justify-center mb-3">
+                    {step.num}
+                  </span>
+                  <h3 className="font-semibold text-premium-navy-800 text-sm mb-1">{step.title}</h3>
+                  <p className="text-xs text-premium-text-secondary">{step.text}</p>
                 </li>
               ))}
-            </ul>
+            </ol>
           </section>
-
-          <section className="contacts-panel">
-            <h2 className="contacts-panel__title">Адрес</h2>
-            <address className="contacts-address">
-              <strong>АРРФР</strong>
-              <br />
-              {AGENCY_ADDRESS.zip}, {AGENCY_ADDRESS.city}
-              <br />
-              {AGENCY_ADDRESS.street}
-              <br />
-              {AGENCY_ADDRESS.country}
-            </address>
-            <div className="contacts-map">
-              <iframe
-                title="Карта — г. Астана, район расположения АРРФР"
-                src={MAP_EMBED}
-                loading="lazy"
-                referrerPolicy="no-referrer-when-downgrade"
-              />
-            </div>
-          </section>
-
-          <section className="contacts-panel">
-            <h2 className="contacts-panel__title">Режим работы</h2>
-            <table className="ardfm-table contacts-schedule">
-              <tbody>
-                <tr>
-                  <th scope="row">Приём документов</th>
-                  <td>{AGENCY_SCHEDULE.reception}</td>
-                </tr>
-                <tr>
-                  <th scope="row">Обед</th>
-                  <td>{AGENCY_SCHEDULE.break}</td>
-                </tr>
-                <tr>
-                  <th scope="row">Telegram-бот</th>
-                  <td>
-                    <a href={telegram.url} target="_blank" rel="noreferrer">
-                      {AGENCY_SCHEDULE.online}
-                    </a>
-                  </td>
-                </tr>
-              </tbody>
-            </table>
-          </section>
-        </aside>
-      </div>
-      </Reveal>
-
-      <Reveal direction="up" delay={120}>
-      <section className="contacts-steps-section" aria-label="Как подать обращение">
-        <h2 className="contacts-section-title">Как направить обращение через бот</h2>
-        <Reveal as="ol" stagger className="contacts-steps-cards" delay={140}>
-          {CONTACT_STEPS.map((step, i) => (
-            <li
-              key={step.num}
-              className="contacts-step-card"
-              style={{ "--stagger-i": i } as CSSProperties}
-            >
-              <span className="contacts-step-card__num">{step.num}</span>
-              <h3>{step.title}</h3>
-              <p>{step.text}</p>
-            </li>
-          ))}
         </Reveal>
-      </section>
-      </Reveal>
-
-      <Reveal direction="up">
-      <section className="ardfm-section contacts-links-block">
-        <h2>Полезные разделы</h2>
-        <ul className="ardfm-quick-links">
-          <li>
-            <Link href="/about">Об Агентстве</Link>
-          </li>
-          <li>
-            <Link href="/about/faq">Часто задаваемые вопросы</Link>
-          </li>
-          <li>
-            <Link href="/documents/1">Нормативные документы</Link>
-          </li>
-          <li>
-            <Link href="/activities/directions">Направления деятельности</Link>
-          </li>
-          <li>
-            <Link href="/press/news">Пресс-центр</Link>
-          </li>
-          <li>
-            <Link href="/">Официальный сайт Агентства</Link>
-          </li>
-        </ul>
-      </section>
-      </Reveal>
+      </div>
     </div>
   );
 }

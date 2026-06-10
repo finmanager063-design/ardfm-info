@@ -193,10 +193,10 @@ export function AdminPayoutsPage() {
         </form>
       </section>
 
-      <section className="ardfm-section">
+      <section className="pg-section">
         <h2>Пользовательские записи</h2>
         <div className="payout-table-wrap">
-          <table className="ardfm-table payout-table">
+          <table className="pg-table payout-table">
             <thead>
               <tr>
                 <th>Дело</th>

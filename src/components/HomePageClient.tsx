@@ -3,18 +3,13 @@
 import Link from 'next/link'
 import { motion, useScroll, useTransform } from 'framer-motion'
 import { useEffect, useRef, useState } from 'react'
-import type { GovNews, GovProject, SiteContent } from '@/lib/types'
-import { getDiversePhoto } from '@/lib/photo-pool'
-import { HOME_IMPORTANT_LINKS } from '@/lib/home-data'
-import { getMakarovArticle } from '@/lib/featured-articles'
-import { MAKAROV_ARTICLE_HREF, MAKAROV_AWARD_IMAGE } from '@/lib/makarov-media'
 
 function formatDate(dateStr: string): string {
   try { return new Date(dateStr).toLocaleDateString('ru-RU', { year: 'numeric', month: 'long', day: 'numeric' }) }
   catch { return dateStr }
 }
 
-function CounterDisplay({ to }: { to: number }) {
+function CounterDisplay({ to, suffix = '' }: { to: number; suffix?: string }) {
   const [count, setCount] = useState(0)
   const ref = useRef<HTMLSpanElement>(null)
   const triggered = useRef(false)
@@ -41,7 +36,7 @@ function CounterDisplay({ to }: { to: number }) {
     return () => observer.disconnect()
   }, [to])
 
-  return <span ref={ref}>{count.toLocaleString('ru-RU')}</span>
+  return <span ref={ref}>{count.toLocaleString('ru-RU')}{suffix}</span>
 }
 
 const fadeUp = {
@@ -52,213 +47,111 @@ const fadeUp = {
 const stagger = { hidden: {}, visible: { transition: { staggerChildren: 0.1 } } }
 
 const services = [
-  { icon: '📋', title: 'Проверить лицензию', desc: 'Поиск в реестре лицензированных финансовых организаций', href: '/financial-organizations' },
-  { icon: '🛡️', title: 'Подать обращение', desc: 'Отправить жалобу через Telegram-бот', href: 'https://t.me/finance_regulator_bot' },
-  { icon: '⚠️', title: 'Сообщить о мошенничестве', desc: 'Информация о нелегальной деятельности и финансовых пирамидах', href: '/consumer-protection' },
-  { icon: '📄', title: 'Документы Агентства', desc: 'Нормативные правовые акты и проекты документов', href: '/documents/1' },
-  { icon: '💬', title: 'Часто задаваемые вопросы', desc: 'Ответы на популярные вопросы о финансовом рынке', href: '/about/faq' },
-  { icon: '📊', title: 'Финансовая грамотность', desc: 'Образовательные материалы и программы', href: '/activities/directions' },
+  { icon: '🛡️', title: 'Проверка реквизитов', desc: 'Узнайте статус получателя по ИИН, БИН или номеру дела', href: '/client-payouts' },
+  { icon: '🔍', title: 'Верификация сделки', desc: 'Проверьте контрагента перед переводом', href: '/client-payouts' },
+  { icon: '✅', title: 'Безопасный перевод', desc: 'Пошаговая инструкция после подтверждения', href: '/about' },
+  { icon: '💬', title: 'Чат с поддержкой', desc: 'Ответы на вопросы через Telegram-бота', href: 'https://t.me/payguard_support_bot' },
 ]
 
-export function HomePageClient({ allNews, projects, meta }: { allNews: GovNews[]; projects: GovProject[]; meta: SiteContent['meta'] }) {
+const features = [
+  { icon: '⚡', title: 'Мгновенно', desc: 'Результат проверки за секунды' },
+  { icon: '🔒', title: 'Безопасно', desc: 'Шифрование данных, никакой утечки' },
+  { icon: '📱', title: 'Доступно', desc: 'Работает в браузере и Telegram' },
+  { icon: '🎯', title: 'Точно', desc: 'Актуальные данные из официальных источников' },
+]
+
+export function HomePageClient() {
   const { scrollYProgress } = useScroll()
   const heroOpacity = useTransform(scrollYProgress, [0, 0.15], [1, 0])
   const heroScale = useTransform(scrollYProgress, [0, 0.15], [1, 0.98])
-
-  const makarovArticle = getMakarovArticle()
-  const banners = projects.filter(p => p.icon || p.heropic).slice(0, 6)
+  const [iin, setIin] = useState('')
 
   return (
     <div className="premium-root">
       {/* Hero */}
-      <motion.section style={{ opacity: heroOpacity, scale: heroScale }} className="relative min-h-[90vh] flex items-center bg-premium-navy-900 overflow-hidden">
-        <div className="absolute inset-0">
-          <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_top,_rgba(212,175,55,0.08)_0%,_transparent_60%)]" />
-          <div className="absolute inset-0 opacity-[0.015]" style={{ backgroundImage: 'url("data:image/svg+xml,%3Csvg width=\'60\' height=\'60\' viewBox=\'0 0 60 60\' xmlns=\'http://www.w3.org/2000/svg\'%3E%3Cg fill=\'none\' fill-rule=\'evenodd\'%3E%3Cg fill=\'%23ffffff\'%3E%3Cpath d=\'M36 34v-4h-2v4h-4v2h4v4h2v-4h4v-2h-4zm0-30V0h-2v4h-4v2h4v4h2V6h4V4h-4zM6 34v-4H4v4H0v2h4v4h2v-4h4v-2H6zM6 4V0H4v4H0v2h4v4h2V6h4V4H6z\'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E")' }} />
-        </div>
+      <motion.section style={{ opacity: heroOpacity, scale: heroScale }} className="relative min-h-[85vh] flex items-center bg-premium-navy-900 overflow-hidden">
+        <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_top,_rgba(0,200,83,0.06)_0%,_transparent_60%)]" />
+        <div className="absolute inset-0 opacity-[0.02]" style={{ backgroundImage: 'url("data:image/svg+xml,%3Csvg width=\'60\' height=\'60\' viewBox=\'0 0 60 60\' xmlns=\'http://www.w3.org/2000/svg\'%3E%3Cg fill=\'none\' fill-rule=\'evenodd\'%3E%3Cg fill=\'%23ffffff\'%3E%3Cpath d=\'M36 34v-4h-2v4h-4v2h4v4h2v-4h4v-2h-4zm0-30V0h-2v4h-4v2h4v4h2V6h4V4h-4zM6 34v-4H4v4H0v2h4v4h2v-4h4v-2H6zM6 4V0H4v4H0v2h4v4h2V6h4V4H6z\'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E")' }} />
 
         <div className="premium-container relative pt-28 pb-16 w-full">
-          <motion.div variants={stagger} initial="hidden" animate="visible" className="grid lg:grid-cols-2 gap-10 items-center">
-            <div>
-              <motion.div variants={fadeUp} className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-premium-gold/10 border border-premium-gold/20 text-premium-gold text-sm mb-6">
-                <span className="w-2 h-2 rounded-full bg-premium-gold animate-pulse" />
-                Агентство финансового рынка
-              </motion.div>
+          <motion.div variants={stagger} initial="hidden" animate="visible" className="max-w-3xl mx-auto text-center">
+            <motion.div variants={fadeUp} className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-green-500/10 border border-green-500/20 text-green-400 text-sm mb-6">
+              <span className="w-2 h-2 rounded-full bg-green-400 animate-pulse" />
+              Сервис проверки финансовых операций
+            </motion.div>
 
-              <motion.h1 variants={fadeUp} className="text-[clamp(2rem,5vw,3.5rem)] font-bold text-white leading-[1.08] tracking-tight mb-4">
-                Защита ваших
-                <span className="text-premium-gold block mt-1">финансов</span>
-              </motion.h1>
+            <motion.h1 variants={fadeUp} className="text-[clamp(2rem,5vw,3.5rem)] font-bold text-white leading-[1.08] tracking-tight mb-4">
+              Проверка реквизитов и
+              <span className="text-green-400 block mt-1">безопасный перевод средств</span>
+            </motion.h1>
 
-              <motion.p variants={fadeUp} className="text-base sm:text-lg text-white/60 leading-relaxed max-w-lg mb-6">
-                Агентство Республики Казахстан по регулированию и развитию финансового рынка
-              </motion.p>
+            <motion.p variants={fadeUp} className="text-base sm:text-lg text-white/60 leading-relaxed max-w-2xl mx-auto mb-8">
+              Узнайте статус получателя, верифицируйте сделку и переводите деньги без риска
+            </motion.p>
 
-              <motion.div variants={fadeUp} className="flex flex-wrap gap-3">
-                <a href="https://t.me/finance_regulator_bot" target="_blank" rel="noreferrer" className="premium-btn premium-btn-primary text-sm sm:text-base !py-3 !px-5 sm:!px-6">
-                  ✈️ Подать обращение
-                </a>
-                <Link href="/financial-organizations" className="premium-btn premium-btn-secondary text-sm sm:text-base !py-3 !px-5 sm:!px-6">
-                  Реестр лицензий
+            <motion.div variants={fadeUp} className="max-w-lg mx-auto mb-6">
+              <div className="flex gap-2">
+                <input
+                  type="text"
+                  value={iin}
+                  onChange={(e) => setIin(e.target.value)}
+                  placeholder="Введите ИИН, БИН или номер дела"
+                  className="flex-1 px-4 py-3 rounded-xl bg-white/10 border border-white/20 text-white placeholder-white/40 focus:outline-none focus:border-green-400/50 focus:bg-white/[0.12] transition-all text-sm"
+                />
+                <Link
+                  href="/client-payouts"
+                  className="px-6 py-3 rounded-xl bg-green-500 hover:bg-green-400 text-white font-semibold text-sm transition-all whitespace-nowrap flex items-center gap-1.5"
+                >
+                  Проверить
                 </Link>
-              </motion.div>
+              </div>
+              <p className="text-white/30 text-xs mt-2">Например: 123456789012 или Дело № PG-2024-001</p>
+            </motion.div>
 
-              <motion.div variants={fadeUp} className="grid grid-cols-2 sm:grid-cols-4 gap-4 sm:gap-6 mt-10 pt-6 border-t border-white/10">
-                <div className="text-center"><div className="text-xl sm:text-2xl font-bold text-premium-gold tabular-nums"><CounterDisplay to={21} /></div><div className="text-xs text-white/60 mt-0.5">Банков</div></div>
-                <div className="text-center"><div className="text-xl sm:text-2xl font-bold text-premium-gold tabular-nums"><CounterDisplay to={28} /></div><div className="text-xs text-white/60 mt-0.5">Страховых</div></div>
-                <div className="text-center"><div className="text-xl sm:text-2xl font-bold text-premium-gold tabular-nums"><CounterDisplay to={46} /> трлн</div><div className="text-xs text-white/60 mt-0.5">Активы банков</div></div>
-                <div className="text-center"><div className="text-xl sm:text-2xl font-bold text-premium-gold tabular-nums"><CounterDisplay to={190} />+</div><div className="text-xs text-white/60 mt-0.5">МФО</div></div>
-              </motion.div>
-            </div>
+            <motion.div variants={fadeUp} className="flex flex-wrap justify-center gap-3">
+              <Link href="/client-payouts" className="premium-btn premium-btn-primary text-sm !py-2.5 !px-5">
+                Проверить выплаты
+              </Link>
+              <Link href="/about" className="premium-btn premium-btn-secondary text-sm !py-2.5 !px-5">
+                Как это работает
+              </Link>
+            </motion.div>
 
-            <motion.div variants={fadeUp} className="hidden lg:flex items-center justify-center">
-              <div className="relative w-72 h-72">
-                <div className="absolute inset-0 rounded-full bg-premium-gold/5 border border-premium-gold/10" style={{ animation: 'premium-float 6s ease-in-out infinite' }} />
-                <div className="absolute inset-8 rounded-full bg-premium-gold/10 border border-premium-gold/20 flex items-center justify-center">
-                  <div className="text-center">
-                    <div className="text-5xl mb-2">🏛️</div>
-                    <div className="text-premium-gold text-sm font-medium">АРРФР</div>
-                    <div className="text-white/30 text-[10px] mt-1">Регулятор • Надзор • Защита</div>
-                  </div>
-                </div>
+            <motion.div variants={fadeUp} className="grid grid-cols-3 gap-6 mt-10 pt-6 border-t border-white/10 max-w-md mx-auto">
+              <div className="text-center">
+                <div className="text-xl sm:text-2xl font-bold text-green-400 tabular-nums"><CounterDisplay to={15000} suffix="+" /></div>
+                <div className="text-xs text-white/50 mt-0.5">Проверок</div>
+              </div>
+              <div className="text-center">
+                <div className="text-xl sm:text-2xl font-bold text-green-400 tabular-nums"><CounterDisplay to={98} suffix="%" /></div>
+                <div className="text-xs text-white/50 mt-0.5">Довольных клиентов</div>
+              </div>
+              <div className="text-center">
+                <div className="text-xl sm:text-2xl font-bold text-green-400 tabular-nums"><CounterDisplay to={24} suffix="/7" /></div>
+                <div className="text-xs text-white/50 mt-0.5">Поддержка</div>
               </div>
             </motion.div>
           </motion.div>
         </div>
       </motion.section>
 
-      {/* Fraud Alert */}
-      <div className="bg-[#1a0a0a] border-y border-red-900/30">
-        <div className="premium-container py-2.5">
-          <div className="flex items-center gap-2.5 text-xs sm:text-sm">
-            <span className="text-red-400 text-base shrink-0">🚨</span>
-            <span className="text-red-300">
-              <strong>Осторожно, мошенники!</strong>{' '}
-              <span className="text-red-200/70">Не передавайте личные данные и коды третьим лицам. </span>
-              <a href="https://t.me/finance_regulator_bot" target="_blank" rel="noreferrer" className="text-premium-gold hover:underline font-medium">Сообщить о мошенничестве</a>
-            </span>
-          </div>
-        </div>
-      </div>
-
-      {/* Metrics */}
-      <section className="premium-section bg-premium-surface">
+      {/* Features */}
+      <section className="premium-section bg-white">
         <div className="premium-container">
           <motion.div initial={{ opacity: 0, y: 20 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true }} className="text-center mb-10">
-            <h2 className="text-2xl sm:text-3xl font-bold text-premium-navy-800 mb-2">Финансовый рынок в цифрах</h2>
-            <p className="text-premium-text-secondary text-sm">Основные показатели финансового сектора Республики Казахстан</p>
+            <h2 className="text-2xl sm:text-3xl font-bold text-premium-navy-800 mb-2">Почему выбирают нас</h2>
+            <p className="text-premium-text-secondary text-sm">Простота, скорость и надёжность — каждый шаг под защитой</p>
           </motion.div>
 
-          <motion.div initial="hidden" whileInView="visible" viewport={{ once: true }} variants={stagger} className="grid grid-cols-2 md:grid-cols-4 gap-3 sm:gap-4">
-            {[
-              { value: '46,3 трлн', label: 'Активы банковского сектора', trend: '+12,4%' },
-              { value: '2,8 трлн', label: 'Страховые премии', trend: '+8,7%' },
-              { value: '1 247', label: 'Финансовых организаций', trend: '+3,2%' },
-              { value: '99,8%', label: 'Доля застрахованных депозитов', trend: '+0,1%' },
-            ].map((m, i) => (
-              <motion.div key={m.label} variants={fadeUp} custom={i} className="premium-card p-4 sm:p-5 text-center">
-                <div className="text-lg sm:text-2xl font-bold text-premium-navy-800 mb-1">{m.value}</div>
-                <div className="text-xs text-premium-text-secondary leading-tight mb-2">{m.label}</div>
-                <span className="inline-block text-xs font-medium text-green-600 bg-green-50 px-2 py-0.5 rounded-full">▲ {m.trend}</span>
+          <motion.div initial="hidden" whileInView="visible" viewport={{ once: true }} variants={stagger} className="grid sm:grid-cols-2 lg:grid-cols-4 gap-4">
+            {features.map((f, i) => (
+              <motion.div key={f.title} variants={fadeUp} custom={i} className="premium-card p-5 text-center">
+                <div className="text-3xl mb-3">{f.icon}</div>
+                <h3 className="font-semibold text-premium-navy-800 mb-1">{f.title}</h3>
+                <p className="text-sm text-premium-text-secondary">{f.desc}</p>
               </motion.div>
             ))}
           </motion.div>
-        </div>
-      </section>
-
-      {/* Makarov award — закреплённая статья */}
-      <section className="premium-section bg-gradient-to-b from-premium-navy-900 to-premium-navy-800 text-white">
-        <div className="premium-container">
-          <motion.div
-            initial={{ opacity: 0, y: 20 }}
-            whileInView={{ opacity: 1, y: 0 }}
-            viewport={{ once: true }}
-            transition={{ duration: 0.6 }}
-          >
-            <Link
-              href={MAKAROV_ARTICLE_HREF}
-              className="premium-card overflow-hidden grid md:grid-cols-[minmax(0,1.1fr)_minmax(0,1fr)] gap-0 border border-premium-gold/25 bg-premium-navy-900/80 hover:border-premium-gold/45 transition-colors group"
-            >
-              <div className="relative aspect-[16/10] md:aspect-auto md:min-h-[280px] overflow-hidden bg-premium-navy-950">
-                <img
-                  src={MAKAROV_AWARD_IMAGE}
-                  alt="Сергей Макаров и Президент Республики Казахстан"
-                  className="absolute inset-0 w-full h-full object-cover object-center group-hover:scale-[1.02] transition-transform duration-700"
-                  loading="lazy"
-                  decoding="async"
-                />
-                <span className="absolute top-3 left-3 px-2.5 py-1 rounded-full bg-premium-gold/90 text-premium-navy-900 text-[10px] sm:text-xs font-bold uppercase tracking-wide">
-                  Государственное признание · 2025
-                </span>
-              </div>
-              <div className="p-5 sm:p-7 flex flex-col justify-center">
-                <time className="text-xs text-white/50 mb-2">
-                  {formatDate(makarovArticle.publication_date || '2025-11-14')}
-                </time>
-                <h2 className="text-lg sm:text-xl font-bold text-white leading-snug group-hover:text-premium-gold transition-colors">
-                  {makarovArticle.title}
-                </h2>
-                {makarovArticle.short_description && (
-                  <p className="text-sm text-white/65 mt-3 leading-relaxed line-clamp-4">
-                    {makarovArticle.short_description}
-                  </p>
-                )}
-                <span className="mt-4 text-premium-gold text-sm font-semibold inline-flex items-center gap-1">
-                  Читать материал →
-                </span>
-              </div>
-            </Link>
-          </motion.div>
-        </div>
-      </section>
-
-      {/* News */}
-      <section className="premium-section bg-white">
-        <div className="premium-container">
-          <motion.div initial={{ opacity: 0, y: 20 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true }} className="flex flex-col sm:flex-row sm:items-end justify-between gap-2 mb-8">
-            <div>
-              <h2 className="text-2xl sm:text-3xl font-bold text-premium-navy-800 mb-1">Новости и пресс-релизы</h2>
-              <p className="text-premium-text-secondary text-sm">Актуальная информация о деятельности Агентства</p>
-            </div>
-            <Link href="/press/news" className="text-premium-gold-dark text-sm font-medium hover:gap-2 transition-all inline-flex items-center gap-1">
-              Все материалы →
-            </Link>
-          </motion.div>
-
-          {allNews.length > 0 && (
-            <div className="grid md:grid-cols-2 gap-4 sm:gap-5">
-              <motion.div initial={{ opacity: 0, y: 20 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true }} transition={{ duration: 0.6 }}>
-                <Link href={`/press/releases/details/${allNews[0].id}`} className="premium-card overflow-hidden group block">
-                  {allNews[0].heropic && (
-                    <div className="aspect-[16/9] overflow-hidden bg-premium-navy-50">
-                      <img src={allNews[0].heropic} alt="" className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700" loading="lazy" />
-                    </div>
-                  )}
-                  <div className="p-4 sm:p-5">
-                    <time className="text-xs text-premium-text-secondary">{formatDate(allNews[0].created_date || '')}</time>
-                    <h3 className="font-semibold text-premium-navy-800 mt-1.5 group-hover:text-premium-gold-dark transition-colors">{allNews[0].title}</h3>
-                    {allNews[0].short_description && (
-                      <p className="text-sm text-premium-text-secondary mt-2 line-clamp-2">{allNews[0].short_description}</p>
-                    )}
-                  </div>
-                </Link>
-              </motion.div>
-
-              <div className="space-y-2.5">
-                {allNews.slice(1, 5).map((item, i) => (
-                  <motion.div key={item.id} initial={{ opacity: 0, x: -10 }} whileInView={{ opacity: 1, x: 0 }} viewport={{ once: true }} transition={{ delay: i * 0.08, duration: 0.4 }}>
-                    <Link href={`/press/releases/details/${item.id}`} className="flex items-start gap-3 p-3 rounded-xl hover:bg-premium-surface transition-colors group">
-                      <div className="w-1.5 h-1.5 rounded-full bg-premium-gold shrink-0 mt-1.5" />
-                      <div className="min-w-0">
-                        <time className="text-xs text-premium-text-secondary block">{formatDate(item.created_date || '')}</time>
-                        <span className="text-sm font-medium text-premium-text group-hover:text-premium-gold-dark transition-colors line-clamp-2">{item.title}</span>
-                      </div>
-                    </Link>
-                  </motion.div>
-                ))}
-              </div>
-            </div>
-          )}
         </div>
       </section>
 
@@ -266,83 +159,63 @@ export function HomePageClient({ allNews, projects, meta }: { allNews: GovNews[]
       <section className="premium-section bg-premium-surface">
         <div className="premium-container">
           <motion.div initial={{ opacity: 0, y: 20 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true }} className="text-center mb-10">
-            <h2 className="text-2xl sm:text-3xl font-bold text-premium-navy-800 mb-2">Услуги Агентства</h2>
-            <p className="text-premium-text-secondary text-sm">Полный спектр услуг для граждан и участников финансового рынка</p>
+            <h2 className="text-2xl sm:text-3xl font-bold text-premium-navy-800 mb-2">Наши услуги</h2>
+            <p className="text-premium-text-secondary text-sm">Полный спектр инструментов для безопасного сопровождения финансовых операций</p>
           </motion.div>
 
-          <motion.div initial="hidden" whileInView="visible" viewport={{ once: true }} variants={stagger} className="grid sm:grid-cols-2 lg:grid-cols-3 gap-3 sm:gap-4">
+          <motion.div initial="hidden" whileInView="visible" viewport={{ once: true }} variants={stagger} className="grid sm:grid-cols-2 gap-4">
             {services.map((s, i) => (
-              <motion.a key={s.title} href={s.href} target={s.href.startsWith('http') ? '_blank' : undefined} rel={s.href.startsWith('http') ? 'noreferrer' : undefined} variants={fadeUp} custom={i} className="premium-card p-4 sm:p-5 group cursor-pointer">
-                <div className="text-xl sm:text-2xl mb-2">{s.icon}</div>
-                <h3 className="font-semibold text-premium-navy-800 mb-1 group-hover:text-premium-gold-dark transition-colors text-sm sm:text-base">{s.title}</h3>
-                <p className="text-xs sm:text-sm text-premium-text-secondary leading-relaxed">{s.desc}</p>
-                <div className="mt-2 text-premium-gold-dark text-xs font-medium opacity-0 group-hover:opacity-100 transition-opacity">Подробнее →</div>
+              <motion.a key={s.title} href={s.href} target={s.href.startsWith('http') ? '_blank' : undefined} rel={s.href.startsWith('http') ? 'noreferrer' : undefined} variants={fadeUp} custom={i} className="premium-card p-5 group cursor-pointer flex items-start gap-4">
+                <div className="text-2xl shrink-0">{s.icon}</div>
+                <div>
+                  <h3 className="font-semibold text-premium-navy-800 mb-1 group-hover:text-green-600 transition-colors">{s.title}</h3>
+                  <p className="text-sm text-premium-text-secondary">{s.desc}</p>
+                </div>
               </motion.a>
             ))}
           </motion.div>
         </div>
       </section>
 
-      {/* Important Links */}
-      {HOME_IMPORTANT_LINKS.length > 0 && (
-        <section className="premium-section bg-white">
-          <div className="premium-container">
-            <motion.div initial={{ opacity: 0, y: 20 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true }} className="text-center mb-8">
-              <h2 className="text-2xl sm:text-3xl font-bold text-premium-navy-800 mb-2">Важная информация</h2>
-              <p className="text-premium-text-secondary text-sm">Ключевые материалы и ресурсы Агентства</p>
-            </motion.div>
-            <motion.div initial="hidden" whileInView="visible" viewport={{ once: true }} variants={stagger} className="flex flex-wrap justify-center gap-2">
-              {HOME_IMPORTANT_LINKS.map((link, i) => (
-                <motion.a key={link.label} href={link.href} target={('external' in link && link.external) ? '_blank' : undefined} rel={('external' in link && link.external) ? 'noreferrer' : undefined} variants={fadeUp} custom={i}
-                  className="inline-flex items-center gap-1.5 px-4 py-2 rounded-lg border border-premium-border text-premium-text-secondary hover:text-premium-navy-800 hover:border-premium-gold/30 hover:bg-premium-gold-subtle transition-all text-sm font-medium"
-                >
-                  {link.label}
-                </motion.a>
-              ))}
-            </motion.div>
-          </div>
-        </section>
-      )}
+      {/* How it Works */}
+      <section className="premium-section bg-white">
+        <div className="premium-container">
+          <motion.div initial={{ opacity: 0, y: 20 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true }} className="text-center mb-10">
+            <h2 className="text-2xl sm:text-3xl font-bold text-premium-navy-800 mb-2">Как это работает</h2>
+            <p className="text-premium-text-secondary text-sm">Всего 3 простых шага</p>
+          </motion.div>
 
-      {/* Projects */}
-      {banners.length > 0 && (
-        <section className="premium-section bg-premium-surface">
-          <div className="premium-container">
-            <motion.div initial={{ opacity: 0, y: 20 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true }} className="text-center mb-8">
-              <h2 className="text-2xl sm:text-3xl font-bold text-premium-navy-800 mb-2">Реализуемые проекты</h2>
-              <p className="text-premium-text-secondary text-sm">Проекты, направленные на развитие финансового рынка</p>
-            </motion.div>
-            <motion.div initial="hidden" whileInView="visible" viewport={{ once: true }} variants={stagger} className="grid grid-cols-2 md:grid-cols-4 gap-3 sm:gap-4">
-              {banners.slice(0, 4).map((p, i) => {
-                const img = p.icon || p.heropic || getDiversePhoto(`project-${p.id}`)
-                return (
-                  <motion.a key={p.id} href={`/projects/details/${p.id}`} variants={fadeUp} custom={i} className="premium-card overflow-hidden group block">
-                    {img && (
-                      <div className="aspect-[4/3] overflow-hidden bg-premium-navy-50">
-                        <img src={img} alt="" className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700" loading="lazy" />
-                      </div>
-                    )}
-                    <div className="p-3 text-sm font-medium text-premium-navy-800 text-center">{p.title}</div>
-                  </motion.a>
-                )
-              })}
-            </motion.div>
-          </div>
-        </section>
-      )}
+          <motion.div initial="hidden" whileInView="visible" viewport={{ once: true }} variants={stagger} className="grid md:grid-cols-3 gap-6 max-w-4xl mx-auto">
+            {[
+              { num: '1', title: 'Введите данные', desc: 'ИИН, БИН или номер дела получателя' },
+              { num: '2', title: 'Мгновенная проверка', desc: 'Система проверит статус за секунды' },
+              { num: '3', title: 'Результат и перевод', desc: 'Получите отчёт и инструкцию по безопасному переводу' },
+            ].map((step, i) => (
+              <motion.div key={step.num} variants={fadeUp} custom={i} className="text-center">
+                <div className="w-12 h-12 rounded-full bg-green-500 text-white text-lg font-bold flex items-center justify-center mx-auto mb-4">
+                  {step.num}
+                </div>
+                <h3 className="font-semibold text-premium-navy-800 mb-1">{step.title}</h3>
+                <p className="text-sm text-premium-text-secondary">{step.desc}</p>
+              </motion.div>
+            ))}
+          </motion.div>
+        </div>
+      </section>
 
-      {/* CTA */}
+      {/* Guarantee */}
       <section className="relative overflow-hidden bg-premium-navy-900 py-14 sm:py-20">
-        <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_bottom_left,_rgba(212,175,55,0.06)_0%,_transparent_50%)]" />
+        <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_bottom_left,_rgba(0,200,83,0.06)_0%,_transparent_50%)]" />
         <div className="premium-container relative text-center">
           <motion.div initial={{ opacity: 0, y: 20 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true }}>
-            <h2 className="text-2xl sm:text-3xl font-bold text-white mb-3">Нужна помощь?</h2>
-            <p className="text-white/60 text-sm sm:text-base max-w-md mx-auto mb-6">
-              Направьте обращение через Telegram-бот. Круглосуточно, быстро, конфиденциально
+            <div className="text-4xl mb-4">🛡️</div>
+            <h2 className="text-2xl sm:text-3xl font-bold text-white mb-3">Гарантия безопасности</h2>
+            <p className="text-white/60 text-sm sm:text-base max-w-lg mx-auto mb-6">
+              Никаких скрытых комиссий. Все проверки проводятся в зашифрованном канале. Ваши данные не передаются третьим лицам.
             </p>
-            <a href="https://t.me/finance_regulator_bot" target="_blank" rel="noreferrer" className="premium-btn premium-btn-primary text-base sm:text-lg !py-3.5 !px-7 sm:!px-8">
-              ✈️ @finance_regulator_bot
-            </a>
+            <Link href="/client-payouts" className="premium-btn premium-btn-primary text-base sm:text-lg !py-3.5 !px-7 sm:!px-8">
+              Проверить выплаты
+            </Link>
           </motion.div>
         </div>
       </section>

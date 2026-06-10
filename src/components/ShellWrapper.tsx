@@ -1,21 +1,18 @@
 "use client";
 
 import { usePathname } from "next/navigation";
-import { GovShell } from "./GovShell";
-import type { SiteContent } from "@/lib/types";
+import { AppShell } from "./AppShell";
 
 export function ShellWrapper({
   children,
-  meta,
 }: {
   children: React.ReactNode;
-  meta: SiteContent["meta"];
 }) {
   const pathname = usePathname();
 
-  if (pathname.startsWith("/premium") || pathname.startsWith("/admin")) {
+  if (pathname.startsWith("/admin")) {
     return <>{children}</>;
   }
 
-  return <GovShell meta={meta}>{children}</GovShell>;
+  return <AppShell>{children}</AppShell>;
 }

@@ -13,14 +13,14 @@ export function NextStepsBlock({
   const items = links ?? NEXT_STEPS_BY_PATH[pathname.replace(/\/$/, "") || pathname];
   if (!items?.length) return null;
   return (
-    <aside className="rz-next-steps" aria-label={title}>
-      <h2 className="rz-next-steps-title">{title}</h2>
-      <div className="rz-next-steps-grid">
+    <aside className="pg-next-steps" aria-label={title}>
+      <h2 className="pg-next-steps-title">{title}</h2>
+      <div className="pg-next-steps-grid">
         {items.map((item) => (
           <Link
             key={item.href + item.label}
             href={item.href}
-            className={`rz-next-steps-link ${item.primary ? "rz-next-steps-link--primary" : ""}`}
+            className={`pg-next-steps-link ${item.primary ? "pg-next-steps-link--primary" : ""}`}
           >
             {item.label}
           </Link>

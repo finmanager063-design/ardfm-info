@@ -75,9 +75,9 @@ export default function VariantB() {
         <div className="premium-container flex items-center justify-between h-16">
           <Link href="/" className="flex items-center gap-3">
             <div className="w-8 h-8 rounded-lg bg-gradient-to-br from-cyan-400 to-blue-600 flex items-center justify-center text-white font-bold text-xs">
-              АР
+              PG
             </div>
-            <span className="text-white/40 text-xs font-medium uppercase tracking-widest hidden sm:block">АРРФР</span>
+            <span className="text-white/40 text-xs font-medium uppercase tracking-widest hidden sm:block">PayGuard</span>
           </Link>
           <nav className="hidden md:flex items-center gap-1">
             {["Об Агентстве", "Деятельность", "Документы", "Пресс-центр"].map((item) => (
@@ -187,7 +187,7 @@ export default function VariantB() {
                 <div className="absolute inset-0 flex items-center justify-center">
                   <div className="text-center">
                     <div className="text-5xl mb-2 opacity-60">✦</div>
-                    <div className="text-cyan-300 text-sm font-medium tracking-widest uppercase">АРРФР</div>
+                    <div className="text-cyan-300 text-sm font-medium tracking-widest uppercase">PayGuard</div>
                   </div>
                 </div>
               </div>
@@ -321,10 +321,10 @@ export default function VariantB() {
           <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-8 mb-8">
             <div>
               <div className="flex items-center gap-2 mb-3">
-                <div className="w-8 h-8 rounded-lg bg-gradient-to-br from-cyan-400 to-blue-600 flex items-center justify-center text-white font-bold text-xs">АР</div>
-                <span className="text-white font-semibold text-sm">АРРФР</span>
+                <div className="w-8 h-8 rounded-lg bg-gradient-to-br from-cyan-400 to-blue-600 flex items-center justify-center text-white font-bold text-xs">PG</div>
+                <span className="text-white font-semibold text-sm">PayGuard</span>
               </div>
-              <p className="text-xs text-white/40 leading-relaxed">Агентство Республики Казахстан по регулированию и развитию финансового рынка</p>
+              <p className="text-xs text-white/40 leading-relaxed">Сервис проверки и безопасного сопровождения финансовых операций</p>
             </div>
             <div>
               <h4 className="text-white/60 font-semibold text-sm mb-3">Разделы</h4>
@@ -337,8 +337,7 @@ export default function VariantB() {
             <div>
               <h4 className="text-white/60 font-semibold text-sm mb-3">Официальные ресурсы</h4>
               <ul className="space-y-2 text-sm">
-                <li><a href="https://www.gov.kz" target="_blank" rel="noreferrer" className="text-white/40 hover:text-white transition-colors">gov.kz</a></li>
-                <li><a href="https://www.akorda.kz" target="_blank" rel="noreferrer" className="text-white/40 hover:text-white transition-colors">akorda.kz</a></li>
+                <li><a href="https://t.me/payguard_support_bot" target="_blank" rel="noreferrer" className="text-white/40 hover:text-white transition-colors">Telegram Bot</a></li>
               </ul>
             </div>
             <div>

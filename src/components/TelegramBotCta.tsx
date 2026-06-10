@@ -27,7 +27,7 @@ export function TelegramBotCta({ variant = "page" }: Props) {
   }
 
   return (
-    <section className="ardfm-section contacts-bot-hero">
+    <section className="pg-section contacts-bot-hero">
       <h2>Обращения в Агентство</h2>
       <p className="contacts-bot-lead">
         По любым вопросам, жалобам, запросам и проблемам на финансовом рынке используйте

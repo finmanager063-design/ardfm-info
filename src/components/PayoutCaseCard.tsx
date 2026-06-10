@@ -86,7 +86,7 @@ export function PayoutCaseCard({
         )}
 
         <footer className="payout-case-card__foot">
-          <button type="button" className="rz-btn rz-btn-primary" onClick={onClose}>
+          <button type="button" className="pg-btn pg-btn-primary" onClick={onClose}>
             Закрыть
           </button>
         </footer>

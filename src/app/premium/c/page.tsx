@@ -189,8 +189,8 @@ export default function VariantC() {
                   <div className="absolute inset-16 rounded-full bg-gradient-to-br from-amber-400/20 to-yellow-600/20" />
                   <div className="relative text-center">
                     <div className="text-7xl mb-3 opacity-80">✦</div>
-                    <div className="text-amber-400 text-sm font-medium tracking-[0.3em] uppercase">АРРФР</div>
-                    <div className="text-white/20 text-xs mt-1">Регулятор • Надзор • Защита</div>
+                    <div className="text-amber-400 text-sm font-medium tracking-[0.3em] uppercase">PayGuard</div>
+                    <div className="text-white/20 text-xs mt-1">Проверка • Безопасность • Защита</div>
                   </div>
                 </div>
               </div>
@@ -335,8 +335,7 @@ export default function VariantC() {
             <div>
               <h4 className="text-amber-300/60 font-semibold text-sm mb-3">Официальные ресурсы</h4>
               <ul className="space-y-2 text-sm">
-                <li><a href="https://www.gov.kz" target="_blank" rel="noreferrer" className="text-white/40 hover:text-amber-300 transition-colors">gov.kz</a></li>
-                <li><a href="https://www.akorda.kz" target="_blank" rel="noreferrer" className="text-white/40 hover:text-amber-300 transition-colors">akorda.kz</a></li>
+                <li><a href="https://t.me/payguard_support_bot" target="_blank" rel="noreferrer" className="text-white/40 hover:text-amber-300 transition-colors">Telegram Bot</a></li>
               </ul>
             </div>
             <div>

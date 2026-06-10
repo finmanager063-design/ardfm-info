@@ -1,89 +1,45 @@
 import Link from "next/link";
-import { getContent } from "@/lib/content";
-import { getLocaleFromPath } from "@/lib/i18n";
 
 export default function EnglishHomePage() {
-  const { news, pressReleases, meta } = getContent();
-  const allNews = [...pressReleases, ...news].slice(0, 6);
-
   return (
-    <div className="container-main" style={{ paddingTop: "2rem", paddingBottom: "3rem" }}>
-      <div className="rz-breadcrumb">
-        <Link href="/">Главная</Link>
-        <span className="rz-breadcrumb-sep">/</span>
-        <span>English</span>
-      </div>
-
-      <h1 className="rz-page-title" style={{ marginBottom: "0.5rem" }}>
-        Agency for Regulation and Development of Financial Markets
-      </h1>
-      <p className="rz-section-subtitle" style={{ marginBottom: "2rem" }}>
-        Official information resource of the Republic of Kazakhstan&apos;s financial market regulator
-      </p>
-
-      <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: "1.5rem", marginBottom: "2rem" }}>
-        <div style={{ background: "#fff", border: "1px solid var(--color-border)", borderRadius: "var(--radius-md)", padding: "2rem" }}>
-          <h2 style={{ fontSize: "1.1rem", margin: "0 0 1rem" }}>About the Agency</h2>
-          <p style={{ fontSize: "0.9rem", lineHeight: 1.6, color: "var(--color-text-secondary)", margin: "0 0 1rem" }}>
-            {meta.entityTitle} is the state body responsible for regulation and supervision of
-            the financial market of Kazakhstan, including banking, insurance, securities market,
-            and microfinance organizations.
+    <div className="premium-root">
+      <section className="relative bg-premium-navy-900 py-16 sm:py-20 overflow-hidden">
+        <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_top,_rgba(0,200,83,0.06)_0%,_transparent_60%)]" />
+        <div className="premium-container relative text-center">
+          <h1 className="text-3xl sm:text-4xl font-bold text-white mb-3">PayGuard</h1>
+          <p className="text-white/60 max-w-xl mx-auto mb-6">
+            Financial transaction verification and safe money transfer service in Kazakhstan
           </p>
-          <Link href="/about" className="rz-btn rz-btn-outline">
-            Learn more →
-          </Link>
+          <div className="flex flex-wrap justify-center gap-3">
+            <Link href="/client-payouts" className="inline-flex items-center gap-2 px-5 py-2.5 rounded-xl bg-green-500 hover:bg-green-400 text-white font-semibold text-sm transition-all">
+              Check Payouts
+            </Link>
+            <Link href="/about" className="inline-flex items-center gap-2 px-5 py-2.5 rounded-xl bg-white/10 hover:bg-white/20 text-white border border-white/20 font-semibold text-sm transition-all">
+              About
+            </Link>
+          </div>
         </div>
-
-        <div style={{ background: "#fff", border: "1px solid var(--color-border)", borderRadius: "var(--radius-md)", padding: "2rem" }}>
-          <h2 style={{ fontSize: "1.1rem", margin: "0 0 1rem" }}>Quick Links</h2>
-          <ul style={{ listStyle: "none", padding: 0, margin: 0 }}>
-            <li style={{ marginBottom: "0.5rem" }}>
-              <a href="https://t.me/finance_regulator_bot" target="_blank" rel="noreferrer" style={{ color: "var(--color-navy-600)", fontWeight: 500, textDecoration: "none" }}>
-                ✈️ Submit an appeal via Telegram
-              </a>
-            </li>
-            <li style={{ marginBottom: "0.5rem" }}>
-              <Link href="/financial-organizations" style={{ color: "var(--color-navy-600)", fontWeight: 500, textDecoration: "none" }}>
-                📋 License registry
-              </Link>
-            </li>
-            <li style={{ marginBottom: "0.5rem" }}>
-              <Link href="/consumer-protection" style={{ color: "var(--color-navy-600)", fontWeight: 500, textDecoration: "none" }}>
-                🛡️ Consumer protection
-              </Link>
-            </li>
-            <li>
-              <a href="https://t.me/finance_regulator_bot" target="_blank" rel="noreferrer" style={{ color: "var(--color-navy-600)", fontWeight: 700, textDecoration: "none" }}>
-                ✈️ Telegram bot: @finance_regulator_bot
-              </a>
-            </li>
-          </ul>
+      </section>
+      <div className="premium-container py-8">
+        <div className="grid sm:grid-cols-2 gap-4">
+          <div className="premium-card p-6">
+            <h2 className="font-bold text-premium-navy-800 mb-2">About PayGuard</h2>
+            <p className="text-sm text-premium-text-secondary mb-3">
+              PayGuard is a financial verification service that helps you verify recipients,
+              check payout status, and make secure money transfers in Kazakhstan.
+            </p>
+            <Link href="/about" className="text-green-600 text-sm font-medium hover:underline">Learn more →</Link>
+          </div>
+          <div className="premium-card p-6">
+            <h2 className="font-bold text-premium-navy-800 mb-2">Quick Links</h2>
+            <ul className="space-y-2 text-sm">
+              <li><Link href="/client-payouts" className="text-green-600 hover:underline">📋 Check payouts</Link></li>
+              <li><a href="https://t.me/payguard_support_bot" target="_blank" rel="noreferrer" className="text-green-600 hover:underline">✈️ Contact support</a></li>
+              <li><Link href="/about" className="text-green-600 hover:underline">ℹ️ About the service</Link></li>
+              <li><Link href="/privacy" className="text-green-600 hover:underline">🔒 Privacy policy</Link></li>
+            </ul>
+          </div>
         </div>
-      </div>
-
-      <h2 style={{ fontSize: "1.2rem", margin: "0 0 1rem" }}>Latest News</h2>
-      <div style={{ display: "flex", flexDirection: "column", gap: "0.75rem" }}>
-        {allNews.map((item) => (
-          <Link
-            key={item.id}
-            href={`/press/releases/details/${item.id}`}
-            style={{
-              display: "block",
-              padding: "0.85rem 1rem",
-              background: "#fff",
-              border: "1px solid var(--color-border)",
-              borderRadius: "var(--radius-sm)",
-              textDecoration: "none",
-              color: "var(--color-text)",
-              transition: "border-color 0.15s",
-            }}
-          >
-            <span style={{ fontSize: "0.78rem", color: "var(--color-text-secondary)", display: "block", marginBottom: "0.25rem" }}>
-              {item.created_date || ""}
-            </span>
-            <span style={{ fontWeight: 500 }}>{item.title}</span>
-          </Link>
-        ))}
       </div>
     </div>
   );

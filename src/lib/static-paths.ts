@@ -1,98 +1,27 @@
-import { dedupeArticles } from "./dedupe";
-import { FEATURED_ARTICLES } from "./featured-articles";
-import type { SiteContent } from "./types";
-
 function addSlug(set: Set<string>, parts: string[]) {
   const clean = parts.filter(Boolean);
   set.add(JSON.stringify(clean));
 }
 
 /** Все пути для static export (GitHub Pages). */
-export function collectStaticSlugs(content: SiteContent): { slug: string[] }[] {
+export function collectStaticSlugs(): { slug: string[] }[] {
   const seen = new Set<string>();
 
   addSlug(seen, []);
 
   const extraRoutes = [
-    ["press", "news"],
-    ["press", "releases"],
-    ["press", "events"],
-    ["media"],
-    ["media", "news"],
-    ["media", "press"],
-    ["media", "events"],
-    ["knowledge", "articles"],
-    ["knowledge", "guides"],
     ["client-payouts"],
     ["admin"],
-    ["articles"],
-    ["documents"],
-    ["documents", "1"],
+    ["contacts"],
+    ["about"],
     ["about", "faq"],
-    ["about", "structure"],
-    ["about", "history"],
-    ["about", "leadership"],
-    ["financial-organizations"],
-    ["consumer-protection"],
     ["privacy"],
-    ["accessibility"],
     ["en"],
     ["kk"],
     ["premium"],
-    ["premium", "a"],
-    ["premium", "b"],
-    ["premium", "c"],
-    ["activities", "banking-sector"],
-    ["activities", "insurance-sector"],
-    ["activities", "securities-market"],
-    ["activities", "other-financial-organizations"],
-    ["activities", "appointments"],
-    ["activities", "788"],
-    ["activities", "789"],
-    ["activities", "847"],
-    ["activities", "16487"],
-    ["activities", "80952"],
+    ["search"],
   ];
   for (const r of extraRoutes) addSlug(seen, r);
-
-  for (const p of content.pages) {
-    if (p.slug === "finansovye-rynki" || p.title === "Финансовые рынки") continue;
-    const link = p.internal_link?.replace(/^\//, "").replace(/\/$/, "");
-    if (!link || link === "" || link === "activities/population") continue;
-    addSlug(seen, link.split("/"));
-  }
-
-  for (const n of content.news) {
-    addSlug(seen, ["press", "news", "details", String(n.id)]);
-    addSlug(seen, ["media", "news", "details", String(n.id)]);
-  }
-
-  for (const d of content.documents) {
-    addSlug(seen, ["documents", "item", String(d.id)]);
-  }
-
-  for (const a of [...FEATURED_ARTICLES, ...dedupeArticles(content.articles)]) {
-    if (a.id) addSlug(seen, ["article", "details", String(a.id)]);
-    if (a.alias) addSlug(seen, ["article", "details", String(a.alias)]);
-  }
-
-  for (const e of [...content.events.upcoming, ...content.events.past]) {
-    addSlug(seen, ["press", "events", "details", String(e.id)]);
-    addSlug(seen, ["media", "events", "details", String(e.id)]);
-  }
-
-  for (const pr of content.pressReleases || []) {
-  const id = (pr as { id?: string | number }).id;
-    if (id) {
-      addSlug(seen, ["press", "releases", "details", String(id)]);
-      addSlug(seen, ["media", "press", "details", String(id)]);
-    }
-  }
-
-  for (const p of content.projects || []) {
-    const id = (p as { id?: string | number }).id;
-    if (id) addSlug(seen, ["projects", "details", String(id)]);
-  }
 
   return Array.from(seen).map((s) => ({ slug: JSON.parse(s) as string[] }));
 }

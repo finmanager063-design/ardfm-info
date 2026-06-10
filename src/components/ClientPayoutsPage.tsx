@@ -98,23 +98,16 @@ export function ClientPayoutsPage() {
 
   return (
     <div>
-      <div className="rz-page-header">
-        <div className="rz-page-header-inner">
-          <div
-            className="rz-breadcrumb"
-            style={{ color: "rgba(255,255,255,0.7)", paddingTop: 0, marginBottom: "0.75rem" }}
-          >
-            <Link href="/" style={{ color: "rgba(255,255,255,0.8)" }}>
-              Главная
-            </Link>
-            <span className="rz-breadcrumb-sep" style={{ color: "rgba(255,255,255,0.3)" }}>
-              /
-            </span>
-            <span style={{ color: "rgba(255,255,255,0.8)" }}>Выплаты клиентам</span>
+      <div className="pg-page-header">
+        <div className="pg-page-header-inner">
+          <div className="pg-breadcrumb">
+            <Link href="/">Главная</Link>
+            <span className="pg-breadcrumb-sep">/</span>
+            <span>Выплаты клиентам</span>
           </div>
-          <h1 className="rz-page-title">Проверить статус обращения</h1>
-          <p className="rz-page-desc">
-            Поиск по номеру дела, ИИН или ФИО в реестре Агентства.
+          <h1 className="pg-page-title">Проверить статус обращения</h1>
+          <p className="pg-page-desc">
+            Поиск по номеру дела, ИИН или ФИО в реестре.
           </p>
         </div>
       </div>
@@ -157,11 +150,11 @@ export function ClientPayoutsPage() {
                   onChange={(e) => setQuery(e.target.value)}
                   placeholder=""
                   autoComplete="off"
-                  className="rz-form-input"
+                  className="pg-form-input"
                   style={{ minWidth: 280, flex: 1 }}
                   disabled={searching}
                 />
-                <button type="submit" className="rz-btn rz-btn-primary" disabled={searching || !query.trim()}>
+                <button type="submit" className="pg-btn pg-btn-primary" disabled={searching || !query.trim()}>
                   {searching ? "Поиск…" : "Проверить"}
                 </button>
               </div>
@@ -213,8 +206,8 @@ export function ClientPayoutsPage() {
             </p>
           </div>
 
-          <div className="rz-table-wrap">
-            <table className="rz-table payout-table payout-table--clickable" dir="ltr">
+          <div className="pg-table-wrap">
+            <table className="pg-table payout-table payout-table--clickable" dir="ltr">
               <thead>
                 <tr>
                   <th>Номер дела</th>
@@ -288,10 +281,10 @@ export function ClientPayoutsPage() {
           </div>
 
           {totalPages > 1 && (
-            <div className="rz-pagination payout-pagination">
+            <div className="pg-pagination payout-pagination">
               <button
                 type="button"
-                className="rz-page-btn"
+                className="pg-page-btn"
                 disabled={page <= 1}
                 onClick={() => setPage((p) => Math.max(1, p - 1))}
               >
@@ -307,7 +300,7 @@ export function ClientPayoutsPage() {
                   <button
                     key={n}
                     type="button"
-                    className={`rz-page-btn ${page === n ? "active" : ""}`}
+                    className={`pg-page-btn ${page === n ? "active" : ""}`}
                     onClick={() => setPage(n)}
                   >
                     {n}
@@ -316,7 +309,7 @@ export function ClientPayoutsPage() {
               })}
               <button
                 type="button"
-                className="rz-page-btn"
+                className="pg-page-btn"
                 disabled={page >= totalPages}
                 onClick={() => setPage((p) => Math.min(totalPages, p + 1))}
               >

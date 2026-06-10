@@ -20,49 +20,32 @@ export interface I18nDict {
   nav: {
     home: string
     about: string
-    activities: string
-    documents: string
-    press: string
-    finOrgs: string
-    consumerProtection: string
+    services: string
     contacts: string
-    aboutSub: string[]
-    activitiesSub: string[]
-    pressSub: string[]
+    payouts: string
   }
   home: {
     heroTitle: string
     heroSubtitle: string
-    heroAlert: string
-    heroAlertLink: string
-    mainNews: string
-    allMaterials: string
-    important: string
-    hotline: string
-    submitAppeal: string
-    registry: string
-    keyMetrics: string
-    projects: string
-    newsTitle: string
-    services: string
+    heroBadge: string
+    searchPlaceholder: string
+    searchBtn: string
+    servicesTitle: string
     servicesDesc: string
-  }
-  search: {
-    placeholder: string
-    search: string
-    noResults: string
+    featuresTitle: string
+    featuresDesc: string
+    guarantee: string
+    guaranteeDesc: string
+    ctaTitle: string
+    ctaDesc: string
+    ctaBtn: string
   }
   footer: {
+    description: string
     sections: string
-    appeals: string
-    disclaimer: string
-    disclaimerShort: string
+    contacts: string
     privacy: string
-    accessibility: string
     allRights: string
-    lastUpdate: string
-    sourceInfo: string
-    officialResources: string
   }
   common: {
     loading: string
@@ -70,13 +53,10 @@ export interface I18nDict {
     back: string
     readMore: string
     showAll: string
-    sortBy: string
-    filter: string
-    download: string
-    date: string
-    noData: string
-    onlineReception: string
-    submitComplaint: string
+    payouts: string
+    check: string
+    search: string
+    noResults: string
   }
   org: {
     fullName: string
@@ -87,50 +67,33 @@ export interface I18nDict {
 const RU: I18nDict = {
   nav: {
     home: 'Главная',
-    about: 'Об Агентстве',
-    activities: 'Деятельность',
-    documents: 'Документы',
-    press: 'Пресс-центр',
-    finOrgs: 'Финансовые организации',
-    consumerProtection: 'Защита прав потребителей',
+    about: 'О сервисе',
+    services: 'Услуги',
     contacts: 'Контакты',
-    aboutSub: ['История', 'Руководство', 'Структура'],
-    activitiesSub: ['Регулирование', 'Надзор', 'Лицензирование', 'Защита прав'],
-    pressSub: ['Новости', 'Пресс-релизы', 'События'],
+    payouts: 'Проверить выплаты',
   },
   home: {
-    heroTitle: 'Защита ваших финансов — наша главная задача',
-    heroSubtitle: 'Агентство Республики Казахстан по регулированию и развитию финансового рынка обеспечивает стабильность и прозрачность финансовой системы',
-    heroAlert: 'Осторожно, мошенники!',
-    heroAlertLink: 'Как распознать финансовую пирамиду',
-    mainNews: 'Главные новости',
-    allMaterials: 'Все материалы',
-    important: 'Важно',
-    hotline: 'Горячая линия',
-    submitAppeal: 'Подать обращение',
-    registry: 'Реестр лицензий',
-    keyMetrics: 'Финансовый рынок в цифрах',
-    projects: 'Реализуемые проекты',
-    newsTitle: 'Новости и пресс-релизы',
-    services: 'Услуги Агентства',
-    servicesDesc: 'Полный спектр услуг для граждан и участников финансового рынка',
-  },
-  search: {
-    placeholder: 'Поиск по сайту...',
-    search: 'Найти',
-    noResults: 'Ничего не найдено. Попробуйте изменить запрос.',
+    heroTitle: 'Проверка реквизитов и безопасный перевод средств',
+    heroSubtitle: 'Сервис проверки финансовых операций — узнайте статус получателя, верифицируйте сделку и переводите деньги без риска',
+    heroBadge: 'Сервис проверки операций',
+    searchPlaceholder: 'Введите ИИН, БИН или номер дела',
+    searchBtn: 'Проверить',
+    servicesTitle: 'Наши услуги',
+    servicesDesc: 'Полный спектр инструментов для безопасного сопровождения финансовых операций',
+    featuresTitle: 'Почему выбирают нас',
+    featuresDesc: 'Простота, скорость и надёжность — каждый шаг под защитой',
+    guarantee: 'Гарантия безопасности',
+    guaranteeDesc: 'Никаких скрытых комиссий. Все проверки проводятся в зашифрованном канале. Ваши данные не передаются третьим лицам.',
+    ctaTitle: 'Готовы проверить получателя?',
+    ctaDesc: 'Введите ИИН или номер дела — результат за секунду',
+    ctaBtn: 'Проверить выплаты',
   },
   footer: {
-    sections: 'Разделы сайта',
-    appeals: 'Обращения',
-    disclaimer: '',
-    disclaimerShort: 'АРРФР',
+    description: 'PayGuard — сервис проверки и безопасного сопровождения финансовых операций в Казахстане',
+    sections: 'Разделы',
+    contacts: 'Контакты',
     privacy: 'Политика конфиденциальности',
-    accessibility: 'Версия для слабовидящих',
     allRights: 'Все права защищены',
-    lastUpdate: 'Последнее обновление',
-    sourceInfo: '',
-    officialResources: 'Государственные ресурсы',
   },
   common: {
     loading: 'Загрузка...',
@@ -138,67 +101,47 @@ const RU: I18nDict = {
     back: 'Назад',
     readMore: 'Подробнее',
     showAll: 'Все',
-    sortBy: 'Сортировать',
-    filter: 'Фильтр',
-    download: 'Скачать',
-    date: 'Дата',
-    noData: 'Нет данных',
-    onlineReception: 'Онлайн-приёмная',
-    submitComplaint: 'Подать жалобу',
+    payouts: 'Выплаты',
+    check: 'Проверить',
+    search: 'Поиск',
+    noResults: 'Ничего не найдено. Попробуйте изменить запрос.',
   },
   org: {
-    fullName: 'Агентство Республики Казахстан по регулированию и развитию финансового рынка',
-    shortName: 'АРРФР',
+    fullName: 'PayGuard — Сервис проверки финансовых операций',
+    shortName: 'PayGuard',
   },
 }
 
 const KK: I18nDict = {
   nav: {
     home: 'Басты',
-    about: 'Агенттік туралы',
-    activities: 'Қызмет',
-    documents: 'Құжаттар',
-    press: 'Баспасөз орталығы',
-    finOrgs: 'Қаржы ұйымдары',
-    consumerProtection: 'Тұтынушылар құқығын қорғау',
+    about: 'Қызмет туралы',
+    services: 'Қызметтер',
     contacts: 'Байланыс',
-    aboutSub: ['Тарих', 'Басшылық', 'Құрылым'],
-    activitiesSub: ['Реттеу', 'Қадағалау', 'Лицензиялау', 'Құқық қорғау'],
-    pressSub: ['Жаңалықтар', 'Пресс-релиздер', 'Оқиғалар'],
+    payouts: 'Төлемдерді тексеру',
   },
   home: {
-    heroTitle: 'Сіздің қаржыңызды қорғау – біздің басты міндетіміз',
-    heroSubtitle: 'Қазақстан Республикасының Қаржы нарығын реттеу және дамыту жөніндегі агенттігі қаржы жүйесінің тұрақтылығы мен ашықтығын қамтамасыз етеді',
-    heroAlert: 'Абайлаңыз, алаяқтар!',
-    heroAlertLink: 'Қаржы пирамидасын қалай тануға болады',
-    mainNews: 'Басты жаңалықтар',
-    allMaterials: 'Барлық материалдар',
-    important: 'Маңызды',
-    hotline: 'Байланыс орталығы',
-    submitAppeal: 'Өтініш беру',
-    registry: 'Лицензия тізілімі',
-    keyMetrics: 'Қаржы нарығы сандарда',
-    projects: 'Жүзеге асырылатын жобалар',
-    newsTitle: 'Жаңалықтар мен пресс-релиздер',
-    services: 'Агенттік қызметтері',
-    servicesDesc: 'Азаматтар мен қаржы нарығына қатысушыларға арналған қызметтердің толық спектрі',
-  },
-  search: {
-    placeholder: 'Сайттан іздеу...',
-    search: 'Іздеу',
-    noResults: 'Ештеңе табылмады. Сұранысты өзгертіп көріңіз.',
+    heroTitle: 'Реквизиттерді тексеру және қауіпсіз аударым',
+    heroSubtitle: 'Қаржылық операцияларды тексеру қызметі — алушының мәртебесін біліңіз, мәмілені растаңыз және ақшаны тәуекелсіз аударыңыз',
+    heroBadge: 'Операцияларды тексеру қызметі',
+    searchPlaceholder: 'ЖСН, БСН немесе іс нөмірін енгізіңіз',
+    searchBtn: 'Тексеру',
+    servicesTitle: 'Біздің қызметтер',
+    servicesDesc: 'Қаржылық операцияларды қауіпсіз сүйемелдеуге арналған құралдардың толық спектрі',
+    featuresTitle: 'Неліктен бізді таңдайды',
+    featuresDesc: 'Қарапайымдылық, жылдамдық және сенімділік — әр қадам қорғауда',
+    guarantee: 'Қауіпсіздік кепілдігі',
+    guaranteeDesc: 'Жасырын комиссиялар жоқ. Барлық тексерулер шифрланған арнада жүргізіледі. Сіздің деректеріңіз үшінші тұлғаларға берілмейді.',
+    ctaTitle: 'Алушыны тексеруге дайынсыз ба?',
+    ctaDesc: 'ЖСН немесе іс нөмірін енгізіңіз — нәтиже секунд ішінде',
+    ctaBtn: 'Төлемдерді тексеру',
   },
   footer: {
-    sections: 'Сайт бөлімдері',
-    appeals: 'Өтініштер',
-    disclaimer: '',
-    disclaimerShort: 'АРРФР',
+    description: 'PayGuard — Қазақстандағы қаржылық операцияларды тексеру және қауіпсіз сүйемелдеу қызметі',
+    sections: 'Бөлімдер',
+    contacts: 'Байланыс',
     privacy: 'Құпиялылық саясаты',
-    accessibility: 'Нашар көретіндерге арналған нұсқа',
     allRights: 'Барлық құқықтар қорғалған',
-    lastUpdate: 'Соңғы жаңарту',
-    sourceInfo: '',
-    officialResources: 'Мемлекеттік ресурстар',
   },
   common: {
     loading: 'Жүктелуде...',
@@ -206,67 +149,47 @@ const KK: I18nDict = {
     back: 'Артқа',
     readMore: 'Толығырақ',
     showAll: 'Барлығы',
-    sortBy: 'Сұрыптау',
-    filter: 'Сүзгі',
-    download: 'Жүктеу',
-    date: 'Күні',
-    noData: 'Деректер жоқ',
-    onlineReception: 'Онлайн қабылдау',
-    submitComplaint: 'Шағым беру',
+    payouts: 'Төлемдер',
+    check: 'Тексеру',
+    search: 'Іздеу',
+    noResults: 'Ештеңе табылмады. Сұранысты өзгертіп көріңіз.',
   },
   org: {
-    fullName: 'Қазақстан Республикасының Қаржы нарығын реттеу және дамыту жөніндегі агенттігі',
-    shortName: 'ҚР ҚНРДА',
+    fullName: 'PayGuard — Қаржылық операцияларды тексеру қызметі',
+    shortName: 'PayGuard',
   },
 }
 
 const EN: I18nDict = {
   nav: {
     home: 'Home',
-    about: 'About Agency',
-    activities: 'Activities',
-    documents: 'Documents',
-    press: 'Press Center',
-    finOrgs: 'Financial Organizations',
-    consumerProtection: 'Consumer Protection',
-    contacts: 'Contacts',
-    aboutSub: ['History', 'Leadership', 'Structure'],
-    activitiesSub: ['Regulation', 'Supervision', 'Licensing', 'Protection'],
-    pressSub: ['News', 'Press Releases', 'Events'],
+    about: 'About',
+    services: 'Services',
+    contacts: 'Contact',
+    payouts: 'Check Payouts',
   },
   home: {
-    heroTitle: 'Protecting Your Finances is Our Mission',
-    heroSubtitle: 'Agency of the Republic of Kazakhstan for Regulation and Development of Financial Markets ensures stability and transparency of the financial system',
-    heroAlert: 'Beware of fraudsters!',
-    heroAlertLink: 'How to recognize a financial pyramid',
-    mainNews: 'Main News',
-    allMaterials: 'All materials',
-    important: 'Important',
-    hotline: 'Hotline',
-    submitAppeal: 'Submit Appeal',
-    registry: 'License Registry',
-    keyMetrics: 'Financial Market in Numbers',
-    projects: 'Ongoing Projects',
-    newsTitle: 'News and Press Releases',
-    services: 'Agency Services',
-    servicesDesc: 'Full range of services for citizens and financial market participants',
-  },
-  search: {
-    placeholder: 'Search website...',
-    search: 'Search',
-    noResults: 'Nothing found. Try changing your query.',
+    heroTitle: 'Verify Recipients & Transfer Funds Safely',
+    heroSubtitle: 'Financial verification service — check recipient status, verify transactions, and send money without risk',
+    heroBadge: 'Transaction Verification Service',
+    searchPlaceholder: 'Enter IIN, BIN or case number',
+    searchBtn: 'Check',
+    servicesTitle: 'Our Services',
+    servicesDesc: 'Complete toolkit for safe financial transaction support',
+    featuresTitle: 'Why Choose Us',
+    featuresDesc: 'Simple, fast, reliable — every step protected',
+    guarantee: 'Safety Guarantee',
+    guaranteeDesc: 'No hidden fees. All checks are encrypted. Your data is never shared with third parties.',
+    ctaTitle: 'Ready to verify a recipient?',
+    ctaDesc: 'Enter IIN or case number — result in seconds',
+    ctaBtn: 'Check Payouts',
   },
   footer: {
+    description: 'PayGuard — Financial transaction verification and safe support service in Kazakhstan',
     sections: 'Sections',
-    appeals: 'Appeals',
-    disclaimer: '',
-    disclaimerShort: 'ARDFR',
+    contacts: 'Contact',
     privacy: 'Privacy Policy',
-    accessibility: 'Accessibility',
     allRights: 'All rights reserved',
-    lastUpdate: 'Last update',
-    sourceInfo: '',
-    officialResources: 'Government Resources',
   },
   common: {
     loading: 'Loading...',
@@ -274,17 +197,14 @@ const EN: I18nDict = {
     back: 'Back',
     readMore: 'Read more',
     showAll: 'All',
-    sortBy: 'Sort by',
-    filter: 'Filter',
-    download: 'Download',
-    date: 'Date',
-    noData: 'No data',
-    onlineReception: 'Online Reception',
-    submitComplaint: 'Submit Complaint',
+    payouts: 'Payouts',
+    check: 'Check',
+    search: 'Search',
+    noResults: 'Nothing found. Try changing your query.',
   },
   org: {
-    fullName: 'Agency of the Republic of Kazakhstan for Regulation and Development of Financial Markets',
-    shortName: 'ARDFM',
+    fullName: 'PayGuard — Financial Transaction Verification Service',
+    shortName: 'PayGuard',
   },
 }
 

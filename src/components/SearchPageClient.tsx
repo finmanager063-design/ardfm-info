@@ -160,14 +160,14 @@ export function SearchPageClient() {
 
   return (
     <>
-      <div className="rz-search-intent-tabs" role="tablist" aria-label="Тип поиска">
+      <div className="pg-search-intent-tabs" role="tablist" aria-label="Тип поиска">
         {INTENTS.map((tab) => (
           <button
             key={tab.id}
             type="button"
             role="tab"
             aria-selected={intent === tab.id}
-            className={`rz-search-intent-tab ${intent === tab.id ? "active" : ""}`}
+            className={`pg-search-intent-tab ${intent === tab.id ? "active" : ""}`}
             onClick={() => setIntent(tab.id)}
           >
             {tab.label}

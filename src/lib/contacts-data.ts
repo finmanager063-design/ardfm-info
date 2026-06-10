@@ -1,88 +1,85 @@
-import { TELEGRAM_BOT } from "./contacts";
+import { SUPPORT_CHAT } from "./contacts";
 
 export const AGENCY_ADDRESS = {
-  city: "г. Астана",
-  street: "проспект Мәңгілік Ел, 20а",
-  zip: "010000",
-  country: "Республика Казахстан",
-  full: "010000, г. Астана, проспект Мәңгілік Ел, 20а",
-} as const;
+  country: "Казахстан",
+  city: "Алматы",
+  zip: "050000",
+  street: "ул. Жибек Жолы, 135",
+};
 
 export const AGENCY_SCHEDULE = {
-  reception: "понедельник — пятница, 09:00–18:30",
-  break: "обед 13:00–14:00",
-  online: "Telegram-бот — круглосуточно",
-} as const;
+  reception: "Пн–Пт, 09:00–18:00",
+  break: "13:00–14:00",
+  online: "Круглосуточно",
+};
 
 export const CONTACT_CHANNELS = [
   {
     id: "telegram",
     icon: "✈️",
     title: "Telegram-бот",
-    value: TELEGRAM_BOT.handle,
-    href: TELEGRAM_BOT.url,
+    href: SUPPORT_CHAT.url,
+    value: SUPPORT_CHAT.handle,
+    note: "Круглосуточная поддержка",
     primary: true,
-    note: "Основной канал обращений",
   },
   {
-    id: "web",
-    icon: "🌐",
-    title: "Официальный сайт",
-    value: "govkz.online",
-    href: "https://govkz.online/",
-    note: "Информационный ресурс Агентства",
+    id: "email",
+    icon: "📧",
+    title: "Электронная почта",
+    href: "mailto:support@payguard.kz",
+    value: "support@payguard.kz",
+    note: "Ответ в течение 24 часов",
   },
   {
-    id: "call",
+    id: "phone",
     icon: "📞",
-    title: "Единый контакт-центр",
-    value: "1414",
-    href: "tel:1414",
-    note: "Бесплатно по РК",
+    title: "Горячая линия",
+    href: "tel:+77000000000",
+    value: "+7 700 000 00 00",
+    note: "Пн–Пт, 09:00–18:00",
   },
 ] as const;
 
 export const CONTACT_SERVICES = [
   {
-    icon: "📋",
-    title: "Обращение гражданина",
-    text: "Заявления, жалобы, предложения по финансовому рынку",
-    href: TELEGRAM_BOT.url,
-  },
-  {
     icon: "🛡️",
-    title: "Защита прав потребителей",
-    text: "Споры с банками, страховщиками, МФО и брокерами",
-    href: TELEGRAM_BOT.url,
+    title: "Проверка реквизитов",
+    text: "Узнайте статус получателя перед переводом. Проверка по ИИН/БИН.",
+    href: "/client-payouts",
+    internal: true,
   },
   {
-    icon: "⚠️",
-    title: "Финансовое мошенничество",
-    text: "Сообщить о нелегальной деятельности и мошеннических схемах",
-    href: TELEGRAM_BOT.url,
+    icon: "🔍",
+    title: "Верификация сделки",
+    text: "Убедитесь в надёжности контрагента. Полный отчёт о платёжеспособности.",
+    href: SUPPORT_CHAT.url,
   },
   {
-    icon: "📄",
-    title: "Лицензирование",
-    text: "Вопросы по лицензиям и регулируемым видам деятельности",
-    href: TELEGRAM_BOT.url,
+    icon: "📋",
+    title: "Статус выплаты",
+    text: "Проверьте по номеру дела или ИИН статус выплаты средств.",
+    href: "/client-payouts",
+    internal: true,
   },
   {
-    icon: "❓",
-    title: "Частые вопросы",
-    text: "Ответы до обращения в Агентство",
-    href: "/about/faq",
-    internal: true as const,
+    icon: "💬",
+    title: "Консультация",
+    text: "Задайте вопрос о безопасности финансовой операции. Бесплатно.",
+    href: SUPPORT_CHAT.url,
   },
 ] as const;
 
 export const CONTACT_STEPS = [
-  { num: "1", title: "Откройте Telegram", text: "На телефоне или компьютере" },
-  { num: "2", title: "Запустите бота", text: TELEGRAM_BOT.handle },
-  { num: "3", title: "Выберите тему", text: "Следуйте меню бота" },
-  { num: "4", title: "Отправьте обращение", text: "Приложите документы при необходимости" },
+  { num: 1, title: "Напишите в бот", text: `Откройте ${SUPPORT_CHAT.handle} в Telegram и нажмите «Старт»` },
+  { num: 2, title: "Укажите данные", text: "Введите ИИН, БИН или номер дела для проверки" },
+  { num: 3, title: "Получите результат", text: "Мгновенный отчёт о статусе и реквизитах" },
+  { num: 4, title: "Безопасный перевод", text: "После подтверждения средств — инструкция по переводу" },
 ] as const;
 
-/** Карта: центр Астаны, район Есиль (Мәңгілік Ел). */
-export const MAP_EMBED =
-  "https://www.openstreetmap.org/export/embed.html?bbox=71.404%2C51.082%2C71.448%2C51.108&layer=mapnik&marker=51.095%2C71.426";
+export const MAP_EMBED = "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2905.8!2d76.9285!3d43.2365!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNDPCsDE0JzExLjQiTiA3NsKwNTUnNDIuNiJF!5e0!3m2!1sru!2skz!4v1";
+
+export const CONTACT_SOCIAL = [
+  { href: "https://t.me/payguard_kz", label: "Telegram-канал", icon: "✈️" },
+  { href: "https://instagram.com/payguard.kz", label: "Instagram", icon: "📸" },
+] as const;

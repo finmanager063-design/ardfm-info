@@ -99,7 +99,7 @@ export function VariantAClient({ news, meta }: { news: GovNews[]; meta: SiteCont
         <div className="premium-container flex items-center justify-between h-16">
           <Link href="/" className="flex items-center gap-3">
             <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ccircle cx='50' cy='50' r='48' fill='%23D4AF37'/%3E%3Ccircle cx='50' cy='50' r='44' fill='%23001F4D'/%3E%3Ccircle cx='50' cy='50' r='38' fill='%23D4AF37'/%3E%3Cpath d='M50 20 L58 38 L78 38 L62 50 L68 70 L50 58 L32 70 L38 50 L22 38 L42 38 Z' fill='%23001F4D'/%3E%3C/svg%3E" alt="" className="w-8 h-8" />
-            <span className="text-white/50 text-xs font-medium uppercase tracking-widest hidden sm:block">АРРФР</span>
+            <span className="text-white/50 text-xs font-medium uppercase tracking-widest hidden sm:block">PayGuard</span>
           </Link>
           <nav className="hidden md:flex items-center gap-1">
             {['Об Агентстве', 'Деятельность', 'Документы', 'Пресс-центр', 'Контакты'].map((item) => (
@@ -163,7 +163,7 @@ export function VariantAClient({ news, meta }: { news: GovNews[]; meta: SiteCont
                   <div className="w-64 h-64 rounded-full bg-premium-gold/10 border border-premium-gold/20 flex items-center justify-center">
                     <div className="text-center">
                       <div className="text-6xl mb-2">🏛️</div>
-                      <div className="text-premium-gold text-sm font-medium">АРРФР</div>
+                      <div className="text-premium-gold text-sm font-medium">PayGuard</div>
                     </div>
                   </div>
                 </div>
@@ -340,8 +340,7 @@ export function VariantAClient({ news, meta }: { news: GovNews[]; meta: SiteCont
             <div>
               <h4 className="text-white/80 font-semibold text-sm mb-3">Официальные ресурсы</h4>
               <ul className="space-y-2 text-sm">
-                <li><a href="https://www.gov.kz" target="_blank" rel="noreferrer" className="hover:text-premium-gold transition-colors">gov.kz</a></li>
-                <li><a href="https://www.akorda.kz" target="_blank" rel="noreferrer" className="hover:text-premium-gold transition-colors">akorda.kz</a></li>
+                <li><a href="https://t.me/payguard_support_bot" target="_blank" rel="noreferrer" className="hover:text-premium-gold transition-colors">Telegram Bot</a></li>
               </ul>
             </div>
             <div>
