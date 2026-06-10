@@ -34,7 +34,7 @@ export const metadata: Metadata = {
   manifest: `${basePath}/manifest.json`,
   icons: {
     icon: `${basePath}/favicon.ico`,
-    apple: `${basePath}/apple-touch-icon.png`,
+    apple: `${basePath}/apple-touch-icon.svg`,
   },
 };
 
@@ -76,7 +76,8 @@ export default function RootLayout({
   return (
     <html lang="ru" className="notranslate">
       <head>
-        <link rel="icon" href={`${basePath}/favicon.ico`} />
+        <link rel="icon" href={`${basePath}/favicon.ico`} sizes="any" />
+        <link rel="icon" href={`${basePath}/favicon.svg`} type="image/svg+xml" />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
         <link

@@ -1,6 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
-  <rect width="512" height="512" fill="#0f2a4f" rx="64"/>
-  <circle cx="256" cy="256" r="220" fill="#C9A84C"/>
-  <circle cx="256" cy="256" r="196" fill="#0f2a4f"/>
-  <path d="M256 120 L280 200 L360 200 L296 256 L316 340 L256 284 L196 340 L216 256 L152 200 L232 200 Z" fill="#C9A84C"/>
+  <defs>
+    <linearGradient id="pg-bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0a1628"/>
+      <stop offset="100%" stop-color="#132337"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" fill="url(#pg-bg)" rx="64"/>
+  <path d="M256 48 L428 132 L428 276 C428 380 350 452 256 488 C162 452 84 380 84 276 L84 132 Z" fill="#00C853" opacity="0.9"/>
+  <path d="M256 68 L400 146 L400 276 C400 368 330 432 256 464 C182 432 112 368 112 276 L112 146 Z" fill="#0a1628"/>
+  <text x="256" y="310" font-family="system-ui,-apple-system,sans-serif" font-size="170" font-weight="800" fill="#00C853" text-anchor="middle">PG</text>
 </svg>

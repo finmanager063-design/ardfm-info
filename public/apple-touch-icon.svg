@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180" width="180" height="180">
+  <defs>
+    <linearGradient id="pg-bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0a1628"/>
+      <stop offset="100%" stop-color="#132337"/>
+    </linearGradient>
+  </defs>
+  <rect width="180" height="180" fill="url(#pg-bg)" rx="32"/>
+  <path d="M90 18 L156 54 L156 104 C156 146 126 174 90 186 C54 174 24 146 24 104 L24 54 Z" fill="#00C853" opacity="0.9"/>
+  <path d="M90 28 L148 60 L148 104 C148 142 120 166 90 176 C60 166 32 142 32 104 L32 60 Z" fill="#0a1628"/>
+  <text x="90" y="114" font-family="system-ui,-apple-system,sans-serif" font-size="64" font-weight="800" fill="#00C853" text-anchor="middle">PG</text>
+</svg>

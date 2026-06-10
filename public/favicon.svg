@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+  <rect width="32" height="32" fill="#0a1628" rx="6"/>
+  <path d="M16 4 L27 10 L27 18 C27 25 22 29 16 31 C10 29 5 25 5 18 L5 10 Z" fill="#00C853" opacity="0.9"/>
+  <path d="M16 6 L25 11 L25 18 C25 24 20 27 16 29 C12 27 7 24 7 18 L7 11 Z" fill="#0a1628"/>
+  <text x="16" y="22" font-family="system-ui,sans-serif" font-size="14" font-weight="800" fill="#00C853" text-anchor="middle">PG</text>
+</svg>
