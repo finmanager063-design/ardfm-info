@@ -52,5 +52,7 @@ export function findPageByPath(pathname: string): GovPage | undefined {
 }
 
 export function findNewsById(id: string): GovNews | undefined {
-  return getContent().news.find((n) => String(n.id) === id);
+  const c = getContent();
+  return c.news.find((n) => String(n.id) === id)
+    || c.pressReleases.find((p) => String(p.id) === id);
 }

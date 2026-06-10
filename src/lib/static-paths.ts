@@ -30,7 +30,7 @@ export function collectStaticSlugs(content?: SiteContent): { slug: string[] }[] 
       if (!link || link === "") continue;
       addSlug(seen, link.split("/"));
     }
-    for (const n of content.news) {
+    for (const n of [...content.news, ...content.pressReleases]) {
       addSlug(seen, ["media", "news", "details", String(n.id)]);
     }
     for (const a of content.articles) {

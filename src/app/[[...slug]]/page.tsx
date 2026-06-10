@@ -9,7 +9,7 @@ import { HtmlContent } from "@/components/HtmlContent";
 import { collectStaticSlugs } from "@/lib/static-paths";
 import { getI18n, getLocaleFromPath } from "@/lib/i18n";
 import { findNewsById, findPageByPath, getContent } from "@/lib/content";
-import { formatDate } from "@/lib/format";
+import { formatDate, rewriteGovHtml } from "@/lib/format";
 
 type Props = { params: Promise<{ slug?: string[] }> };
 
@@ -89,7 +89,7 @@ export default async function DynamicPage({ params }: Props) {
         {item.short_description && (
           <p className="text-lg text-premium-text-secondary mb-6">{item.short_description}</p>
         )}
-        <HtmlContent html={item.body || ""} />
+        <HtmlContent html={rewriteGovHtml(item.body || "")} />
       </article>
     );
   }
@@ -114,7 +114,7 @@ export default async function DynamicPage({ params }: Props) {
         {item.publication_date && (
           <time className="text-sm text-premium-text-secondary block mb-4">{formatDate(item.publication_date)}</time>
         )}
-        <HtmlContent html={item.content || ""} />
+        <HtmlContent html={rewriteGovHtml(item.content || "")} />
       </article>
     );
   }
@@ -125,7 +125,7 @@ export default async function DynamicPage({ params }: Props) {
     return (
       <div className="premium-container py-10">
         <h1 className="text-3xl font-bold text-premium-navy-800 mb-6">{page.title}</h1>
-        <HtmlContent html={page.content || ""} />
+        <HtmlContent html={rewriteGovHtml(page.content || "")} />
       </div>
     );
   }
