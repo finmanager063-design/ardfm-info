@@ -4,11 +4,11 @@
 This version has breaking changes — APIs, conventions, and file structure may all differ from your training data. Read the relevant guide in `node_modules/next/dist/docs/` before writing any code. Heed deprecation notices.
 <!-- END:nextjs-agent-rules -->
 
-# Regylz — контекст для агентов
+# Ardfm Info — контекст для агентов
 
 ## Назначение
 
-Статический клон/информационный портал АРРФР (gov.kz/ardfm). Продакшен: **govkz.online** (корень сайта, `NEXT_PUBLIC_BASE_PATH` пустой). Запасной хост: `finmanager063-design.github.io/regylz`.
+Статический клон/информационный портал АРРФР (gov.kz/ardfm). Продакшен: **govkz.online** (корень сайта, `NEXT_PUBLIC_BASE_PATH` пустой). Запасной хост: `finmanager063-design.github.io/ardfm-info`.
 
 ## Архитектура
 
@@ -30,7 +30,7 @@ This version has breaking changes — APIs, conventions, and file structure may 
 
 1. При сомнениях: `npm run build` или `npm run build:pages`; для админки проверить `out/admin/index.html`.
 2. Push в `main` → GitHub Actions; дождаться `success` на run.
-3. Сервер `161.35.146.240` (`/opt/lichka-crm`) — **другой проект**; хеш там не обязан совпадать с regylz Pages.
+3. Сервер `161.35.146.240` (`/opt/lichka-crm`) — **другой проект**; хеш там не обязан совпадать с ardfm-info Pages.
 
 ## UX-правила (из истории проекта)
 

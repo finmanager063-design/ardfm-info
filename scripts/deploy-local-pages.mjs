@@ -36,7 +36,7 @@ if (!fs.existsSync(out)) {
 }
 
 const token = m[1].trim();
-const remote = `https://finmanager063-design:${token}@github.com/finmanager063-design/regylz.git`;
+const remote = `https://finmanager063-design:${token}@github.com/finmanager063-design/ardfm-info.git`;
 
 console.log("→ deploy out/ → ветка gh-pages");
 execSync("npx --yes gh-pages@6.3.0 -d out -b gh-pages -r " + JSON.stringify(remote), {

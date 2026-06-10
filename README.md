@@ -1,4 +1,4 @@
-# Regylz — портал АРРФР
+# Ardfm Info — портал АРРФР
 
 Статический сайт [Агентства Республики Казахстан по регулированию и развитию финансового рынка](https://www.gov.kz/memleket/entities/ardfm): контент с gov.kz, выплаты клиентам, мобильная вёрстка, i18n (ru/kk/en).
 
@@ -7,7 +7,7 @@
 | URL | Назначение |
 |-----|------------|
 | **https://govkz.online** | Основной домен (GitHub Pages + `public/CNAME`) |
-| https://finmanager063-design.github.io/regylz/ | Запасной URL GitHub Pages |
+| https://finmanager063-design.github.io/ardfm-info/ | Запасной URL GitHub Pages |
 
 Деплой: push в `main` → workflow [Deploy to GitHub Pages](.github/workflows/deploy-pages.yml).
 
@@ -55,7 +55,7 @@ npx serve out -p 3000
 NEXT_PUBLIC_SITE_URL=https://govkz.online NEXT_PUBLIC_BASE_PATH= npm run build:pages
 ```
 
-Для подкаталога GitHub Pages: `NEXT_PUBLIC_BASE_PATH=/regylz`.
+Для подкаталога GitHub Pages: `NEXT_PUBLIC_BASE_PATH=/ardfm-info`.
 
 ## Скрипты
 

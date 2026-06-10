@@ -1,6 +1,6 @@
 # Git: только finmanager063-design
 
-Репозиторий: **https://github.com/finmanager063-design/regylz**
+Репозиторий: **https://github.com/finmanager063-design/ardfm-info**
 
 ## Не использовать
 
@@ -23,7 +23,7 @@ git push origin main
 
 ```bash
 git remote -v
-# origin  https://github.com/finmanager063-design/regylz.git
+# origin  https://github.com/finmanager063-design/ardfm-info.git
 
 git config --local credential.https://github.com.username
 # finmanager063-design

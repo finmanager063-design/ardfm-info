@@ -3,7 +3,7 @@ import path from "path";
 
 const isGithubPages = process.env.GITHUB_PAGES === "true";
 const configuredBasePath = process.env.NEXT_PUBLIC_BASE_PATH;
-const basePath = isGithubPages ? (configuredBasePath ?? "/regylz") : "";
+const basePath = isGithubPages ? (configuredBasePath ?? "/ardfm-info") : "";
 const normalizedBasePath = basePath === "/" ? "" : basePath.replace(/\/$/, "");
 
 const nextConfig: NextConfig = {

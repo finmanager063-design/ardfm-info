@@ -9,8 +9,8 @@ import "./premium.css";
 const content = getContent();
 
 const siteUrl = process.env.NEXT_PUBLIC_SITE_URL
-  ?? (process.env.NEXT_PUBLIC_BASE_PATH === "/regylz"
-    ? "https://finmanager063-design.github.io/regylz"
+  ?? (process.env.NEXT_PUBLIC_BASE_PATH === "/ardfm-info"
+    ? "https://finmanager063-design.github.io/ardfm-info"
     : "http://localhost:3000");
 
 export const metadata: Metadata = {

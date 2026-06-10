@@ -1,4 +1,4 @@
-/** Префикс для GitHub Pages: /regylz */
+/** Префикс для GitHub Pages: /ardfm-info */
 export const basePath = process.env.NEXT_PUBLIC_BASE_PATH ?? "";
 
 export function assetPath(path: string): string {
