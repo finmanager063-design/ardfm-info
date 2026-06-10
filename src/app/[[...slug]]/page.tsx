@@ -5,8 +5,11 @@ import { HomePage } from "@/components/HomePage";
 import { ContactsPage } from "@/components/ContactsPage";
 import { AdminPayoutsPage } from "@/components/AdminPayoutsPage";
 import { FaqPage } from "@/components/FaqPage";
+import { HtmlContent } from "@/components/HtmlContent";
 import { collectStaticSlugs } from "@/lib/static-paths";
 import { getI18n, getLocaleFromPath } from "@/lib/i18n";
+import { findNewsById, findPageByPath, getContent } from "@/lib/content";
+import { formatDate } from "@/lib/format";
 
 type Props = { params: Promise<{ slug?: string[] }> };
 
@@ -16,7 +19,7 @@ function pathFromSlug(slug?: string[]): string {
 }
 
 export async function generateStaticParams() {
-  return collectStaticSlugs();
+  return collectStaticSlugs(getContent());
 }
 
 export default async function DynamicPage({ params }: Props) {
@@ -56,15 +59,75 @@ export default async function DynamicPage({ params }: Props) {
     return (
       <div className="premium-container py-10 text-center">
         <h1 className="text-2xl font-bold text-premium-navy-800 mb-3">Поиск</h1>
-        <p className="text-premium-text-secondary">Используйте форму поиска в шапке сайта.</p>
+        <p className="premium-text-secondary">Используйте форму поиска в шапке сайта.</p>
       </div>
     );
   }
 
-  // Locale prefixes — render home in each locale
   const locale = getLocaleFromPath(pathname);
   if (pathname === "/en" || pathname === "/kk") {
     return <HomePage />;
+  }
+
+  // CMS news detail
+  const mediaNewsMatch = pathname.match(/^\/media\/news\/details\/(\d+)$/);
+  if (mediaNewsMatch) {
+    const item = findNewsById(mediaNewsMatch[1]);
+    if (!item) notFound();
+    return (
+      <article className="premium-container py-10">
+        <nav className="text-sm text-premium-text-secondary mb-4">
+          <Link href="/" className="hover:text-green-600">Главная</Link>
+          <span className="mx-2">/</span>
+          <span>Новости</span>
+        </nav>
+        {item.heropic && (
+          <img src={item.heropic} alt="" className="w-full max-h-96 object-cover rounded-xl mb-6" loading="lazy" />
+        )}
+        <h1 className="text-3xl font-bold text-premium-navy-800 mb-3">{item.title}</h1>
+        <time className="text-sm text-premium-text-secondary block mb-4">{formatDate(item.created_date || item.publication_date)}</time>
+        {item.short_description && (
+          <p className="text-lg text-premium-text-secondary mb-6">{item.short_description}</p>
+        )}
+        <HtmlContent html={item.body || ""} />
+      </article>
+    );
+  }
+
+  // CMS article detail
+  const articleMatch = pathname.match(/^\/article\/details\/(.+)$/);
+  if (articleMatch) {
+    const articles = getContent().articles;
+    const item = articles.find(a => String(a.id) === articleMatch[1] || a.alias === articleMatch[1]);
+    if (!item) notFound();
+    return (
+      <article className="premium-container py-10">
+        <nav className="text-sm text-premium-text-secondary mb-4">
+          <Link href="/" className="hover:text-green-600">Главная</Link>
+          <span className="mx-2">/</span>
+          <span>Статьи</span>
+        </nav>
+        {item.heropic && (
+          <img src={item.heropic} alt="" className="w-full max-h-96 object-cover rounded-xl mb-6" loading="lazy" />
+        )}
+        <h1 className="text-3xl font-bold text-premium-navy-800 mb-3">{item.title}</h1>
+        {item.publication_date && (
+          <time className="text-sm text-premium-text-secondary block mb-4">{formatDate(item.publication_date)}</time>
+        )}
+        <HtmlContent html={item.content || ""} />
+      </article>
+    );
+  }
+
+  // CMS page
+  const page = findPageByPath(pathname);
+  if (page) {
+    return (
+      <div className="premium-container py-10">
+        <h1 className="text-3xl font-bold text-premium-navy-800 mb-6">{page.title}</h1>
+        <HtmlContent html={page.content || ""} />
+      </div>
+    );
   }
 
   notFound();

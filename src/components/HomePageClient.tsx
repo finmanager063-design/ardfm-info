@@ -60,7 +60,26 @@ const features = [
   { icon: '🎯', title: 'Точно', desc: 'Актуальные данные из официальных источников' },
 ]
 
-export function HomePageClient() {
+type GovNewsItem = {
+  id?: string | number
+  title: string
+  short_description?: string | null
+  body?: string | null
+  heropic?: string
+  created_date?: string
+  publication_date?: string
+}
+
+type ArticleItem = {
+  id?: string | number
+  alias?: string
+  title: string
+  content?: string
+  heropic?: string
+  publication_date?: string
+}
+
+export function HomePageClient({ news, articles }: { news?: GovNewsItem[]; articles?: ArticleItem[] }) {
   const { scrollYProgress } = useScroll()
   const heroOpacity = useTransform(scrollYProgress, [0, 0.15], [1, 0])
   const heroScale = useTransform(scrollYProgress, [0, 0.15], [1, 0.98])
@@ -202,6 +221,82 @@ export function HomePageClient() {
           </motion.div>
         </div>
       </section>
+
+      {/* News */}
+      {news && news.length > 0 && (
+        <section className="premium-section bg-premium-surface">
+          <div className="premium-container">
+            <motion.div initial={{ opacity: 0, y: 20 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true }} className="text-center mb-10">
+              <h2 className="text-2xl sm:text-3xl font-bold text-premium-navy-800 mb-2">Новости и пресс-релизы</h2>
+              <p className="text-premium-text-secondary text-sm">Актуальная информация</p>
+            </motion.div>
+            <motion.div initial="hidden" whileInView="visible" viewport={{ once: true }} variants={stagger} className="grid sm:grid-cols-2 lg:grid-cols-3 gap-5">
+              {news.map((item, i) => {
+                const img = item.heropic
+                const date = formatDate(item.created_date || item.publication_date || '')
+                return (
+                  <motion.a
+                    key={String(item.id ?? i)}
+                    href={item.id ? `/media/news/details/${item.id}` : '#'}
+                    variants={fadeUp} custom={i}
+                    className="premium-card overflow-hidden group cursor-pointer"
+                  >
+                    {img && (
+                      <div className="aspect-[16/9] overflow-hidden bg-premium-navy-50">
+                        <img src={img} alt="" className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700" loading="lazy" />
+                      </div>
+                    )}
+                    <div className="p-4">
+                      {date && <time className="text-xs text-premium-text-secondary">{date}</time>}
+                      <h3 className="font-semibold text-premium-navy-800 text-sm mt-1 group-hover:text-green-600 transition-colors line-clamp-2">{item.title}</h3>
+                      {item.short_description && (
+                        <p className="text-xs text-premium-text-secondary mt-1 line-clamp-2">{item.short_description}</p>
+                      )}
+                    </div>
+                  </motion.a>
+                )
+              })}
+            </motion.div>
+            {news.length >= 6 && (
+              <div className="text-center mt-8">
+                <Link href="/" className="text-green-600 text-sm font-medium hover:underline">Все материалы →</Link>
+              </div>
+            )}
+          </div>
+        </section>
+      )}
+
+      {/* Articles */}
+      {articles && articles.length > 0 && (
+        <section className="premium-section bg-white">
+          <div className="premium-container">
+            <motion.div initial={{ opacity: 0, y: 20 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true }} className="text-center mb-8">
+              <h2 className="text-2xl sm:text-3xl font-bold text-premium-navy-800 mb-2">Статьи и материалы</h2>
+              <p className="text-premium-text-secondary text-sm">Полезная информация о финансовой безопасности</p>
+            </motion.div>
+            <motion.div initial="hidden" whileInView="visible" viewport={{ once: true }} variants={stagger} className="grid sm:grid-cols-2 lg:grid-cols-3 gap-5">
+              {articles.map((item, i) => {
+                const img = item.heropic
+                const date = formatDate(item.publication_date || '')
+                const href = item.alias ? `/article/details/${item.alias}` : item.id ? `/article/details/${item.id}` : '#'
+                return (
+                  <motion.a key={String(item.id ?? i)} href={href} variants={fadeUp} custom={i} className="premium-card overflow-hidden group cursor-pointer">
+                    {img && (
+                      <div className="aspect-[16/9] overflow-hidden bg-premium-navy-50">
+                        <img src={img} alt="" className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700" loading="lazy" />
+                      </div>
+                    )}
+                    <div className="p-4">
+                      {date && <time className="text-xs text-premium-text-secondary">{date}</time>}
+                      <h3 className="font-semibold text-premium-navy-800 text-sm mt-1 group-hover:text-green-600 transition-colors line-clamp-2">{item.title}</h3>
+                    </div>
+                  </motion.a>
+                )
+              })}
+            </motion.div>
+          </div>
+        </section>
+      )}
 
       {/* Guarantee */}
       <section className="relative overflow-hidden bg-premium-navy-900 py-14 sm:py-20">

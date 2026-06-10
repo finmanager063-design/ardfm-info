@@ -15,8 +15,9 @@ export interface GovNews {
   title: string;
   slug?: string;
   created_date?: string;
-  short_description?: string;
-  body?: string;
+  publication_date?: string;
+  short_description?: string | null;
+  body?: string | null;
   heropic?: string;
   type?: unknown;
   publication_type?: unknown;

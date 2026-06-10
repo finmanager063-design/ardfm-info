@@ -1,5 +1,5 @@
 import { assetPath } from "./base-path";
-import { govMediaUrl, localMediaUrl } from "./format";
+import { localMediaUrl } from "./format";
 
 /** Лёгкая заглушка для изображений. */
 export const IMAGE_PLACEHOLDER =
