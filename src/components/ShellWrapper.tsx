@@ -13,7 +13,7 @@ export function ShellWrapper({
 }) {
   const pathname = usePathname();
 
-  if (pathname.startsWith("/premium")) {
+  if (pathname.startsWith("/premium") || pathname.startsWith("/admin")) {
     return <>{children}</>;
   }
 
