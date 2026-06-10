@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-/** После export: убедиться, что uploads и styles доступны на GitHub Pages. */
+/** После export: .nojekyll, uploads, styles для GitHub Pages. */
 import fs from "fs";
 import path from "path";
 import { fileURLToPath } from "url";
@@ -23,4 +23,10 @@ const stylesDst = path.join(OUT, "styles");
 if (fs.existsSync(stylesSrc)) {
   fs.cpSync(stylesSrc, stylesDst, { recursive: true });
   console.log("postbuild: copied public/styles → out/styles");
+}
+
+const nojekyll = path.join(OUT, ".nojekyll");
+if (!fs.existsSync(nojekyll)) {
+  fs.writeFileSync(nojekyll, "");
+  console.log("postbuild: created out/.nojekyll");
 }
