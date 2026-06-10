@@ -1,5 +1,5 @@
 1:"$Sreact.fragment"
-2:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/0ti0l2v~ply~a.js"],"GovHtmlContent"]
+2:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/09q~tc1_d6h74.js"],"GovHtmlContent"]
 4:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
 3:T7e9,<!DOCTYPE html>
@@ -12,5 +12,5 @@
 <p>Принятие проекта постановления направлено на повышение устойчивости микрофинансовых организаций, усиление корпоративного управления и минимизацию рисков, связанных с их деятельностью.</p>
 <p>С полным текстом проекта постановления можно ознакомиться на интернет-портале &laquo;Открытые НПА&raquo; и на официальном <a href="https://www.gov.kz/memleket/entities/ardfm/documents/details/956688?lang=ru">интернет-ресурсе Агентства.</a></p>
 </body>
-</html>0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","h1",null,{"className":"page-title","children":"О проекте нормативного правового акта Агентства по вопросу деятельности микрофинансовых организаций"}],["$","time",null,{"children":"21 января 2026 г."}],["$","$L2",null,{"html":"$3"}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/0ti0l2v~ply~a.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"4NHfUZ1wJugrbuOM5u-iJ"}
+</html>0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","h1",null,{"className":"page-title","children":"О проекте нормативного правового акта Агентства по вопросу деятельности микрофинансовых организаций"}],["$","time",null,{"children":"21 января 2026 г."}],["$","$L2",null,{"html":"$3"}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/09q~tc1_d6h74.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"cvoHkQGzPyB1XUzFvVDVL"}
 6:null

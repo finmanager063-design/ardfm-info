@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
-2:I[22016,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/0ti0l2v~ply~a.js"],""]
-3:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/0ti0l2v~ply~a.js"],"GovHtmlContent"]
+2:I[22016,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/09q~tc1_d6h74.js"],""]
+3:I[13720,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js","/_next/static/chunks/0qh5t2ukavcl-.js","/_next/static/chunks/0wxc~v~ry3ho7.js","/_next/static/chunks/09q~tc1_d6h74.js"],"GovHtmlContent"]
 9:I[97367,["/_next/static/chunks/0w5bf6qo2zbxc.js","/_next/static/chunks/0_t29vi~hh.tn.js"],"OutletBoundary"]
 a:"$Sreact.suspense"
 4:T4091,<!DOCTYPE html>
@@ -103,9 +103,9 @@ a:"$Sreact.suspense"
 <li>В целях организации возобновления доступа клиентов банк предоставляет в уполномоченный орган по защищенным каналам связи перечень актуальных уникальных числовых идентификаторов (IP-адресов) критичных информационных активов, находящихся как в основном, так и в резервном центре. В случае изменения уникальных числовых идентификаторов (IP-адресов) критичных информационных активов, находящихся как в основном, так и в резервном центре, банк информирует уполномоченный орган по защищенным каналам связи.</li>
 </ol>
 </body>
-</html>0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","nav",null,{"className":"breadcrumb","children":[["$","$L2",null,{"href":"/documents/1","children":"Документы"}]," / ","Об утверждении Требований к непрерывност","…"]}],["$","h1",null,{"className":"page-title","children":"Об утверждении Требований к непрерывности работы информационно-коммуникационной инфраструктуры банков, филиалов банков-нерезидентов Республики Казахстан и организаций, осуществляющих отдельные виды банковских операций"}],["$","time",null,{"children":"14 апреля 2026 г."}],["$","$L3",null,{"html":"$4"}]]}],["$L5","$L6","$L7"],"$L8"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"4NHfUZ1wJugrbuOM5u-iJ"}
+</html>0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","nav",null,{"className":"breadcrumb","children":[["$","$L2",null,{"href":"/documents/1","children":"Документы"}]," / ","Об утверждении Требований к непрерывност","…"]}],["$","h1",null,{"className":"page-title","children":"Об утверждении Требований к непрерывности работы информационно-коммуникационной инфраструктуры банков, филиалов банков-нерезидентов Республики Казахстан и организаций, осуществляющих отдельные виды банковских операций"}],["$","time",null,{"children":"14 апреля 2026 г."}],["$","$L3",null,{"html":"$4"}]]}],["$L5","$L6","$L7"],"$L8"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"cvoHkQGzPyB1XUzFvVDVL"}
 5:["$","script","script-0",{"src":"/_next/static/chunks/0qh5t2ukavcl-.js","async":true}]
 6:["$","script","script-1",{"src":"/_next/static/chunks/0wxc~v~ry3ho7.js","async":true}]
-7:["$","script","script-2",{"src":"/_next/static/chunks/0ti0l2v~ply~a.js","async":true}]
+7:["$","script","script-2",{"src":"/_next/static/chunks/09q~tc1_d6h74.js","async":true}]
 8:["$","$L9",null,{"children":["$","$a",null,{"name":"Next.MetadataOutlet","children":"$@b"}]}]
 b:null
