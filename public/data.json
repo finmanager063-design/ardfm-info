@@ -1,7 +1,60 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-05T13:04:35.070Z",
+  "updatedAt": "2026-06-10T13:57:06.358Z",
   "clients": [
+    {
+      "comments": [],
+      "history": [
+        {
+          "id": "mpz690bzqq44d",
+          "field": "status",
+          "oldValue": "В работе",
+          "newValue": "На проверке",
+          "author": "Администратор",
+          "createdAt": "2026-06-04T07:26:22.703Z"
+        },
+        {
+          "id": "mq0uxsluhpug5",
+          "field": "status",
+          "oldValue": "На проверке",
+          "newValue": "Проверка документов",
+          "author": "Администратор",
+          "createdAt": "2026-06-05T11:45:16.050Z"
+        },
+        {
+          "id": "mq0xrrowg89mc",
+          "field": "status",
+          "oldValue": "Проверка документов",
+          "newValue": "Принято в работу",
+          "author": "Администратор",
+          "createdAt": "2026-06-05T13:04:33.776Z"
+        },
+        {
+          "id": "mq84u9nh0uszj",
+          "field": "status",
+          "oldValue": "Принято в работу",
+          "newValue": "Направлено в организацию",
+          "author": "Администратор",
+          "createdAt": "2026-06-10T13:56:50.909Z"
+        }
+      ],
+      "type": "fraud",
+      "createdAt": "2026-06-03T12:00:00.000Z",
+      "updatedAt": "2026-06-10T13:56:50.909Z",
+      "iin": "",
+      "internalNote": " средства в размере 6 626 655 ₸ (эквивалент ~14 726 USD) от Deutsche Bank AG, Frankfurt am Main",
+      "id": "fca0514",
+      "caseNumber": "FCA-2026-0514",
+      "clientName": "Шакирбековна Гульмира",
+      "email": "gulmira.nurmanova777@gmail.com",
+      "phone": "+7 778 219 10 76",
+      "amount": 6626655,
+      "payoutAmount": 6626655,
+      "paidAmount": 6626655,
+      "bank": "Народный банк",
+      "status": "Направлено в организацию",
+      "regulatorNote": "Cредства в размере 6 626 655 ₸ (эквивалент ~14 726 USD) от Deutsche Bank AG, Frankfurt am Main поступили на транзитный счёт Национального банка РК"
+    },
     {
       "comments": [],
       "history": [
@@ -30,51 +83,6 @@
       "bank": "Freedom Bank Kazakhstan",
       "status": "Экспертиза",
       "regulatorNote": "Средства размещены на депозитном счёте сроком на 5 лет. Для досрочного снятия необходимо подтверждение оплаты комиссии за расторжение депозита ранее установленного срока — 165 000 ₸.\n\nСрок предоставления подтверждения — до 10.06.2026, 18:00. В случае непредоставления — дело будет закрыто."
-    },
-    {
-      "comments": [],
-      "history": [
-        {
-          "id": "mpz690bzqq44d",
-          "field": "status",
-          "oldValue": "В работе",
-          "newValue": "На проверке",
-          "author": "Администратор",
-          "createdAt": "2026-06-04T07:26:22.703Z"
-        },
-        {
-          "id": "mq0uxsluhpug5",
-          "field": "status",
-          "oldValue": "На проверке",
-          "newValue": "Проверка документов",
-          "author": "Администратор",
-          "createdAt": "2026-06-05T11:45:16.050Z"
-        },
-        {
-          "id": "mq0xrrowg89mc",
-          "field": "status",
-          "oldValue": "Проверка документов",
-          "newValue": "Принято в работу",
-          "author": "Администратор",
-          "createdAt": "2026-06-05T13:04:33.776Z"
-        }
-      ],
-      "type": "fraud",
-      "createdAt": "2026-06-03T12:00:00.000Z",
-      "updatedAt": "2026-06-05T13:04:33.776Z",
-      "iin": "",
-      "internalNote": "",
-      "id": "fca0514",
-      "caseNumber": "FCA-2026-0514",
-      "clientName": "Шакирбековна Гульмира",
-      "email": "gulmira.nurmanova777@gmail.com",
-      "phone": "+7 778 219 10 76",
-      "amount": 6626655,
-      "payoutAmount": 6626655,
-      "paidAmount": 0,
-      "bank": "Народный банк",
-      "status": "Принято в работу",
-      "regulatorNote": "Заявка принята в обработку. Документы проверены. Ожидайте уведомления о готовности выплаты."
     },
     {
       "comments": [],
