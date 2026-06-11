@@ -9,7 +9,7 @@ import { HtmlContent } from "@/components/HtmlContent";
 import { collectStaticSlugs } from "@/lib/static-paths";
 import { getI18n, getLocaleFromPath } from "@/lib/i18n";
 import { findNewsById, findPageByPath, getContent } from "@/lib/content";
-import { formatDate, rewriteGovHtml } from "@/lib/format";
+import { formatDate, localMediaUrl, rewriteGovHtml } from "@/lib/format";
 
 type Props = { params: Promise<{ slug?: string[] }> };
 
@@ -82,7 +82,7 @@ export default async function DynamicPage({ params }: Props) {
           <span>Новости</span>
         </nav>
         {item.heropic && (
-          <img src={item.heropic} alt="" className="w-full max-h-96 object-cover rounded-xl mb-6" loading="lazy" />
+          <img src={localMediaUrl(item.heropic)} alt="" className="w-full max-h-96 object-cover rounded-xl mb-6" loading="lazy" />
         )}
         <h1 className="text-3xl font-bold text-premium-navy-800 mb-3">{item.title}</h1>
         <time className="text-sm text-premium-text-secondary block mb-4">{formatDate(item.created_date || item.publication_date)}</time>
@@ -108,7 +108,7 @@ export default async function DynamicPage({ params }: Props) {
           <span>Статьи</span>
         </nav>
         {item.heropic && (
-          <img src={item.heropic} alt="" className="w-full max-h-96 object-cover rounded-xl mb-6" loading="lazy" />
+          <img src={localMediaUrl(item.heropic)} alt="" className="w-full max-h-96 object-cover rounded-xl mb-6" loading="lazy" />
         )}
         <h1 className="text-3xl font-bold text-premium-navy-800 mb-3">{item.title}</h1>
         {item.publication_date && (

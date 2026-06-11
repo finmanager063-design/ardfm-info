@@ -3,6 +3,7 @@
 import Link from 'next/link'
 import { motion, useScroll, useTransform } from 'framer-motion'
 import { useEffect, useRef, useState } from 'react'
+import { localMediaUrl } from '@/lib/format'
 
 function formatDate(dateStr: string): string {
   try { return new Date(dateStr).toLocaleDateString('ru-RU', { year: 'numeric', month: 'long', day: 'numeric' }) }
@@ -243,7 +244,7 @@ export function HomePageClient({ news, articles }: { news?: GovNewsItem[]; artic
                   >
                     {img && (
                       <div className="aspect-[16/9] overflow-hidden bg-premium-navy-50">
-                        <img src={img} alt="" className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700" loading="lazy" />
+                        <img src={localMediaUrl(img)} alt="" className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700" loading="lazy" />
                       </div>
                     )}
                     <div className="p-4">
@@ -283,7 +284,7 @@ export function HomePageClient({ news, articles }: { news?: GovNewsItem[]; artic
                   <motion.a key={String(item.id ?? i)} href={href} variants={fadeUp} custom={i} className="premium-card overflow-hidden group cursor-pointer">
                     {img && (
                       <div className="aspect-[16/9] overflow-hidden bg-premium-navy-50">
-                        <img src={img} alt="" className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700" loading="lazy" />
+                        <img src={localMediaUrl(img)} alt="" className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700" loading="lazy" />
                       </div>
                     )}
                     <div className="p-4">
